@@ -1,0 +1,311 @@
+{
+  "name": "Ekspres restoran Vidović",
+  "rating": null,
+  "count": null,
+  "service_fee": 1.9,
+  "menu": {
+    "Topla predjela": [
+      {
+        "name": "Omlet sa šunkom",
+        "desc": "Omlet sa šunkom",
+        "price": 5.0
+      },
+      {
+        "name": "Omlet sa sirom",
+        "desc": "Omlet sa sirom",
+        "price": 5.0
+      },
+      {
+        "name": "Jaje pečeno",
+        "desc": "Jaje pečeno",
+        "price": 2.0
+      }
+    ],
+    "Supe i čorbe": [
+      {
+        "name": "Gulaš čorba",
+        "desc": "Gulaš čorba",
+        "price": 6.0
+      },
+      {
+        "name": "Teleća čorba",
+        "desc": "Teleća čorba",
+        "price": 6.0
+      },
+      {
+        "name": "Mađarska čorba",
+        "desc": "Mađarska čorba",
+        "price": 4.5
+      },
+      {
+        "name": "Goveđa supa",
+        "desc": "Goveđa supa",
+        "price": 4.0
+      },
+      {
+        "name": "Pileća supa",
+        "desc": "Pileća supa",
+        "price": 4.0
+      }
+    ],
+    "Jela od piletine": [
+      {
+        "name": "Punjeni pileći file",
+        "desc": "Punjeni pileći file",
+        "price": 8.0
+      },
+      {
+        "name": "Piletina na Bečki način",
+        "desc": "Piletina na Bečki način",
+        "price": 6.5
+      },
+      {
+        "name": "Pileće krpice",
+        "desc": "Pileće krpice",
+        "price": 6.5
+      },
+      {
+        "name": "Natur pileći file",
+        "desc": "Natur pileći file",
+        "price": 6.5
+      }
+    ],
+    "Gotova jela": [
+      {
+        "name": "Mišići u krem sosu",
+        "desc": "Mišići u krem sosu",
+        "price": 10.0
+      },
+      {
+        "name": "Gulaš",
+        "desc": "Gulaš",
+        "price": 8.0
+      },
+      {
+        "name": "Rolovani ražnjići",
+        "desc": "Rolovani ražnjići",
+        "price": 7.0
+      },
+      {
+        "name": "Sarma",
+        "desc": "Sarma",
+        "price": 6.0
+      },
+      {
+        "name": "Pasulj",
+        "desc": "Pasulj",
+        "price": 5.0
+      },
+      {
+        "name": "Pohovani sir",
+        "desc": "Pohovani sir",
+        "price": 5.0
+      },
+      {
+        "name": "Roštiljska kobasica",
+        "desc": "Roštiljska kobasica",
+        "price": 5.0
+      },
+      {
+        "name": "Kranjska kobasica",
+        "desc": "Kranjska kobasica",
+        "price": 2.8
+      }
+    ],
+    "Pizze": [
+      {
+        "name": "Pizza Chef",
+        "desc": "Pizza Chef",
+        "price": 15.2
+      },
+      {
+        "name": "Pizza Picante",
+        "desc": "Sos od paradajza, sir, šunka, špek, ljuti feferon",
+        "price": 12.99
+      },
+      {
+        "name": "Pizza Quattro Formaggi",
+        "desc": "Sos od paradajza, 4 vrste sira",
+        "price": 12.9
+      },
+      {
+        "name": "Pizza Prosciutto",
+        "desc": "Sos od paradajza, sir, pršut",
+        "price": 12.9
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Sos od paradajza, sir, šunka, gljive",
+        "price": 9.2
+      },
+      {
+        "name": "Pizza Mamma Mia",
+        "desc": "Pizza Mamma Mia",
+        "price": 9.2
+      },
+      {
+        "name": "Pizza Al Tonno",
+        "desc": "Sos od paradajza, sir, tuna, luk",
+        "price": 8.2
+      },
+      {
+        "name": "Pizza Margherita",
+        "desc": "Sos od paradajza, sir",
+        "price": 7.9
+      },
+      {
+        "name": "Pizza Vegetariana",
+        "desc": "Sos od paradajza, sir, povrće",
+        "price": 7.9
+      },
+      {
+        "name": "Pizza Marimara",
+        "desc": "Pizza Marimara",
+        "price": 6.6
+      }
+    ],
+    "Ribe": [
+      {
+        "name": "Panirani filet oslića",
+        "desc": "Panirani filet oslića",
+        "price": 7.0
+      },
+      {
+        "name": "Panirani filet ribe Apo",
+        "desc": "Panirani filet ribe Apo",
+        "price": 7.0
+      }
+    ],
+    "Peciva": [
+      {
+        "name": "Pohovani palačinak",
+        "desc": "Pohovani palačinak",
+        "price": 2.8
+      },
+      {
+        "name": "Proja",
+        "desc": "Komad",
+        "price": 1.2
+      },
+      {
+        "name": "Hljeb",
+        "desc": "Hljeb",
+        "price": 0.3
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Cvekla",
+        "desc": "Cvekla",
+        "price": 3.2
+      },
+      {
+        "name": "Šarena salata",
+        "desc": "Šarena salata",
+        "price": 3.0
+      },
+      {
+        "name": "Krastavac svježi",
+        "desc": "Krastavac svježi",
+        "price": 2.6
+      },
+      {
+        "name": "Paradajz salata",
+        "desc": "Paradajz salata",
+        "price": 2.6
+      },
+      {
+        "name": "Kupus salata",
+        "desc": "Kupus salata",
+        "price": 2.4
+      },
+      {
+        "name": "Kiseli krastavac",
+        "desc": "Kiseli krastavac",
+        "price": 2.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Šampinjoni sa žara",
+        "desc": "Šampinjoni sa žara",
+        "price": 4.4
+      },
+      {
+        "name": "Špinat",
+        "desc": "Špinat",
+        "price": 4.2
+      },
+      {
+        "name": "Grašak",
+        "desc": "Grašak",
+        "price": 3.6
+      },
+      {
+        "name": "Pomfrit",
+        "desc": "Pomfrit",
+        "price": 3.6
+      },
+      {
+        "name": "Dalmatinska garnitura",
+        "desc": "Dalmatinska garnitura",
+        "price": 3.6
+      },
+      {
+        "name": "Pekarski krompir",
+        "desc": "Pekarski krompir",
+        "price": 3.6
+      },
+      {
+        "name": "Podvarak",
+        "desc": "Podvarak",
+        "price": 3.6
+      },
+      {
+        "name": "Boranija",
+        "desc": "Boranija",
+        "price": 3.6
+      },
+      {
+        "name": "Đuveč riža",
+        "desc": "Đuveč riža",
+        "price": 3.6
+      },
+      {
+        "name": "Riža",
+        "desc": "Riža",
+        "price": 3.6
+      },
+      {
+        "name": "Pire krompir",
+        "desc": "Pire krompir",
+        "price": 3.4
+      },
+      {
+        "name": "Kriška krompir",
+        "desc": "Kriška krompir",
+        "price": 3.2
+      },
+      {
+        "name": "Makaroni",
+        "desc": "Makaroni",
+        "price": 3.0
+      },
+      {
+        "name": "Senf",
+        "desc": "Senf",
+        "price": 1.0
+      },
+      {
+        "name": "Majoneza",
+        "desc": "Majoneza",
+        "price": 1.0
+      },
+      {
+        "name": "Ketchup",
+        "desc": "Ketchup",
+        "price": 1.0
+      }
+    ]
+  }
+}

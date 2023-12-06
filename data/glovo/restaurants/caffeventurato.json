@@ -1,0 +1,168 @@
+{
+  "name": "Caffe Venturato",
+  "rating": 1.0,
+  "count": 39,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Lasagne Al Forno",
+        "desc": "Domaća tjestenina, juneće meso, povrće, pelat, bešamel sos",
+        "price": 11.6
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Sos od paradajza, sir, šunka, gljive",
+        "price": 11.5
+      },
+      {
+        "name": "Pasta Venturata",
+        "desc": "Domaća tjestenina, pileće meso, suhi vrat, grana Padano, sušeni paradajz\nu maslinovom ulju, masline",
+        "price": 11.5
+      }
+    ],
+    "Doručak do 13h": [
+      {
+        "name": "Jaja na oko",
+        "desc": "3 jaja, kulen, sir, slanina, suhi vrat, povrće i pecivo",
+        "price": 8.5
+      },
+      {
+        "name": "Omlet",
+        "desc": "Sir, šunka, povrće, pecivo",
+        "price": 8.5
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Pizza Venturato",
+        "desc": "Edamer, Gauda, Mozzarella, Gorgonzola, pršut, Granna Padano, cherry paradajz, rukola, šampinjoni, pelat",
+        "price": 14.5
+      },
+      {
+        "name": "Pizza Vesuvio",
+        "desc": "Sir Edamer, Gauda, kulen, panceta i pelat",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Quattro Formaggi",
+        "desc": "4 vrste sira, Edamer, Gauda, Gorgonzola, Mozzarella",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Sos od paradajza, sir, šunka, gljive",
+        "price": 11.5
+      },
+      {
+        "name": "Pizza Vegeterijana",
+        "desc": "Sos od paradajza, sir, povrće",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Vegeterijana - posno",
+        "desc": "Sos od paradajza, sir, povrće, posno",
+        "price": 9.5
+      },
+      {
+        "name": "Pizza Margarita",
+        "desc": "Pelat, Edamer, Gauda, bosiljak",
+        "price": 8.5
+      }
+    ],
+    "Sendvič": [
+      {
+        "name": "Pizza sendvič",
+        "desc": "Tijesto za pizzu, Edamer Gauda, pelat, šunka, šampinjoni",
+        "price": 6.5
+      }
+    ],
+    "Pasta": [
+      {
+        "name": "Pasta Venturata",
+        "desc": "Domaća tjestenina, pileće meso, suhi vrat, grana Padano, sušeni paradajz\nu maslinovom ulju, masline",
+        "price": 11.5
+      },
+      {
+        "name": "Quattro Formaggi",
+        "desc": "4 vrste sira, edamer , gauda, gorgonzola, mozzarella",
+        "price": 11.0
+      },
+      {
+        "name": "Pasta Napoli Aglio olio - posno",
+        "desc": "Domaća tjestenina, povrće. Posno",
+        "price": 10.5
+      },
+      {
+        "name": "Pasta Napoli - posno",
+        "desc": "Domaća tjestenina, cherry paradajz, pelat, maslinovo ulje. Posno",
+        "price": 6.5
+      },
+      {
+        "name": "Pasta Napoli",
+        "desc": "Domaća tjestenina, šeri paradajz, pelat, maslinovo ulje, grana Padano",
+        "price": 6.5
+      }
+    ],
+    "Jela od mesa": [
+      {
+        "name": "Svinjski file",
+        "desc": "Svinjski file, krompir pire, povrće, šampinjon sos",
+        "price": 18.0
+      },
+      {
+        "name": "Piletina u kornflesku",
+        "desc": "Piletina, kornfleks",
+        "price": 13.0
+      }
+    ],
+    "Lasagne": [
+      {
+        "name": "Lasagne Al Forno",
+        "desc": "Domaća tjestenina, juneće meso, povrće, pelat, bešamel sos",
+        "price": 11.6
+      },
+      {
+        "name": "Lasagne vege - posne",
+        "desc": "Domaća tjestenina bez jaja, sezonsko povrće, biljni sir",
+        "price": 10.0
+      },
+      {
+        "name": "Lasagne vege",
+        "desc": "Domaća tjestenina, Edamer sir, Gauda sir, sezonsko povrće, grana Padano",
+        "price": 10.0
+      }
+    ],
+    "Salata": [
+      {
+        "name": "Cesar salata",
+        "desc": "Povrće *Slika je simbolična",
+        "price": 11.0
+      },
+      {
+        "name": "Vitaminska salata",
+        "desc": "Mrkva, kupus zeleni, kupus crveni, zelena salata, kukuruz, sos",
+        "price": 7.0
+      }
+    ],
+    "Bruskete": [
+      {
+        "name": "Bruskete",
+        "desc": "Domaći crni hljeb, paradajz, malsine, maslinovo ulje, sos",
+        "price": 6.0
+      },
+      {
+        "name": "Bruskete posne",
+        "desc": "Domaći crni hljeb, paradajz, masline, maslinovo ulje",
+        "price": 6.0
+      }
+    ],
+    "Torta": [
+      {
+        "name": "Maronen torta - posno",
+        "desc": "Kesten pire, orasi, Plazma, šumska borovnica, čokolada",
+        "price": 5.0
+      }
+    ]
+  }
+}

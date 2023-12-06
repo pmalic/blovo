@@ -1,0 +1,254 @@
+{
+  "name": "Girica",
+  "rating": 0.95,
+  "count": 79,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "File pastrmke",
+        "desc": "200 gr, prilozi sa slike se dodatno naplaćuju",
+        "price": 9.0
+      },
+      {
+        "name": "Pastrmka",
+        "desc": "250 gr, prilozi sa slike se dodatno naplaćuju",
+        "price": 8.0
+      },
+      {
+        "name": "Lignje frigane velika porcija 150 gr",
+        "desc": "Lignje frigane, prilozi sa slike se dodatno naplaćuju",
+        "price": 11.3
+      }
+    ],
+    "Čorbe": [
+      {
+        "name": "Riblja čorba 400 ml",
+        "desc": "Hljeb",
+        "price": 8.0
+      }
+    ],
+    "Riba i plodovi mora": [
+      {
+        "name": "Lignje",
+        "desc": "1 kg, prilozi sa slike se dodatno naplaćuju",
+        "price": 75.0
+      },
+      {
+        "name": "Šaran",
+        "desc": "1 kg, prilozi sa slike se dodatno naplaćuju",
+        "price": 50.0
+      },
+      {
+        "name": "Brancin",
+        "desc": "1 kg, prilozi sa slike se dodatno naplaćuju",
+        "price": 50.0
+      },
+      {
+        "name": "Orada",
+        "desc": "1 kg, prilozi sa slike se dodatno naplaćuju",
+        "price": 50.0
+      },
+      {
+        "name": "Som",
+        "desc": "1 kg, prilozi sa slike se dodatno naplaćuju",
+        "price": 45.0
+      },
+      {
+        "name": "File pastmke",
+        "desc": "1 kg, prilozi sa slike se dodatno naplaćuju",
+        "price": 45.0
+      },
+      {
+        "name": "Pastrmka",
+        "desc": "1 kg, prilozi sa slike se dodatno naplaćuju",
+        "price": 32.0
+      },
+      {
+        "name": "Oslić",
+        "desc": "1 kg, prilozi sa slike se dodatno naplaćuju",
+        "price": 30.0
+      },
+      {
+        "name": "Skuša",
+        "desc": "1 kg, prilozi sa slike se dodatno naplaćuju",
+        "price": 30.0
+      },
+      {
+        "name": "Girice",
+        "desc": "1 kg, prilozi sa slike se dodatno naplaćuju",
+        "price": 30.0
+      },
+      {
+        "name": "Lignje na žaru",
+        "desc": "200 gr, prilozi sa slike se dodatno naplaćuju",
+        "price": 15.0
+      },
+      {
+        "name": "Orada",
+        "desc": "300 gr, prilozi sa slike se dodatno naplaćuju",
+        "price": 15.0
+      },
+      {
+        "name": "Lignje frigane velika porcija 150 gr",
+        "desc": "Lignje frigane, prilozi sa slike se dodatno naplaćuju",
+        "price": 11.3
+      },
+      {
+        "name": "Šaran kotlet",
+        "desc": "200 gr, prilozi sa slike se dodatno naplaćuju",
+        "price": 10.0
+      },
+      {
+        "name": "File pastrmke",
+        "desc": "200 gr, prilozi sa slike se dodatno naplaćuju",
+        "price": 9.0
+      },
+      {
+        "name": "File soma",
+        "desc": "200 gr, prilozi sa slike se dodatno naplaćuju",
+        "price": 9.0
+      },
+      {
+        "name": "Pastrmka",
+        "desc": "250 gr, prilozi sa slike se dodatno naplaćuju",
+        "price": 8.0
+      },
+      {
+        "name": "Riblja pljeskavica",
+        "desc": "2 kom, prilozi sa slike se dodatno naplaćuju",
+        "price": 8.0
+      },
+      {
+        "name": "Lignje frigane mala porcija 100 gr",
+        "desc": "Lignje frigane, prilozi sa slike se dodatno naplaćuju",
+        "price": 7.5
+      },
+      {
+        "name": "Skuša",
+        "desc": "250 gr, prilozi sa slike se dodatno naplaćuju",
+        "price": 7.5
+      },
+      {
+        "name": "Oslić",
+        "desc": "250 gr, prilozi sa slike se dodatno naplaćuju",
+        "price": 7.5
+      },
+      {
+        "name": "Girice",
+        "desc": "Hljeb, prilozi sa slike se dodatno naplaćuju",
+        "price": 3.0
+      }
+    ],
+    "Salata": [
+      {
+        "name": "Sezonska salata",
+        "desc": "Cvekla, mrkva, rotkva",
+        "price": 3.5
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pomfrit 1 kg",
+        "desc": "1 kg",
+        "price": 20.0
+      },
+      {
+        "name": "Šampinjoni 1 kg",
+        "desc": "1 kg",
+        "price": 20.0
+      },
+      {
+        "name": "Carska mješavina brokoli, mrkva i karfiol",
+        "desc": "1 kg",
+        "price": 20.0
+      },
+      {
+        "name": "Krompir salata",
+        "desc": "1 kg",
+        "price": 15.0
+      },
+      {
+        "name": "Baklava",
+        "desc": "1 komad",
+        "price": 3.5
+      },
+      {
+        "name": "Pomfrit 150 gr",
+        "desc": "150 gr.",
+        "price": 3.0
+      },
+      {
+        "name": "Šampinjoni na žaru",
+        "desc": "150 gr.",
+        "price": 3.0
+      },
+      {
+        "name": "Krompir salata 200 gr",
+        "desc": "200 gr.",
+        "price": 3.0
+      },
+      {
+        "name": "Carska mješavina brokoli, mrkva i karfiol",
+        "desc": "150 gr.",
+        "price": 3.0
+      },
+      {
+        "name": "Heljdini uštipci",
+        "desc": "3 komada",
+        "price": 2.0
+      },
+      {
+        "name": "Riža 100 gr",
+        "desc": "1 kugla 100 gr",
+        "price": 0.7
+      },
+      {
+        "name": "Hljeb",
+        "desc": "1 komad",
+        "price": 0.5
+      }
+    ],
+    "Pića": [
+      {
+        "name": "Coca - Cola 330 ml",
+        "desc": "330 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Cockta 250 ml",
+        "desc": "250 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Vitinka mineralna voda  200 ml",
+        "desc": "200 ml",
+        "price": 2.0
+      },
+      {
+        "name": "Voda Vivia 200 ml",
+        "desc": "200 ml",
+        "price": 2.0
+      }
+    ],
+    "Piva": [
+      {
+        "name": "Nektar  330 ml",
+        "desc": "330 ml",
+        "price": 3.0
+      }
+    ],
+    "Vina": [
+      {
+        "name": "Graševina Kutjevo 200 ml",
+        "desc": "200 ml",
+        "price": 7.0
+      },
+      {
+        "name": "Vranac Pro Corde 200 ml",
+        "desc": "200 ml",
+        "price": 7.0
+      }
+    ]
+  }
+}

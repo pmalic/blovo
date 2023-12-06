@@ -1,0 +1,136 @@
+{
+  "name": "Ćevabdžinica Kod Muje",
+  "rating": 0.97,
+  "count": 187,
+  "service_fee": 1.9,
+  "menu": {
+    "Jela sa roštilja": [
+      {
+        "name": "Bubrežnjak 250 gr",
+        "desc": "Bubrežnjak 250 gr",
+        "price": 16.0
+      },
+      {
+        "name": "Krmenadla 200 gr",
+        "desc": "Krmenadla 200 gr",
+        "price": 16.0
+      },
+      {
+        "name": "Batak 200 gr",
+        "desc": "200 gr",
+        "price": 8.0
+      },
+      {
+        "name": "Pileće bijelo 200 gr",
+        "desc": "200 gr",
+        "price": 8.0
+      },
+      {
+        "name": "Pileće krpice 200 gr",
+        "desc": "200 gr",
+        "price": 8.0
+      },
+      {
+        "name": "Punjena pljeskavica",
+        "desc": "Mala ili velika",
+        "price": 6.7
+      },
+      {
+        "name": "Teleće krpice",
+        "desc": "Mala ili velika porcija",
+        "price": 6.0
+      },
+      {
+        "name": "Kombinacija šiša i ćevapa",
+        "desc": "Sindikalna, mala, srednja ili velika porcija",
+        "price": 5.75
+      },
+      {
+        "name": "Ćevapi",
+        "desc": "Sindikalna, mala, srednja ili velika porcija",
+        "price": 4.9
+      },
+      {
+        "name": "Pljeskavica",
+        "desc": "Mala ili velika",
+        "price": 4.9
+      },
+      {
+        "name": "Teleći ražnjići",
+        "desc": "Mala, srednja ili velika porcija",
+        "price": 4.5
+      },
+      {
+        "name": "Šiš",
+        "desc": "Sindikalna, mala, srednja ili velika porcija",
+        "price": 4.1
+      },
+      {
+        "name": "Roštiljska kobasica",
+        "desc": "Mala, srednja ili velika",
+        "price": 3.2
+      },
+      {
+        "name": "Pileći ražnjići",
+        "desc": "Mala, srednja ili velika porcija",
+        "price": 3.2
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pečene gljive",
+        "desc": "Pečene gljive\nSlika je simbolična*",
+        "price": 4.0
+      },
+      {
+        "name": "Pečene paprike",
+        "desc": "Pečene paprike\nSlika je simbolična*",
+        "price": 4.0
+      },
+      {
+        "name": "Pomfrit",
+        "desc": "Pomfrit",
+        "price": 3.5
+      },
+      {
+        "name": "Kajmak",
+        "desc": "Kajmak",
+        "price": 3.5
+      },
+      {
+        "name": "Lepinja",
+        "desc": "Lepinja",
+        "price": 0.8
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Miješana salata",
+        "desc": "Miješana salata\nSlika je simbolična*",
+        "price": 3.5
+      },
+      {
+        "name": "Šopska salata",
+        "desc": "Šopska salata",
+        "price": 3.5
+      },
+      {
+        "name": "Tartar",
+        "desc": "Tartar",
+        "price": 3.5
+      },
+      {
+        "name": "Ajvar",
+        "desc": "Ajvar",
+        "price": 3.5
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Baklava",
+        "desc": "Baklava",
+        "price": 4.0
+      }
+    ]
+  }
+}

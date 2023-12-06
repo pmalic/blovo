@@ -1,0 +1,504 @@
+{
+  "name": "Gastro Bar Terzo",
+  "rating": 0.96,
+  "count": 147,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Pileći fingersi",
+        "desc": "Pileći file 200 gr, krompir, 2 sosa",
+        "price": 16.5
+      },
+      {
+        "name": "Pileća Bečka šnicla",
+        "desc": "Pileća šnicla, pomfrit, sos",
+        "price": 16.0
+      },
+      {
+        "name": "Pileći sendvič",
+        "desc": "Sendvič u ciabatti, pileći file, pančeta, sir, sos, pomfrit",
+        "price": 15.0
+      }
+    ],
+    "Doručak do 13h": [
+      {
+        "name": "Combo doručak",
+        "desc": "Doručak za dvoje. 4 jaja, kajgana sa slaninom, kobasice, suvi vrat, pršut, panceta, sir, pomfrit, šopska salata, prilozi",
+        "price": 20.0
+      },
+      {
+        "name": "Pileći fajita doručak",
+        "desc": "Piletina, grilovano povrće, baby špinat, jaje, grčki jogurt, na foccaciji",
+        "price": 13.0
+      },
+      {
+        "name": "Corn dog doručak",
+        "desc": "Kajgana sa povrćem i sirom, pohovane hrenovke, sos",
+        "price": 12.5
+      },
+      {
+        "name": "Domaći uštipci",
+        "desc": "Pršut, suvi vrat, kajmak, ajvar, Nutella",
+        "price": 12.5
+      },
+      {
+        "name": "Normandijski doručak",
+        "desc": "Kajgana, špinat, panceta",
+        "price": 12.5
+      },
+      {
+        "name": "Terzo Doručak",
+        "desc": "3 Jaja, kobasica, slanina, ajvar, dolar krompir",
+        "price": 12.5
+      },
+      {
+        "name": "Kajgana kajmak kobasica",
+        "desc": "Kajmak, kobasica",
+        "price": 12.5
+      },
+      {
+        "name": "Rolovani omlet",
+        "desc": "Rolovani omlet sa šunkom, slaninom, svježim sirom",
+        "price": 12.0
+      },
+      {
+        "name": "Kajgana kajmak peka",
+        "desc": "Kajmak, peka",
+        "price": 11.5
+      },
+      {
+        "name": "Prženice",
+        "desc": "Prženice, ajvar, svježi sir, suvi vrat, peka, Edamer",
+        "price": 11.0
+      },
+      {
+        "name": "Omlet bjelanjak",
+        "desc": "Omlet od bjelanjaka sa povrćem, pršut",
+        "price": 9.5
+      },
+      {
+        "name": "Omlet kobasica",
+        "desc": "Omlet sa kobasicama",
+        "price": 9.5
+      },
+      {
+        "name": "Omlet sir - šunka",
+        "desc": "Omlet sa sirom i šunkom",
+        "price": 9.0
+      },
+      {
+        "name": "Jaja sa kobasicom",
+        "desc": "150 gr, 3 jaja",
+        "price": 9.0
+      },
+      {
+        "name": "Bacon doručak",
+        "desc": "Jaja, slanina",
+        "price": 8.5
+      },
+      {
+        "name": "Omlet povrće",
+        "desc": "Omlet sa povrćem",
+        "price": 8.5
+      },
+      {
+        "name": "Omlet šampinjoni",
+        "desc": "Omlet sa šampinjonima",
+        "price": 8.5
+      },
+      {
+        "name": "Jaja sa sirom i šunkom",
+        "desc": "Jaja servirana na siru i šunki",
+        "price": 8.0
+      },
+      {
+        "name": "Jaja sa hrenovkom",
+        "desc": "150 gr, 3 jaja",
+        "price": 7.0
+      }
+    ],
+    "Pizze": [
+      {
+        "name": "Pizza 4 vrste sira",
+        "desc": "Edamer, Gorgonzola, Mozzarella, Grana Padano",
+        "price": 14.0
+      },
+      {
+        "name": "Terzo specijal kuće pizza",
+        "desc": "Pelat sos, sir, cherry paradajz, pršut, rukola, Grana Padano",
+        "price": 13.5
+      },
+      {
+        "name": "Tuna pizza",
+        "desc": "Pelat, posni sir, paprika, kukuruz, cherry paradajz, rukola, tunjevina",
+        "price": 13.5
+      },
+      {
+        "name": "Capricciosa pizza",
+        "desc": "Pelat sos, sir, šunka, šampinjoni",
+        "price": 13.0
+      },
+      {
+        "name": "Diavola pizza",
+        "desc": "Pelat sos, sir, kulen, šampinjoni, Tabasco sos, feferone",
+        "price": 13.0
+      },
+      {
+        "name": "Margherita pizza",
+        "desc": "Pelat sos, Mozzarella sir, šampinjoni",
+        "price": 12.5
+      },
+      {
+        "name": "Vegetarijana pizza",
+        "desc": "Pelat sos, sir, paprike, kukuruz, cherry paradajz, šampinjoni",
+        "price": 12.5
+      }
+    ],
+    "Pide": [
+      {
+        "name": "Pida italia",
+        "desc": "Pelat sos, mljeveno juneće meso, Pesto sos, Mozzarella, rukola, cherry paradajz",
+        "price": 16.0
+      },
+      {
+        "name": "Pida mexico",
+        "desc": "Pelat sos, mljeveno juneće meso, sir, grah, kukuruz, crvena paprika",
+        "price": 16.0
+      }
+    ],
+    "Burgeri": [
+      {
+        "name": "Classic burger",
+        "desc": "Burger meso 200 gr, Cheddar sir, kiseli krastavci, paradajz, zelena salata, sos na bazi ketchupa, pohovani luk krompir",
+        "price": 17.5
+      },
+      {
+        "name": "Retro burger",
+        "desc": "Burger meso  200 gr, Edamer sir, jaje, ljubičasti kupus, paradajz, sos na bazi majoneze, pohovani luk, krompir",
+        "price": 17.5
+      },
+      {
+        "name": "Combo burger",
+        "desc": "Burger meso  200 gr, Cheddar sir, hrskava slanina, paradajz, rukola, sos na bazi milerama, krompir",
+        "price": 17.5
+      },
+      {
+        "name": "Hot - chili burger",
+        "desc": "Burger meso 200 gr, Dimljeni sir, karamelizovani luk, chili paprika, paradajz, rukola, ljuti sos, krompir",
+        "price": 17.5
+      }
+    ],
+    "Glavna jela": [
+      {
+        "name": "Combo kobasice",
+        "desc": "Mix od 4 vrste kobasica 500 gr za dvije osobe, pekarski krompir, foccacio, 2 sosa",
+        "price": 31.0
+      },
+      {
+        "name": "Karađorđeva šnicla od teletine",
+        "desc": "Teleća šnicla 200 gr sa kajmakom, povrće i pekarski krompir",
+        "price": 26.0
+      },
+      {
+        "name": "Terzo ražnjići",
+        "desc": "3 vrste ražnjića 300 gr za 2 osobe. Piletina, teletina, svinjetina, povrće, pekarski krompir, foccacio, sos, šopska salata",
+        "price": 25.0
+      },
+      {
+        "name": "Ćuretina fumoso",
+        "desc": "Dimljena ćuretina, njoke u Gorgonzola sosu, sušeni paradajz",
+        "price": 23.0
+      },
+      {
+        "name": "Bečka šnicla od teletine",
+        "desc": "Teleća šnicla 200 gr, dolar krompir",
+        "price": 21.0
+      },
+      {
+        "name": "Pileće rolnice",
+        "desc": "Pileći file sa šunkom, sirom i paprikom 300 gr sa povrćem, krompirom i badem sosom",
+        "price": 21.0
+      },
+      {
+        "name": "Svinjski medaljoni",
+        "desc": "Svinjski file 200 gr, šampinjon sos",
+        "price": 20.0
+      },
+      {
+        "name": "Banjalučki odrezak",
+        "desc": "Pileći file 200 gr, Edamer sir, šunka, povrće, krompir",
+        "price": 19.0
+      },
+      {
+        "name": "Gurmanska pljeskavica",
+        "desc": "Gurmanska pljeskavica 250 gr, pomfrit, kajmak, ljubičasti luk, 2 sosa",
+        "price": 19.0
+      },
+      {
+        "name": "Teleći ražnjić",
+        "desc": "Teleći ražnjić 150 gr, foccacio, pekarski, krompir sa Tzatziki sosom",
+        "price": 18.5
+      },
+      {
+        "name": "Piletina sa špinatom",
+        "desc": "Pileći file 200 gr, špinat sos, pekarski krompir",
+        "price": 18.0
+      },
+      {
+        "name": "Piletina sa pečurkama",
+        "desc": "Pileći file 200 gr, sos od šampinjona i vrganja, pekarski krompir",
+        "price": 18.0
+      },
+      {
+        "name": "Piletina sa sirom i pršutom",
+        "desc": "Pileći file 200 gr, Edamer sir, pršut, pekarski krompir, 2 sosa",
+        "price": 18.0
+      },
+      {
+        "name": "Ratatouille piletina",
+        "desc": "Pileći file sa povrćem 200 gr, krompir",
+        "price": 18.0
+      },
+      {
+        "name": "Pileći sote",
+        "desc": "Pileći file, šampinjon curry sos, riža",
+        "price": 18.0
+      },
+      {
+        "name": "Svinjski file",
+        "desc": "Svinjski file na ražnjiću rolovan u slaninu 220 gr, foccacio, grilovano\npovrće, pekarski krompir i kajmak",
+        "price": 18.0
+      },
+      {
+        "name": "Piletina Caprese",
+        "desc": "Pileći file 200 gr, Caprese salata",
+        "price": 17.5
+      },
+      {
+        "name": "Piletina grill",
+        "desc": "Pileći file 250 gr, povrće, pekarski krompir",
+        "price": 17.0
+      },
+      {
+        "name": "Punjeni grilovani pileći file",
+        "desc": "Pileći file 200 gr, sir, šunka, pomfrit",
+        "price": 17.0
+      },
+      {
+        "name": "Pileći fingersi",
+        "desc": "Pileći file 200 gr, krompir, 2 sosa",
+        "price": 16.5
+      },
+      {
+        "name": "Pileća Bečka šnicla",
+        "desc": "Pileća šnicla, pomfrit, sos",
+        "price": 16.0
+      },
+      {
+        "name": "Kobasica sa sirom blaga",
+        "desc": "Blaga Austrijska kobasica sa sirom 140 gr, pekarski krompir, 2 sosa",
+        "price": 13.5
+      },
+      {
+        "name": "Kobasica sa sirom ljuta",
+        "desc": "Austrijska ljuta kobasica sa sirom 140 gr, pekarski krompir, 2 sosa",
+        "price": 13.5
+      },
+      {
+        "name": "Rolovana slanina kobasica",
+        "desc": "Rolovane Austrijske kobasice sa sirom 150 gr, dolar krompir, 2 sosa",
+        "price": 13.5
+      },
+      {
+        "name": "Domaća roštiljska kobasica",
+        "desc": "2 domaće roštiljske kobasice 150 gr sa pekarskim krompirom i 2 sosa",
+        "price": 12.5
+      },
+      {
+        "name": "Grilovano povrće",
+        "desc": "Paprika, patlidžan, tikvice, crveni luk, paradajz i gljive",
+        "price": 8.0
+      }
+    ],
+    "Posni meni": [
+      {
+        "name": "File pastrmke - posno",
+        "desc": "File pastrmke, restovani krompir, pribor",
+        "price": 25.0
+      },
+      {
+        "name": "File pastrmke - posno",
+        "desc": "File pastrmke, restovani krompir, marinada",
+        "price": 25.0
+      },
+      {
+        "name": "Lignje na žaru - posno",
+        "desc": "Lignje 250 gr, krompir, blitva",
+        "price": 21.5
+      },
+      {
+        "name": "San Pjer - posno",
+        "desc": "File san pjer, dalmatinski prilog, pribor",
+        "price": 20.0
+      },
+      {
+        "name": "Burger vege - posno",
+        "desc": "100% bjelančevine biljnog porijekla, Posni sir, kiseli krastavci, paradajz, zelena salata, sos, krompirići",
+        "price": 20.0
+      },
+      {
+        "name": "Fish and chips - posno",
+        "desc": "Frigani oslić, krompirići, posni sos",
+        "price": 19.0
+      },
+      {
+        "name": "Frigane lignje - posno",
+        "desc": "Lignje 250 gr, krompir",
+        "price": 19.0
+      },
+      {
+        "name": "Pasta Sea food - posno",
+        "desc": "Plodovi mora, gambori, dagnje, tagliatele, sos",
+        "price": 18.0
+      },
+      {
+        "name": "Rižoto Sea food - posno",
+        "desc": "Plodovi mora, gambori, dagnje, riža, paradajz, sos",
+        "price": 18.0
+      },
+      {
+        "name": "Portobello tuna sendvič - posno",
+        "desc": "Pizza tijesto, posni namaz, posni sir, tuna, paradajz, kiseli krastavci, zelena salata",
+        "price": 15.0
+      },
+      {
+        "name": "Rižoto Vegeterian - posno",
+        "desc": "Riža, brokuli, povrće, cherry paradajz, sjemenke",
+        "price": 15.0
+      },
+      {
+        "name": "Tuna salata - posno",
+        "desc": "Tuna, krastavac, zelena salata, paprika, paradajz, kukuruz, luk i masline",
+        "price": 14.5
+      },
+      {
+        "name": "Tuna pizza - posno",
+        "desc": "Pelat, posni sir, paprika, kukuruz, cherry paradajz, rukola, tunjevina",
+        "price": 13.5
+      }
+    ],
+    "Pasta": [
+      {
+        "name": "Pasta Sea food",
+        "desc": "Plodovi mora, gambori, dagnje, tagliatele, sos",
+        "price": 18.0
+      },
+      {
+        "name": "Pasta Carbonara",
+        "desc": "Špagete, slanina, pančeta, jaje, Grana Padano",
+        "price": 16.5
+      },
+      {
+        "name": "Pasta Pesto genovese",
+        "desc": "Tagliatele, Pesto Genovese, cherry paradajz, rukola",
+        "price": 16.0
+      },
+      {
+        "name": "Bolognese špagete",
+        "desc": "Špagete, Bolognese sos",
+        "price": 16.0
+      },
+      {
+        "name": "Pasta Milano",
+        "desc": "Pasta fusili, pileći file, sušeni paradajz, sos",
+        "price": 15.0
+      },
+      {
+        "name": "Rižoto Vegeterian",
+        "desc": "Riža, brokuli, povrće, cherry paradajz, sjemenke",
+        "price": 15.0
+      }
+    ],
+    "Rižoto": [
+      {
+        "name": "Rižoto Sea food",
+        "desc": "Plodovi mora, gambori, dagnje, riža, paradajz, sos",
+        "price": 18.0
+      },
+      {
+        "name": "Rižoto Pesto con polo",
+        "desc": "Pileći file, riža, tikvice, Pesto Genovese, Parmezan",
+        "price": 17.0
+      }
+    ],
+    "Morski plodovi": [
+      {
+        "name": "Lignje na žaru",
+        "desc": "Lignje 250 gr, krompir, blitva",
+        "price": 21.5
+      },
+      {
+        "name": "Frigane lignje",
+        "desc": "Lignje 250 gr, krompir",
+        "price": 19.0
+      }
+    ],
+    "Sendviči": [
+      {
+        "name": "Pileći sendvič",
+        "desc": "Sendvič u ciabatti, pileći file, pančeta, sir, sos, pomfrit",
+        "price": 15.0
+      },
+      {
+        "name": "Sendvič Italy",
+        "desc": "Pizza tijesto, Mozzarella, pršut, pavlaka",
+        "price": 15.0
+      },
+      {
+        "name": "Portobello sendvič mali",
+        "desc": "Pizza tijesto, suvi vrat, šunka, kulen, peka, po želji sir, paradajz, zelena salata jogurt",
+        "price": 13.0
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "Tuna salata",
+        "desc": "Tuna, krastavac, zelena salata, paprika, paradajz, kukuruz, luk i masline",
+        "price": 14.5
+      },
+      {
+        "name": "Cezar salata",
+        "desc": "Pileći file, pančeta, paradajz i Pesto Genovese",
+        "price": 14.5
+      },
+      {
+        "name": "Caprese salata",
+        "desc": "Paradajz, Mozzarella sir, Pesto Genovese, pršut",
+        "price": 13.5
+      },
+      {
+        "name": "Grčka salata",
+        "desc": "Zelena salata, paradajz, paprika, krastavac, Feta sir, luk i masline",
+        "price": 10.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Rukola cherry salata",
+        "desc": "Rukola, cherry paradajz",
+        "price": 6.0
+      },
+      {
+        "name": "Šopska salata",
+        "desc": "Paradajz, paprika, crveni luk, krastvaci, sir, dressing",
+        "price": 6.0
+      },
+      {
+        "name": "Sezonska mix salata",
+        "desc": "Sezonsko povrće",
+        "price": 5.5
+      }
+    ]
+  }
+}

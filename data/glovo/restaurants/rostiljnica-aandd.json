@@ -1,0 +1,315 @@
+{
+  "name": "Roštiljnica A&D",
+  "rating": 0.98,
+  "count": 500,
+  "service_fee": 1.5,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "A&D file",
+        "desc": "Pileći file pokriven topljenim sirom i pečenom slaninom",
+        "price": 10.5
+      },
+      {
+        "name": "A&D kombinacije za jednu osobu",
+        "desc": "Mala porcija 180 gr - ćevap, kobasica, rolovani ražnjić, srednja porcija 260 gr - ćevap, šiš, kobasica, rolovani ražnjić, velika porcija 360 gr - ćevap, šiš, kobasica, rolovani ražnjić, mala vješalica",
+        "price": 9.8
+      },
+      {
+        "name": "Kombinacija ćevap-šiš",
+        "desc": "Mala, srednja ili velika porcija",
+        "price": 7.0
+      }
+    ],
+    "Specijalitet kuće": [
+      {
+        "name": "Batak sa sirom i slaninom",
+        "desc": "Mala ili velika porcija",
+        "price": 11.5
+      },
+      {
+        "name": "A&D file",
+        "desc": "Pileći file pokriven topljenim sirom i pečenom slaninom",
+        "price": 10.5
+      },
+      {
+        "name": "A&D file light",
+        "desc": "Pileći file u kajmaku sa paradajzom i zelenom salatom. Mala ili velika porcija",
+        "price": 10.5
+      }
+    ],
+    "Jela sa roštilja": [
+      {
+        "name": "Dimljena ćuretina sa sirom i slaninom",
+        "desc": "Mala ili velika porcija",
+        "price": 11.0
+      },
+      {
+        "name": "Dimljena ćuretina u kajmaku",
+        "desc": "Mala ili velika porcija",
+        "price": 9.5
+      },
+      {
+        "name": "Teleći bubrežnjak",
+        "desc": "Mala ili velika porcija",
+        "price": 8.0
+      },
+      {
+        "name": "Kombinacija ćevap-šiš",
+        "desc": "Mala, srednja ili velika porcija",
+        "price": 7.0
+      },
+      {
+        "name": "Pljeskavica 200 gr",
+        "desc": "200 gr",
+        "price": 7.0
+      },
+      {
+        "name": "Dimljena ćuretina",
+        "desc": "Mala ili velika porcija",
+        "price": 7.0
+      },
+      {
+        "name": "Pileći batak",
+        "desc": "Mala ili velika porcija",
+        "price": 6.5
+      },
+      {
+        "name": "Dimljene kobasice",
+        "desc": "Mala, srednja ili velika porcija",
+        "price": 6.0
+      },
+      {
+        "name": "Pileće bijelo meso",
+        "desc": "Mala ili velika porcija",
+        "price": 6.0
+      },
+      {
+        "name": "Ćevapi",
+        "desc": "Mala, srednja ili velika porcija",
+        "price": 5.6
+      },
+      {
+        "name": "Teleći ražnjići",
+        "desc": "Mala, srednja ili velika porcija",
+        "price": 5.5
+      },
+      {
+        "name": "Rolovani ražnjići",
+        "desc": "Mala, srednja ili velika porcija",
+        "price": 5.0
+      },
+      {
+        "name": "Šiš ćevapi",
+        "desc": "Mala, srednja ili velika porcija",
+        "price": 4.7
+      }
+    ],
+    "A&D kombinacije za jednu osobu": [
+      {
+        "name": "A&D kombinacije za jednu osobu",
+        "desc": "Mala porcija 180 gr - ćevap, kobasica, rolovani ražnjić, srednja porcija 260 gr - ćevap, šiš, kobasica, rolovani ražnjić, velika porcija 360 gr - ćevap, šiš, kobasica, rolovani ražnjić, mala vješalica",
+        "price": 9.8
+      }
+    ],
+    "A&D plate": [
+      {
+        "name": "A&D plata 1.180 gr",
+        "desc": "3 ćevapa, 2 kobasice, 2 šiša, 2 rolovana ražnjića, 2 teleća ražnjića, mala peka, mala bijela vješalica, male pileće krpice, mali batak, pomfrit, 4 lepinje, 1.180 gr",
+        "price": 55.8
+      },
+      {
+        "name": "Extra plata za tri osobe 990 gr",
+        "desc": "3 ćevapa, 2 kobasice, 3 šiša, 3 rolovana ražnjića, male pileće krpice, mali batak, pomfrit, 3 lepinje. 990 gr",
+        "price": 44.5
+      },
+      {
+        "name": "Extra plata za dvije osobe 720 gr",
+        "desc": "2 ćevapa, 1 kobasica, 2 šiša, 2 rolovana ražnjića, male pileće krpice, mali batak, pomfrit, 2 lepinje. 720 gr",
+        "price": 30.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Srpska salata",
+        "desc": "Srpska salata",
+        "price": 5.0
+      },
+      {
+        "name": "Šopska salata",
+        "desc": "Šopska salata",
+        "price": 5.0
+      },
+      {
+        "name": "Urnebes salata",
+        "desc": "Urnebes salata",
+        "price": 3.5
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Veliki pomfrit 300 gr",
+        "desc": "300 gr",
+        "price": 4.0
+      },
+      {
+        "name": "Mali pomfrit 150 gr",
+        "desc": "150 gr",
+        "price": 2.5
+      }
+    ],
+    "Umaci": [
+      {
+        "name": "Kajmak",
+        "desc": "Kajmak",
+        "price": 2.5
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Coca - Cola Original 330 ml",
+        "desc": "330 ml",
+        "price": 3.5
+      },
+      {
+        "name": "Schweppes Bitter Lemon 330 ml",
+        "desc": "330 ml",
+        "price": 3.5
+      },
+      {
+        "name": "Orangina 250 ml",
+        "desc": "250 ml",
+        "price": 3.5
+      },
+      {
+        "name": "Coca - Cola Original 250 ml",
+        "desc": "250 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Fanta Orange 250 ml",
+        "desc": "250 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Sprite 250 ml",
+        "desc": "250 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Schweppes Bitter Lemon 250 ml",
+        "desc": "250 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Schweppes Tonic Water 250 ml",
+        "desc": "250 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Cockta 275 ml",
+        "desc": "275 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Exotic limeta 250 ml",
+        "desc": "250 ml",
+        "price": 2.5
+      },
+      {
+        "name": "Exotic kruška 250 ml",
+        "desc": "250 ml",
+        "price": 2.5
+      },
+      {
+        "name": "Exotic smokva i dunja 250 ml",
+        "desc": "250 ml",
+        "price": 2.5
+      },
+      {
+        "name": "Cedevita narandža",
+        "desc": "Cedevita narandža",
+        "price": 2.5
+      },
+      {
+        "name": "Cedevita limun",
+        "desc": "Cedevita limun",
+        "price": 2.5
+      },
+      {
+        "name": "Gazirana voda 250 ml",
+        "desc": "250 ml",
+        "price": 2.0
+      },
+      {
+        "name": "Negazirana voda 250 ml",
+        "desc": "250 ml",
+        "price": 2.0
+      },
+      {
+        "name": "Jogurt",
+        "desc": "Jogurt",
+        "price": 1.5
+      }
+    ],
+    "Energetska pića": [
+      {
+        "name": "Red Bull Energy Drink 0.25 l",
+        "desc": "Red Bull Energy Drink 0.25 l",
+        "price": 6.0
+      }
+    ],
+    "Pivo": [
+      {
+        "name": "Estrella 330 ml",
+        "desc": "330 ml",
+        "price": 5.0
+      },
+      {
+        "name": "Paulaner 330 ml",
+        "desc": "300 ml",
+        "price": 5.0
+      },
+      {
+        "name": "Heineken 330 ml",
+        "desc": "330 ml",
+        "price": 4.5
+      },
+      {
+        "name": "Tuborg 330 ml",
+        "desc": "330 ml",
+        "price": 4.0
+      },
+      {
+        "name": "Lav 330 ml",
+        "desc": "300 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Jelen 330 ml",
+        "desc": "300 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Nikšićko tamno 330 ml",
+        "desc": "300 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Nektar 330 ml",
+        "desc": "330 ml",
+        "price": 2.5
+      },
+      {
+        "name": "Nektar 500 ml",
+        "desc": "500 ml",
+        "price": 2.5
+      },
+      {
+        "name": "Nektar limun 330 ml",
+        "desc": "300 ml",
+        "price": 2.5
+      }
+    ]
+  }
+}

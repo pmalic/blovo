@@ -1,0 +1,186 @@
+{
+  "name": "Gotiva knedle",
+  "rating": 0.97,
+  "count": 305,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Kinder knedla",
+        "desc": "Nutella, bijela čokolada, 1 komad",
+        "price": 3.9
+      },
+      {
+        "name": "Nougat knedla",
+        "desc": "Nougat krema, komadići lješnjaka, hrskavi vafl, 1 komad",
+        "price": 3.9
+      },
+      {
+        "name": "Pistacija knedla",
+        "desc": "Pistacija knedla 1 komad",
+        "price": 3.9
+      }
+    ],
+    "Slatke knedle": [
+      {
+        "name": "Mozzart knedla",
+        "desc": "Mozzart knedla",
+        "price": 7.0
+      },
+      {
+        "name": "Šumska jagoda",
+        "desc": "Šumska jagoda, bijela čokolada 1 komad",
+        "price": 4.0
+      },
+      {
+        "name": "Nougat knedla",
+        "desc": "Nougat krema, komadići lješnjaka, hrskavi vafl, 1 komad",
+        "price": 3.9
+      },
+      {
+        "name": "Raffaello knedla",
+        "desc": "Raffaello krema, Plazma, kokos, 1 komad",
+        "price": 3.9
+      },
+      {
+        "name": "Medena knedla * POSNO",
+        "desc": "Čokolada, kajsija, začin za medenjke posno, 1 komad",
+        "price": 3.9
+      },
+      {
+        "name": "Višnja i vanilija knedla",
+        "desc": "Višnja i vanilija knedla,  1 komad",
+        "price": 3.9
+      },
+      {
+        "name": "Praline Noissette knedla",
+        "desc": "Praline Noissette knedla, 1 komad",
+        "price": 3.9
+      },
+      {
+        "name": "Pistacija knedla",
+        "desc": "Pistacija knedla 1 komad",
+        "price": 3.9
+      },
+      {
+        "name": "Kinder knedla",
+        "desc": "Nutella, bijela čokolada, 1 komad",
+        "price": 3.9
+      },
+      {
+        "name": "Malina Premium knedla",
+        "desc": "Malina i slatka krema sa rikota sirom, 1 komad",
+        "price": 3.9
+      },
+      {
+        "name": "Kesten knedla",
+        "desc": "Čokoladni ganaž, kesten krema, šlag, 1 komad",
+        "price": 3.9
+      },
+      {
+        "name": "Šipurak knedla",
+        "desc": "Šipurak, slatki sir",
+        "price": 3.9
+      },
+      {
+        "name": "Zimska čarolija knedla * POSNO",
+        "desc": "Jabuka, orasi, šlag preliv, 1 komad",
+        "price": 3.8
+      },
+      {
+        "name": "Zdravija knedla * POSNO",
+        "desc": "Višnja, orasi, cimet, kokosov šećer, - posno, 1 komad",
+        "price": 3.8
+      },
+      {
+        "name": "Gospodska knedla",
+        "desc": "Karamelizovani badem, bijela čokolada, 1 komad",
+        "price": 3.8
+      },
+      {
+        "name": "Šumsko voće knedla",
+        "desc": "Šumsko voće, vanilija preliv, 1 komad",
+        "price": 3.8
+      },
+      {
+        "name": "Orange premium knedla",
+        "desc": "Orange krema, čokoladna krema sa lješnikom, 1 komad",
+        "price": 3.8
+      },
+      {
+        "name": "Orah knedla",
+        "desc": "Orah knedla, 1 komad",
+        "price": 3.7
+      },
+      {
+        "name": "Nutella knedla",
+        "desc": "Nutella knedla, 1 komad",
+        "price": 3.7
+      },
+      {
+        "name": "Maskarpone voli borovnicu knedla",
+        "desc": "Borovnica, krema sa Maskarpone sirom, oreo keks, 1 komad",
+        "price": 3.7
+      },
+      {
+        "name": "Jagoda i bijela čokolada knedla",
+        "desc": "Jagoda i bijela čokolada, 1 komad",
+        "price": 3.7
+      },
+      {
+        "name": "Karamela knedla",
+        "desc": "Karamela, kikiriki, čokolada, 1 komad",
+        "price": 3.7
+      },
+      {
+        "name": "Mak & limun krema",
+        "desc": "Mak & limun krema, 1 komad",
+        "price": 3.6
+      },
+      {
+        "name": "Frau marelica knedla * POSNO",
+        "desc": "Marelica - posno, 1 komad",
+        "price": 3.6
+      },
+      {
+        "name": "Crno-bijeli svijet knedla",
+        "desc": "Crno-bijeli svijet knedla,  1 komad",
+        "price": 3.6
+      },
+      {
+        "name": "Šljiva knedla",
+        "desc": "Šljiva knedla, 1 komad",
+        "price": 2.8
+      }
+    ],
+    "Bezglutenske knedle": [
+      {
+        "name": "Bezglutenska princeza",
+        "desc": "2 komada",
+        "price": 7.8
+      },
+      {
+        "name": "Bezglutenska kinder knedla",
+        "desc": "Bezglutenska kinder knedla, 2 komada",
+        "price": 7.8
+      },
+      {
+        "name": "Bezglutenski mix",
+        "desc": "2 komada",
+        "price": 7.8
+      }
+    ],
+    "Čokolade na štapiću": [
+      {
+        "name": "Kids fun čokolada na štapiću",
+        "desc": "Mliječna čokolada na štapiću, napomena - otopiti u vrelom mlijeku 1 komad",
+        "price": 3.6
+      },
+      {
+        "name": "Bijela čokolada na štapiću",
+        "desc": "Napomena - otopiti u vrelom  mlijeku, 1 komad",
+        "price": 3.6
+      }
+    ]
+  }
+}

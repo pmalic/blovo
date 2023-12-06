@@ -1,0 +1,986 @@
+{
+  "name": "Lukijan Asian Food",
+  "rating": 0.95,
+  "count": 435,
+  "service_fee": 2.3,
+  "menu": {
+    "Asia burgers": [
+      {
+        "name": "Thai burger",
+        "desc": "Ljuto",
+        "price": 16.5
+      },
+      {
+        "name": "Bangkok extreme burger",
+        "desc": "Extra ljuto",
+        "price": 16.5
+      },
+      {
+        "name": "Teriyaki burger",
+        "desc": "Teriyaki burger",
+        "price": 16.5
+      },
+      {
+        "name": "Sweet chili burger",
+        "desc": "Grill piletina, povrće u slatko ljutom sosu, ljubičasti luk, zelena salata, paradajz u burger pecivu. Porcija ima 2 burgera, Ljuto",
+        "price": 16.5
+      },
+      {
+        "name": "Hoisin burger",
+        "desc": "Blago ljuto",
+        "price": 16.5
+      },
+      {
+        "name": "Sambal oelek burger",
+        "desc": "Extra ljuto",
+        "price": 16.5
+      },
+      {
+        "name": "Sriracha burger",
+        "desc": "Ljuto",
+        "price": 16.5
+      },
+      {
+        "name": "Tokyo burger",
+        "desc": "Tokyo burger",
+        "price": 16.5
+      },
+      {
+        "name": "Barbeque burger",
+        "desc": "Barbeque burger",
+        "price": 16.5
+      },
+      {
+        "name": "Soya burger",
+        "desc": "Soya burger",
+        "price": 15.5
+      },
+      {
+        "name": "Susam burger",
+        "desc": "Susam burger",
+        "price": 15.5
+      },
+      {
+        "name": "Chili burger",
+        "desc": "Ljuto",
+        "price": 15.5
+      },
+      {
+        "name": "Shangai burger",
+        "desc": "Ljuto",
+        "price": 15.5
+      },
+      {
+        "name": "Tandoori burger",
+        "desc": "Blago ljuto",
+        "price": 15.5
+      },
+      {
+        "name": "Yellow curry burger",
+        "desc": "Blago ljuto",
+        "price": 15.5
+      },
+      {
+        "name": "Green curry burger",
+        "desc": "Extra ljuto",
+        "price": 15.5
+      },
+      {
+        "name": "Red curry burger",
+        "desc": "Extra ljuto",
+        "price": 15.5
+      }
+    ],
+    "Piletina": [
+      {
+        "name": "Fresh thai piletina",
+        "desc": "Soya sos, sos oyster od kamenica, povrće, riža",
+        "price": 17.5
+      },
+      {
+        "name": "Peking street food piletina",
+        "desc": "Soja sos, bijeli luk, povrće",
+        "price": 17.5
+      },
+      {
+        "name": "Carska piletina",
+        "desc": "Gorgonzola sir, mlijeko, pavlaka, carsko povrće, riža",
+        "price": 16.5
+      },
+      {
+        "name": "Grill piletina",
+        "desc": "Grilovano povrće u woku",
+        "price": 16.5
+      },
+      {
+        "name": "Fresh peppers piletina",
+        "desc": "Riža tri vrste paprike, sos, bijeli luk",
+        "price": 16.5
+      },
+      {
+        "name": "Royal thai piletina",
+        "desc": "Piletina, povrće, ljuto, kikiriki i susam prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Sriracha piletina",
+        "desc": "Piletina, povrće, sriracha sos, ljuto, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Tokyo piletina",
+        "desc": "Piletina, povrće, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Kung pao piletina",
+        "desc": "Kikiriki, povrće, blago ljuto, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Siciliana piletina",
+        "desc": "Piletina, povrće, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Barbeque piletina",
+        "desc": "Piletina, povrće, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Badem thai piletina",
+        "desc": "Piletina, povrće, bademi, ljuto, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Gorgon piletina",
+        "desc": "Gorgonzola sir, mlijeko, pavlaka, pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Lukijan piletina",
+        "desc": "Soya sos, dimljeni sir, povrće, riža",
+        "price": 15.5
+      },
+      {
+        "name": "Thailand piletina",
+        "desc": "Slatko - kiselo - ljuti sos, ljuto, riža",
+        "price": 15.5
+      },
+      {
+        "name": "Shangai piletina",
+        "desc": "Kiselo - ljuti sos, ljuto, povrće, riža",
+        "price": 15.5
+      },
+      {
+        "name": "Bangkok extreme piletina",
+        "desc": "Riža, extra ljuto - kiseli sos, povrće",
+        "price": 15.5
+      },
+      {
+        "name": "Sweet China piletina",
+        "desc": "Kineski slatki sos, povrće, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Sweet chili piletina",
+        "desc": "Slatko - ljuti sos, povrće, ljuto, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Yellow curry piletina",
+        "desc": "Tajlandski curry, povrće, blago ljuto, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Green curry piletina",
+        "desc": "Tajlandski ljuti curry, povrće, extra ljuto,prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Red curry piletina",
+        "desc": "Tajlandski ljuti curry, povrće, extra ljuto, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Hoisin piletina",
+        "desc": "Kineski blago ljuti sos, povrće, blago ljuto, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Genovese piletina",
+        "desc": "Italijanski Genovese sos, povrće, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Oyster piletina",
+        "desc": "Sos, povrće, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Sambal oelek piletina",
+        "desc": "Indonezijski sos, povrće, ljuto, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Masala piletina",
+        "desc": "Piletina, povrće, ljuto, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Kikiriki piletina",
+        "desc": "Soya, sos oyster od kamenica, povrće, prilog riža ili pasta",
+        "price": 15.0
+      },
+      {
+        "name": "Italy piletina",
+        "desc": "Paradajz sos, bosiljak, bijeli luk, prilog riža ili pasta",
+        "price": 15.0
+      },
+      {
+        "name": "Teriyaki piletina",
+        "desc": "Japanski sos, povrće, prilog riža ili pasta",
+        "price": 15.0
+      },
+      {
+        "name": "Soya piletina",
+        "desc": "Kineski soya sos, povrće, prilog riža ili pasta",
+        "price": 14.5
+      },
+      {
+        "name": "Susam piletina",
+        "desc": "Kineski soya sos, povrće, susam, prilog riža ili pasta",
+        "price": 14.5
+      },
+      {
+        "name": "Chili piletina",
+        "desc": "Paradajz sos, soya, chili, ljuto,  povrće, prilog riža ili pasta",
+        "price": 14.5
+      },
+      {
+        "name": "Ananas piletina",
+        "desc": "Ananas, sweet sos, riža",
+        "price": 14.5
+      },
+      {
+        "name": "Tandoori piletina",
+        "desc": "Indijski blago ljuti sos, povrće, blago ljuto, prilog riža ili pasta",
+        "price": 14.5
+      },
+      {
+        "name": "Curry classic kurkuma piletina",
+        "desc": "Curry sos, povrće, prilog riža ili pasta",
+        "price": 14.5
+      },
+      {
+        "name": "Oliva piletina",
+        "desc": "Maslinovo ulje, povrće, prilog riža ili pasta",
+        "price": 14.5
+      },
+      {
+        "name": "Hot soup - piletina",
+        "desc": "Extra ljuto - kisela, prilog riža ili pasta",
+        "price": 8.5
+      }
+    ],
+    "Teletina": [
+      {
+        "name": "Fresh peppers teletina",
+        "desc": "Tri vrste paprike, sos, bijeli luk, riža",
+        "price": 19.5
+      },
+      {
+        "name": "Peking street food teletina",
+        "desc": "Soya sos, bijeli luk, povrće",
+        "price": 19.5
+      },
+      {
+        "name": "Kikiriki teletina",
+        "desc": "Soya, sos oyster od kamenica, povrće, riža",
+        "price": 18.5
+      },
+      {
+        "name": "Carska teletina",
+        "desc": "Riža, Gorgonzola sir, mlijeko, pavlaka, carsko povrće",
+        "price": 18.5
+      },
+      {
+        "name": "Gorgonzola teletina",
+        "desc": "Gorgonzola sir, mlijeko, pavlaka, pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Thailand teletina",
+        "desc": "Slatko - kiselo - ljuti sos, ljuto, riža",
+        "price": 18.5
+      },
+      {
+        "name": "Shangai teletina",
+        "desc": "Kiselo - ljuti sos, ljuto,  povrće, riža",
+        "price": 18.5
+      },
+      {
+        "name": "Bangkok extreme teletina",
+        "desc": "Extra ljuto - kiseli sos, povrće, riža",
+        "price": 18.5
+      },
+      {
+        "name": "Teriyaki teletina",
+        "desc": "Japanski sos, povrće, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Tandoori teletina",
+        "desc": "Indijski blago ljuti sos, povrće, blago ljuto, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Sweet China teletina",
+        "desc": "Kineski slatki sos, povrće, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Sweet chili teletina",
+        "desc": "Slatko - ljuti sos, povrće, ljuto, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Yellow curry teletina",
+        "desc": "Tajlandski curry, povrće, blago ljuto, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Green curry teletina",
+        "desc": "Tajlandski ljuti curry, povrće, extra ljuto, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Red curry teletina",
+        "desc": "Tajlandski extra ljuti curry povrće, extra ljuto, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Hoisin teletina",
+        "desc": "Kineski blago ljuti sos, povrće, blago ljuto,  prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Sambal oelek teletina",
+        "desc": "Indonezijski sos, povrće, ljuto, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Sriracha teletina",
+        "desc": "Sos, povrće, ljuto, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Tokyo teletina",
+        "desc": "Sos, povrće, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Kung pao teletina",
+        "desc": "Sos, povrće, blago ljuto, kikiriki, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Siciliana teletina",
+        "desc": "Sos, povrće, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Barbeque teletina",
+        "desc": "Sos, povrće, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Badem thai teletina",
+        "desc": "Sos, povrće, bademi, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Royal thai teletina",
+        "desc": "Sos, povrće, ljuto, kikiriki i susam prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Soya teletina",
+        "desc": "Kineski soya sos, povrće, prilog riža ili pasta",
+        "price": 17.5
+      },
+      {
+        "name": "Susam teletina",
+        "desc": "Kineski soya sos, povrće, susam, prilog riža ili pasta",
+        "price": 17.5
+      },
+      {
+        "name": "Chili teletina",
+        "desc": "Paradajz sos, soya, chili, ljuto, povrće, prilog riža ili pasta",
+        "price": 17.5
+      },
+      {
+        "name": "Italy teletina",
+        "desc": "Paradajz sos, bosiljak, bijeli luk, pasta",
+        "price": 17.5
+      },
+      {
+        "name": "Oliva teletina",
+        "desc": "Maslinovo ulje, povrće, prilog riža ili pasta",
+        "price": 17.5
+      },
+      {
+        "name": "Curry classic teletina",
+        "desc": "Curry - kurkuma sos, povrće, prilog riža ili pasta",
+        "price": 17.5
+      },
+      {
+        "name": "Genovese teletina",
+        "desc": "Italijanski genovese sos, povrće, prilog riža ili pasta",
+        "price": 17.5
+      },
+      {
+        "name": "Oyster teletina",
+        "desc": "Sos, povrće, prilog riža ili pasta",
+        "price": 17.5
+      }
+    ],
+    "Svinjetina": [
+      {
+        "name": "Peking street food svinjetina",
+        "desc": "Soya sos, bijeli luk, povrće",
+        "price": 17.5
+      },
+      {
+        "name": "Carska svinjetina",
+        "desc": "Gorgonzola sir, mlijeko, pavlaka, carsko povrće",
+        "price": 16.5
+      },
+      {
+        "name": "Fresh peppers svinjetina",
+        "desc": "Tri vrste paprike, sos, bijeli luk, riža",
+        "price": 16.5
+      },
+      {
+        "name": "Sriracha svinjetina",
+        "desc": "Sos, povrće, ljuto, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Tokyo svinjetina",
+        "desc": "Sos, povrće, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Kung pao svinjetina",
+        "desc": "Sos, povrće, blago ljuto, kikiriki, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Siciliana svinjetina",
+        "desc": "Sos, povrće, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Barbeque svinjetina",
+        "desc": "Sos, povrće, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Badem thai svinjetina",
+        "desc": "Sos, povrće, bademi, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Royal thai svinjetina",
+        "desc": "Sos, povrće, ljuto,  kikiriki i susam prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Gorgonzola svinjetina",
+        "desc": "Gorgonzola sir, mlijeko, pavlaka, pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Thailand svinjetina",
+        "desc": "Slatko - kiselo - ljuti sos, ljuto, riža",
+        "price": 15.5
+      },
+      {
+        "name": "Shangai svinjetina",
+        "desc": "Kiselo - ljuti sos, ljuto, povrće, riža",
+        "price": 15.5
+      },
+      {
+        "name": "Bangkok extreme svinjetina",
+        "desc": "Extra ljuto - kiseli sos, povrće, riža",
+        "price": 15.5
+      },
+      {
+        "name": "Teriyaki svinjetina",
+        "desc": "Japanski sos, povrće, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Sweet China svinjetina",
+        "desc": "Kineski slatki sos, povrće, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Sweet chili svinjetina",
+        "desc": "Slatko - ljuti sos, povrće, ljuto, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Yellow curry svinjetina",
+        "desc": "Tajlandski curry, povrće, blago ljuto, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Green curry svinjetina",
+        "desc": "Tajlandski ljuti curry, povrće, extra ljuto, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Red curry svinjetina",
+        "desc": "Tajlandski extra ljuti curry, povrće, extra ljuto, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Hoisin svinjetina",
+        "desc": "Kineski blago ljuti sos, povrće, blago ljuto, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Sambal oelek svinjetina",
+        "desc": "Indonezijski sos, povrće, ljuto, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Genovese svinjetina",
+        "desc": "Italijanski genovese sos, povrće, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Oyster svinjetina",
+        "desc": "Sos, povrće, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Kikiriki svinjetina",
+        "desc": "Soya, sos oyster od kamenica, povrće, riža",
+        "price": 15.0
+      },
+      {
+        "name": "Italy svinjetina",
+        "desc": "Paradajz sos, bosiljak, bijeli luk, pasta",
+        "price": 15.0
+      },
+      {
+        "name": "Soya svinjetina",
+        "desc": "Kineski soya sos, povrće, prilog riža ili pasta",
+        "price": 14.5
+      },
+      {
+        "name": "Susam svinjetina",
+        "desc": "Kineski soya sos, povrće, susam, prilog riža ili pasta",
+        "price": 14.5
+      },
+      {
+        "name": "Chili svinjetina",
+        "desc": "Paradajz sos, soya, chili, ljuto, povrće, prilog riža ili pasta",
+        "price": 14.5
+      },
+      {
+        "name": "Oliva svinjetina",
+        "desc": "Maslinovo ulje, povrće, prilog riža ili pasta",
+        "price": 14.5
+      },
+      {
+        "name": "Tandoori svinjetina",
+        "desc": "Indijski blago ljuti sos, povrće, blago ljuto, prilog riža ili pasta",
+        "price": 14.5
+      },
+      {
+        "name": "Curry classic svinjetina",
+        "desc": "Curry - kurkuma sos, povrće, prilog riža ili pasta",
+        "price": 14.5
+      }
+    ],
+    "Rižoto": [
+      {
+        "name": "Rižoto Tokyo *posno",
+        "desc": "Rižoto Tokyo",
+        "price": 12.5
+      },
+      {
+        "name": "Rižoto Thai sa kikirikijem *posno",
+        "desc": "Riža, kikiriki, ljuto",
+        "price": 12.5
+      },
+      {
+        "name": "Rižoto sriracha *posno",
+        "desc": "Riža, sriracha umak,ljuto",
+        "price": 12.0
+      },
+      {
+        "name": "Rižoto susam *posno",
+        "desc": "Rižoto susam",
+        "price": 12.0
+      },
+      {
+        "name": "Rižoto povrće *posno",
+        "desc": "Riža, povrće",
+        "price": 11.5
+      },
+      {
+        "name": "Rižoto jaja i povrće",
+        "desc": "Jaja, povrće",
+        "price": 11.5
+      },
+      {
+        "name": "Rižoto curry i kurkuma *posno",
+        "desc": "Riža, curry, kurkuma",
+        "price": 11.5
+      },
+      {
+        "name": "Rižoto soya *posno",
+        "desc": "Riža, soya",
+        "price": 11.5
+      },
+      {
+        "name": "Rižoto chili *posno",
+        "desc": "Ljuto",
+        "price": 11.5
+      },
+      {
+        "name": "Rižoto Sambal oelek *posno",
+        "desc": "Ljuto",
+        "price": 11.5
+      },
+      {
+        "name": "Rižoto Tandori *posno",
+        "desc": "Ljuto",
+        "price": 11.5
+      },
+      {
+        "name": "Rižoto Teriyaki *posno",
+        "desc": "Rižoto Teriyaki",
+        "price": 11.5
+      }
+    ],
+    "Lignje": [
+      {
+        "name": "Grill lignje *posno",
+        "desc": "Grilovane lignje sa povrćem u woku",
+        "price": 19.5
+      },
+      {
+        "name": "Kikiriki lignje *posno",
+        "desc": "Soya, sos oyster od kamenica, povrće, riža",
+        "price": 18.5
+      },
+      {
+        "name": "Italy pasta lignje *posno",
+        "desc": "Paradajz sos, bosiljak, bijeli luk, pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Oliva lignje *posno",
+        "desc": "Maslinovo ulje, povrće, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Thailand lignje *posno",
+        "desc": "Slatko - kiselo  - ljuto - ljuti sos, riža",
+        "price": 18.5
+      },
+      {
+        "name": "Shangai lignje *posno",
+        "desc": "Kiselo - ljuti sos, povrće, ljuto  riža",
+        "price": 18.5
+      },
+      {
+        "name": "Bangkok extreme lignje *posno",
+        "desc": "Extra ljuto - kiseli sos, povrće, riža",
+        "price": 18.5
+      },
+      {
+        "name": "Teriyaki lignje *posno",
+        "desc": "Japanski sos, povrće, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Tandoori lignje *posno",
+        "desc": "Indijski blago ljuti sos, blago ljuto povrće, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Sweet China lignje *posno",
+        "desc": "Kineski slatki sos, povrće, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Sweet chili lignje *posno",
+        "desc": "Slatko - ljuti sos, povrće, ljuto, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Yellow curry lignje *posno",
+        "desc": "Tajlandski curry, blago ljuto, povrće, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Green curry lignje *posno",
+        "desc": "Tajlandski ljuti curry, extra ljuto, povrće, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Red curry lignje *posno",
+        "desc": "Tajlandski extra ljuti curry, extra ljuto, povrće, prilog riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Sriracha lignje *posno",
+        "desc": "Sos, povrće, prilog, ljuto, riža ili pasta",
+        "price": 18.5
+      },
+      {
+        "name": "Soya lignje *posno",
+        "desc": "Kineski soya sos, povrće, prilog riža ili pasta",
+        "price": 17.5
+      },
+      {
+        "name": "Susam lignje *posno",
+        "desc": "Kineski soya sos, povrće, susam, prilog riža ili pasta",
+        "price": 17.5
+      },
+      {
+        "name": "Chili lignje *posno",
+        "desc": "Paradajz sos, soya, chili, povrće, ljuto, prilog riža ili pasta",
+        "price": 17.5
+      },
+      {
+        "name": "Oyster lignje *posno",
+        "desc": "Sos, povrće, prilog riža ili pasta",
+        "price": 17.5
+      }
+    ],
+    "Morski plodovi": [
+      {
+        "name": "Fresh thai morski plodovi *posno",
+        "desc": "Soya sos, sos oyster od kamenica, povrće, riža",
+        "price": 18.5
+      },
+      {
+        "name": "Kikiriki morski plodovi *posno",
+        "desc": "Soya, sos oyster od kamenica, povrće, riža",
+        "price": 16.5
+      },
+      {
+        "name": "Italy morski plodovi *posno",
+        "desc": "Paradajz sos, bosiljak, bijeli luk, pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Thailand morski plodovi *posno",
+        "desc": "Slatko - kiselo - ljuti sos, ljuto, riža",
+        "price": 16.5
+      },
+      {
+        "name": "Shangai morski plodovi *posno",
+        "desc": "Kiselo - ljuti sos, povrće, ljuto, riža",
+        "price": 16.5
+      },
+      {
+        "name": "Bangkok extreme morski plodovi *posno",
+        "desc": "Riža, extra ljuto - kiseli sos, povrće",
+        "price": 16.5
+      },
+      {
+        "name": "Sweet China morski plodovi *posno",
+        "desc": "Kineski slatki sos, povrće, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Sweet chili morski plodovi *posno",
+        "desc": "Slatko - ljuti sos, povrće, ljuto, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Yellow curry morski plodovi *posno",
+        "desc": "Tajlandski curry, povrće, blago ljuto, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Green curry morski plodovi *posno",
+        "desc": "Tajlandski ljuti curry, extra ljuto,  povrće, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Red curry morski plodovi *posno",
+        "desc": "Tajlandski extra ljuti curry, povrće, extra ljuto, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Hoisin morski plodovi *posno",
+        "desc": "Kineski blago ljuti sos, povrće, blago ljuto, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Sambal oelek morski plodovi *posno",
+        "desc": "Indonezijski sos, ljuto, povrće, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Sriracha morski plodovi *posno",
+        "desc": "Sos, ljuto,  povrće, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Tokyo morski plodovi *posno",
+        "desc": "Sos, povrće, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Siciliana morski plodovi *posno",
+        "desc": "Sos, povrće, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Barbeque morski plodovi *posno",
+        "desc": "Sos, blago ljuto, povrće, prilog riža ili pasta",
+        "price": 16.5
+      },
+      {
+        "name": "Soya morski plodovi *posno",
+        "desc": "Kineski soya sos, povrće, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Susam morski plodovi *posno",
+        "desc": "Kineski soya sos, povrće, susam, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Chili morski plodovi *posno",
+        "desc": "Paradajz sos, soya, chili, ljuto, povrće, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Oliva morski plodovi *posno",
+        "desc": "Maslinovo ulje, povrće, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Teriyaki morski plodovi *posno",
+        "desc": "Japanski sos, povrće, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Tandoori morski plodovi *posno",
+        "desc": "Indijski blago ljuti sos, blago ljuto, povrće, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Curry classic morski plodovi *posno",
+        "desc": "Curry - kurkuma sos, povrće, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Oyster morski plodovi *posno",
+        "desc": "Sos, povrće, prilog riža ili pasta",
+        "price": 15.5
+      },
+      {
+        "name": "Hot soup - morski plodovi *posno",
+        "desc": "Extra ljuto - kisela, prilog riža ili pasta",
+        "price": 9.5
+      }
+    ],
+    "Povrće posno": [
+      {
+        "name": "Peking street food *posno",
+        "desc": "Bijeli luk, prilog riža ili pasta",
+        "price": 13.5
+      },
+      {
+        "name": "Grilovano povrće *posno",
+        "desc": "Prilog riža ili pasta",
+        "price": 12.5
+      },
+      {
+        "name": "Grill curry *posno",
+        "desc": "Prilog riža ili pasta",
+        "price": 12.5
+      },
+      {
+        "name": "Fresh peppers *posno",
+        "desc": "Riža, tri vrste paprike, sos, bijeli luk",
+        "price": 12.5
+      },
+      {
+        "name": "Italy povrće *posno",
+        "desc": "Paradajz sos, bosiljak, bijeli luk, pasta",
+        "price": 11.5
+      },
+      {
+        "name": "Špinat pasta *posno",
+        "desc": "Špinat pasta",
+        "price": 11.5
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Trieste salata",
+        "desc": "Piletina, pršut, zelena salata, rukola, paradajz, Dimljeni sir, Parmezan",
+        "price": 16.5
+      },
+      {
+        "name": "Susam salata - lignje *posno",
+        "desc": "Zelena salata, susam, crne masline, maslinovo ulje, tjestenina, balsamico",
+        "price": 16.5
+      },
+      {
+        "name": "Lukijan salata - piletina",
+        "desc": "Tjestenina, zelena salata, paradajz sos, med, senf",
+        "price": 14.0
+      },
+      {
+        "name": "Fantasy salata",
+        "desc": "Zelena salata, paradajz, jogurt sos",
+        "price": 13.5
+      },
+      {
+        "name": "Susam salata",
+        "desc": "Zelena salata, susam, crne masline, maslinovo ulje, tjestenina, balsamico",
+        "price": 13.0
+      },
+      {
+        "name": "Feta salata",
+        "desc": "Paradajz, Feta, crne masline, maslinovo ulje, tjestenina",
+        "price": 13.0
+      },
+      {
+        "name": "Jogurt sos salata",
+        "desc": "Jogurt sos, tjestenina",
+        "price": 12.0
+      },
+      {
+        "name": "Tuna salata *posno",
+        "desc": "Tuna, zelena salata, tjestenina, paradajz, maslinovo ulje, crne masline, balsamico",
+        "price": 12.0
+      },
+      {
+        "name": "Mexico salata *posno",
+        "desc": "Tuna, povrće, zelena salata, tjestenina, balsamico",
+        "price": 12.0
+      },
+      {
+        "name": "Salata Feta - povrće",
+        "desc": "Feta, paradajz, zelena salata",
+        "price": 10.5
+      }
+    ]
+  }
+}

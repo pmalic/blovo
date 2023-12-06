@@ -1,0 +1,287 @@
+{
+  "name": "Pekara Ipek",
+  "rating": null,
+  "count": null,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Pizza Piroška 200g",
+        "desc": "Šunka, sir, ketchup, gljive",
+        "price": 2.5
+      },
+      {
+        "name": "Pizza Capricossa 180g",
+        "desc": "Šunka, sir, ketchup, origano, gljive",
+        "price": 2.5
+      },
+      {
+        "name": "Pizza Pršut 180g",
+        "desc": "Pršut, sir, ketchup, origano, gljive",
+        "price": 3.0
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Pizza Ipek 32 cm",
+        "desc": "32 cm",
+        "price": 9.0
+      },
+      {
+        "name": "Pizza Capricossa 32cm",
+        "desc": "Šunka, sir, ketchup, origano, gljive",
+        "price": 7.5
+      },
+      {
+        "name": "Pizza Pršut 180g",
+        "desc": "Pršut, sir, ketchup, origano, gljive",
+        "price": 3.0
+      },
+      {
+        "name": "Pizza Kulen 180g",
+        "desc": "Kulen, sir, ketchup, origano",
+        "price": 3.0
+      },
+      {
+        "name": "Pizza Piroška 200g",
+        "desc": "Šunka, sir, ketchup, gljive",
+        "price": 2.5
+      },
+      {
+        "name": "Pizza Capricossa 180g",
+        "desc": "Šunka, sir, ketchup, origano, gljive",
+        "price": 2.5
+      }
+    ],
+    "Kroasani": [
+      {
+        "name": "Štrudla orah 150g",
+        "desc": "150g",
+        "price": 2.5
+      },
+      {
+        "name": "Štrudla mak 150g",
+        "desc": "150g",
+        "price": 2.5
+      },
+      {
+        "name": "Kroasan viršla 182g",
+        "desc": "182g",
+        "price": 2.0
+      },
+      {
+        "name": "Ljevuša",
+        "desc": "Ljevuša",
+        "price": 2.0
+      },
+      {
+        "name": "Kroasan sir, šunka 200g",
+        "desc": "200g",
+        "price": 1.7
+      },
+      {
+        "name": "Kroasan eurokrem 176g",
+        "desc": "176g",
+        "price": 1.7
+      },
+      {
+        "name": "Kroasan višnja 150g",
+        "desc": "150g",
+        "price": 1.7
+      },
+      {
+        "name": "Projice sa sirom 100g",
+        "desc": "100g",
+        "price": 0.8
+      },
+      {
+        "name": "Jogurt kifle",
+        "desc": "Pizza, sir, kulen, viršla",
+        "price": 0.8
+      },
+      {
+        "name": "Slani štapić 100g",
+        "desc": "100g",
+        "price": 0.5
+      },
+      {
+        "name": "Bijela kifla 100g",
+        "desc": "100g",
+        "price": 0.5
+      },
+      {
+        "name": "Slani peretak 100g",
+        "desc": "100g",
+        "price": 0.5
+      }
+    ],
+    "Pita": [
+      {
+        "name": "Pita Krompir 1kg",
+        "desc": "Brašno tip 400, so, krompir",
+        "price": 11.0
+      },
+      {
+        "name": "Pita Tikvica 1kg",
+        "desc": "Brašno tip 400, so, tikvice",
+        "price": 11.0
+      },
+      {
+        "name": "Pita Zelje 1kg",
+        "desc": "Brašno tip 400, so, zelje",
+        "price": 11.0
+      },
+      {
+        "name": "Slagana Gurmanska 300g sir",
+        "desc": "Piletina, sir, gljive",
+        "price": 4.0
+      },
+      {
+        "name": "Slagana Sirnica 300g sir",
+        "desc": "Sir",
+        "price": 3.7
+      },
+      {
+        "name": "Slagani Burek 300g sir",
+        "desc": "Junetina meso",
+        "price": 3.7
+      },
+      {
+        "name": "Pita višnja",
+        "desc": "Višnja, šećer, brašno, so",
+        "price": 2.5
+      },
+      {
+        "name": "Pita jabuka",
+        "desc": "Jabuka, šećer, brašno, so",
+        "price": 2.5
+      },
+      {
+        "name": "Ljena pita",
+        "desc": "Jabuka, šećer, brašno, so",
+        "price": 2.5
+      }
+    ],
+    "Sendvič": [
+      {
+        "name": "Sendvič piletina u marinadi 200g",
+        "desc": "Piletina",
+        "price": 4.0
+      },
+      {
+        "name": "Sendvic pileći burger 200g",
+        "desc": "Piletina",
+        "price": 4.0
+      },
+      {
+        "name": "Sendvič Ipek 200g",
+        "desc": "Sa roštiljskom kobasicom",
+        "price": 4.0
+      },
+      {
+        "name": "Sendvič kulen sir 180g",
+        "desc": "Kulen, sir",
+        "price": 3.3
+      },
+      {
+        "name": "Sendvič šunka sir 180g",
+        "desc": "Šunka, sir, pavlaka, zelena salata",
+        "price": 3.0
+      }
+    ],
+    "Slavski hljeb": [
+      {
+        "name": "Slavski hljeb",
+        "desc": "Brašno tip 500, gustin, so, ulje, šećer",
+        "price": 15.0
+      }
+    ],
+    "Buhtle": [
+      {
+        "name": "Krofna bijela čokolada",
+        "desc": "Bijela Čokolada",
+        "price": 1.3
+      },
+      {
+        "name": "Krofna crna čokolada",
+        "desc": "Crna Čokolada",
+        "price": 1.3
+      },
+      {
+        "name": "Buhtla višnja 130g",
+        "desc": "Višnja",
+        "price": 1.0
+      },
+      {
+        "name": "Buhtla jabuka 130g",
+        "desc": "Jabuka",
+        "price": 1.0
+      },
+      {
+        "name": "Buhtla Krem 130g",
+        "desc": "Eurokrem",
+        "price": 1.0
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Fanta",
+        "price": 2.0
+      },
+      {
+        "name": "Viva multivitamin",
+        "price": 2.0
+      },
+      {
+        "name": "Viva breskva",
+        "price": 2.0
+      },
+      {
+        "name": "Jogurt flašica",
+        "desc": "500m",
+        "price": 2.0
+      },
+      {
+        "name": "Coca-Cola",
+        "price": 2.0
+      },
+      {
+        "name": "Viva brusnica",
+        "price": 2.0
+      },
+      {
+        "name": "Voda gazirana Viva",
+        "price": 1.5
+      },
+      {
+        "name": "Jogurt flašica 250ml",
+        "desc": "250ml",
+        "price": 1.4
+      },
+      {
+        "name": "Kefir flašica 250ml",
+        "desc": "250ml",
+        "price": 1.4
+      },
+      {
+        "name": "Jogurt Balans",
+        "desc": "250ml",
+        "price": 1.4
+      },
+      {
+        "name": "Čokoladno Mlijeko",
+        "desc": "200ml",
+        "price": 1.3
+      },
+      {
+        "name": "Jogurt čaša 180ml",
+        "desc": "180ml",
+        "price": 1.2
+      },
+      {
+        "name": "Voda negazirana Viva",
+        "price": 1.2
+      }
+    ]
+  }
+}

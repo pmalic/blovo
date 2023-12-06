@@ -1,0 +1,172 @@
+{
+  "name": "Banjalučanka Plus",
+  "rating": 0.99,
+  "count": 90,
+  "service_fee": 0,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Mala plata",
+        "desc": "2 ćevapa, 2 kobasice, 1 šiš, 1 pileći file, 2 lepinje, pomfrit",
+        "price": 16.0
+      },
+      {
+        "name": "Pileći batak 220 g sa lepinjom",
+        "desc": "Piletina, lepinja",
+        "price": 8.9
+      },
+      {
+        "name": "Velika plata",
+        "desc": "4 ćevapa, 2 kobasice, 2 šiša, 1 rolovani ražnjić, 1 pileći file, 1 male pileće krpice, 1 punjeni ražnjić, 4 lepinje, pomfrit, šampinjoni",
+        "price": 34.9
+      }
+    ],
+    "Jela s roštilja": [
+      {
+        "name": "Biftek 200 gr s lepinjom",
+        "desc": "Biftek, lepinja",
+        "price": 19.5
+      },
+      {
+        "name": "Bubrežnjak",
+        "desc": "2 teleće krmenadle po 100 gr, 2 loja sa bubregom oko 200 gr, lepinja, teleća kremenadla, bubrežnjak 300 gr, lepinja",
+        "price": 11.2
+      },
+      {
+        "name": "Kombinacija Ćevap šiš",
+        "desc": "Velika porcija: 2x šiš ćevap, 2x ćevap, cijela lepinja, Srednja porcija: 2x šiš ćevap, 1x ćevap, cijela lepinja, Mala porcija: 1x šiš ćevap, 1x ćevap, pola lepinje",
+        "price": 5.9
+      },
+      {
+        "name": "Teleće krpice",
+        "desc": "200 gr Velika, cijela lepinja, 100 gr mala, pola lepinje",
+        "price": 5.5
+      },
+      {
+        "name": "Dimljene kobasice",
+        "desc": "Velika porcija 5 komada u lepinji, srednja porcija 4 komada u lepinji, mala porcija 3 komada u pola lepinje",
+        "price": 4.9
+      },
+      {
+        "name": "Dimljena peka",
+        "desc": "Velika 170 gr u lepinji, mala 85 gr u lepinji",
+        "price": 4.7
+      },
+      {
+        "name": "Pljeskavica",
+        "desc": "Velika 130 gr u lepinji, mala 85 gr u lepinji",
+        "price": 4.4
+      },
+      {
+        "name": "Ćevapi s lepinjom",
+        "desc": "Velika porcija: cijela lepinja, srednja porcija: cijela lepinja, mala porcija: pola lepinje",
+        "price": 4.0
+      },
+      {
+        "name": "Rolovani ražnjići",
+        "desc": "Teletina, slanina",
+        "price": 3.9
+      },
+      {
+        "name": "Šiš ćevapi",
+        "desc": "Velika porcija: 3 šiša, cijela lepinja, srednja porcija: 2 šiša, cijela lepinja, mala porcija: 1 šiš, pola lepinje",
+        "price": 3.2
+      }
+    ],
+    "Jela od piletine": [
+      {
+        "name": "Pileći batak 220 g sa lepinjom",
+        "desc": "Piletina, lepinja",
+        "price": 8.9
+      },
+      {
+        "name": "Pileća krilca 250 gr s lepinjom",
+        "desc": "Piletina, lepinja",
+        "price": 5.3
+      },
+      {
+        "name": "Pileće krpice",
+        "desc": "Velika porcija: 200 gr, lepinja; mala porcija 100 gr, pola lepinje",
+        "price": 4.3
+      },
+      {
+        "name": "Pileći file",
+        "desc": "Velika porcija: 200 gr, lepinja; mala porcija 100 gr, pola lepinje",
+        "price": 3.9
+      }
+    ],
+    "Plate": [
+      {
+        "name": "Banjalučka plata",
+        "desc": "6 ćevapa, 2 kobasice, 2 šiša, 2 rolovana ražnjića, 2 pileća filea, 1 male pileće krpice, 1 mala Peka, 5 lepinja, pomfrit, šampinjoni",
+        "price": 44.9
+      },
+      {
+        "name": "Velika plata",
+        "desc": "4 ćevapa, 2 kobasice, 2 šiša, 1 rolovani ražnjić, 1 pileći file, 1 male pileće krpice, 1 punjeni ražnjić, 4 lepinje, pomfrit, šampinjoni",
+        "price": 34.9
+      },
+      {
+        "name": "Mala plata",
+        "desc": "2 ćevapa, 2 kobasice, 1 šiš, 1 pileći file, 2 lepinje, pomfrit",
+        "price": 16.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Šopska salata",
+        "desc": "Paradajz, krastavac, luk, paprika, sir 250 gr, kutija",
+        "price": 3.5
+      },
+      {
+        "name": "Miješana salata",
+        "desc": "Miješana salata",
+        "price": 3.0
+      },
+      {
+        "name": "Sezonska salata",
+        "desc": "Paradajz, krastavac 250 gr, kutija",
+        "price": 3.0
+      },
+      {
+        "name": "Urnebes",
+        "desc": "Bijeli luk, kajmak, luk, tucana paprika 80 gr, kutija",
+        "price": 3.0
+      },
+      {
+        "name": "Kupus salata",
+        "desc": "Kupus 325 gr, kutija",
+        "price": 2.5
+      }
+    ],
+    "Pića": [
+      {
+        "name": "Jogurt",
+        "desc": "Čaša 2dl",
+        "price": 1.5
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Grilovani šampinjoni s lepinjom 250 gr",
+        "desc": "Šampinjoni sa žara 250 gr u lepinji",
+        "price": 3.5
+      },
+      {
+        "name": "Grilovano povrće s lepinjom 250 gr",
+        "desc": "Povrće sa žara u lepinji 250 gr u lepinji",
+        "price": 3.5
+      },
+      {
+        "name": "Pomfrit",
+        "desc": "200 gr, kutija",
+        "price": 3.0
+      },
+      {
+        "name": "Kajmak",
+        "desc": "50 gr, kutija",
+        "price": 2.5
+      }
+    ]
+  }
+}

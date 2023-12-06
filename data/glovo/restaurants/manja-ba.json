@@ -1,0 +1,364 @@
+{
+  "name": "Manja",
+  "rating": 0.97,
+  "count": 115,
+  "service_fee": 2.3,
+  "menu": {
+    "SOKOVI": [
+      {
+        "name": "Kafa Hell cappuccino 0.25 l",
+        "desc": "Limenka",
+        "price": 3.0
+      },
+      {
+        "name": "Kafa Hell latte 0.25 l",
+        "desc": "Limenka",
+        "price": 3.0
+      },
+      {
+        "name": "Fanta narandža 0,5 l",
+        "desc": "0.5 l",
+        "price": 1.8
+      },
+      {
+        "name": "Coca-Cola 0.5 l",
+        "desc": "0.5 l",
+        "price": 1.8
+      },
+      {
+        "name": "Vitinka multivitamin 0.5 l",
+        "desc": "0.5 l",
+        "price": 1.8
+      },
+      {
+        "name": "Ledeni čaj breskva 0.5 l",
+        "desc": "0.5 l",
+        "price": 1.8
+      },
+      {
+        "name": "Cola Xixo 0.25 l",
+        "desc": "Limenka",
+        "price": 1.2
+      }
+    ],
+    "JOGURT": [
+      {
+        "name": "Jogurt balans 1/2 l PET 1%",
+        "desc": "1/2",
+        "price": 2.5
+      },
+      {
+        "name": "1075  Jogurt MK 2,8% mm  250 gr",
+        "desc": "250 gr",
+        "price": 1.45
+      },
+      {
+        "name": "Jogurt čaša 1,6% Vitalia",
+        "desc": "Vitalia",
+        "price": 1.0
+      }
+    ],
+    "DESERTI": [
+      {
+        "name": "Tiramisu desertić 170 gr",
+        "desc": "Kuhana krema ukus kafe",
+        "price": 4.1
+      },
+      {
+        "name": "Voćni desertić 160 gr",
+        "desc": "Kuhana krema, šlag, preliv višnja",
+        "price": 4.1
+      },
+      {
+        "name": "Čokoladni desertić 145 gr",
+        "desc": "Kuhana krema, šlag i čokolada",
+        "price": 4.0
+      },
+      {
+        "name": "Žito malo za ponijeti 200 gr",
+        "desc": "Kuhana pšenica sa dodatkom oraha (posno)",
+        "price": 3.2
+      }
+    ],
+    "MINI TORTE": [
+      {
+        "name": "Milky caramel torta 740 gr",
+        "desc": "Lagana mus krema i karamel",
+        "price": 21.0
+      },
+      {
+        "name": "Kraljica čokolade torta 850 gr",
+        "desc": "Kuhani filovi crna, mliječna i bijela čokolada",
+        "price": 20.2
+      },
+      {
+        "name": "Tuti fruti torta 850 gr pakovanje",
+        "desc": "Kremasti fil sa breskvama i voćnim prelivom",
+        "price": 20.2
+      },
+      {
+        "name": "Torta Kranchi 650 gr pakovanje",
+        "desc": "Kremasti filovi sa lješnikom i čokoladom",
+        "price": 20.2
+      },
+      {
+        "name": "Čokoladna torta 870 gr",
+        "desc": "Čokoladna torta sa okusom ruma",
+        "price": 19.7
+      },
+      {
+        "name": "Torta kokonela 840 gr pakovanje",
+        "desc": "Kremasta kombinacija bijele čokolade, kokosa i tamnog ganaža",
+        "price": 19.1
+      },
+      {
+        "name": "Orange torta 750 gr",
+        "desc": "Kremasta kombinacija narandže i čokolade",
+        "price": 18.8
+      },
+      {
+        "name": "Sacher torta 620 gr",
+        "desc": "Čokoladna črvsta torta, džem kajsija i preliv od tamne čokolade",
+        "price": 18.5
+      }
+    ],
+    "PAKOVANI KOLAČI": [
+      {
+        "name": "Kolač šumsko voće 830 gr",
+        "desc": "Voćni kolač, plazma, maskarpone",
+        "price": 15.1
+      },
+      {
+        "name": "Banofi kocke 720 gr",
+        "desc": "Čokoladno voćni kolač sa karamel prelivom",
+        "price": 14.4
+      },
+      {
+        "name": "Maxi mix 400 gr",
+        "desc": "Miks trajnih kolača Rafaelo, Bajadera, Bombonjerice, kuglice",
+        "price": 11.4
+      },
+      {
+        "name": "Krempita 650 gr",
+        "desc": "Kremasti kolač sa lisnatim tijestom",
+        "price": 10.8
+      },
+      {
+        "name": "Baklava 500 gr",
+        "desc": "Zaliveni kolač sa orasima posno",
+        "price": 10.1
+      },
+      {
+        "name": "Macaronsi paket 87 gr",
+        "desc": "Biskvit sa bademom, 3 okusa, 6 komada u paketu",
+        "price": 10.0
+      },
+      {
+        "name": "Orah kiflice 170 gr",
+        "desc": "Orasi sjeckani i mljeveni, bjelanjak",
+        "price": 9.5
+      },
+      {
+        "name": "Hurmašica 6 kom 550 gr",
+        "desc": "Zaliveni biskvit kolač",
+        "price": 8.0
+      }
+    ],
+    "SUVI KOLAČI": [
+      {
+        "name": "Pita od jabuka 100 gr",
+        "desc": "Lijena pita sa jabukom",
+        "price": 2.2
+      },
+      {
+        "name": "Mafin s sa čoko kremom 90 gr",
+        "desc": "Mekano tijesto sa čokoladnim kremom",
+        "price": 2.2
+      },
+      {
+        "name": "Mafin sa čokoladom 90 gr",
+        "desc": "Mekano tijesto sa komadićima čokolade",
+        "price": 2.2
+      },
+      {
+        "name": "Pita od višanja 115 gr",
+        "desc": "Lijena pita sa višnjama",
+        "price": 2.2
+      },
+      {
+        "name": "Čokoladni kolačići 55 gr",
+        "desc": "Biskvit sa čokoladnim punjenjem",
+        "price": 2.0
+      },
+      {
+        "name": "Cookies čokolada 40 gr",
+        "desc": "Crni keks sa komadićima bijele čokolade",
+        "price": 1.0
+      },
+      {
+        "name": "Cookies bijeli 40 gr",
+        "desc": "Bijeli keks sa komadićima crne čokolade",
+        "price": 1.0
+      }
+    ],
+    "UKRASI": [
+      {
+        "name": "Ukrasna pločica Srećna godišnjica braka crna",
+        "desc": "Čokoladna pločica natpis",
+        "price": 4.6
+      }
+    ],
+    "BAGETI": [
+      {
+        "name": "Kukuruzni baget pečen 200 gr",
+        "desc": "Kukuruzno miješano pecivo",
+        "price": 1.8
+      },
+      {
+        "name": "Baget bijeli pečeno 250 gr",
+        "desc": "Pšenično bijelo pecivo",
+        "price": 1.75
+      },
+      {
+        "name": "Crni baguette pečen 200 gr",
+        "desc": "Integralno pšenično pecivo",
+        "price": 1.6
+      }
+    ],
+    "LISNATA PECIVA": [
+      {
+        "name": "Lisnato višnja pečeno 80 gr",
+        "desc": "Višnja nadjev posno",
+        "price": 1.9
+      },
+      {
+        "name": "Lisnato sa vanilijom pečeno 50 gr",
+        "desc": "Vanilija nadjev posno",
+        "price": 1.0
+      },
+      {
+        "name": "Lisnato sa čokoladom 35 gr pečeno",
+        "desc": "Čokolada nadjev posno",
+        "price": 0.7
+      },
+      {
+        "name": "Mini lisnato pizza šunka 18 gr pečeno",
+        "desc": "Šunka, paradajz sos",
+        "price": 0.55
+      },
+      {
+        "name": "Mini lisnato jaffa 20 gr pečeno",
+        "desc": "Čokolada i narandža nadjev",
+        "price": 0.55
+      },
+      {
+        "name": "4 Mini lisnato orah pečeno 20g",
+        "desc": "Orah nadjev posno",
+        "price": 0.55
+      }
+    ],
+    "PECIVO PEČENO": [
+      {
+        "name": "Lepinja 160 gr",
+        "desc": "Vazdušasto pšenično pecivo",
+        "price": 1.2
+      },
+      {
+        "name": "Pecivo Aktiv D 100 gr",
+        "desc": "Integralno pecivo sa D vitaminom",
+        "price": 0.9
+      },
+      {
+        "name": "Sendvič kifla pečeno 100 gr",
+        "desc": "Pšenično bijelo pecivo",
+        "price": 0.9
+      },
+      {
+        "name": "Klipić pečeno",
+        "desc": "Pšenično bijelo pecivo",
+        "price": 0.6
+      }
+    ],
+    "PIZZE, FOKAĆE": [
+      {
+        "name": "Tortilja chilli piletina 280 gr",
+        "desc": "Piletina, grah, kukuruz, chili majonez",
+        "price": 5.65
+      },
+      {
+        "name": "Tortilja piletina 300 gr",
+        "desc": "Gril piletina, svježe povrće, paradajaz, paprika, krastavac",
+        "price": 5.4
+      },
+      {
+        "name": "Italijanska pogačica sir šunka 200 gr",
+        "desc": "Nadjevno pecivo, sir, šunka, pavlaka",
+        "price": 3.6
+      },
+      {
+        "name": "Mini pizza pečeno 200 gr",
+        "desc": "Nadjevno pecivo, šunka, kulen, tvrdi sir i sos",
+        "price": 3.6
+      }
+    ],
+    "PITE": [
+      {
+        "name": "Mini burek pečeno 120 gr",
+        "desc": "Pita sa nadjevom od junećeg mesa",
+        "price": 2.0
+      },
+      {
+        "name": "Mini sirnica pečeno 120 gr",
+        "desc": "Pita sa nadjevom od sira i jaja",
+        "price": 2.0
+      },
+      {
+        "name": "Crispy rolls meksički 105 gr pečeno",
+        "desc": "Nadjev: juneće meso i pikantni meksički mix",
+        "price": 2.0
+      },
+      {
+        "name": "Pita sa tikvicama pečena 120 gr",
+        "desc": "Pita sa nadjevom od tikvica",
+        "price": 2.0
+      },
+      {
+        "name": "Mini krompiruša pečeno 120 gr",
+        "desc": "Pita sa nadjevom od krompira",
+        "price": 1.8
+      }
+    ],
+    "SENDVIČI": [
+      {
+        "name": "Sendvič sa pohovanom piletinom",
+        "desc": "Pohovana piletina, krastavac, paradajz, zelena salata",
+        "price": 6.0
+      },
+      {
+        "name": "Sendvič sa roštilj piletinom",
+        "desc": "Gril piletina, krastavac, paradajz, zelena salata",
+        "price": 6.0
+      },
+      {
+        "name": "Sendvič sa pršutom 180 gr",
+        "desc": "Bijelo pecivo, pršut svinjski, sir, paradajz",
+        "price": 4.7
+      },
+      {
+        "name": "Sendvič sa kulenom 170 gr",
+        "desc": "Bijelo pecivo, kulen svinjski, sir, zelena salata i vajkrem",
+        "price": 4.6
+      },
+      {
+        "name": "Sendvič sa ćuretinom i fetom 175 gr",
+        "desc": "Raževo pecivo, ćureća šunka, feta sir i paradajz",
+        "price": 3.6
+      },
+      {
+        "name": "Francuski sendvič 180 gr",
+        "desc": "Nadjevno pecivo, kulen, šunka, kiseli krastavci, sir",
+        "price": 3.5
+      }
+    ]
+  }
+}

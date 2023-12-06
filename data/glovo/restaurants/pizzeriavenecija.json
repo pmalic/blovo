@@ -1,0 +1,498 @@
+{
+  "name": "Venecia",
+  "rating": 0.99,
+  "count": 89,
+  "service_fee": 1.5,
+  "menu": {
+    "Promocije": [
+      {
+        "name": "Combo 1",
+        "promo": "-15%",
+        "desc": "Pizza Capricciosa velika, Pizza Venecija velika, 1x Pepsi 0.33 l limenka, 1x Mirinda 0.33 l",
+        "price": 23.0,
+        "promo_price": 19.55
+      },
+      {
+        "name": "Combo 2",
+        "promo": "-15%",
+        "desc": "Pizza Porodična 1/2 Capricciosa 1/2 Pizza Venecija, 4x palačinka eurokrem Plazma, 2x Vivia Vitamin plus",
+        "price": 40.0,
+        "promo_price": 34.0
+      },
+      {
+        "name": "Combo 3",
+        "promo": "-15%",
+        "desc": "Pizza Dajak velika, Preklopljena pizza mala, 1x Pepsi 0.33 l limenka, 1x Pepsi Max 0.33 l limenka",
+        "price": 23.5,
+        "promo_price": 19.98
+      }
+    ],
+    "Najprodavanije": [
+      {
+        "name": "Pizza Venecija velika",
+        "desc": "Sos, sir, kulen, panceta, šampinjoni",
+        "price": 10.0
+      },
+      {
+        "name": "Combo 1",
+        "promo": "-15%",
+        "desc": "Pizza Capricciosa velika, Pizza Venecija velika, 1x Pepsi 0.33 l limenka, 1x Mirinda 0.33 l",
+        "price": 23.0,
+        "promo_price": 19.55
+      },
+      {
+        "name": "Pizza Gondola - velika",
+        "desc": "Sos, sir, šunka, peka, šampinjoni, masline",
+        "price": 12.0
+      }
+    ],
+    "Combo ponuda": [
+      {
+        "name": "Combo 2",
+        "promo": "-15%",
+        "desc": "Pizza Porodična 1/2 Capricciosa 1/2 Pizza Venecija, 4x palačinka eurokrem Plazma, 2x Vivia Vitamin plus",
+        "price": 40.0,
+        "promo_price": 34.0
+      },
+      {
+        "name": "Combo 3",
+        "promo": "-15%",
+        "desc": "Pizza Dajak velika, Preklopljena pizza mala, 1x Pepsi 0.33 l limenka, 1x Pepsi Max 0.33 l limenka",
+        "price": 23.5,
+        "promo_price": 19.98
+      },
+      {
+        "name": "Combo 1",
+        "promo": "-15%",
+        "desc": "Pizza Capricciosa velika, Pizza Venecija velika, 1x Pepsi 0.33 l limenka, 1x Mirinda 0.33 l",
+        "price": 23.0,
+        "promo_price": 19.55
+      },
+      {
+        "name": "Combo 4",
+        "promo": "-10%",
+        "desc": "Pizza Venecija velika, 1x Pepsi 0.33 l limenka",
+        "price": 12.0,
+        "promo_price": 10.8
+      }
+    ],
+    "Male pizze (24cm)": [
+      {
+        "name": "Dimljeni losos pizza  mala",
+        "desc": "Sos, sir, dimljeni losos, šampinjoni",
+        "price": 9.0
+      },
+      {
+        "name": "Pizza Dajak mala",
+        "desc": "Sos, sir, kulen, pančeta, šampinjoni, pavlaka, jaje, masline, feferone",
+        "price": 9.0
+      },
+      {
+        "name": "Pizza Gondola  mala",
+        "desc": "Sos, sir, šunka, peka, šampinjoni, masline",
+        "price": 9.0
+      },
+      {
+        "name": "Bolognese pizza  mala",
+        "desc": "Sos, sir, bolognese, panceta, šampinjoni",
+        "price": 9.0
+      },
+      {
+        "name": "Pizza Galija  mala",
+        "desc": "Sos, sir, šunka, suhi vrat, šampinjoni, pavlaka, jaje, masline",
+        "price": 9.0
+      },
+      {
+        "name": "Pizza Venecija  mala",
+        "desc": "Sos, sir, kulen, panceta, šampinjoni",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza Maestro  mala",
+        "desc": "Sos, sir, pančeta, jaje, šunka, šampinjoni",
+        "price": 8.0
+      },
+      {
+        "name": "Preklopljena pizza  mala",
+        "desc": "Sos, sir, šunka, šampinjoni, pavlaka, susam",
+        "price": 7.5
+      },
+      {
+        "name": "Pizza Vegeterijana mala",
+        "desc": "Posno, sos, sir, paradajz, paprika, crni luk, šampinjoni",
+        "price": 7.5
+      },
+      {
+        "name": "Pizza Tonno  mala",
+        "desc": "Posno, sos, sir, tunjevina, crni luk, šampinjoni",
+        "price": 7.5
+      },
+      {
+        "name": "Pizza Pili mala",
+        "desc": "Sos, sir, pileća prsa, šampinjoni",
+        "price": 7.5
+      },
+      {
+        "name": "Pizza Stalato  mala",
+        "desc": "Sos, sir, šunka, šampinjoni, pavlaka",
+        "price": 7.5
+      },
+      {
+        "name": "Pizza Margherita mala",
+        "desc": "Posno, sos, sir",
+        "price": 6.5
+      },
+      {
+        "name": "Pizza Vesuvio mala",
+        "desc": "Sos, sir, šunka",
+        "price": 6.5
+      },
+      {
+        "name": "Pizza Funghi  mala",
+        "desc": "Sos, sir, šampinjoni",
+        "price": 6.5
+      },
+      {
+        "name": "Pizza Capricciosa mala",
+        "desc": "Sos, sir, šunka, šampinjoni",
+        "price": 6.5
+      }
+    ],
+    "Velike pizze (30cm)": [
+      {
+        "name": "Pizza Gondola - velika",
+        "desc": "Sos, sir, šunka, peka, šampinjoni, masline",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Galija  velika",
+        "desc": "Sos, sir, šunka, suhi vrat, šampinjoni, pavlaka, jaje, masline",
+        "price": 12.0
+      },
+      {
+        "name": "Dimljeni losos pizza  velika",
+        "desc": "Sos, sir, dimljeni losos, šampinjoni",
+        "price": 12.0
+      },
+      {
+        "name": "Bolognese pizza  velika",
+        "desc": "Sos, sir, bolognese, panceta, šampinjoni",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Dajak velika",
+        "desc": "Sos, sir, kulen, panceta, šampinjoni, pavlaka, jaje, masline, feferone",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Venecija velika",
+        "desc": "Sos, sir, kulen, panceta, šampinjoni",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Maestro  velika",
+        "desc": "Sos, sir, panceta, jaje, šunka, šampinjoni",
+        "price": 10.0
+      },
+      {
+        "name": "Preklopljena pizza  velika",
+        "desc": "Sos, sir, šunka, šampinjoni, pavlaka, susam",
+        "price": 9.5
+      },
+      {
+        "name": "Pizza Stalato  velika",
+        "desc": "Sos, sir, šunka, šampinjoni, pavlaka",
+        "price": 9.5
+      },
+      {
+        "name": "Pizza Pili  velika",
+        "desc": "Sos, sir, pileća prsa, šampinjoni",
+        "price": 9.5
+      },
+      {
+        "name": "Pizza Vegeterijana - velika",
+        "desc": "Posno, sos, sir, paradajz, paprika, crni luk, šampinjoni",
+        "price": 9.5
+      },
+      {
+        "name": "Pizza Tonno velika",
+        "desc": "Posno, sos, sir, tunjevina, crni luk, šampinjoni",
+        "price": 9.5
+      },
+      {
+        "name": "Pizza Funghi velika",
+        "desc": "Sos, sir, šampinjoni",
+        "price": 9.0
+      },
+      {
+        "name": "Pizza Margherita  velika",
+        "desc": "Posno, sos, sir",
+        "price": 9.0
+      },
+      {
+        "name": "Pizza Vesuvio  velika",
+        "desc": "Sos, sir, šunka",
+        "price": 9.0
+      },
+      {
+        "name": "Pizza Capricciosa velika",
+        "desc": "Sos, sir, šunka, šampinjoni",
+        "price": 9.0
+      }
+    ],
+    "Porodična pizza (50cm)": [
+      {
+        "name": "Dimljeni losos pizza  porodična",
+        "desc": "Sos, sir, dimljeni losos, šampinjoni",
+        "price": 29.0
+      },
+      {
+        "name": "Pizza Galija  porodična",
+        "desc": "Sos, sir, šunka, suhi vrat, šampinjoni, pavlaka, jaje, masline",
+        "price": 29.0
+      },
+      {
+        "name": "Pizza Dajak  porodična",
+        "desc": "Sos, sir, kulen, panceta, šampinjoni, pavlaka, jaje, masline, feferone",
+        "price": 29.0
+      },
+      {
+        "name": "Bolognese pizza porodična",
+        "desc": "Sos, sir, bolognese, panceta, šampinjoni",
+        "price": 29.0
+      },
+      {
+        "name": "Pizza Gondola porodična",
+        "desc": "Sos, sir, šunka, peka, šampinjoni, masline",
+        "price": 29.0
+      },
+      {
+        "name": "Pizza Maestro porodična",
+        "desc": "Sos, sir, pančeta, jaje, šunka, šampinjoni",
+        "price": 28.0
+      },
+      {
+        "name": "Pizza Venecija porodična",
+        "desc": "Sos, sir, kulen, panceta, šampinjoni",
+        "price": 28.0
+      },
+      {
+        "name": "Pizza Porodična 1/2 Capricciosa 1/2 Venecija",
+        "desc": "Pizza Porodična 1/2 Capricciosa 1/2 Venecija",
+        "price": 26.0
+      },
+      {
+        "name": "Pizza Tonno  porodična",
+        "desc": "Posno, sos, sir, tunjevina, crni luk, šampinjoni",
+        "price": 25.0
+      },
+      {
+        "name": "Pizza Vegeterijana porodična",
+        "desc": "Posno, sos, sir, paradajz, paprika, crni luk, šampinjoni",
+        "price": 25.0
+      },
+      {
+        "name": "Pizza Pili  porodična",
+        "desc": "Sos, sir, pileća prsa, šampinjoni",
+        "price": 25.0
+      },
+      {
+        "name": "Pizza Stalato  porodična",
+        "desc": "Sos, sir, šunka, šampinjoni, pavlaka",
+        "price": 25.0
+      },
+      {
+        "name": "Preklopljena pizza  porodična",
+        "desc": "Sos, sir, šunka, šampinjoni, pavlaka, susam",
+        "price": 25.0
+      },
+      {
+        "name": "Pizza Vesuvio porodična",
+        "desc": "Sos, sir, šunka",
+        "price": 24.0
+      },
+      {
+        "name": "Pizza Capricciosa porodična",
+        "desc": "Sos, sir, šunka, šampinjoni",
+        "price": 24.0
+      },
+      {
+        "name": "Pizza Funghi porodična",
+        "desc": "Sos, sir, šampinjoni",
+        "price": 24.0
+      },
+      {
+        "name": "Pizza Margherita  porodična",
+        "desc": "Posno, sos, sir",
+        "price": 24.0
+      }
+    ],
+    "Pizza parče": [
+      {
+        "name": "Pizza Venecija parče",
+        "desc": "Sos, sir, kulen, panceta, šampinjoni",
+        "price": 3.5
+      },
+      {
+        "name": "Pizza parče",
+        "desc": "Pizza parče",
+        "price": 3.0
+      }
+    ],
+    "Posni meni": [
+      {
+        "name": "Dimljeni losos posna pizza",
+        "desc": "Sos, posni sir, dimljeni losos, šampinjoni",
+        "price": 9.0
+      },
+      {
+        "name": "Vegetarijana posna pizza",
+        "desc": "Sos, posni sir, paradajz, paprika, crni luk, šampinjoni",
+        "price": 7.0
+      },
+      {
+        "name": "Tono posna pizza",
+        "desc": "Sos, posni sir, tunjevina, crni luk",
+        "price": 7.0
+      },
+      {
+        "name": "Funghi posna pizza",
+        "desc": "Posno. Sos, posni sir, šampinjoni",
+        "price": 6.5
+      },
+      {
+        "name": "Margarita posna pizza",
+        "desc": "Sos, sir, posno",
+        "price": 6.5
+      },
+      {
+        "name": "Rolovani vegan sendvič posni",
+        "desc": "Sos, posni sir, paprika, paradajz, luk",
+        "price": 6.0
+      },
+      {
+        "name": "Sendvič Tono posni",
+        "desc": "Tunjevina, posni sir, namaz",
+        "price": 3.5
+      }
+    ],
+    "Pohovane palačinke": [
+      {
+        "name": "Pohovane palačinke Venecija",
+        "desc": "Sos, sir, kulen, panceta, šampinjoni",
+        "price": 5.5
+      },
+      {
+        "name": "Pohovane palačinke sa pilećim prsima i gljivama",
+        "desc": "Palačinke, pileća prsa, gljive",
+        "price": 5.0
+      },
+      {
+        "name": "Pohovane palačinke sa šunkom i sirom",
+        "desc": "Palačinke, šunka, sir",
+        "price": 4.5
+      }
+    ],
+    "Sendvič": [
+      {
+        "name": "Rolovani koktel sendvič",
+        "desc": "Sos, pavlaka, kulen, šunka, panceta, sir, šampinjoni",
+        "price": 6.0
+      },
+      {
+        "name": "Sendvič natur pileći file u integralnom pecivu",
+        "desc": "Sir",
+        "price": 5.5
+      },
+      {
+        "name": "Sendvič pileća bečka šnicla",
+        "desc": "Sir",
+        "price": 5.5
+      },
+      {
+        "name": "Sendvič peka",
+        "desc": "Sendvič peka",
+        "price": 4.5
+      },
+      {
+        "name": "Sendvič Venecija",
+        "desc": "Kulen, panceta, sir",
+        "price": 4.0
+      },
+      {
+        "name": "Sendvič sa suhim vratom i sirom",
+        "desc": "Suhi vrat, sir",
+        "price": 4.0
+      },
+      {
+        "name": "Sendvič sa pilećim prsima",
+        "desc": "Pileća prsa",
+        "price": 3.5
+      },
+      {
+        "name": "Sendvič Tonno",
+        "desc": "Sendvič Tonno",
+        "price": 3.5
+      },
+      {
+        "name": "Sendvič sa šunkom i sirom",
+        "desc": "Šunka, sir",
+        "price": 3.0
+      }
+    ],
+    "Desert": [
+      {
+        "name": "Palačinka sa Nutellom, plazmom i višnjom",
+        "desc": "1 komad, 45 cm",
+        "price": 4.0
+      },
+      {
+        "name": "Palačinka sa Eurokremom i Plazmom",
+        "desc": "1 komad, 45 cm",
+        "price": 2.5
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Ledeni čaj 0.5 l",
+        "desc": "0.5 l",
+        "price": 2.5
+      },
+      {
+        "name": "Coca-Cola 0,5 l",
+        "desc": "0,5 l",
+        "price": 2.0
+      },
+      {
+        "name": "Pepsi 0,5 l",
+        "desc": "0,5 l",
+        "price": 2.0
+      },
+      {
+        "name": "Vitinka Exotic",
+        "desc": "Vitinka Exotic",
+        "price": 2.0
+      },
+      {
+        "name": "Vivia vitamin voda",
+        "desc": "Vivia vitamin voda",
+        "price": 2.0
+      },
+      {
+        "name": "Vivia limun",
+        "desc": "Vivia limun",
+        "price": 2.0
+      },
+      {
+        "name": "Prirodna voda",
+        "desc": "Prirodna voda",
+        "price": 1.5
+      },
+      {
+        "name": "Gazirana voda",
+        "desc": "Gazirana voda",
+        "price": 1.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,507 @@
+{
+  "name": "Aj Zdravo",
+  "rating": 0.97,
+  "count": 225,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Quessadillas sa piletinom",
+        "desc": "Quessadillas sa piletinom",
+        "price": 9.0
+      },
+      {
+        "name": "Rižoto sa piletinom i povrćem",
+        "desc": "Rižoto sa piletinom i povrćem",
+        "price": 10.0
+      },
+      {
+        "name": "Falafel",
+        "desc": "Falafel",
+        "price": 8.5
+      }
+    ],
+    "Veganski meni": [
+      {
+        "name": "Veganska plata",
+        "desc": "Veganska plata",
+        "price": 12.5
+      },
+      {
+        "name": "Pasta sa humusom",
+        "desc": "Pasta sa humusom",
+        "price": 10.0
+      },
+      {
+        "name": "Organska riža sa falafelom",
+        "desc": "Organska riža sa falafelom",
+        "price": 9.5
+      },
+      {
+        "name": "Pikantna organska riža",
+        "desc": "Pikantna organska riža",
+        "price": 9.5
+      },
+      {
+        "name": "Prženi tofu sa tikvicama",
+        "desc": "Prženi tofu sa tikvicama",
+        "price": 9.5
+      },
+      {
+        "name": "Organska riža sa blitvom",
+        "desc": "Organska riža sa blitvom",
+        "price": 9.0
+      },
+      {
+        "name": "Falafel",
+        "desc": "Falafel",
+        "price": 8.5
+      },
+      {
+        "name": "Burger od dimljenog tofua sa organskom rižom i blitvom",
+        "desc": "Burger od dimljenog tofua sa organskom rižom i blitvom",
+        "price": 8.5
+      },
+      {
+        "name": "Potaž od bundeve i prosa",
+        "desc": "Potaž od bundeve i prosa",
+        "price": 5.5
+      },
+      {
+        "name": "Paradajz supa sa organskom heljdom",
+        "desc": "Paradajz supa sa organskom heljdom",
+        "price": 5.0
+      },
+      {
+        "name": "Humus  100 gr",
+        "desc": "100 gr",
+        "price": 3.5
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Palačinci od heljde sa piletinom i sirom",
+        "desc": "Piletina, sir",
+        "price": 8.0
+      },
+      {
+        "name": "Palačinci od heljde sa gljivama mladim sirom",
+        "desc": "Gljive, sir",
+        "price": 8.0
+      },
+      {
+        "name": "Brusketi sa tri vrste gljiva",
+        "desc": "Brusketi sa tri vrste gljiva",
+        "price": 7.5
+      },
+      {
+        "name": "Brusketi sa mozzarellom i paradajzom",
+        "desc": "Brusketi sa mozzarellom i paradajzom",
+        "price": 7.5
+      },
+      {
+        "name": "Palenta sa sušenim vrganjima, paradajzom i sirom",
+        "desc": "Vrganji, paradajz, sir",
+        "price": 7.5
+      },
+      {
+        "name": "Kajgana sa piletinom i sirom",
+        "desc": "Piletina, sir",
+        "price": 6.5
+      },
+      {
+        "name": "Obrok od žitarica sa voćem",
+        "desc": "Obrok od žitarica sa voćem",
+        "price": 6.5
+      },
+      {
+        "name": "Omlet sa ćurećom šunkom i sirom",
+        "desc": "Šunka, sir",
+        "price": 6.0
+      },
+      {
+        "name": "Omlet sa povrćem",
+        "desc": "Omlet sa povrćem",
+        "price": 6.0
+      },
+      {
+        "name": "Omlet sa tri vrste sira",
+        "desc": "Omlet sa tri vrste sira",
+        "price": 6.0
+      }
+    ],
+    "Tortilje": [
+      {
+        "name": "Tortilja sa ćuretinom",
+        "desc": "Tortilja, ćuretina",
+        "price": 8.5
+      },
+      {
+        "name": "Tortilja sa dimljenim lososom",
+        "desc": "Tortilja, losos",
+        "price": 8.5
+      },
+      {
+        "name": "Chilli tortilja",
+        "desc": "Chilli tortilja",
+        "price": 8.0
+      },
+      {
+        "name": "Tortilja u soja sosu",
+        "desc": "Tortilja, soja",
+        "price": 8.0
+      },
+      {
+        "name": "Capari tortilja",
+        "desc": "Capari tortilja",
+        "price": 8.0
+      },
+      {
+        "name": "Tortilja Aj zdravo sa piletinom",
+        "desc": "Tortilja, piletina",
+        "price": 7.5
+      },
+      {
+        "name": "Tortilja sa tri vrste sira",
+        "desc": "Tortilja, sir",
+        "price": 7.5
+      },
+      {
+        "name": "Tortilja sa povrćem",
+        "desc": "Tortilja, povrće",
+        "price": 7.5
+      },
+      {
+        "name": "Tortilja sa povrćem, kurkumom i curryijem",
+        "desc": "Tortilja, povrće, kurkuma, curry",
+        "price": 7.5
+      },
+      {
+        "name": "Tortilja sa humusom i tunom",
+        "desc": "Tortilja, humus, tuna",
+        "price": 7.5
+      }
+    ],
+    "Quesadillas": [
+      {
+        "name": "Quessadillas sa ćuretinom i curryjem",
+        "desc": "Ćuretina, curry",
+        "price": 10.0
+      },
+      {
+        "name": "Quessadillas sa piletinom",
+        "desc": "Quessadillas sa piletinom",
+        "price": 9.0
+      },
+      {
+        "name": "Quessadillas sa tri vrste sira",
+        "desc": "Quessadillas sa tri vrste sira",
+        "price": 9.0
+      },
+      {
+        "name": "Quessadillas sa ćurećom šunkom",
+        "desc": "Quessadillas sa ćurećom šunkom",
+        "price": 9.0
+      },
+      {
+        "name": "Quessadillas sa povrćem",
+        "desc": "Quessadillas sa povrćem",
+        "price": 8.0
+      }
+    ],
+    "Topla jela": [
+      {
+        "name": "Proteinski ručak",
+        "desc": "Pileći file, jaja, riža, wok povrće, ljuti sos",
+        "price": 12.0
+      },
+      {
+        "name": "Pileći file sa tri vrste sira",
+        "desc": "Pileći file sa tri vrste sira",
+        "price": 10.5
+      },
+      {
+        "name": "Pileći file sa tri vrste gljiva",
+        "desc": "Pileći file sa tri vrste gljiva",
+        "price": 10.5
+      },
+      {
+        "name": "Pileći file sa susamom",
+        "desc": "Pileći file sa susamom",
+        "price": 10.5
+      },
+      {
+        "name": "Pileći file u slatko ljutom sosu",
+        "desc": "Pileći file u slatko ljutom sosu",
+        "price": 10.5
+      },
+      {
+        "name": "Pileći file sa sušenim vrganjima",
+        "desc": "Pileći file sa sušenim vrganjima",
+        "price": 10.5
+      },
+      {
+        "name": "Pileći file u soja sosu",
+        "desc": "Pileći file u soja sosu",
+        "price": 10.5
+      },
+      {
+        "name": "Chilli piletina",
+        "desc": "Chilli piletina",
+        "price": 10.5
+      },
+      {
+        "name": "Piletina sa topljenom mozzarellom i ječmom",
+        "desc": "Piletina sa topljenom mozzarellom i ječmom",
+        "price": 10.5
+      },
+      {
+        "name": "Šampinjoni sa mozzarellom",
+        "desc": "Šampinjoni sa mozzarellom",
+        "price": 9.5
+      },
+      {
+        "name": "Pileći file sa curryem i wok povrćem",
+        "desc": "Pileći file sa curryem i wok povrćem",
+        "price": 9.5
+      },
+      {
+        "name": "Pileći file sa kapari sosom i povrćem",
+        "desc": "Pileći file, kapari sos, wok povrće",
+        "price": 9.5
+      },
+      {
+        "name": "Rezanci od piletine sa ječmom i prosom",
+        "desc": "Rezanci od piletine sa ječmom i prosom",
+        "price": 9.0
+      }
+    ],
+    "Sendviči od integralnog peciva": [
+      {
+        "name": "Sendvič sa ćuretinom",
+        "desc": "Sendvič sa ćuretinom",
+        "price": 7.5
+      },
+      {
+        "name": "Sendvič sa dimljenim lososom",
+        "desc": "Sendvič sa dimljenim lososom",
+        "price": 7.5
+      },
+      {
+        "name": "Caprese sendvič",
+        "desc": "Caprese sendvič",
+        "price": 7.0
+      },
+      {
+        "name": "Falafel sendvič",
+        "desc": "Falafel sendvič",
+        "price": 7.0
+      },
+      {
+        "name": "Veganski sendvič",
+        "desc": "Veganski sendvič",
+        "price": 7.0
+      },
+      {
+        "name": "Sendvič sa tri vrste gljiva",
+        "desc": "Sendvič sa tri vrste gljiva",
+        "price": 6.5
+      },
+      {
+        "name": "Sendvič sa tunom",
+        "desc": "Sendvič sa tunom",
+        "price": 6.5
+      },
+      {
+        "name": "Sendvič sa povrćem",
+        "desc": "Sendvič sa povrćem",
+        "price": 6.5
+      },
+      {
+        "name": "Sendvič sa šampinjonima",
+        "desc": "Sendvič sa šampinjonima",
+        "price": 6.5
+      },
+      {
+        "name": "Sendvič sa tri vrste sira",
+        "desc": "Sendvič sa tri vrste sira",
+        "price": 6.5
+      },
+      {
+        "name": "Sendvič sa piletinom",
+        "desc": "Sendvič sa piletinom",
+        "price": 6.5
+      },
+      {
+        "name": "Sendvič sa ćurećom šunkom",
+        "desc": "Sendvič sa ćurećom šunkom",
+        "price": 6.5
+      }
+    ],
+    "Jela bez glutena": [
+      {
+        "name": "Bezglutenska pasta sa brokulama",
+        "desc": "Pasta, brokule",
+        "price": 9.0
+      }
+    ],
+    "Paste": [
+      {
+        "name": "Pasta sa ćuretinom",
+        "desc": "Pasta sa ćuretinom",
+        "price": 11.5
+      },
+      {
+        "name": "Pasta sa ćuretinom i curryem",
+        "desc": "Pasta sa ćuretinom i curryem",
+        "price": 11.5
+      },
+      {
+        "name": "Pasta sa lososom",
+        "desc": "Pasta sa lososom",
+        "price": 11.0
+      },
+      {
+        "name": "Pasta sa tri vrste sira",
+        "desc": "Pasta sa tri vrste sira",
+        "price": 10.0
+      },
+      {
+        "name": "Pasta sa tikvicama i piletinom",
+        "desc": "Pasta sa tikvicama i piletinom",
+        "price": 10.0
+      }
+    ],
+    "Rižota": [
+      {
+        "name": "Rižoto sa ćuretinom i vrganjima",
+        "desc": "Rižoto sa ćuretinom i vrganjima",
+        "price": 12.0
+      },
+      {
+        "name": "Rižoto sa lososom",
+        "desc": "Rižoto sa lososom",
+        "price": 11.0
+      },
+      {
+        "name": "Crni rižoto",
+        "desc": "Crni rižoto",
+        "price": 10.5
+      },
+      {
+        "name": "Rižoto sa lignjama",
+        "desc": "Rižoto sa lignjama",
+        "price": 10.5
+      },
+      {
+        "name": "Rižoto sa tri vrste gljiva",
+        "desc": "Rižoto sa tri vrste gljiva",
+        "price": 10.0
+      },
+      {
+        "name": "Rižoto sa piletinom i povrćem",
+        "desc": "Rižoto sa piletinom i povrćem",
+        "price": 10.0
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "Ćureća salata",
+        "desc": "Ćureća salata",
+        "price": 11.0
+      },
+      {
+        "name": "Salata sa ćuretinom i curryem",
+        "desc": "Salata sa ćuretinom i curryem",
+        "price": 10.5
+      },
+      {
+        "name": "Salata sa špinatom i ćuretinom",
+        "desc": "Salata sa špinatom i ćuretinom",
+        "price": 10.5
+      },
+      {
+        "name": "Salata sa dimljenim lososom, bademima i makom",
+        "desc": "Salata sa dimljenim lososom, bademima i makom",
+        "price": 10.5
+      },
+      {
+        "name": "Salata sa dimljenim lososom",
+        "desc": "Salata sa dimljenim lososom",
+        "price": 10.0
+      },
+      {
+        "name": "Vitaminska salata",
+        "desc": "Vitaminska salata",
+        "price": 10.0
+      },
+      {
+        "name": "Waldorf salata",
+        "desc": "Waldorf salata",
+        "price": 10.0
+      },
+      {
+        "name": "Pileća salata sa ananasom",
+        "desc": "Pileća salata sa ananasom",
+        "price": 9.5
+      },
+      {
+        "name": "Salata sa tofu sirom i rukolom",
+        "desc": "Salata sa tofu sirom i rukolom",
+        "price": 9.5
+      },
+      {
+        "name": "Salata sa lignjama",
+        "desc": "Salata sa lignjama",
+        "price": 9.5
+      },
+      {
+        "name": "Caprese salata",
+        "desc": "Caprese salata",
+        "price": 9.0
+      },
+      {
+        "name": "Topla pileća salata",
+        "desc": "Topla pileća salata",
+        "price": 9.0
+      },
+      {
+        "name": "Salata sa tunjevinom",
+        "desc": "Salata sa tunjevinom",
+        "price": 9.0
+      },
+      {
+        "name": "Salata sa tri vrste sira",
+        "desc": "Salata sa tri vrste sira",
+        "price": 9.0
+      },
+      {
+        "name": "Hladna pileća salata sa susamom",
+        "desc": "Hladna pileća salata sa susamom",
+        "price": 9.0
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Palačinci od heljde sa Nutellom",
+        "desc": "Palačinci od heljde sa Nutellom",
+        "price": 8.5
+      },
+      {
+        "name": "Sirova torta",
+        "desc": "Sirova torta",
+        "price": 6.5
+      },
+      {
+        "name": "Voćna salata",
+        "desc": "Voćna salata",
+        "price": 6.5
+      },
+      {
+        "name": "Palačinci od heljde sa pekmezom od šipka i badema",
+        "desc": "Pekmez, šipak, badem",
+        "price": 6.5
+      }
+    ]
+  }
+}

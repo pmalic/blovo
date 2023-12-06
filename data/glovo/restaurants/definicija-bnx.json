@@ -1,0 +1,221 @@
+{
+  "name": "Definicija",
+  "rating": 0.93,
+  "count": 67,
+  "service_fee": 2.3,
+  "menu": {
+    "Wraps": [
+      {
+        "name": "Crispy Chicken Wrap",
+        "desc": "| 545 kcal | 46 P | 76 UH | 7 M\n(2 tortilje),(150g pileće bijelo) pšenična tortilja, svježa salata, sos po želji",
+        "price": 13.99
+      },
+      {
+        "name": "Tuna Wrap",
+        "desc": "| 400 kcal | 36 P | 33 UH | 8.8 M\n(2 tortilje),Konzerva tunjevine u maslinovom ulju (112g ocijedjene mase) pšenična tortilja, svježa salata , sos po želji",
+        "price": 13.0
+      },
+      {
+        "name": "Chicken Wrap",
+        "desc": "| 343 kcal | 42 P | 33 UH | 5 M\n(2 tortilje),(150g pileće bijelo) pšenična tortilja, svježa salata, prilozi po želji",
+        "price": 12.0
+      }
+    ],
+    "Bulk": [
+      {
+        "name": "Crispy Chicken kikiriki velika porcija",
+        "desc": "| 760 kcal | 81 P | 95 UH | 10.2 M \nPileći file ( 300 g ) u kornfleksu, pečeni krompir ( 200 g ), svježa salata, kikiriki sos",
+        "price": 22.0
+      },
+      {
+        "name": "Crispy Chicken sweet chilli velika porcija",
+        "desc": "| 758 kcal | 79.5 P | 103.5 UH | 6.6 M\nPileći file ( 300 g ) u kornfleksu, pečeni krompir ( 200 g ), svježa salata, sweet chilli sos",
+        "price": 22.0
+      },
+      {
+        "name": "Crispy Chicken chilly mayo velika porcija",
+        "desc": "| 806 kcal | 79.5 P | 100 UH | 14.6 M\nPileći file ( 300 g ) u kornfleksu, pečeni krompir ( 200 g ), svježa salata , chilli mayo sos",
+        "price": 22.0
+      },
+      {
+        "name": "Crispy Chicken velika porcija",
+        "desc": "| 716 kcal | 79 P | 95 UH | 6.6 M\nPileći file ( 300 g ) u kornfleksu, pečeni krompir ( 200 g ), svježa salata",
+        "price": 21.0
+      },
+      {
+        "name": "Gym Basics kikiriki velika porcija",
+        "desc": "| 613 kcal | 79 P | 92 UH | 9.6 M\nPileći file( 300 g ), riža ( 200 g ), grilovano povrće,kikiriki sos",
+        "price": 19.0
+      },
+      {
+        "name": "Gym Basics sweet chilli velika porcija",
+        "desc": "| 611 kcal | 77.5 P | 100.5 UH | 6 M \nPileći file( 300g ) , riža ( 200 g ), grilovano povrće, sweet chilli sos",
+        "price": 19.0
+      },
+      {
+        "name": "Gym Basics chilli mayo velika porcija",
+        "desc": "| 659 kcal | 77.5 P | 97 UH | 14 M \nPileći file( 300g ) , riža ( 200 g ), grilovano povrće, chilli mayo sos",
+        "price": 19.0
+      },
+      {
+        "name": "Gym Basics velika porcija",
+        "desc": "| 569 kcal | 77g P | 92g UH | 6g M\nPileći file( 300g ) , riža ( 200 g ), grilovano povrće",
+        "price": 18.0
+      }
+    ],
+    "Cut": [
+      {
+        "name": "Crispy Chicken kikiriki mala porcija",
+        "desc": "| 537 kcal | 51 P | 75.5 UH | 5.6 M |\nPileći file ( 180 g ) u kornfleksu, pečeni krompir ( 100 g ), svježa salata, kikiriki sos",
+        "price": 17.0
+      },
+      {
+        "name": "Crispy Chicken sweet chilli mala porcija",
+        "desc": "| 536 kcal | 50.2 P | 80.6 UH | 3.6 M \nPileći file ( 180 g ) u kornfleksu, pečeni krompir ( 100 g ), svježa salata, sweet chilli sos",
+        "price": 17.0
+      },
+      {
+        "name": "Crispy Chicken chilly mayo mala porcija",
+        "desc": "| 565 kcal | 50.2 P | 78.5 UH | 8.4 M \nPileći file ( 180 g ) u kornfleksu, pečeni krompir ( 100 g ), svježa salata, chilli mayo sos",
+        "price": 17.0
+      },
+      {
+        "name": "Crispy Chicken mala porcija",
+        "desc": "| 511 kcal | 50 P | 75.5 UH | 3.6 M |\nPileći file ( 180 g ) u kornfleksu, pečeni krompir ( 100 g ), svježa salata,",
+        "price": 16.5
+      },
+      {
+        "name": "Gym Basics kikiriki mala porcija",
+        "desc": "| 355 kcal | 48 P | 64 UH | 5 M |\nPileći file ( 180 g ), riža ( 100 g ) , grilovano povrće, kikiriki sos",
+        "price": 15.0
+      },
+      {
+        "name": "Gym Basics sweet chilli mala porcija",
+        "desc": "| 354 kcal | 47 P | 69 UH | 3 M |\nPileći file ( 180 g ), riža ( 100 g ), grilovano povrće, sweet chilli sos",
+        "price": 15.0
+      },
+      {
+        "name": "Gym Basics chilli mayo mala porcija",
+        "desc": "| 383 kcal | 47 P | 67 UH | 7.8 M |\nPileći file ( 180 g ), riža ( 100 g ), grilovano povrće, chilli mayo sos",
+        "price": 15.0
+      },
+      {
+        "name": "Gym Basics mala porcija",
+        "desc": "| 329 kcal | 46.7 P | 64 UH | 3 M |\nPileći file ( 180 g ), riža ( 100 g ) , grilovano povrće .",
+        "price": 14.5
+      }
+    ],
+    "Fit Wok": [
+      {
+        "name": "Sweet Sriracha Chicken",
+        "desc": "| 468 kcal | 42 P | 74 UH | 3 M \nPileći file(150g), povrće(150g) , riža(150g) , sriracha,light soja sos,med",
+        "price": 16.5
+      }
+    ],
+    "Obrok Salate": [
+      {
+        "name": "Cezar Fit",
+        "desc": "| 280 kcal | 50,5g P | 9.5g UH | 4.5g M\nPileći file(180g), zelena salata, Cezar fit dresing, krutoni, cherry paradajz",
+        "price": 15.99
+      },
+      {
+        "name": "Tuna Deluxe",
+        "desc": "| 402kcal | 34g P | 18.5g UH | 21g M\nTunjevina u maslinovom ulju(120g), zelena salata, pasulj, kukuruz, Tuna deluxe dresing, cherry paradajz",
+        "price": 14.5
+      }
+    ],
+    "Šejkovi": [
+      {
+        "name": "Purple Elixir",
+        "desc": "| 557 kcal | 40.2g P | 47.8 UH | 20.5 M \nMlijeko 0.9m,grčki jogurt,proteinske čokoladne granule,kikiriki puter,whey protein,banana,borovnice",
+        "price": 9.99
+      },
+      {
+        "name": "Anabolic sa mlijekom",
+        "desc": "| 473 kcal | 44 P | 73 UH | 6.6 M |\nWhey protein, banana, kikiriki puter, med, mlijeko 0.9M",
+        "price": 9.0
+      },
+      {
+        "name": "Anabolic sa vodom",
+        "desc": "| 315 kcal | 31 P | 54 UH | 3 M |\nWhey protein, banana, kikiriki puter, med, voda",
+        "price": 8.0
+      }
+    ],
+    "Cheat Day": [
+      {
+        "name": "Proteinske Američke Palačinke",
+        "desc": "| 290kcal | 24g P | 40g UH | 2g M |\n(4 Palačinke), šumsko voće, domaći kakao preljev.",
+        "price": 8.0
+      },
+      {
+        "name": "Cheat Muffin",
+        "desc": "| 192 kcal | 9.5g P | 30g UH | 3.2g M\nOvsene pahuljice, jaja, banana, whey, komadići crne čokolade",
+        "price": 4.0
+      }
+    ],
+    "Dodaci": [
+      {
+        "name": "Kikiriki sos 100ml",
+        "desc": "| 88 kcal | 4g P | 0 g UH | 7.2g M",
+        "price": 2.5
+      },
+      {
+        "name": "Sweet chilli sos 100ml",
+        "desc": "| 84kcal | 1g P | 17g UH | 0g M",
+        "price": 2.5
+      },
+      {
+        "name": "Chilli mayo sos 100 ml",
+        "desc": "| 180 kcal | 1g P | 10g UH | 16g M",
+        "price": 2.5
+      },
+      {
+        "name": "Riža 100g",
+        "desc": "| 135 kcal | 2,7g P | 28g UH | Og M",
+        "price": 1.5
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Richard zero 0.25l",
+        "price": 3.5
+      },
+      {
+        "name": "Cijedjena narandza 0.4l",
+        "price": 3.5
+      },
+      {
+        "name": "Coca-Cola zero 0.5l",
+        "price": 3.0
+      },
+      {
+        "name": "Limunada 0.4l",
+        "price": 3.0
+      },
+      {
+        "name": "Vivia - limun i kaktus 0.5l",
+        "price": 2.8
+      },
+      {
+        "name": "Vivia - jagoda i limeta 0.5l",
+        "price": 2.8
+      },
+      {
+        "name": "Cappy limunada 0.4l",
+        "price": 2.8
+      },
+      {
+        "name": "Cappy jagoda zero 0.4l",
+        "price": 2.8
+      },
+      {
+        "name": "Vivia voda 0.5l",
+        "price": 2.2
+      },
+      {
+        "name": "Vitinka mineralna voda 0.5l",
+        "price": 2.2
+      }
+    ]
+  }
+}

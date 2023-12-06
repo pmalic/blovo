@@ -1,0 +1,97 @@
+{
+  "name": "Pizza by Fabrika",
+  "rating": 0.98,
+  "count": 117,
+  "service_fee": 2.3,
+  "menu": {
+    "Pizza Napolitana": [
+      {
+        "name": "Bezglutenska - Pizza Napolitana",
+        "desc": "Šunka, kulen, Mozzarella, Edamer, Feta, pelat",
+        "price": 17.0
+      },
+      {
+        "name": "Fabrika - Pizza Napolitana",
+        "desc": "Šunka, panceta, šampinjoni, Mozzarella, Gouda, dimljeni sir, Feta, pelat",
+        "price": 15.0
+      },
+      {
+        "name": "Tuna - Pizza Napolitana",
+        "desc": "Tuna, Mozzarella, Gouda, šampinjoni, tikvice, paprika, luk, pelat",
+        "price": 15.0
+      },
+      {
+        "name": "Posna Tuna - Pizza Napolitana",
+        "desc": "Tuna, kukuruz šećerac, ljubičasti luk, rukola, pelat",
+        "price": 15.0
+      },
+      {
+        "name": "Monika - Pizza Napolitana",
+        "desc": "Pršut, mix sireva, Parmezan, rukola, pelat",
+        "price": 14.0
+      },
+      {
+        "name": "Capricciosa - Pizza Napolitana",
+        "desc": "Šunka, Gouda, šampinjoni, Mozzarella, pelat",
+        "price": 14.0
+      },
+      {
+        "name": "4 vrste sira - Pizza Napolitana",
+        "desc": "Gouda, dimljeni sir, Gorgonzola, Parmezan",
+        "price": 14.0
+      },
+      {
+        "name": "Povrće - Pizza Napolitana",
+        "desc": "Mozzarella, Gouda, šampinjoni, tikvice, paprika, luk, pelat",
+        "price": 14.0
+      },
+      {
+        "name": "Kulen - Pizza Napolitana",
+        "desc": "Šunka, kulen, šampinjoni, Gouda, Mozzarella, Feta, pelat",
+        "price": 14.0
+      },
+      {
+        "name": "Posna Veggie - Pizza Napolitana",
+        "desc": "Tikvice, paprika, brokula, kukuruz šećerac, biljni sir, pelat",
+        "price": 14.0
+      }
+    ],
+    "Chicago style pizza": [
+      {
+        "name": "Fabrika - Chicago style pizza",
+        "desc": "Šunka, panceta, šampinjoni, Mozzarella, Gouda, dimljeni sir, Feta, pelat",
+        "price": 15.0
+      },
+      {
+        "name": "Tuna - Chicago style pizza",
+        "desc": "Tuna, Mozzarella, Gouda, šampinjoni, tikvice, paprika, luk, pelat",
+        "price": 15.0
+      },
+      {
+        "name": "Monika - Chicago style pizza",
+        "desc": "Pršut, mix sireva, Parmezan, rukola, pelat",
+        "price": 14.0
+      },
+      {
+        "name": "Capricciosa - Chicago style pizza",
+        "desc": "Šunka, Gouda, šampinjoni, Mozzarella, pelat",
+        "price": 14.0
+      },
+      {
+        "name": "4 vrste sira - Chicago style pizza",
+        "desc": "Gouda, dimljeni sir, Gorgonzola, Parmezan",
+        "price": 14.0
+      },
+      {
+        "name": "Povrće - Chicago style pizza",
+        "desc": "Mozzarella, Gouda, šampinjoni, tikvice, paprika, luk, pelat",
+        "price": 14.0
+      },
+      {
+        "name": "Kulen - Chicago style pizza",
+        "desc": "Šunka, kulen, šampinjoni, Gouda, Mozzarella, Feta, pelat",
+        "price": 14.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "name": "Caffe Restaurant Trezor",
+  "rating": null,
+  "count": null,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Slatke palačinke Nutella, Plazma",
+        "desc": "Nutella, Plazma",
+        "price": 4.5
+      },
+      {
+        "name": "Salata sa piletinom i toplom Gorgonzolom",
+        "desc": "Salata sa piletinom i toplom Gorgonzolom",
+        "price": 16.0
+      },
+      {
+        "name": "Rižoto sa piletinom",
+        "desc": "Rižoto sa piletinom",
+        "price": 17.0
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Trezor BL doručak",
+        "desc": "Trezor BL doručak",
+        "price": 12.0
+      },
+      {
+        "name": "Jaja na oko 3kom na tostu sa dimljenom pekom i sirom",
+        "desc": "DORUČAK",
+        "price": 10.9
+      },
+      {
+        "name": "Proteinski doručak",
+        "desc": "Proteinski doručak",
+        "price": 10.0
+      },
+      {
+        "name": "Mediteran omlet",
+        "desc": "Mediteran omlet",
+        "price": 10.0
+      },
+      {
+        "name": "Jaja na oko 3 komada na tostu sa crispy slaninom",
+        "desc": "3 jajeta na oko, tost, crispy slanina",
+        "price": 10.0
+      },
+      {
+        "name": "Monte Cristo sendvič",
+        "desc": "Monte Cristo sendvič",
+        "price": 10.0
+      },
+      {
+        "name": "Omlet sa suha peka, sir",
+        "desc": "Omlet sa suha peka, sir",
+        "price": 10.0
+      },
+      {
+        "name": "Jaja na oko 3kom na tostu sa sezonskim povrćem i sirom",
+        "desc": "DORUČAK",
+        "price": 10.0
+      },
+      {
+        "name": "Jaja na oko 3kom na tostu sa kulenom i sirom",
+        "desc": "DORUČAK",
+        "price": 10.0
+      },
+      {
+        "name": "Jaja na oko 3kom na tostu sa sirom",
+        "desc": "DORUČAK",
+        "price": 9.0
+      },
+      {
+        "name": "Omlet šunka,  sir",
+        "desc": "Šunka, sir",
+        "price": 8.0
+      },
+      {
+        "name": "Tost sendvič(Dimljena peka,sir)",
+        "desc": "Tost sendvič",
+        "price": 3.8
+      },
+      {
+        "name": "Tost sendvič(Kulen,sir)",
+        "desc": "Tost sendvič",
+        "price": 3.8
+      },
+      {
+        "name": "Tost sendvič(Čajna kobasica,sir)",
+        "desc": "Tost sendvič",
+        "price": 3.5
+      },
+      {
+        "name": "Tost sendvič(Sezonsko povrće,sir)",
+        "desc": "Tost sendvič",
+        "price": 3.2
+      },
+      {
+        "name": "Tost sendvič (šunka,sir)",
+        "desc": "Tost sendvič",
+        "price": 3.0
+      },
+      {
+        "name": "Tost sendvič (sir)",
+        "desc": "Tost sendvič",
+        "price": 3.0
+      },
+      {
+        "name": "Tost sendvič(Sezonsko povrće)",
+        "desc": "Tost sendvič",
+        "price": 3.0
+      }
+    ],
+    "Tortilje": [
+      {
+        "name": "Tortilja sa piletinom I sirom",
+        "desc": "Tortilje sa piletinom",
+        "price": 16.0
+      },
+      {
+        "name": "Tortilja sa povrćem i sirom",
+        "desc": "Tortilja,povrće sezonsko,sir.",
+        "price": 14.0
+      }
+    ],
+    "Rižoto": [
+      {
+        "name": "Rižoto sa kozicama",
+        "desc": "Rižoto sa kozicama",
+        "price": 17.0
+      },
+      {
+        "name": "Rižoto sa piletinom",
+        "desc": "Rižoto sa piletinom",
+        "price": 17.0
+      },
+      {
+        "name": "Rižoto sa piletinom u kari sosu",
+        "desc": "Piletina ,kari sos",
+        "price": 17.0
+      },
+      {
+        "name": "Rižoto sa povrćem",
+        "desc": "Povrće  sos.",
+        "price": 15.0
+      }
+    ],
+    "Salata": [
+      {
+        "name": "Salata cherry  i rukola",
+        "desc": "cherry  i rukola maslinovo ulje",
+        "price": 7.0
+      },
+      {
+        "name": "Zelena salata",
+        "desc": "Zelena salata",
+        "price": 6.0
+      },
+      {
+        "name": "Paradajz salata",
+        "desc": "Paradajz salata",
+        "price": 6.0
+      }
+    ],
+    "Obrok salata": [
+      {
+        "name": "Cezar salata",
+        "desc": "Cezar salata",
+        "price": 16.0
+      },
+      {
+        "name": "Salata sa piletinom i toplom Gorgonzolom",
+        "desc": "Salata sa piletinom i toplom Gorgonzolom",
+        "price": 16.0
+      },
+      {
+        "name": "SALATA TREZOR BL",
+        "desc": "ZELENA SALATA,GRILOVANA PILETINA,KRISPI SLANINA,PARADAJZ,TOST,JAJA,GAUDA,PARMEZAN,MASLINOVO ULJE.",
+        "price": 16.0
+      },
+      {
+        "name": "SALATA BL",
+        "desc": "ZELENA SALATA,RUKOLA,PARADAJZ,JAJE,TOST,GORGONZOLA,MASLINOVO ULJE",
+        "price": 14.0
+      },
+      {
+        "name": "FIT SALATA",
+        "desc": "ZELENA SALATA,KRASTAVAC,RUKOLA,ŠERI,TUNJEVINA,MASLINOVO ULJE.",
+        "price": 14.0
+      },
+      {
+        "name": "MEDITERAN SALATA",
+        "desc": "ZELENA SALATA,RUKOLA,PARADAJZ,FETA,JAJE,TOST,MASLINE,MASLINOVO ULJE",
+        "price": 14.0
+      },
+      {
+        "name": "PROTEINSKA SALATA",
+        "desc": "ZELENA SALATA,ŠERI,RUKOLA,MASLINE,TOST,BJELANJAK,MASLINOVO ULJE.",
+        "price": 14.0
+      }
+    ],
+    "Slatke palačinke": [
+      {
+        "name": "Slatke palačinke Nutella, Plazma",
+        "desc": "Nutella, Plazma",
+        "price": 4.5
+      },
+      {
+        "name": "Slatka palačinka  Nutella Lješnici",
+        "desc": "Nutella , Lješnici",
+        "price": 4.5
+      },
+      {
+        "name": "Slatka palačinka  Med  Lješnici",
+        "desc": "Med Lješnici",
+        "price": 4.5
+      },
+      {
+        "name": "Slatka palačinka  Marmelada",
+        "desc": "Marmelada",
+        "price": 4.0
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Pizza Crudo",
+        "desc": "Tortilja,sos paradajiz,sir,rukola,pršut, livanjski sir.",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza TrezorBL",
+        "desc": "Tortilja,sos paradajiz,sir,šunka,kulen,peka,gljive.",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza pikantna",
+        "desc": "Tortilja,sos paradajz,sir,kulen,šampinjoni",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza Quattro Fomaggi",
+        "desc": "Tortilja,sos paradajiz,edamer,dimljeni sir,livanjski,mozzarella.",
+        "price": 14.0
+      },
+      {
+        "name": "Pizza vegeterijanska",
+        "desc": "Tortillja,sos paradajz,sir ,tikvice,paprike,šampinjoni",
+        "price": 14.0
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Tortilja,sos paradajiz,sir,šunka,gljive",
+        "price": 13.0
+      },
+      {
+        "name": "Pizza  Margherita",
+        "desc": "Tortilja,sos paradajiz,sir",
+        "price": 12.0
+      }
+    ],
+    "Paste": [
+      {
+        "name": "Pikantna pasta(piletina)",
+        "desc": "Pasta",
+        "price": 17.0
+      },
+      {
+        "name": "Pasta sa 4 vrste sira",
+        "desc": "Pasta",
+        "price": 17.0
+      },
+      {
+        "name": "Lazanje",
+        "desc": "Paste",
+        "price": 17.0
+      },
+      {
+        "name": "Mlinci sa piletinom",
+        "desc": "Paste",
+        "price": 17.0
+      },
+      {
+        "name": "Pljukanci sa biletinom u bijelom umaku",
+        "desc": "Pljukanci",
+        "price": 17.0
+      },
+      {
+        "name": "Pljukanci sa biletinom u kikiriki sosu",
+        "desc": "Pljukanci",
+        "price": 17.0
+      },
+      {
+        "name": "Pljukanci sa kozicama u bijelom umaku",
+        "desc": "Pljukanci",
+        "price": 17.0
+      },
+      {
+        "name": "Pasta sa povrćem",
+        "desc": "Pasta",
+        "price": 15.0
+      },
+      {
+        "name": "Špagete Bolonjez",
+        "desc": "Pasta",
+        "price": 15.0
+      },
+      {
+        "name": "Pljukanci sa povrćem",
+        "desc": "Pljukanci",
+        "price": 15.0
+      }
+    ]
+  }
+}

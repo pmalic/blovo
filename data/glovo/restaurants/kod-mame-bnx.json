@@ -1,0 +1,240 @@
+{
+  "name": "Kod Mame",
+  "rating": 0.89,
+  "count": 109,
+  "service_fee": 1.9,
+  "menu": {
+    "Piće": [
+      {
+        "name": "Coca-Cola",
+        "desc": "Coca-Cola 0.33 l",
+        "price": 3.0
+      },
+      {
+        "name": "Fanta",
+        "desc": "Fanta 0.33 l",
+        "price": 3.0
+      },
+      {
+        "name": "Schweppes Bitter Lemon",
+        "desc": "Schweppes Bitter Lemon 0.33 l",
+        "price": 3.0
+      },
+      {
+        "name": "Schweppes Tonic",
+        "desc": "Schweppes Tonic 0.33 l",
+        "price": 3.0
+      },
+      {
+        "name": "Richard Energy",
+        "desc": "Richard Energy 0.25 l",
+        "price": 2.5
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Porcija maslina",
+        "desc": "Porcija maslina",
+        "price": 3.0
+      },
+      {
+        "name": "Kajmak",
+        "desc": "Kajmak",
+        "price": 2.0
+      },
+      {
+        "name": "Feferoni",
+        "desc": "Feferoni",
+        "price": 2.0
+      },
+      {
+        "name": "Pavlaka",
+        "desc": "Pavlaka",
+        "price": 1.0
+      },
+      {
+        "name": "Jaje",
+        "desc": "Jaje",
+        "price": 1.0
+      }
+    ],
+    "Desert": [
+      {
+        "name": "Bueno palačinka",
+        "desc": "Bueno namaz, keks",
+        "price": 5.5
+      },
+      {
+        "name": "Nutella palačinka",
+        "desc": "Nutella, keks",
+        "price": 4.5
+      }
+    ],
+    "Lepinje": [
+      {
+        "name": "Pileći file slanina",
+        "desc": "Domaća lepinja, pileći file, sir, slanina, prilog",
+        "price": 9.0
+      },
+      {
+        "name": "Riblja pljeskavica",
+        "desc": "Domaća lepinja, dvije riblje pljeskavice, zelena salata, paradajz",
+        "price": 9.0
+      },
+      {
+        "name": "Banjalučka lepinja",
+        "desc": "Domaća lepinja, kajmak, jaje, jagnjeća moća, pršut",
+        "price": 8.0
+      },
+      {
+        "name": "Krajiška lepinja",
+        "desc": "Domaća lepinja, kajmak, jaje, jagnjeća moća, slanina",
+        "price": 8.0
+      },
+      {
+        "name": "Pileće krpice lepinja",
+        "desc": "Domaća lepinja, kajmak, pileće krpice",
+        "price": 8.0
+      },
+      {
+        "name": "Bečka lepinja",
+        "desc": "Domaća lepinja, kajmak, pohovana pileća šnicla",
+        "price": 8.0
+      },
+      {
+        "name": "Tuna lepinja",
+        "desc": "Domaća lepinja, maslinovo ulje, tunjevina, luk",
+        "price": 8.0
+      },
+      {
+        "name": "Užička ljuta lepinja",
+        "desc": "Domaca lepinja, užicki kajmak, jaje, kulen, jagnjeća moca",
+        "price": 8.0
+      },
+      {
+        "name": "Pileći file",
+        "desc": "Domaća lepinja, pileći file, sir, prilog",
+        "price": 8.0
+      },
+      {
+        "name": "Užička lepinja",
+        "desc": "Domaća lepinja, užički kajmak, jaje, jagnjeća moća",
+        "price": 7.0
+      },
+      {
+        "name": "Pršut lepinja",
+        "desc": "Domaća lepinja, kajmak, pršut",
+        "price": 7.0
+      },
+      {
+        "name": "Slanina lepinja",
+        "desc": "Domaća lepinja, kajmak, slanina",
+        "price": 7.0
+      },
+      {
+        "name": "Kajmak lepinja",
+        "desc": "Domaća lepinja, kajmak",
+        "price": 5.0
+      },
+      {
+        "name": "Šunka lepinja",
+        "desc": "Domaća lepinja, šunka",
+        "price": 5.0
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Pizza Debela mama",
+        "desc": "Pelat, šunka, kulen, šampinjoni, sir, panceta, origano",
+        "price": 17.0
+      },
+      {
+        "name": "Pizza Prosciutto crudo",
+        "desc": "Pelat, sir, pršut, rukola, Grana Padano, origano, masline",
+        "price": 17.0
+      },
+      {
+        "name": "Pizza Stallato",
+        "desc": "Pelat, sir, šunka, šampinjoni, pavlaka",
+        "price": 16.0
+      },
+      {
+        "name": "Pizza Quattro formaggi",
+        "desc": "Pelat, Edamer, Gauda, Gorgonzola, Granapadano, origano, masline",
+        "price": 16.0
+      },
+      {
+        "name": "Ljuta mama",
+        "desc": "Pelat, ljuta tucana paprika, kulen, sir, origano, feferone",
+        "price": 16.0
+      },
+      {
+        "name": "Pizza Margherita",
+        "desc": "Pelat, sir, bosiljak, masline",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza Funghi",
+        "desc": "Pelat, sir, šampinjoni, origano, masline",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza Prosciutto",
+        "desc": "Pelat, sir, šunka, origano, masline",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Pelat, sir, šunka, šampinjoni, origano, masline",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza Al Tonno",
+        "desc": "Pelat, tunjevina, sir, luk, kukuruz, origano, masline",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza Calzone",
+        "desc": "Pelat, šunka, sir",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza Zdrava mama",
+        "desc": "Pelat, paradajz, sir, luk, šampinjoni, kukuruz, origano, rukola, masline",
+        "price": 15.0
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Jaje na oko",
+        "desc": "3 jaja, pršut, paradajz, kajmak, pogačice",
+        "price": 12.0
+      },
+      {
+        "name": "Omlet pršut ili slanina",
+        "desc": "Omlet, pršut ili slanina, pogačice gratis",
+        "price": 10.0
+      },
+      {
+        "name": "Omlet sa gljivama",
+        "desc": "Omlet, gljive, pogačice gratis",
+        "price": 9.0
+      },
+      {
+        "name": "Omlet sa 4 vrste sira",
+        "desc": "Omlet, 4 vrste sira, pogačice gratis",
+        "price": 9.0
+      },
+      {
+        "name": "Omlet sa sirom i šunkom",
+        "desc": "Omlet, sir, šunka, pogačice gratis",
+        "price": 9.0
+      },
+      {
+        "name": "Omlet uz pogačice",
+        "desc": "Omlet, pogačice gratis",
+        "price": 7.5
+      }
+    ]
+  }
+}

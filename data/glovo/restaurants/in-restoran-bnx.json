@@ -1,0 +1,150 @@
+{
+  "name": "IN restoran",
+  "rating": null,
+  "count": null,
+  "service_fee": 2.8,
+  "menu": {
+    "Specijalna ponuda": [
+      {
+        "name": "Bečka šnicla",
+        "desc": "Šnicla, tartar, pomfrit",
+        "price": 12.0
+      },
+      {
+        "name": "Pohovani palačinak",
+        "desc": "Suho meso, sir, pomfrit",
+        "price": 12.0
+      },
+      {
+        "name": "IN Sendvič",
+        "desc": "Piletina, šampinjoni, sir, pomfrit",
+        "price": 12.0
+      },
+      {
+        "name": "Omlet",
+        "desc": "3 jajeta, šunka, sir, pavlaka, pecivo",
+        "price": 10.0
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Pizza Capricciosa jumbo",
+        "desc": "Tijesto, pelat, sir, šunka, gljive, origano, masline",
+        "price": 28.0
+      },
+      {
+        "name": "Pizza Pršuto",
+        "desc": "Tijesto, pelat, sir, mozzarella, pršut, rukola, cherry paradajz, masline",
+        "price": 17.0
+      },
+      {
+        "name": "Pizza IN",
+        "desc": "Tijesto, pelat, sir, cheddar sir, mozzarella, radatz kobasica, susam, masline",
+        "price": 17.0
+      },
+      {
+        "name": "Pizza Margherita",
+        "desc": "Tijesto, pelat, edamer, gauda, mozzarella, origano, masline",
+        "price": 13.0
+      },
+      {
+        "name": "Štapići IN",
+        "desc": "Štapići IN",
+        "price": 5.0
+      }
+    ],
+    "Plate": [
+      {
+        "name": "Mix kobasica za 3 osobe",
+        "desc": "Radatz kobasica, roštiljska kobasica, domaća kobasica, kranjska kobasica, ćebata, pekarski krompir",
+        "price": 45.0
+      },
+      {
+        "name": "Plata IN za 2 osobe",
+        "desc": "Mesni uštipci, ćevap, pileći medaljoni, pileći fingersi, svinjski medaljoni, kobasica, pomfrit, lepinja",
+        "price": 42.0
+      }
+    ],
+    "Glavna jela": [
+      {
+        "name": "Biftek u sosu po želji",
+        "desc": "Juneći file, pekarski krompir, povrće, sos na izbor: šumske gljive, zeleni papar, tartuf sos",
+        "price": 40.0
+      },
+      {
+        "name": "Teletina gurmanski način",
+        "desc": "Teletina, povrće, pekarski krompir, kajmak",
+        "price": 28.0
+      },
+      {
+        "name": "Wok teletina",
+        "desc": "Teletina, povrće žilijen, bbq sos, riža",
+        "price": 27.0
+      },
+      {
+        "name": "Punjeni pileći medaljoni",
+        "desc": "Piletina, mozzarella, pršut, pekarski krompir",
+        "price": 24.0
+      },
+      {
+        "name": "Karađorđeva šnicla",
+        "desc": "Svinjetina, kajmak, pomfrit, tartar",
+        "price": 22.0
+      },
+      {
+        "name": "Piletina sa šumskim gljivama na kroketima",
+        "desc": "Piletina, gljive, kroketi, vrhnje, rukola, cherry paradajz",
+        "price": 20.0
+      },
+      {
+        "name": "Juneći burger",
+        "desc": "Juneće meso, pecivo burger, cheddar sir, panceta, paradajz, zelena salata, pomfrit",
+        "price": 20.0
+      },
+      {
+        "name": "Mesni uštipci na domaćoj ćebati",
+        "desc": "Juneće meso, šunka, sir, pomfrit, ajvar",
+        "price": 20.0
+      },
+      {
+        "name": "Lignje na žaru",
+        "desc": "Lignje na žaru",
+        "price": 20.0
+      },
+      {
+        "name": "Tortilja IN",
+        "desc": "Tortilja, juneće meso, povrće, bbq sos, pomfrit",
+        "price": 15.0
+      },
+      {
+        "name": "Čorba IN",
+        "desc": "Čorba IN",
+        "price": 10.0
+      }
+    ],
+    "Pasta i rižoto": [
+      {
+        "name": "Pasta IN",
+        "desc": "Pasta, pršut, slanina, vrhnje, sir, jaje",
+        "price": 18.0
+      },
+      {
+        "name": "Rižoto piletina genovese",
+        "desc": "Riža, piletina, genovese pesto sos, ribanac sir, grana padano sir",
+        "price": 18.0
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "Cezar salata",
+        "desc": "Piletina, miks povrća, tost, panceta hrskava, domaći dresing",
+        "price": 17.0
+      },
+      {
+        "name": "Biftek salata",
+        "desc": "Biftek, miks povrća, tost, sir, dresing od meda",
+        "price": 17.0
+      }
+    ]
+  }
+}

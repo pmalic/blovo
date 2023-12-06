@@ -1,0 +1,344 @@
+{
+  "name": "Pop's TC DELTA",
+  "rating": 0.86,
+  "count": 500,
+  "service_fee": 2.8,
+  "menu": {
+    "promo": [
+      {
+        "name": "1+1 GRATIS GRAND BURGER",
+        "promo": "-40%",
+        "desc": "Grand Double burger + Grand burger GRATIS",
+        "price": 18.4,
+        "promo_price": 11.04
+      },
+      {
+        "name": "Sweet combo",
+        "promo": "-40%",
+        "desc": "2 palačinke po cijeni od 9,90KM",
+        "price": 16.5,
+        "promo_price": 9.9
+      }
+    ],
+    "Grand burgeri": [
+      {
+        "name": "TRIPLE GRAND BURGER MENI",
+        "desc": "Triple burger, pomfrit i sok",
+        "price": 19.0
+      },
+      {
+        "name": "DOUBLE GRAND MENI",
+        "desc": "Double burger sa dva mesa, pomfrit i piće",
+        "price": 15.5
+      },
+      {
+        "name": "TRIPLE GRAND BURGER",
+        "desc": "Pecivo 100gr, 3x meso govedina 110gr, paradajz zelena salata, sir, sos",
+        "price": 14.5
+      },
+      {
+        "name": "GRAND BURGER MENI",
+        "desc": "Burger + pomfrit + Piće",
+        "price": 12.0
+      },
+      {
+        "name": "DOUBLE GRAND BURGER",
+        "desc": "Pecivo 100gr, 2x meso 110gr govedina, sir, paradajz, zelena salata, sos",
+        "price": 11.0
+      },
+      {
+        "name": "Grand cheeseburger",
+        "desc": "Pecivo 100gr, govedina 110gr, sir, kečap, paradajz, kiseli krastavcii zelena salata",
+        "price": 7.5
+      },
+      {
+        "name": "Grand tasty burger",
+        "desc": "Pecivo 100gr, govedina 110gr, sir, paradajz, zelena salata, kiseli krastavci, luk, pops sos.",
+        "price": 7.5
+      },
+      {
+        "name": "Grand spicy burger",
+        "desc": "Pecivo 100gr, govedina 110gr, sir, paradajz, zelena salata, kiseli krastavci, luk, ljuti sos i kečap",
+        "price": 7.5
+      },
+      {
+        "name": "Grand texas burger",
+        "desc": "Pecivo 100gr, govedina 110gr, sir, paradajz, zelena salata, kiseli krastavci, luk, tex mex sos",
+        "price": 7.5
+      },
+      {
+        "name": "Grand American monster burger",
+        "desc": "Pecivo 100gr, govedina 110gr, sir, paradajz, zelena salata, kiseli krastavci, luk, jaje, Pops sos",
+        "price": 7.5
+      },
+      {
+        "name": "Grand jalapeno hot burger",
+        "desc": "Pecivo 100gr, govedina 110gr, sir, paradajz, zelena salata, kiseli krastavci, luk, hot sos i jalapeno paprika",
+        "price": 7.5
+      }
+    ],
+    "BIG POPS BURGERI": [
+      {
+        "name": "Big Pop's chicken burger MENI",
+        "desc": "Big pops burger, pomfrit i sok",
+        "price": 13.0
+      },
+      {
+        "name": "Big Pop's burger MENI",
+        "desc": "Big pops burger, pomfrit i sok",
+        "price": 12.0
+      },
+      {
+        "name": "Big Pop's chicken burger",
+        "desc": "Pecivo 85gr, 2x 100gr pileće meso, sandwich sos, zelena salata",
+        "price": 9.0
+      },
+      {
+        "name": "Big Pop's burger",
+        "desc": "Pecivo 85gr, 2x 70gr goveđe meso, pops sos, zelena salata i dehidrirani luk",
+        "price": 7.5
+      },
+      {
+        "name": "Chicken burger",
+        "desc": "Pecivo 80gr, 100gr pileće pohovano meso, zelena salata i sandwich sos",
+        "price": 6.0
+      }
+    ],
+    "Deluxe chickenburger": [
+      {
+        "name": "Deluxe burger BOX",
+        "desc": "Deluxe burger, 200gr strips i pomfrit",
+        "price": 16.4
+      },
+      {
+        "name": "Jalapeno hot deluxe chicken",
+        "desc": "Pecivo 100gr, pileće panirano premium meso 120gr, Jalapeno paprika, zelena salata, hot sos, sir",
+        "price": 8.5
+      },
+      {
+        "name": "BBQ deluxe chicken",
+        "desc": "Pecivo 100gr, pileće panirano premium meso 120gr, zelena salata, BBQ sos, sir",
+        "price": 8.5
+      },
+      {
+        "name": "Classic deluxe chicken",
+        "desc": "Pecivo 100gr, pileće panirano premium meso 120gr, Jalapeno paprika, zelena salata, sandwich sos",
+        "price": 8.5
+      }
+    ],
+    "Tortilje": [
+      {
+        "name": "Wrap Mr Jack MENI",
+        "price": 12.5
+      },
+      {
+        "name": "Wrap crispy chicken MENI",
+        "price": 12.5
+      },
+      {
+        "name": "Wrap Grill chicken MENI",
+        "price": 12.5
+      },
+      {
+        "name": "Wrap Mr Jack hot",
+        "desc": "Tortilja, Mr. Jack piletina, sir, BBQ sos, paradajz, salata",
+        "price": 8.0
+      },
+      {
+        "name": "Wrap crispy chicken",
+        "desc": "Tortilja, pohovana piletina, Cheddar, Tex mex sos, paradajz, salata",
+        "price": 8.0
+      },
+      {
+        "name": "Wrap Grill chicken",
+        "desc": "Tortilja, piletina, sandwich sos, kukuruz, paradajz, salata",
+        "price": 8.0
+      }
+    ],
+    "Palačinke": [
+      {
+        "name": "Ferrero Rocher palačinka",
+        "desc": "Namaz ferrero, preliv Nutella i lješnjak, crne mrvice",
+        "price": 8.0
+      },
+      {
+        "name": "Maxi king palačinka",
+        "desc": "Namaz, linolada gold, krema, lješnjak, karamel, preliv Nutella, crne mrvice",
+        "price": 8.0
+      },
+      {
+        "name": "Bueno palačinka",
+        "desc": "Namaz bueno, preliv bueno, crne mrvice",
+        "price": 8.0
+      },
+      {
+        "name": "Snickers palačinka",
+        "desc": "Namaz linolada, karamel, kikiriki, preliv linolada i karamel",
+        "price": 8.0
+      },
+      {
+        "name": "Nutella Banana palačinka",
+        "desc": "Nutella namaz, i preljev, banana",
+        "price": 8.0
+      },
+      {
+        "name": "Kinder palačinka",
+        "desc": "Linolada namaz, preljev nutella",
+        "price": 8.0
+      },
+      {
+        "name": "Nutella palačinka",
+        "desc": "Nutella namaz i preljev, plazma",
+        "price": 8.0
+      },
+      {
+        "name": "Strawberry palačinka",
+        "desc": "Namaz jagoda, preljev bijela cokolada",
+        "price": 8.0
+      },
+      {
+        "name": "Cherry palačinka",
+        "desc": "namaz visnja i preljev bijela cokolada",
+        "price": 8.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Classic salata",
+        "desc": "Piletine, cesar sos, salata",
+        "price": 8.0
+      },
+      {
+        "name": "Tex Mex salata",
+        "desc": "Pohovane piletine, Pops sos, salata",
+        "price": 8.0
+      },
+      {
+        "name": "Burger salata",
+        "desc": "Burger, Pops sos, salata",
+        "price": 8.0
+      }
+    ],
+    "Snacks chicken": [
+      {
+        "name": "CHICKEN BOX",
+        "desc": "200gr stripa, nuggets 9kom i 2x pomfrit",
+        "price": 19.5
+      },
+      {
+        "name": "STRIPS 300 MENI",
+        "price": 15.0
+      },
+      {
+        "name": "STRIPS 400",
+        "price": 14.0
+      },
+      {
+        "name": "STRIPS 200 MENI",
+        "price": 12.5
+      },
+      {
+        "name": "STRIPS 300",
+        "price": 11.0
+      },
+      {
+        "name": "STRIPS 200",
+        "price": 8.0
+      }
+    ],
+    "Dječji meni": [
+      {
+        "name": "Burger Kids meni",
+        "desc": "Burger, pomfrit, sok, igračka gratis",
+        "price": 9.0
+      },
+      {
+        "name": "Nuggets Kids meni",
+        "desc": "Nuggets, pomfrit, sok, igračka gratis",
+        "price": 9.0
+      },
+      {
+        "name": "Donut Čokolada",
+        "price": 3.0
+      }
+    ],
+    "Snacks": [
+      {
+        "name": "Nuggets meni",
+        "desc": "Mali ili veliki meni",
+        "price": 10.0
+      },
+      {
+        "name": "Nuggets",
+        "desc": "6 kom ili 10 kom",
+        "price": 5.5
+      },
+      {
+        "name": "Cheddar pomfrit XXL",
+        "price": 5.5
+      },
+      {
+        "name": "Big pomfrit",
+        "desc": "Big pomfrit",
+        "price": 4.0
+      },
+      {
+        "name": "Pomfrit junior",
+        "desc": "100 gr",
+        "price": 3.5
+      }
+    ],
+    "Milkshake": [
+      {
+        "name": "Milkshake Vanilija",
+        "desc": "Milkshake Vanilija",
+        "price": 4.0
+      },
+      {
+        "name": "Milkshake Čokolada",
+        "desc": "Milkshake Čokolada",
+        "price": 4.0
+      },
+      {
+        "name": "Milkshake Jagoda",
+        "desc": "Milkshake Jagoda",
+        "price": 4.0
+      }
+    ],
+    "Pića": [
+      {
+        "name": "Coca-Cola Zero 0.33l",
+        "price": 3.0
+      },
+      {
+        "name": "Coca-Cola 0.33l",
+        "price": 3.0
+      },
+      {
+        "name": "Sprite 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Fanta 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Ledeni čaj 0.25 l",
+        "desc": "0.25 l",
+        "price": 2.5
+      },
+      {
+        "name": "Voda 0.33 l",
+        "desc": "0.33 l",
+        "price": 2.0
+      },
+      {
+        "name": "Voda mineralna 0.33 l",
+        "desc": "0.33 l",
+        "price": 2.0
+      }
+    ]
+  }
+}

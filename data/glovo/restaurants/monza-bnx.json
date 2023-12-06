@@ -1,0 +1,190 @@
+{
+  "name": "Monza",
+  "rating": 0.97,
+  "count": 423,
+  "service_fee": 1.5,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Pizza Monza",
+        "desc": "Sos, sir, suvi vrat, kulen, šampinjoni, masline",
+        "price": 6.5
+      },
+      {
+        "name": "Pohovana piletina",
+        "desc": "U pet vrsta sosa: sos od gljiva, chili sos, curry sos, 4 vrste sira",
+        "price": 7.5
+      },
+      {
+        "name": "Kiflice sa Eurokremom 12 kom",
+        "desc": "Kiflice, Eurokrem",
+        "price": 6.5
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Monca piletina",
+        "desc": "Punjeni pileći file sa sosom od kikiriki putera, pecivo",
+        "price": 10.0
+      },
+      {
+        "name": "Pohovana piletina",
+        "desc": "U pet vrsta sosa: sos od gljiva, chili sos, curry sos, 4 vrste sira",
+        "price": 7.5
+      },
+      {
+        "name": "Doručak Monca",
+        "desc": "Dvije kobasice, tri jaja, pavlaka, ajvar, pecivo",
+        "price": 7.5
+      },
+      {
+        "name": "Hrenovke i jaja",
+        "desc": "Dvije hrenovke, tri jaja, pecivo, kugla pavlake",
+        "price": 6.0
+      },
+      {
+        "name": "Mix pogačice",
+        "desc": "Četiri pogačice, sir, šunka, kulen, slanina",
+        "price": 5.5
+      },
+      {
+        "name": "Omlet sa sirom",
+        "desc": "Tri jaja, sir, pecivo, kugla pavlake",
+        "price": 5.5
+      },
+      {
+        "name": "Omlet sa šunkom",
+        "desc": "Tri jaja, šunka, pecivo, kugla pavlake",
+        "price": 5.5
+      },
+      {
+        "name": "Omlet sa šampinjonima",
+        "desc": "Tri jaja, šampinjoni, pecivo, kugla pavlake",
+        "price": 5.5
+      },
+      {
+        "name": "Omlet natur",
+        "desc": "Tri jaja, mlijeko, pecivo, kugla pavlake",
+        "price": 4.5
+      }
+    ],
+    "Sendviči": [
+      {
+        "name": "Sendvić pikant",
+        "desc": "Pizza tijesto, bareni vrat, kulen",
+        "price": 7.5
+      },
+      {
+        "name": "Monca sendvič",
+        "desc": "Pizza tijesto, bareni vrat, sir, pavlaka",
+        "price": 6.5
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Porodična pizza",
+        "desc": "Sos, sir, šunka, šampinjoni, masline",
+        "price": 22.0
+      },
+      {
+        "name": "Pizza po Vašem izboru 32 cm",
+        "desc": "Odaberite sami svoje sastojke za pizzu, koristeći maximalno tri vrste mesa po željenom ukusu uz ostale priloge",
+        "price": 14.0
+      },
+      {
+        "name": "Pizza Piroška",
+        "desc": "Sos, sir, šunka, pavlaka",
+        "price": 7.5
+      },
+      {
+        "name": "Posna pizza",
+        "desc": "Sos, posni sir, tunjevina, šampinjoni, masline",
+        "price": 6.5
+      },
+      {
+        "name": "Pizza Monza",
+        "desc": "Sos, sir, suvi vrat, kulen, šampinjoni, masline",
+        "price": 6.5
+      },
+      {
+        "name": "Pizza Etno",
+        "desc": "Sos, sir, slanina, suha peka, bijeli luk, dimljeni sir, masline",
+        "price": 6.5
+      },
+      {
+        "name": "Pizza Mexico",
+        "desc": "Sos, sir, šunka, kobasica, chilli, kukuruz, feferone, masline",
+        "price": 6.5
+      },
+      {
+        "name": "Pizza Stanato",
+        "desc": "Sos, sir, šunka, šampinjoni, pavlaka, masline",
+        "price": 6.5
+      },
+      {
+        "name": "Pizza Arabica",
+        "desc": "Sos, sir, goveđa peka, sudžuk, šampinjoni, masline",
+        "price": 6.5
+      },
+      {
+        "name": "Ham-ham pizza",
+        "desc": "Sos, sir, šunka, masline",
+        "price": 5.5
+      },
+      {
+        "name": "Pizza Vegetariana",
+        "desc": "Sos, sir, crni luk, paprika, šampinjoni, kukuruz, masline",
+        "price": 5.5
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Sos, sir, šunka, šampinjoni, masline",
+        "price": 5.5
+      },
+      {
+        "name": "Pizza Margherita",
+        "desc": "Sos, sir, masline",
+        "price": 5.0
+      }
+    ],
+    "Kiflice": [
+      {
+        "name": "Kiflice Monca 12 kom",
+        "desc": "Slanina, sir",
+        "price": 7.5
+      },
+      {
+        "name": "Kiflice sa sirom 12 kom",
+        "desc": "Kiflice, sir",
+        "price": 6.5
+      },
+      {
+        "name": "Kiflice sa Eurokremom 12 kom",
+        "desc": "Kiflice, Eurokrem",
+        "price": 6.5
+      },
+      {
+        "name": "Kiflice sa sirom i šunkom 12 kom",
+        "desc": "Sir, šunka",
+        "price": 6.5
+      }
+    ],
+    "Palačinke": [
+      {
+        "name": "Slane pohovane palačinke 2 kom",
+        "desc": "Šunka, sir",
+        "price": 5.5
+      },
+      {
+        "name": "Slane palačinke 2 kom",
+        "desc": "Šunka, sir",
+        "price": 4.5
+      },
+      {
+        "name": "Slatke palačinke 2 kom",
+        "desc": "Odaberi 2 priloga po želji: marmelada, Eurkorem, orasi ili Plazma",
+        "price": 3.0
+      }
+    ]
+  }
+}

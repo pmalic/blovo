@@ -1,0 +1,432 @@
+{
+  "name": "Aljoša i Saša roštiljnica",
+  "rating": 0.97,
+  "count": 75,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Banjalučki ćevapi velika porcija",
+        "desc": "4 pločice. 250 gr",
+        "price": 12.0
+      },
+      {
+        "name": "Rolovana punjena piletina",
+        "desc": "Pileće bijelo punjeno pršutom i sirom, rolovano u barenoj slanini, lepinja",
+        "price": 15.0
+      },
+      {
+        "name": "Teleće krpice  200 gr",
+        "desc": "200 gr",
+        "price": 15.0
+      }
+    ],
+    "Predjela": [
+      {
+        "name": "Pohovani sir  200 gr",
+        "desc": "Edamer, Dimljeni sir, Kačkavalj",
+        "price": 10.0
+      },
+      {
+        "name": "Prepečeni hljeb sa šunkom i sirom",
+        "desc": "2 komada",
+        "price": 9.0
+      },
+      {
+        "name": "Sendvič sa pohovanim hljebom",
+        "desc": "4 parčeta hljeba, dimljena peka, sir Edamer, paradajz",
+        "price": 9.0
+      },
+      {
+        "name": "Suhi vrat  100 gr",
+        "desc": "100 gr",
+        "price": 8.0
+      },
+      {
+        "name": "Jaja na 1000 načina",
+        "desc": "3 jajeta, slanina, sir, barena šunka, svježa paprika, šampinjoni. Gratis puter kifla sa dvije vrste sosa.",
+        "price": 7.0
+      },
+      {
+        "name": "Grilovani šampinjoni  250 gr",
+        "desc": "250 gr",
+        "price": 6.0
+      },
+      {
+        "name": "Grilovano povrće  350 gr",
+        "desc": "350 gr",
+        "price": 6.0
+      },
+      {
+        "name": "Pomfrit  200 gr",
+        "desc": "200 gr",
+        "price": 5.0
+      }
+    ],
+    "Supe i čorbe": [
+      {
+        "name": "Juneća čorba",
+        "desc": "Juneća čorba",
+        "price": 8.0
+      },
+      {
+        "name": "Pileće bistra supa sa griz njoklicama",
+        "desc": "Pileće bistra supa sa griz njoklicama",
+        "price": 6.0
+      },
+      {
+        "name": "Teleća bistra supa sa domaćim rezancima",
+        "desc": "Teleća bistra supa sa domaćim rezancima",
+        "price": 6.0
+      }
+    ],
+    "Jela s roštilja": [
+      {
+        "name": "Biftek na žaru  250 gr",
+        "desc": "250 gr",
+        "price": 25.0
+      },
+      {
+        "name": "Teleći mozak sa umakom  300 gr",
+        "desc": "300 gr",
+        "price": 20.0
+      },
+      {
+        "name": "Punjeni ramstek  250 gr",
+        "desc": "250 gr",
+        "price": 20.0
+      },
+      {
+        "name": "Punjeni svinjski file",
+        "desc": "400 gr mesa, punjeno Gauda sirom i kiselim krastavcem. Prilog tikvica. Lepinja",
+        "price": 20.0
+      },
+      {
+        "name": "Teleći bubrežnjak  300 gr",
+        "desc": "300 gr",
+        "price": 18.0
+      },
+      {
+        "name": "Banjalučki ćevapi u kajmaku velika porcija",
+        "desc": "4 pločice. 250 gr",
+        "price": 16.0
+      },
+      {
+        "name": "Rolovana punjena piletina",
+        "desc": "Pileće bijelo punjeno pršutom i sirom, rolovano u barenoj slanini, lepinja",
+        "price": 15.0
+      },
+      {
+        "name": "Teleća brizla  300 gr",
+        "desc": "300 gr",
+        "price": 15.0
+      },
+      {
+        "name": "Teleće peke  200 gr",
+        "desc": "200 gr",
+        "price": 15.0
+      },
+      {
+        "name": "Teleće krpice  200 gr",
+        "desc": "200 gr",
+        "price": 15.0
+      },
+      {
+        "name": "Dimljena roštiljska kobasica velika porcija",
+        "desc": "Roštiljska kobasica",
+        "price": 15.0
+      },
+      {
+        "name": "Šiš ćevap velika porcija",
+        "desc": "3 žice šiš ćevapa",
+        "price": 15.0
+      },
+      {
+        "name": "Teleća jetrica  250 gr",
+        "desc": "250 gr",
+        "price": 14.0
+      },
+      {
+        "name": "Pljeskavica u kajmaku 200 gr",
+        "desc": "200 gr",
+        "price": 14.0
+      },
+      {
+        "name": "Banjalučki ćevapi u kajmaku srednja porcija",
+        "desc": "3 pločice",
+        "price": 13.0
+      },
+      {
+        "name": "Svinjska dimljena vešalica  250 gr",
+        "desc": "250 gr",
+        "price": 12.0
+      },
+      {
+        "name": "Svinjska krmenadla  300 gr",
+        "desc": "300 gr",
+        "price": 12.0
+      },
+      {
+        "name": "Dimljena roštiljska kobasica srednja porcija",
+        "desc": "Roštiljska kobasica",
+        "price": 12.0
+      },
+      {
+        "name": "Banjalučki ćevapi velika porcija",
+        "desc": "4 pločice. 250 gr",
+        "price": 12.0
+      },
+      {
+        "name": "Pileće bijelo meso  200 gr",
+        "desc": "Marinirano",
+        "price": 10.0
+      },
+      {
+        "name": "Pileći batak  200 gr",
+        "desc": "Mariniran, bez kostiju",
+        "price": 10.0
+      },
+      {
+        "name": "Pljeskavica sa lukom  200 gr",
+        "desc": "200 gr",
+        "price": 10.0
+      },
+      {
+        "name": "Šiš ćevap srednja porcija",
+        "desc": "2 žice šiš ćevapa",
+        "price": 10.0
+      },
+      {
+        "name": "Banjalučki ćevapi u kajmaku mala porcija",
+        "desc": "2 pločice",
+        "price": 10.0
+      },
+      {
+        "name": "Pileća marinirana krilca",
+        "desc": "3 komada",
+        "price": 9.0
+      },
+      {
+        "name": "Banjalučki ćevapi srednja porcija",
+        "desc": "3 pločice",
+        "price": 9.0
+      },
+      {
+        "name": "Dimljena roštiljska kobasica mala porcija",
+        "desc": "Roštiljska kobasica",
+        "price": 7.5
+      },
+      {
+        "name": "Banjalučki ćevapi mala porcija",
+        "desc": "2 pločice",
+        "price": 6.0
+      },
+      {
+        "name": "Šiš ćevap mala porcija",
+        "desc": "1 žica šiš ćevapa",
+        "price": 5.0
+      }
+    ],
+    "Ražnjići": [
+      {
+        "name": "Teleći ražnjići velika porcija",
+        "desc": "3 ražnjića. Marinirana teleća šnicla",
+        "price": 18.0
+      },
+      {
+        "name": "Miješani ražnjići sa sirom velika porcija",
+        "desc": "3 ražnjića. Teleća ruža, Edamer",
+        "price": 15.0
+      },
+      {
+        "name": "Miješani pileći ražnjić velika porcija",
+        "desc": "3 ražnjića. Piletina, šampinjoni, tikvica",
+        "price": 15.0
+      },
+      {
+        "name": "Rolovani ražnjić velika porcija",
+        "desc": "3 ražnjića. Juneći biftek, barena slanina",
+        "price": 15.0
+      },
+      {
+        "name": "Teleći ražnjići srednja porcija",
+        "desc": "2 ražnjića. Marinirana teleća šnicla",
+        "price": 12.0
+      },
+      {
+        "name": "Ražnjići od svinjetine sa paprikom velika porcija",
+        "desc": "Svinjetina, paprika",
+        "price": 12.0
+      },
+      {
+        "name": "Miješani ražnjići sa sirom srednja porcija",
+        "desc": "2 ražnjića. Teleća ruža, Edamer",
+        "price": 10.0
+      },
+      {
+        "name": "Miješani pileći ražnjić srednja porcija",
+        "desc": "2 ražnjića. Piletina, šampinjoni, tikvica",
+        "price": 10.0
+      },
+      {
+        "name": "Rolovani ražnjić srednja porcija",
+        "desc": "2 ražnjića. Juneći biftek, barena slanina",
+        "price": 10.0
+      },
+      {
+        "name": "Ražnjići od svinjetine sa paprikom srednja porcija",
+        "desc": "Svinjetina, paprika",
+        "price": 9.0
+      },
+      {
+        "name": "Teleći ražnjići mala porcija",
+        "desc": "1 ražnjić. Marinirana teleća šnicla",
+        "price": 6.0
+      },
+      {
+        "name": "Miješani ražnjići sa sirom mala porcija",
+        "desc": "1 ražnjić. Teleća ruža, Edamer",
+        "price": 6.0
+      },
+      {
+        "name": "Ražnjići od svinjetine sa paprikom mala porcija",
+        "desc": "Svinjetina, paprika",
+        "price": 6.0
+      },
+      {
+        "name": "Rolovani ražnjić mala porcija",
+        "desc": "1 ražnjić. Juneći biftek, barena slanina",
+        "price": 6.0
+      },
+      {
+        "name": "Miješani pileći ražnjić mala porcija",
+        "desc": "1 ražnjić. Piletina, šampinjoni, tikvica",
+        "price": 5.0
+      }
+    ],
+    "Pite": [
+      {
+        "name": "Etno pita kvrguša  250 gr",
+        "desc": "Piletina, kisela pavlaka",
+        "price": 10.0
+      }
+    ],
+    "Posno": [
+      {
+        "name": "Pastrmka sa pomfritom",
+        "desc": "Posno",
+        "price": 15.0
+      },
+      {
+        "name": "Šampinjoni",
+        "desc": "Posno",
+        "price": 6.0
+      },
+      {
+        "name": "Grilovano povrće",
+        "desc": "Posno",
+        "price": 6.0
+      }
+    ],
+    "Zimske i vitaminske salate": [
+      {
+        "name": "Kiseli kupus 1 glavica",
+        "desc": "1 glavica",
+        "price": 10.0
+      },
+      {
+        "name": "Pečene paprike sa bijelim lukom",
+        "desc": "2 komada",
+        "price": 6.0
+      },
+      {
+        "name": "Domaći ajvar  100 gr",
+        "desc": "100 gr",
+        "price": 6.0
+      },
+      {
+        "name": "Domaća turšija",
+        "desc": "Karfiol, krastavac, mrkva, paprika, zeleni paradajz",
+        "price": 5.0
+      },
+      {
+        "name": "Kiseli krastavci",
+        "desc": "Kiseli krastavci",
+        "price": 5.0
+      },
+      {
+        "name": "Kiseli kupus porcija",
+        "desc": "Porcija",
+        "price": 5.0
+      }
+    ],
+    "Mesne i vitaminske salate": [
+      {
+        "name": "Pileća mesna salata  200 gr",
+        "desc": "Kuhano pileće meso, šampinjoni, majoneza, pavlaka",
+        "price": 10.0
+      },
+      {
+        "name": "Urnebes salata  150 gr",
+        "desc": "Mladi kravlji sir, kajmak, ljuta tucana paprika",
+        "price": 7.0
+      },
+      {
+        "name": "Miješana salata sa povrćem  200 gr",
+        "desc": "Paradajz, paprika, krastavci, crni luk, kuhana jaja, šunka",
+        "price": 5.5
+      }
+    ],
+    "Peciva": [
+      {
+        "name": "Kiflice",
+        "desc": "1 komad",
+        "price": 0.6
+      }
+    ],
+    "Palačinke": [
+      {
+        "name": "Palačinke na karipski način",
+        "desc": "2 komada. Slatko tijesto, banane, slatka pavlaka. *Slika je simbolična",
+        "price": 8.0
+      },
+      {
+        "name": "Palačinci domaća marmelada od kajsije",
+        "desc": "2 komada. *Slika je simbolična",
+        "price": 6.0
+      },
+      {
+        "name": "Palačinci eurokrem",
+        "desc": "2 komada. *Slika je simbolična",
+        "price": 6.0
+      },
+      {
+        "name": "Palačinci eurokrem i plazma",
+        "desc": "2 komada. *Slika je simbolična",
+        "price": 6.0
+      },
+      {
+        "name": "Palačinci domaća marmelada od šljiva",
+        "desc": "2 komada. *Slika je simbolična",
+        "price": 6.0
+      },
+      {
+        "name": "Palačinci orasi",
+        "desc": "2 komada. *Slika je simbolična",
+        "price": 6.0
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Domaća baklava",
+        "desc": "2 komada. Orasi, slatko tijesto",
+        "price": 8.0
+      },
+      {
+        "name": "Voćna salata",
+        "desc": "5 vrsta voća, voćni sirup, šlag",
+        "price": 8.0
+      }
+    ]
+  }
+}

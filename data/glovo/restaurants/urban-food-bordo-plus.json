@@ -1,0 +1,475 @@
+{
+  "name": "Urban Food Bordo Plus",
+  "rating": 0.97,
+  "count": 150,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Pileća tortilja",
+        "desc": "Gyros piletina, paradajz, kukuruz, sezonska salata, mrkva, Bordo sos u tortilji",
+        "price": 8.0
+      },
+      {
+        "name": "Nuddle sa piletinom",
+        "desc": "Tjestenina sa piletinom, sirom i Bordo nuddle sosom",
+        "price": 6.9
+      },
+      {
+        "name": "Bordo deluxe tortilja",
+        "desc": "Gyros piletina, grilovano povrće - carska mješavina, šampinjoni, tikvice, Feta sir, slanina, sezonska salata, paradajz, kukuruz, mrkva, Bordo sos u tortilji",
+        "price": 9.5
+      }
+    ],
+    "Coca-Cola ponuda": [
+      {
+        "name": "Pizza Tuna L 34 cm + Coca-Cola",
+        "desc": "Pizza Tuna L 34 cm, Coca-Cola",
+        "price": 14.0
+      },
+      {
+        "name": "Pizza Vegetarijana L 34 cm + Coca-Cola",
+        "desc": "Pizza Vegetarijana L 34 cm, Coca-Cola",
+        "price": 13.0
+      },
+      {
+        "name": "Pizza Margherita L 34 cm + Coca-Cola",
+        "desc": "Pizza Margherita L 34 cm, Coca-Cola",
+        "price": 12.5
+      },
+      {
+        "name": "Pizza Funghi L 34 cm + Coca-Cola",
+        "desc": "Pizza Funghi L 34 cm, Coca-Cola",
+        "price": 12.5
+      },
+      {
+        "name": "Pizza Bordo specijal + Coca-Cola",
+        "desc": "Pizza Bordo specijal, Coca-Cola",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Kulen + Coca-Cola",
+        "desc": "Pizza Kulen, Coca-Cola",
+        "price": 9.0
+      },
+      {
+        "name": "Pizza Vegetarijana single 24 cm + Coca-Cola",
+        "desc": "Pizza Vegetarijana single 24 cm, Coca-Cola",
+        "price": 9.0
+      },
+      {
+        "name": "Pizza Capricciosa + Coca-Cola",
+        "desc": "Pizza Capricciosa, Coca-Cola",
+        "price": 9.0
+      }
+    ],
+    "Meze": [
+      {
+        "name": "Bordo L meza za 4 osobe",
+        "desc": "Za četiri osobe, Edamer, kulen, suhi vrat, pečenica",
+        "price": 15.5
+      },
+      {
+        "name": "Kafanska meza",
+        "desc": "Kulen, pečenica, Edamer",
+        "price": 10.5
+      }
+    ],
+    "Uštipci": [
+      {
+        "name": "Uštipci pečenica i kajmak",
+        "desc": "8 komada",
+        "price": 7.4
+      },
+      {
+        "name": "Uštipci sa Eurokremom",
+        "desc": "8 komada",
+        "price": 6.0
+      },
+      {
+        "name": "Uštipci sa marmeladom *posno",
+        "desc": "Posno, 8 komada",
+        "price": 5.5
+      }
+    ],
+    "Pizze": [
+      {
+        "name": "Pizza Tuna L 34 cm",
+        "desc": "Tunjevina, grilovano povrće, paradajz sos, Posni sir",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Vegetarijana L 34 cm",
+        "desc": "Sezonsko povrće, šampinjoni, masline, bordo pizza sos, Posni sir",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Margherita L 34 cm",
+        "desc": "Sir, pizza sos, masline",
+        "price": 10.5
+      },
+      {
+        "name": "Pizza Funghi L 34 cm",
+        "desc": "Gljive, sir, pizza sos, masline",
+        "price": 10.5
+      },
+      {
+        "name": "Pizza Šumadija",
+        "desc": "Šunka, slanina, sir, gljive, kajmak, pizza sos, susam",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza Chicken",
+        "desc": "Gyros piletina, sir, pavlaka, kukuruz, Bordo pizza sos",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza Bordo specijal",
+        "desc": "Šunka, kulen, slanina, suvi vrat, sir, šampinjoni, masline, Bordo pizza sos",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza Kulen",
+        "desc": "Kulen, šampinjoni, sir, susam",
+        "price": 7.0
+      },
+      {
+        "name": "Pizza Vegetarijana single 24 cm",
+        "desc": "Sezonsko povrće, šampinjoni, masline, Bordo pizza sos, Posni sir",
+        "price": 7.0
+      },
+      {
+        "name": "Pizza Carbonara",
+        "desc": "Slanina, sir, gljive, pizza sos, masline, susam",
+        "price": 7.0
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Šunka, sir, šampinjoni, masline, Bordo pizza sos",
+        "price": 7.0
+      },
+      {
+        "name": "Pizza Tuna single 24 cm",
+        "desc": "Tunjevina, grilovano povrće, paradajz sos, Posni sir",
+        "price": 7.0
+      },
+      {
+        "name": "Pizza Margherita single 24 cm",
+        "desc": "Sir, pizza sos, masline",
+        "price": 6.5
+      },
+      {
+        "name": "Pizza Funghi single 24 cm",
+        "desc": "Gljive, sir, pizza sos, masline",
+        "price": 6.5
+      },
+      {
+        "name": "Calzone piroška",
+        "desc": "Šunka, sir, šampinjoni, Bordo pizza sos",
+        "price": 6.5
+      }
+    ],
+    "Gyros u lepinji": [
+      {
+        "name": "Svinjski gyros u lepinji",
+        "desc": "Svinjsko meso 150 gr, lepinja, prilog po želji",
+        "price": 8.4
+      },
+      {
+        "name": "Pileći gyros u lepinji",
+        "desc": "Pileće meso 150 gr, lepinja, prilog po želji",
+        "price": 8.0
+      }
+    ],
+    "Tortilje": [
+      {
+        "name": "Bordo deluxe tortilja",
+        "desc": "Gyros piletina, grilovano povrće - carska mješavina, šampinjoni, tikvice, Feta sir, slanina, sezonska salata, paradajz, kukuruz, mrkva, Bordo sos u tortilji",
+        "price": 9.5
+      },
+      {
+        "name": "Pileća tortilja od integralnog brašna",
+        "desc": "Integralna tortilja od pšeničnog brašna, gyros piletina, paradajz, kukuruz, sezonska salata, mrkva, Bordo sos",
+        "price": 9.0
+      },
+      {
+        "name": "Specijal tortilja od integralnog brašna",
+        "desc": "Integralna tortilja od pšeničnog brašna, gyros piletina, slanina, paradajz, kukuruz, sezonska salata, Bordo sos",
+        "price": 9.0
+      },
+      {
+        "name": "Curry piletina tortilja od integralnog brašna",
+        "desc": "Integralna tortilja od pšeničnog brašna, gyros piletina, paradajz, svježi krastavac, kukuruz, sezonska salata, mrkva, curry sos",
+        "price": 9.0
+      },
+      {
+        "name": "Vegetarijana tortilja od integralnog brašna",
+        "desc": "Integralna tortilja od pšeničnog brašna, Feta sir, grilovano povrće, sezonska salata, masline, paradajz, kukuruz, mrkva, Bordo sos",
+        "price": 9.0
+      },
+      {
+        "name": "Specijal tortilja",
+        "desc": "Gyros piletina, slanina, paradajz, kukuruz, sezonska salata, Bordo sos u tortilji",
+        "price": 8.5
+      },
+      {
+        "name": "Pileća tortilja",
+        "desc": "Gyros piletina, paradajz, kukuruz, sezonska salata, mrkva, Bordo sos u tortilji",
+        "price": 8.0
+      },
+      {
+        "name": "Vegetarijana tortilja",
+        "desc": "Feta sir, grilovano povrće, sezonska salata, masline, paradajz, kukuruz, mrkva, Bordo sos u tortilji",
+        "price": 7.9
+      },
+      {
+        "name": "Curry piletina tortilja",
+        "desc": "Gyros piletina, paradajz, svježi krastavac, kukuruz, sezonska salata, mrkva, curry sos u tortilji",
+        "price": 7.9
+      },
+      {
+        "name": "Burrito",
+        "desc": "Juneće mljeveno, grilovano povrće, curry sos",
+        "price": 7.9
+      },
+      {
+        "name": "Grčka tortilja",
+        "desc": "Sezonska salata, svinjski file, Tzatziki sos, sos u tortilji",
+        "price": 7.9
+      },
+      {
+        "name": "Burrito tunjevina",
+        "desc": "Tunjevina, grilovano povrće, paradajz sos",
+        "price": 7.9
+      },
+      {
+        "name": "Roštiljska tortilja",
+        "desc": "Sezonska salata, dimljena roštiljska kobasica, Bordo sos",
+        "price": 7.5
+      },
+      {
+        "name": "Banjalučka tortilja",
+        "desc": "Sezonska salata, šiš ćevap, Bordo sos",
+        "price": 7.5
+      },
+      {
+        "name": "Hot dog tortilja",
+        "desc": "Dvije hrenovke, paradajz, sezonska salata, kisjeli krastavac, ketchup, mrkva, curry, ketchup u tortilji",
+        "price": 7.0
+      },
+      {
+        "name": "Kulen tortilja",
+        "desc": "Kulen, sir, Bordo sos",
+        "price": 7.0
+      },
+      {
+        "name": "Đačka tortilja",
+        "desc": "Pileća tortilja sa smanjenim normativom",
+        "price": 6.5
+      },
+      {
+        "name": "Šunka tortilja",
+        "desc": "Šunka, sir, Bordo sos",
+        "price": 5.5
+      }
+    ],
+    "Posni meni": [
+      {
+        "name": "Vegetarijana posna tortilja",
+        "desc": "Grilovano povrće, sezonsko salata, masline, paradajz, kukuruz, mrkva, Bordo sos u tortilji",
+        "price": 7.9
+      },
+      {
+        "name": "Vegetarijana pizza *posno",
+        "desc": "Sezonsko povrće, šampinjoni, masline, Bordo pizza sos, Posni sir",
+        "price": 7.0
+      },
+      {
+        "name": "Nuddle Vegetarijana *posno",
+        "desc": "Tjestenina sa grilovanim povrćem, pizza sos, Posni sir",
+        "price": 6.9
+      },
+      {
+        "name": "Tuna mexicana salata *posno",
+        "desc": "Grah, kukuruz, paprika, mrkva, tuna, chili",
+        "price": 6.4
+      },
+      {
+        "name": "Salata sa tunjevinom *posno",
+        "desc": "Tunjevina, nuddle, luk, šampinjoni, posni majonez, kukuruz šećerac",
+        "price": 6.4
+      },
+      {
+        "name": "Tunjevina sendvič *posno",
+        "desc": "Tunjevina, Posni sir, sezonska salata",
+        "price": 5.5
+      },
+      {
+        "name": "Uštipci ajvar *posno",
+        "desc": "6 komada",
+        "price": 5.5
+      }
+    ],
+    "Nuddle": [
+      {
+        "name": "Nuddle sa piletinom",
+        "desc": "Tjestenina sa piletinom, sirom i Bordo nuddle sosom",
+        "price": 6.9
+      },
+      {
+        "name": "Nuddle Carbonara",
+        "desc": "Tjestenina sa slaninom, sirom i Bordo nuddle sosom",
+        "price": 6.9
+      },
+      {
+        "name": "Nuddle Bolognese",
+        "desc": "Tjestenina sa mljevenom junetinom, sirom i Bordo nuddle sosom",
+        "price": 6.9
+      }
+    ],
+    "Slane palačinke": [
+      {
+        "name": "Slane palačinke pečenica, sir",
+        "desc": "2 kom",
+        "price": 6.9
+      },
+      {
+        "name": "Slane palačinke kulen, sir",
+        "desc": "2 kom",
+        "price": 6.5
+      },
+      {
+        "name": "Slane palačinke suvi vrat, sir",
+        "desc": "2 kom",
+        "price": 6.5
+      },
+      {
+        "name": "Slane palačinke šunka, sir",
+        "desc": "2 kom",
+        "price": 5.9
+      }
+    ],
+    "Sendviči": [
+      {
+        "name": "Bordo sendvič",
+        "desc": "Kulen, slanina, šunka, suhi vrat, sir, paradajz, sezonska salata, Bordo sos",
+        "price": 7.5
+      },
+      {
+        "name": "Kulen sendvič",
+        "desc": "Kulen, sir, paradajz, sezonska salata, Bordo sos",
+        "price": 6.5
+      },
+      {
+        "name": "Suvi vrat sendvič",
+        "desc": "Suhi vrat, sir, sezonska salata, Bordo sos",
+        "price": 6.5
+      },
+      {
+        "name": "Šunka sendvič",
+        "desc": "Šunka, sir, paradajz, sezonska salata, Bordo sos",
+        "price": 5.5
+      }
+    ],
+    "Lepinja": [
+      {
+        "name": "Komplet lepinja",
+        "desc": "Svinjska mast, Užički kajmak, jaje",
+        "price": 5.5
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "Cezar salata",
+        "desc": "Piletina, slanina, majonez, kruton, salata, dressing",
+        "price": 8.5
+      },
+      {
+        "name": "Portugalska salata",
+        "desc": "Nuddle, piletina, paprika, paradajz, dressing",
+        "price": 7.4
+      },
+      {
+        "name": "Grčka salata",
+        "desc": "Masline, Feta sir, luk, zelena salata, paradajz, dressing",
+        "price": 7.4
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Bordo pomfrit",
+        "desc": "Pomfrit sa Bordo ukusom",
+        "price": 4.0
+      },
+      {
+        "name": "Pogačice",
+        "desc": "Pizza tijesto, 4 kom",
+        "price": 2.5
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Čoko tortilja",
+        "desc": "Eurokrem, banana",
+        "price": 5.5
+      },
+      {
+        "name": "Voćna tortilja",
+        "desc": "Višnja, banana",
+        "price": 5.5
+      },
+      {
+        "name": "Slatke palačinke",
+        "desc": "Slatke palačinke",
+        "price": 3.5
+      }
+    ],
+    "Pića": [
+      {
+        "name": "Fanta 330 ml",
+        "desc": "330 ml",
+        "price": 2.0
+      },
+      {
+        "name": "Coca-Cola Zero",
+        "desc": "500 ml",
+        "price": 2.0
+      },
+      {
+        "name": "Schweppes Bitter Lemon  500 ml",
+        "desc": "500 ml",
+        "price": 2.0
+      },
+      {
+        "name": "Fanta Shokata 500 ml",
+        "desc": "500 ml",
+        "price": 2.0
+      },
+      {
+        "name": "Sprite 500 ml",
+        "desc": "500 ml",
+        "price": 2.0
+      },
+      {
+        "name": "Schweppes Tangerine 500 ml",
+        "desc": "500 ml",
+        "price": 2.0
+      },
+      {
+        "name": "Coca-Cola 500 ml",
+        "desc": "500 ml",
+        "price": 2.0
+      },
+      {
+        "name": "Olimpija negazirana 500 ml",
+        "desc": "500 ml",
+        "price": 1.5
+      },
+      {
+        "name": "Olimpija gazirana 500 ml",
+        "desc": "500 ml",
+        "price": 1.5
+      }
+    ]
+  }
+}

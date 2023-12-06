@@ -1,0 +1,308 @@
+{
+  "name": "Restoran Hedonist",
+  "rating": 0.98,
+  "count": 30,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Hedonist piletina",
+        "desc": "Rolovana piletina sa Cheddar sirom i pancetom, podloga od rukole i mix povrća iz woka, krem sos od sira",
+        "price": 21.6
+      },
+      {
+        "name": "Taljatele sa piletinom i Maskarpone sirom",
+        "desc": "Piletina, Maskarpone, domaći pesto, rendani orasi",
+        "price": 16.8
+      },
+      {
+        "name": "Bruskete sa dimljenim lososom",
+        "desc": "Dimljeni losos, pesto, cherry paradajz, rukola",
+        "price": 14.4
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Doručak Hedonist",
+        "desc": "3 jaja, panceta, domaći sir, kobasica",
+        "price": 12.0
+      },
+      {
+        "name": "Tortilja sa piletinom",
+        "desc": "Piletina, paprika, kukuruz, pomfrit",
+        "price": 9.6
+      },
+      {
+        "name": "Uštipci",
+        "desc": "Pršut, kajmak",
+        "price": 9.6
+      },
+      {
+        "name": "Omlet pršut",
+        "desc": "Jaja, pršut, Feta sir, rukola",
+        "price": 8.4
+      },
+      {
+        "name": "Punjene prženice",
+        "desc": "Jaja, tost, šunka, sir",
+        "price": 8.4
+      },
+      {
+        "name": "Kajgana sa slaninom",
+        "desc": "Jaja, slanina, paprike, sir",
+        "price": 8.4
+      }
+    ],
+    "Predjela": [
+      {
+        "name": "Naša selekcija",
+        "desc": "Pršut, domaća peka, kajmak, Gorgonzola, masline, Dimljeni sir, Livanjski sir",
+        "price": 48.0
+      },
+      {
+        "name": "Tatar biftek 200 gr",
+        "desc": "200 gr",
+        "price": 48.0
+      },
+      {
+        "name": "Bruskete sa dimljenim lososom",
+        "desc": "Dimljeni losos, pesto, cherry paradajz, rukola",
+        "price": 14.4
+      },
+      {
+        "name": "Bruskete sa Mozzarellom i pečenim paradajzom",
+        "desc": "Paradajz, Mozzarella, pesto sos",
+        "price": 9.6
+      }
+    ],
+    "Supe": [
+      {
+        "name": "Teleća čorba",
+        "desc": "Teleća čorba",
+        "price": 8.4
+      },
+      {
+        "name": "Pileća supa sa rezancima",
+        "desc": "Pileća supa sa rezancima",
+        "price": 6.0
+      }
+    ],
+    "Glavna jela": [
+      {
+        "name": "Biftek u maslinovom ulju 250 gr",
+        "desc": "Biftek, povrće iz woka",
+        "price": 54.0
+      },
+      {
+        "name": "Pepper biftek 250 gr",
+        "desc": "Steak u sosu na bazi zelenog bibera i crvenog vina, poslužen uz povrće iz woka",
+        "price": 51.6
+      },
+      {
+        "name": "Biftek na žaru 250 gr",
+        "desc": "Tradicionalno mariniran, poslužen uz povrće iz woka",
+        "price": 48.0
+      },
+      {
+        "name": "Ramstek Rio 250 gr",
+        "desc": "Ramstek, mladi krompir, kajmak",
+        "price": 30.0
+      },
+      {
+        "name": "Teletina Hedonist 250 gr",
+        "desc": "Teletina sa mladim krompirom u kajmaku",
+        "price": 26.4
+      },
+      {
+        "name": "Karađorđeva šnicla",
+        "desc": "Karađorđeva šnicla",
+        "price": 25.2
+      },
+      {
+        "name": "Hedonist piletina",
+        "desc": "Rolovana piletina sa Cheddar sirom i pancetom, podloga od rukole i mix povrća iz woka, krem sos od sira",
+        "price": 21.6
+      },
+      {
+        "name": "Svinjska rebarca Hedonist 500 gr",
+        "desc": "Svinjska rebarca spremana 24h posebnom Sous vide tehnikom, glazirana BBQ sosom, pomfrit od batat krompira, krema od majoneze",
+        "price": 21.6
+      },
+      {
+        "name": "Svinjski medaljoni u florentin sosu",
+        "desc": "Svinjski file, miks povrća, riža",
+        "price": 21.6
+      },
+      {
+        "name": "Chicken & cheese",
+        "desc": "Dimljeni otkošteni pileći batak u sosu sa četiri vrste sira, mladi zapečeni krompir sa pancetom, salata sa cherry paradajzom i Feta sirom",
+        "price": 20.4
+      },
+      {
+        "name": "Pileći medaljoni u curry sosu",
+        "desc": "Pileći file, miks povrća, curry, Arborio riža",
+        "price": 19.2
+      }
+    ],
+    "Burgeri": [
+      {
+        "name": "Beef burger 200 gr",
+        "desc": "Junetina, dresing, Ajsberg salata, cherry paradajz, karamelizovani luk, krompirići",
+        "price": 15.0
+      }
+    ],
+    "Pasta": [
+      {
+        "name": "Pikant taljatele sa biftekom",
+        "desc": "Mozzarella, chilli, rukola, paradajz sos, masline",
+        "price": 21.0
+      },
+      {
+        "name": "Njoke sa piletinom i vrganjima",
+        "desc": "Pileći file, vrganji, maslac, Parmezan, njoke",
+        "price": 18.0
+      },
+      {
+        "name": "Taljatele sa piletinom i Maskarpone sirom",
+        "desc": "Piletina, Maskarpone, domaći pesto, rendani orasi",
+        "price": 16.8
+      }
+    ],
+    "Rižoto": [
+      {
+        "name": "Rižoto sa dimljenim lososom",
+        "desc": "Dimljeni losos, šampinjoni, praziluk, špinat, sjemenke bundeve",
+        "price": 19.2
+      },
+      {
+        "name": "Rižoto sa piletinom",
+        "desc": "Piletina, šampinjoni, praziluk, maslac",
+        "price": 16.8
+      }
+    ],
+    "Riba": [
+      {
+        "name": "Losos steak 250 gr",
+        "desc": "Grilovani losos na podlozi od povrća i posnih taljatela",
+        "price": 39.6
+      },
+      {
+        "name": "Punjene lignje 300 gr",
+        "desc": "Lignje sa žara punjene kozicama i cherry paradajzom, dalmatinska garnitura",
+        "price": 25.2
+      },
+      {
+        "name": "Lignje sa žara",
+        "desc": "Lignje sa žara",
+        "price": 21.6
+      },
+      {
+        "name": "Domaća pastrmka 400 gr",
+        "desc": "Pastrmka sa žara, dalmatinska garnitura",
+        "price": 21.6
+      },
+      {
+        "name": "Orada 100 gr",
+        "desc": "Orada, dalmatinska garnitura",
+        "price": 7.5
+      }
+    ],
+    "Vege kutak": [
+      {
+        "name": "Rižoto sa povrćem",
+        "desc": "Rižoto sa povrćem",
+        "price": 15.6
+      },
+      {
+        "name": "Vege pasta",
+        "desc": "Taljatele, šampinjoni, vrganji, mix povrća",
+        "price": 12.0
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "Salata sa biftekom",
+        "desc": "Mix salata, biftek, tamni dresing, susam, krastavac, cherry paradajz, Grana Padano sir",
+        "price": 19.2
+      },
+      {
+        "name": "Salata lignje sa susamom",
+        "desc": "Mix salata, lignje, krastavac, susam, dresing od soka limete i posne majoneze",
+        "price": 18.0
+      },
+      {
+        "name": "Salata sa sočnom piletinom",
+        "desc": "Gril ili pohovana piletina. Miks salata, grilovana piletina, cherry paradajz, slanina, ajoli dresing",
+        "price": 16.8
+      }
+    ],
+    "Dječiji meni": [
+      {
+        "name": "Pohovani pileći file 100 gr",
+        "desc": "Panirani pileći file, krompirići",
+        "price": 10.8
+      },
+      {
+        "name": "Chicken fingers",
+        "desc": "Panirani pileći file sa krompirićima",
+        "price": 9.6
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Svježa miješana salata",
+        "desc": "Svježa miješana salata",
+        "price": 7.2
+      },
+      {
+        "name": "Šopska salata",
+        "desc": "Šopska salata",
+        "price": 7.2
+      },
+      {
+        "name": "Srpska salata",
+        "desc": "Srpska salata",
+        "price": 6.0
+      },
+      {
+        "name": "Kupus salata",
+        "desc": "Kupus salata",
+        "price": 4.8
+      },
+      {
+        "name": "Paradajz salata",
+        "desc": "Paradajz salata",
+        "price": 4.8
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Hljeb",
+        "desc": "Hljeb",
+        "price": 1.5
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Arija okusa",
+        "desc": "Arija okusa",
+        "price": 7.2
+      },
+      {
+        "name": "Cheesecake",
+        "desc": "Cheesecake",
+        "price": 7.2
+      },
+      {
+        "name": "Tri leće",
+        "desc": "Tri leće",
+        "price": 7.2
+      },
+      {
+        "name": "Baklava",
+        "desc": "Baklava",
+        "price": 5.4
+      }
+    ]
+  }
+}

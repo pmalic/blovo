@@ -1,0 +1,790 @@
+{
+  "name": "Citadela",
+  "rating": 0.9,
+  "count": 76,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Banjalučka salata",
+        "desc": "Zelena salata, pohovana piletina u susamu, paradajz sir, masline tjestenina, dressing",
+        "price": 12.5
+      },
+      {
+        "name": "Rolovana piletina punjena mozzarellom",
+        "desc": "Piletina, mozzarella.  U cijenu nije uračunat prilog",
+        "price": 18.0
+      },
+      {
+        "name": "Spaghetti Bolognese",
+        "desc": "Spaghetti Bolognese",
+        "price": 12.0
+      }
+    ],
+    "Predjela": [
+      {
+        "name": "Dimljeni losos",
+        "desc": "Poslužen uz maslac ili margarin i tost",
+        "price": 26.0
+      },
+      {
+        "name": "Hladna plata",
+        "desc": "Svinjski pršut goveđi pršut, kulen, kajmak, selekcija regionalnih sireva i uštipci",
+        "price": 25.0
+      },
+      {
+        "name": "Carpaccio",
+        "desc": "Goveđi file u marinadi serviran sa parmezanom, maslacem i tostom",
+        "price": 23.0
+      },
+      {
+        "name": "Uštipci",
+        "desc": "Uštipci",
+        "price": 3.0
+      }
+    ],
+    "Supe i čorbe": [
+      {
+        "name": "Krem čorba od gljiva",
+        "desc": "Krem čorba od gljiva",
+        "price": 7.0
+      },
+      {
+        "name": "Paradajz čorba",
+        "desc": "Paradajz čorba",
+        "price": 4.0
+      }
+    ],
+    "Topla jela": [
+      {
+        "name": "Hobotnica na žaru",
+        "desc": "Hobotnica na žaru",
+        "price": 28.0
+      },
+      {
+        "name": "Šampinjoni na žaru",
+        "desc": "Šampinjoni na žaru",
+        "price": 9.0
+      },
+      {
+        "name": "Pohovani sir",
+        "desc": "Pohovani sir",
+        "price": 9.0
+      }
+    ],
+    "Nešto narodno": [
+      {
+        "name": "Pečena teleća prsa 200 gr",
+        "desc": "200 gr",
+        "price": 28.0
+      },
+      {
+        "name": "Mućkalica",
+        "desc": "Mućkalica",
+        "price": 22.0
+      },
+      {
+        "name": "Juneći gulaš",
+        "desc": "Juneći gulaš",
+        "price": 12.5
+      },
+      {
+        "name": "Prebranac sa domaćom kobasicom",
+        "desc": "Prebranac, kobasica",
+        "price": 11.0
+      }
+    ],
+    "Bifteci": [
+      {
+        "name": "Ćureći steak",
+        "desc": "Ćureći steak",
+        "price": 18.0
+      }
+    ],
+    "Jela sa žara": [
+      {
+        "name": "Plata Citadela za dvije osobe",
+        "desc": "Teleći kotlet, ražnjići Citadela, pileći file, mini karađorđeva, teleći medaljoni, povrće, pomfrit",
+        "price": 70.0
+      },
+      {
+        "name": "Teleći kotlet 500 gr",
+        "desc": "500 gr",
+        "price": 25.0
+      },
+      {
+        "name": "Miješani ražnjići",
+        "desc": "Miješani ražnjići",
+        "price": 22.0
+      },
+      {
+        "name": "Ražnjić Citadela  250 gr",
+        "desc": "250 gr",
+        "price": 21.0
+      },
+      {
+        "name": "Svinjski file 250 gr",
+        "desc": "250 gr",
+        "price": 17.0
+      },
+      {
+        "name": "Dimljena vješalica 250 gr",
+        "desc": "250 gr",
+        "price": 16.0
+      },
+      {
+        "name": "Pileći ražnjić Barde  200 gr",
+        "desc": "200 gr",
+        "price": 16.0
+      },
+      {
+        "name": "Bijela vješalica 250 gr",
+        "desc": "250 gr",
+        "price": 14.5
+      },
+      {
+        "name": "Teleća jetra 200 gr",
+        "desc": "200 gr",
+        "price": 14.0
+      },
+      {
+        "name": "Roštiljska kobasica 240 gr",
+        "desc": "240 gr",
+        "price": 13.5
+      },
+      {
+        "name": "Pileće bijelo 250 gr",
+        "desc": "250 gr",
+        "price": 12.5
+      }
+    ],
+    "Jela po narudžbi": [
+      {
+        "name": "Cordon Blue teleći 200 gr",
+        "desc": "Pohovana teleća šnicla punjena sa sirom i šunkom.  U cijenu nije uračunat prilog",
+        "price": 25.0
+      },
+      {
+        "name": "Ćureći medaljoni sa njokama",
+        "desc": "Medaljoni, njoki.  U cijenu nije uračunat prilog",
+        "price": 24.0
+      },
+      {
+        "name": "Karađorđev odrezak 200 gr",
+        "desc": "U cijenu nije uračunat prilog",
+        "price": 22.0
+      },
+      {
+        "name": "File Citadela  200 gr",
+        "desc": "Svinjski file punjen sa pršutom, gljivama i sirom.  U cijenu nije uračunat prilog",
+        "price": 20.0
+      },
+      {
+        "name": "Pileći medaljoni u šampinjon sosu 250 gr",
+        "desc": "U cijenu nije uračunat prilog",
+        "price": 20.0
+      },
+      {
+        "name": "Bečki odrezak teleći 200 gr",
+        "desc": "Pohovani teleći odrezak.  U cijenu nije uračunat prilog",
+        "price": 19.5
+      },
+      {
+        "name": "Pariški odrezak 200 gr",
+        "desc": "U cijenu nije uračunat prilog",
+        "price": 19.5
+      },
+      {
+        "name": "Pohovana piletina sa 4 vrste sira 200 gr",
+        "desc": "U cijenu nije uračunat prilog",
+        "price": 19.0
+      },
+      {
+        "name": "Punjeni pileći odrezak",
+        "desc": "Sir, šunka.  U cijenu nije uračunat prilog",
+        "price": 18.0
+      },
+      {
+        "name": "Rolovana piletina punjena mozzarellom",
+        "desc": "Piletina, mozzarella.  U cijenu nije uračunat prilog",
+        "price": 18.0
+      },
+      {
+        "name": "Natur odrezak 200 gr",
+        "desc": "U cijenu nije uračunat prilog",
+        "price": 17.5
+      },
+      {
+        "name": "Pileći file u sosu od bosiljka",
+        "desc": "Piletina, sos.  U cijenu nije uračunat prilog",
+        "price": 14.0
+      }
+    ],
+    "Tjestenine": [
+      {
+        "name": "Blacky tagliatelle",
+        "desc": "Domaće crne tagliatelle sa plodovima mora",
+        "price": 24.0
+      },
+      {
+        "name": "Tris tjestenina",
+        "desc": "Tri vrste tjestenine",
+        "price": 18.5
+      },
+      {
+        "name": "Squid tagliatelle",
+        "desc": "Tagliatelle sa lignjama",
+        "price": 16.0
+      },
+      {
+        "name": "Spaghetti Carbonara",
+        "desc": "Spaghetti Carbonara",
+        "price": 14.0
+      },
+      {
+        "name": "Buritos sa piletinom",
+        "desc": "Tortilja, gljive sir i piletina u sosu",
+        "price": 14.0
+      },
+      {
+        "name": "Tortellini Alla panna",
+        "desc": "Tortellini Alla panna",
+        "price": 12.5
+      },
+      {
+        "name": "Spaghetti Bolognese",
+        "desc": "Spaghetti Bolognese",
+        "price": 12.0
+      },
+      {
+        "name": "Quattro Formaggio tagliatelle",
+        "desc": "Tagliatelle sa 4 vrste sira",
+        "price": 11.0
+      },
+      {
+        "name": "Vegeterijanske tagliatelle",
+        "desc": "Vegeterijanske tagliatelle",
+        "price": 10.0
+      },
+      {
+        "name": "Ljetna pasta",
+        "desc": "Makaroni sa ljetnim sosom - povrće i sir",
+        "price": 10.0
+      },
+      {
+        "name": "Spaghetti Al pesto",
+        "desc": "Spaghetti Al pesto",
+        "price": 10.0
+      },
+      {
+        "name": "Spaghetti Milagnese",
+        "desc": "Spaghetti Milagnese",
+        "price": 10.0
+      }
+    ],
+    "Lazanje": [
+      {
+        "name": "Lasagne sa mesom",
+        "desc": "Lasagne sa mesom",
+        "price": 13.5
+      },
+      {
+        "name": "Lasagne sa sirom, šunkom i šampinjonima",
+        "desc": "Sir, šunka, šampinjoni",
+        "price": 13.5
+      }
+    ],
+    "Rižota": [
+      {
+        "name": "Rižoto Adriatic",
+        "desc": "Plodovi mora, paradajz sos",
+        "price": 24.0
+      },
+      {
+        "name": "Crni rižoto od sipe",
+        "desc": "Crni rižoto od sipe",
+        "price": 20.0
+      },
+      {
+        "name": "Rižoto sa gljivama i šafranom",
+        "desc": "Gljive, šafran",
+        "price": 15.0
+      },
+      {
+        "name": "Pileći rižoto",
+        "desc": "Pileći rižoto",
+        "price": 14.0
+      },
+      {
+        "name": "Rižoto sa šampinjonima",
+        "desc": "Rižoto sa šampinjonima",
+        "price": 12.0
+      },
+      {
+        "name": "Rižoto sa povrćem",
+        "desc": "Rižoto sa povrćem",
+        "price": 10.0
+      }
+    ],
+    "Ribe i morski plodovi": [
+      {
+        "name": "Smuđ filet 1 kg",
+        "desc": "1 kg",
+        "price": 80.0
+      },
+      {
+        "name": "Pastrmka kalifornijska 1 kg",
+        "desc": "1 kg",
+        "price": 35.0
+      },
+      {
+        "name": "Tuna steak",
+        "desc": "Tuna steak",
+        "price": 30.0
+      },
+      {
+        "name": "Losos steak",
+        "desc": "Losos steak",
+        "price": 28.0
+      },
+      {
+        "name": "Punjene lignje",
+        "desc": "Punjene sa pršutom i sirom",
+        "price": 26.0
+      },
+      {
+        "name": "Pohovane lignje",
+        "desc": "Pohovane lignje",
+        "price": 24.0
+      },
+      {
+        "name": "Smuđ filet 300gr",
+        "desc": "Smuđ filet 300gr",
+        "price": 24.0
+      },
+      {
+        "name": "Frigane lignje",
+        "desc": "Frigane lignje",
+        "price": 23.0
+      },
+      {
+        "name": "Lignje na žaru",
+        "desc": "Lignje na žaru",
+        "price": 22.0
+      },
+      {
+        "name": "Oslić filet",
+        "desc": "Oslić filet",
+        "price": 13.0
+      }
+    ],
+    "Sendviči": [
+      {
+        "name": "Club sendvič",
+        "desc": "Tost, pileći file, topivi sir, zelena salata, paradajz, panceta",
+        "price": 10.0
+      },
+      {
+        "name": "Sendvič sa piletinom",
+        "desc": "Sendvič sa piletinom",
+        "price": 8.0
+      },
+      {
+        "name": "Topli tost",
+        "desc": "Šunka, sir",
+        "price": 7.0
+      },
+      {
+        "name": "Topli sendvič",
+        "desc": "Šunka, sir",
+        "price": 6.5
+      },
+      {
+        "name": "Meksički sendvič",
+        "desc": "Šunka, sir, bareno povrće i chili",
+        "price": 6.5
+      }
+    ],
+    "Slani palačinci": [
+      {
+        "name": "Burritos sa piletinom",
+        "desc": "Tortilja, gljive, sir i piletina u sosu",
+        "price": 14.0
+      },
+      {
+        "name": "Pohovane slane palačinke",
+        "desc": "Sir, šunka",
+        "price": 12.0
+      },
+      {
+        "name": "Žito sa orasima",
+        "desc": "Žito sa orasima",
+        "price": 3.0
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "Polpo salata",
+        "desc": "Hobotnica, paradajz, zelena salata, masline, kapari",
+        "price": 27.0
+      },
+      {
+        "name": "Frutti di mare salata",
+        "desc": "Hobotnica, sipa, gambori, školjke, masline",
+        "price": 24.0
+      },
+      {
+        "name": "Cezar salata",
+        "desc": "Zelena salata sa piletinom, slaninom, livanjskim sirom, paradajzom i tostom u cezar sosu",
+        "price": 13.0
+      },
+      {
+        "name": "Squid salata",
+        "desc": "Lignje, zelena salata, paradajz, krompir, začini",
+        "price": 13.0
+      },
+      {
+        "name": "Banjalučka salata",
+        "desc": "Zelena salata, pohovana piletina u susamu, paradajz sir, masline tjestenina, dressing",
+        "price": 12.5
+      },
+      {
+        "name": "Salata Teller",
+        "desc": "Mješavina svježih salata, piletina, sir, masline, dressing",
+        "price": 12.5
+      },
+      {
+        "name": "Salata sa ćuretinom",
+        "desc": "Ćuretina, paprika, zelena salata, kukuruz šećerac, paradajz, kuhano jaje",
+        "price": 12.5
+      },
+      {
+        "name": "Kraljevska salata",
+        "desc": "Mješavina svježih salata, šunka, tjestenina, pavlaka",
+        "price": 9.5
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Cezar salata",
+        "desc": "Zelena salata sa piletinom, slanina, livanjski sir, paradajz i tost u cezar sosu",
+        "price": 13.0
+      },
+      {
+        "name": "Banjalučka salata",
+        "desc": "Zelena salata, pohovana piletina u susamu, paradajz, sir, masline, tjestenina dressing",
+        "price": 12.5
+      },
+      {
+        "name": "Salata sa ćuretinom",
+        "desc": "Ćuretina, paprika, zelena salata, kukuruz šećerac, paradajz, kuhano jaje",
+        "price": 12.5
+      },
+      {
+        "name": "Pileća salata",
+        "desc": "Mješavina svježih salata, piletina",
+        "price": 9.0
+      },
+      {
+        "name": "Paradajz salata sa mozzarellom",
+        "desc": "Paradajz salata sa mozzarellom",
+        "price": 6.5
+      },
+      {
+        "name": "Grčka salata",
+        "desc": "Grčka salata",
+        "price": 6.0
+      },
+      {
+        "name": "Šopska salata",
+        "desc": "Šopska salata",
+        "price": 6.0
+      },
+      {
+        "name": "Salata Citadela",
+        "desc": "Salata Citadela",
+        "price": 5.0
+      },
+      {
+        "name": "Srpska salata",
+        "desc": "Srpska salata",
+        "price": 5.0
+      },
+      {
+        "name": "Tarator salata",
+        "desc": "Svježi krastavac, pavlaka, bijeli luk",
+        "price": 5.0
+      },
+      {
+        "name": "Salate od svježeg povrća",
+        "desc": "Paradajz, kupus, krastavac zelena salata, paprika, miješana",
+        "price": 4.5
+      },
+      {
+        "name": "Ajvar salata 300 gr",
+        "desc": "300 gr",
+        "price": 4.5
+      },
+      {
+        "name": "Kiseli kupus",
+        "desc": "Kiseli kupus",
+        "price": 4.0
+      },
+      {
+        "name": "Kiseli krastavac",
+        "desc": "Kiseli krastavac",
+        "price": 3.5
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Podvarak",
+        "desc": "Podvarak",
+        "price": 6.0
+      },
+      {
+        "name": "Grilovano povrće",
+        "desc": "Grilovano povrće",
+        "price": 5.5
+      },
+      {
+        "name": "Brokula",
+        "desc": "Brokula",
+        "price": 4.5
+      },
+      {
+        "name": "Bareno povrće",
+        "desc": "Bareno povrće",
+        "price": 4.0
+      },
+      {
+        "name": "Blitva",
+        "desc": "Blitva",
+        "price": 4.0
+      },
+      {
+        "name": "Karfiol",
+        "desc": "Karfiol",
+        "price": 4.0
+      },
+      {
+        "name": "Mahune",
+        "desc": "Mahune",
+        "price": 4.0
+      },
+      {
+        "name": "Kroketi",
+        "desc": "Kroketi",
+        "price": 4.0
+      },
+      {
+        "name": "Pomfrit",
+        "desc": "Pomfrit",
+        "price": 4.0
+      },
+      {
+        "name": "Grašak",
+        "desc": "Grašak",
+        "price": 3.5
+      },
+      {
+        "name": "Pire krompir",
+        "desc": "Pire krompir",
+        "price": 3.5
+      },
+      {
+        "name": "Pekarski krompir",
+        "desc": "Pekarski krompir",
+        "price": 3.5
+      },
+      {
+        "name": "Riža",
+        "desc": "Riža",
+        "price": 3.0
+      },
+      {
+        "name": "Mrkva",
+        "desc": "Mrkva",
+        "price": 3.0
+      },
+      {
+        "name": "Bareni krompir",
+        "desc": "Bareni krompir",
+        "price": 3.0
+      }
+    ],
+    "Peciva": [
+      {
+        "name": "Domaće pecivo bijelo",
+        "desc": "Domaće pecivo",
+        "price": 0.5
+      },
+      {
+        "name": "Integralno domaće pecivo",
+        "desc": "Domaće pecivo",
+        "price": 0.5
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Palačinci u vinskom šatou za dvije osobe",
+        "desc": "Palačinci u vinskom šatou za dvije osobe",
+        "price": 20.0
+      },
+      {
+        "name": "Flambirani ananas",
+        "desc": "Flambirani ananas",
+        "price": 9.0
+      },
+      {
+        "name": "Flambirana breskva",
+        "desc": "Flambirana breskva",
+        "price": 9.0
+      },
+      {
+        "name": "Flambirana banana",
+        "desc": "Flambirana banana",
+        "price": 9.0
+      },
+      {
+        "name": "Palačinci višnja, sladoled",
+        "desc": "Palačinci višnja, sladoled",
+        "price": 8.0
+      },
+      {
+        "name": "Voćna salata",
+        "desc": "Voćna salata",
+        "price": 6.0
+      }
+    ],
+    "Palačinci": [
+      {
+        "name": "Palačinci sa sladoledom i višnjama",
+        "desc": "Sladoled, višnje",
+        "price": 8.0
+      },
+      {
+        "name": "Palačinci čokolada i orasi",
+        "desc": "Palačinci čokolada i orasi",
+        "price": 6.0
+      },
+      {
+        "name": "Palačinci sa Nutellom i Plazmom",
+        "desc": "Palačinci sa Nutellom i Plazmom",
+        "price": 5.0
+      },
+      {
+        "name": "Palačinci sa sladoledom",
+        "desc": "Palačinci sa sladoledom",
+        "price": 4.5
+      },
+      {
+        "name": "Palačinci sa orasima",
+        "desc": "Palačinci sa orasima",
+        "price": 4.5
+      },
+      {
+        "name": "Palačinci sa eurokremom i Plazmom",
+        "desc": "Palačinci sa eurokremom i Plazmom",
+        "price": 4.5
+      },
+      {
+        "name": "Palačinci sa eurokremom",
+        "desc": "Palačinci sa eurokremom",
+        "price": 4.0
+      },
+      {
+        "name": "Palačinci sa Nutellom",
+        "desc": "Palačinci sa Nutellom",
+        "price": 4.0
+      },
+      {
+        "name": "Palačinci sa čokoladom",
+        "desc": "Palačinci sa čokoladom",
+        "price": 3.5
+      },
+      {
+        "name": "Palačinci sa Plazmom",
+        "desc": "Palačinci sa Plazmom",
+        "price": 3.0
+      },
+      {
+        "name": "Palačinci sa marmeladom",
+        "desc": "Palačinci sa marmeladom",
+        "price": 3.0
+      }
+    ],
+    "Torte i kolači": [
+      {
+        "name": "Toscana kolač",
+        "desc": "Komad",
+        "price": 5.5
+      },
+      {
+        "name": "Kinder bueno",
+        "desc": "Komad",
+        "price": 5.2
+      },
+      {
+        "name": "Čoko brownies",
+        "desc": "Komad",
+        "price": 5.0
+      },
+      {
+        "name": "Tiramisu",
+        "desc": "Komad",
+        "price": 5.0
+      },
+      {
+        "name": "Reform torta",
+        "desc": "Komad",
+        "price": 5.0
+      },
+      {
+        "name": "Orange torta",
+        "desc": "Komad",
+        "price": 5.0
+      },
+      {
+        "name": "Baklava",
+        "desc": "Komad",
+        "price": 5.0
+      },
+      {
+        "name": "Voćna torta - preliv malina",
+        "desc": "Komad",
+        "price": 4.5
+      },
+      {
+        "name": "Sacher torta",
+        "desc": "Komad",
+        "price": 4.5
+      },
+      {
+        "name": "Schwarzwald torta",
+        "desc": "Komad",
+        "price": 4.5
+      },
+      {
+        "name": "Čokoladna torta",
+        "desc": "Komad",
+        "price": 4.5
+      },
+      {
+        "name": "Cheesecake",
+        "desc": "Komad",
+        "price": 4.5
+      },
+      {
+        "name": "Bečka štrudla sa jabukama",
+        "desc": "Komad",
+        "price": 4.5
+      },
+      {
+        "name": "Šumsko voće torta posna",
+        "desc": "Komad",
+        "price": 4.5
+      }
+    ]
+  }
+}

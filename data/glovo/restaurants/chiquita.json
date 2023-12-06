@@ -1,0 +1,279 @@
+{
+  "name": "Chiquita",
+  "rating": 0.95,
+  "count": 257,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Burrito Chipotle",
+        "desc": "Grilovana piletina u chile chipotle krem sosu, meksička riža, Pico de Gallo (luk, paprika, paradajz), kupus, salsa roja (blago ljuti sos), guacamole salsa (avokado sos)",
+        "price": 12.5
+      },
+      {
+        "name": "Burrito Birria",
+        "desc": "Polako kuvana junetina u mješavini meksičkih chilija i začina, meksička riža, pasulj, pico de gallo, guacamole, salsa roja. Diabla (ekstra ljuti sos) po izboru.",
+        "price": 14.0
+      },
+      {
+        "name": "Burrito Chorizo Mexicano",
+        "desc": "Dimljeno mljeveno svinjsko meso marinirano u mješavini chillia i achiote paste,Pico de Gallo (luk, paprika, paradajz), kupus, salsa roja (blago ljuti sos), guacamole salsa (avokado sos), dinstani krompir",
+        "price": 12.0
+      }
+    ],
+    "Kombinacije": [
+      {
+        "name": "Cartel za 4 do 5 osoba",
+        "desc": "1 papas chorizo svinjetina, 1 papas vege, 1 porcija tacos chorizo svinjetina, 1 porcija tacos chipotle piletina, 1 quesadilla vege, 1 quesadilla chipotle piletina, 1 quesadilla papas (krompir), 1 quesadilla sa sirom",
+        "price": 49.5
+      },
+      {
+        "name": "La Familia za 3 do 4 osobe",
+        "desc": "1 Quesadilla chorizo svinjetina, 1 quesadilla papas (krompir), 1 quesadilla chipotle piletina, 1 quesadilla sir, 1 porcija taco mix Baja California (3 tacosa), 1 porcija churrosChurros porcija",
+        "price": 34.5
+      },
+      {
+        "name": "Morros y morritas dječiji meni",
+        "desc": "2 x mini quesadilla chipotle piletina, 1 porcija taco mix Baja California (vege, piletina, krompir), 1 papas chorizo, 2 x churros",
+        "price": 26.5
+      },
+      {
+        "name": "Frida y Diego za 2 osobe",
+        "desc": "1 quesadilla chipotle, 1 quesadilla chorizo, 2x taco chipotle, 2x taco chorizo",
+        "price": 25.5
+      }
+    ],
+    "Combo ponuda": [
+      {
+        "name": "Combo 1",
+        "desc": "Burito chipotle, pomfrit, horchata",
+        "price": 17.0
+      },
+      {
+        "name": "Combo 2",
+        "desc": "Burito chorizo, pomfrit, horchata",
+        "price": 16.5
+      },
+      {
+        "name": "Combo 3",
+        "desc": "Chilaquiles, pomfrit, Coca-Cola",
+        "price": 13.5
+      }
+    ],
+    "Tacos": [
+      {
+        "name": "Tacos de Birria",
+        "desc": "3 tacosa u porciji.  Domaće kukuruzne tortilje. Polako kuhana junetina u mješavini meksičkih chilija i začina. Pico de gallo. Guacamole, salsa roja. Diabla (ekstra ljuti sos) po izboru.",
+        "price": 12.0
+      },
+      {
+        "name": "Tacos Conchita",
+        "desc": "Tradicionalna domaća kukuruzna tortilja.Dinstani krompir u mješavini začina, kupus, pico de gallo (luk, paradajz, korijander), crveni sos (blago ljuti sos) i gvakamole. Diabla salsa (extra ljuti sos) po izboru. Dostupna i veganska (posna) opcija",
+        "price": 11.5
+      },
+      {
+        "name": "Taco Chipotle",
+        "desc": "3 tacosa u porciji. Tradicionalna meksička kukuruzna tortilja, grilovana piletina u chipotle krem sosu, Pico de Gallo (luk, paprika, paradajz), kupus, salsa roja (blago ljuti sos), guacamole salsa (avokado sos)",
+        "price": 11.5
+      },
+      {
+        "name": "Taco Mix Mexico",
+        "desc": "3 tacosa u porciji. Taco Chipotle, Taco Chorizo i Taco Vege",
+        "price": 11.5
+      },
+      {
+        "name": "Tacos de Chorizo Mexicano",
+        "desc": "3 tacosa u porciji. Tradicionalna meksička kukuruzna tortilja, dimljeno mljeveno svinjsko meso marinirano u mješavini chillia i achiote paste, Pico de Gallo (luk, paprika, paradajz), salsa roja (blago ljuti sos), guacamole salsa (avokado sos)",
+        "price": 11.5
+      },
+      {
+        "name": "Tacos Ensenada",
+        "desc": "Tradicionalna domaća kukuruzna tortilja. Pohovani riblji fileti u sosu od piva i čipotle-chilli majoneze, kupus, pico de gallo (luk, paradajz, korijander), crveni sos, domaći krem sos, gvakamole. Dostupna i veganska opcija.",
+        "price": 11.5
+      },
+      {
+        "name": "Taco Vege",
+        "desc": "Topljeni sir, meksička riža i krompir",
+        "price": 11.5
+      }
+    ],
+    "Burrito": [
+      {
+        "name": "Burrito Birria",
+        "desc": "Polako kuvana junetina u mješavini meksičkih chilija i začina, meksička riža, pasulj, pico de gallo, guacamole, salsa roja. Diabla (ekstra ljuti sos) po izboru.",
+        "price": 14.0
+      },
+      {
+        "name": "Burrito Chipotle",
+        "desc": "Grilovana piletina u chile chipotle krem sosu, meksička riža, Pico de Gallo (luk, paprika, paradajz), kupus, salsa roja (blago ljuti sos), guacamole salsa (avokado sos)",
+        "price": 12.5
+      },
+      {
+        "name": "Burrito Chorizo Mexicano",
+        "desc": "Dimljeno mljeveno svinjsko meso marinirano u mješavini chillia i achiote paste,Pico de Gallo (luk, paprika, paradajz), kupus, salsa roja (blago ljuti sos), guacamole salsa (avokado sos), dinstani krompir",
+        "price": 12.0
+      },
+      {
+        "name": "Burrito Vege",
+        "desc": "Dinstani krompir u mješavini začina, sir, meksička riža, krompir, pico de gallo (luk, paradajz, korijander), crveni sos (blago ljuti sos) i gvakamole (avokado sos). Diabla salsa (ekstra ljuti sos)- po izboru. Dostupna i veganska (posna) opcija",
+        "price": 11.5
+      }
+    ],
+    "Burrito bowl": [
+      {
+        "name": "Burrito bowl chipotle",
+        "desc": "Grilovana piletina u chipotle krem sosu. Meksička riža, zelena salata, krastavac, paradajz, salsa roja. Salsa diabla (ekstra ljuti sos) po izboru.",
+        "price": 12.5
+      },
+      {
+        "name": "Burrito bowl chorizo",
+        "desc": "Dimljeno mljeveno svinjsko meso marinirano u mješavini chillia i achiote paste, dinstani krompir, zelena salata, paradajz, krastavac, salsa roja. Salsa diabla (ekstra ljuti sos) po izboru.",
+        "price": 12.0
+      }
+    ],
+    "Quesadilla": [
+      {
+        "name": "Quesadilla Birria",
+        "desc": "Savijena pšenična tortilja. Topljeni sir. Polako kuvana junetina u mješavini meksičkih chilija i začina. Salsa Diabla (ekstra ljuti sos) po izboru.",
+        "price": 8.0
+      },
+      {
+        "name": "Mulita birria",
+        "desc": "2 domaće kukuruzne taco tortilje, polako kuvana junetina u mješavini meksičkih chilija i začina, topljeni sir, pico de gallo, diabla salsa (ekstra ljuti sos) po izboru.",
+        "price": 8.0
+      },
+      {
+        "name": "Quesadilla Chorizo",
+        "desc": "Savijena pšenična ili kukuruzna tortilja, dimljeno mljeveno svinjsko meso marinirano u mješavini čilija i ačiote paste, topljeni sir. Diabla salsa (ekstra ljuti sos), po izboru.",
+        "price": 7.5
+      },
+      {
+        "name": "Quesadilla Chipotle",
+        "desc": "Savijena pšenična ili kukuruzna tortilja, grilovana piletina u chipotle krem sosu, topljeni sir. Diabla salsa (ekstra ljuti sos), po izboru.",
+        "price": 7.5
+      },
+      {
+        "name": "Quesadilla de mole",
+        "desc": "Savijena pšenična tortilja. Grilovana piletina u mole sosu (sjemenke, čili, sušeno voće), topljeni sir. Diabla (ekstra ljuti sos) po izboru.",
+        "price": 7.5
+      },
+      {
+        "name": "Quesadilla de papas",
+        "desc": "Savijena pšenična ili kukuruzna tortilja, dinstani krompir u mješavini začina, topljeni sir. Diabla salsa (ekstra ljuti sos), po izboru. Dostupna i veganska (posna) opcija",
+        "price": 7.0
+      },
+      {
+        "name": "Quesadilla vege",
+        "desc": "Savijena pšenična, ili kukuruzna tortilja, meksička riža, pasulj, topljeni sir. Diabla salsa (extra ljuti sos), po izboru. Dostupna i veganska (posna) opcija",
+        "price": 7.0
+      },
+      {
+        "name": "Quesadilla",
+        "desc": "Savijena pšenična ili kukuruzna tortilja, topljeni sir. Diabla salsa (ekstra ljuti sos), po izboru.Dostupna i veganska  (posna) opcija",
+        "price": 6.5
+      }
+    ],
+    "Chilaquiles": [
+      {
+        "name": "Chilaquiles con Chicken Chipotle",
+        "desc": "Tradicionalno meksičko jelo. Komadi prženih kukuruznih tortilja, dinstani sa crvenom salsom u mješavini začina i chilli, preliveni sirom i krem sosom sa Grilovanom čipotle piletinom",
+        "price": 10.5
+      },
+      {
+        "name": "Chilaquiles con Chorizo",
+        "desc": "Tradicionalno meksičko jelo. Komadi prženih kukuruznih tortilja, dinstani sa   crvenom salsom u mješavini začina i chilli, preliveni sirom i krem sosom sa chorizo svinjetinom",
+        "price": 10.0
+      },
+      {
+        "name": "Chilaquies con papas",
+        "desc": "Tradicionalno meksičko jelo. Komadi prženih kukuruznih tortilja, dinstani sa    crvenom salsom u mješavini začina i chilli, preliveni sirom i krem sosom sa krompirom. Dostupna i veganska (posna) opcija.",
+        "price": 9.0
+      },
+      {
+        "name": "Chila quiles",
+        "desc": "Tradicionalno meksičko jelo. Komadi prženih kukuruznih tortilja, dinstani sa crvenom salsom u mješavini začina i chilli, preliveni sirom i krem sosom. Dostupna i veganska (posna)opcija",
+        "price": 9.0
+      }
+    ],
+    "Glavna jela": [
+      {
+        "name": "Chipotle piletina",
+        "desc": "Grilovana piletina u čipotle krem sosu uz dodatak meksičke riže i krompira.",
+        "price": 15.5
+      },
+      {
+        "name": "Chorizo svinjetina",
+        "desc": "Dimljeno mljeveno svinjsko meso marinirano u mješavini chill i achiote paste,meksička riža,krompir.",
+        "price": 15.0
+      }
+    ],
+    "Posni meni": [
+      {
+        "name": "Burrito Vege",
+        "desc": "Dinstani krompir u mješavini začina, sir, meksička riža, pasulj, pico de gallo (luk, paradajz, korijander), crveni sos (blago ljuti sos) i gvakamole (avokado sos). Diabla salsa (ekstra ljuti sos) - po izboru. Dostupna i veganska(posna) opcija.",
+        "price": 11.5
+      },
+      {
+        "name": "Taco Vege",
+        "desc": "Topljeni sir, meksička riža i krompir",
+        "price": 11.5
+      },
+      {
+        "name": "Chilaquies con papas",
+        "desc": "Tradicionalno meksičko jelo. Komadi prženih kukuruznih tortilja, dinstani sa    crvenom salsom u mješavini začina i chilli, preliveni sirom i krem sosom sa krompirom. Dostupna i veganska (posna) opcija.",
+        "price": 9.0
+      },
+      {
+        "name": "Chilaquiles",
+        "desc": "Chilaquiles",
+        "price": 9.0
+      },
+      {
+        "name": "Quesadilla vege",
+        "desc": "Savijena pšenična, ili kukuruzna tortilja, meksička riža, pasulj, topljeni sir. Diabla salsa (extra ljuti sos), po izboru. Dostupna i veganska (posna) opcija",
+        "price": 7.0
+      },
+      {
+        "name": "Quesadilla de papas",
+        "desc": "Quesadilla de papas",
+        "price": 7.0
+      },
+      {
+        "name": "Quesadilla",
+        "desc": "Savijena pšenična ili kukuruzna tortilja, topljeni sir. Diabla salsa (ekstra ljuti sos), po izboru.Dostupna i veganska  (posna) opcija",
+        "price": 6.5
+      },
+      {
+        "name": "Papas Vege",
+        "desc": "Pomfrit, topljeni sir, pico de gallo",
+        "price": 5.5
+      }
+    ],
+    "Papas norteñas": [
+      {
+        "name": "Papas chorizo",
+        "desc": "Pomfrit sa topljenim sirom i chorizom",
+        "price": 6.0
+      },
+      {
+        "name": "Papas Vege",
+        "desc": "Pomfrit, topljeni sir, pico de gallo",
+        "price": 5.5
+      }
+    ],
+    "Churros": [
+      {
+        "name": "Churros classic",
+        "desc": "Hrskavi prženi štapići sa šećerom i cimetom.",
+        "price": 5.0
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Horchata",
+        "desc": "Popularno domaće meksičko piće od riže, cimeta i vanile",
+        "price": 3.0
+      }
+    ]
+  }
+}

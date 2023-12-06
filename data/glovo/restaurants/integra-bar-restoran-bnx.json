@@ -1,0 +1,120 @@
+{
+  "name": "Integra bar restoran",
+  "rating": 0.84,
+  "count": 19,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Pasta sa gamborima i piletinom",
+        "desc": "Domaća tjestenina, morski rakovi, piletina, krem sos od šampanjca i estragona, Grana Padano",
+        "price": 17.0
+      },
+      {
+        "name": "Italijanska pizza Margherita",
+        "desc": "Pelat, Mozzarella, masline, bosiljak",
+        "price": 13.0
+      },
+      {
+        "name": "Omlet sa šunkom",
+        "desc": "3 jaja, šunka, ketchup, salata",
+        "price": 8.0
+      }
+    ],
+    "Doručak i meza": [
+      {
+        "name": "Antipasto za dvoje",
+        "desc": "Pršut, svinjska peka, svinjski vrat, kulen, sirevi, cherry paradajz, masline, grožđe",
+        "price": 28.0
+      },
+      {
+        "name": "Jaja i šunka",
+        "desc": "3 jaja, šunka, ketchup, salata",
+        "price": 8.0
+      },
+      {
+        "name": "Jaja i slanina",
+        "desc": "3 jaja, slanina, ketchup, salata",
+        "price": 8.0
+      },
+      {
+        "name": "Omlet sa šunkom",
+        "desc": "3 jaja, šunka, ketchup, salata",
+        "price": 8.0
+      },
+      {
+        "name": "Omlet sa sirom",
+        "desc": "3 jaja, sir, ketchup salata",
+        "price": 8.0
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Pizza Integra beef",
+        "desc": "Pelat, marinirani biftek, tartuf, šampinjoni, Mozzarella, Gouda, masline",
+        "price": 22.0
+      },
+      {
+        "name": "Pizza Prosciutto",
+        "desc": "Pelat, pršut, Mozzarella, Grana Padano, rukola, masline",
+        "price": 19.0
+      },
+      {
+        "name": "Pizza Integra Mortadela",
+        "desc": "Pelat, pesto od bosiljka, pistacije, Mozzarella, Gouda, masline",
+        "price": 17.0
+      },
+      {
+        "name": "Pizza Quattro formaggi",
+        "desc": "Pelat, Gouda, Mozzarella, Gorgonzola, Grana Padano, origano, masline",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Pelat, šunka, Mozzarella, Gouda, šampinjoni, origano, masline",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza Piccante",
+        "desc": "Pelat, kulen, Mozzarella, Gouda, šampinjoni, origano, masline",
+        "price": 15.0
+      }
+    ],
+    "Italijanska pizza": [
+      {
+        "name": "Italijanska pizza Margherita",
+        "desc": "Pelat, Mozzarella, masline, bosiljak",
+        "price": 13.0
+      }
+    ],
+    "Pasta i rižoto": [
+      {
+        "name": "Pasta sa biftekom i gljivama",
+        "desc": "Domaća tjestenina, velute, bijelo vino, sezonske gljive",
+        "price": 24.0
+      },
+      {
+        "name": "Pasta sa gamborima i piletinom",
+        "desc": "Domaća tjestenina, morski rakovi, piletina, krem sos od šampanjca i estragona, Grana Padano",
+        "price": 17.0
+      },
+      {
+        "name": "Pasta sa piletinom i orašastim plodovima",
+        "desc": "Domaća tjestenina, piletina, krem sos od vinjaka i lješnjaka, Grana Padano",
+        "price": 14.5
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "Cezar salata",
+        "desc": "Mix salata, cherry paradajz, piletina, hrskava slanina, Grana Padano, dressing na način kuće",
+        "price": 16.0
+      },
+      {
+        "name": "Caprese salata",
+        "desc": "Cherry paradajz, masline, rukola, pesto",
+        "price": 16.0
+      }
+    ]
+  }
+}

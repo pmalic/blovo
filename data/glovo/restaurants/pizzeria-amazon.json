@@ -1,0 +1,285 @@
+{
+  "name": "Pizzeria Amazon",
+  "rating": 0.95,
+  "count": 380,
+  "service_fee": 2.0,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Porodična Capricciosa Pizza (50cm)",
+        "desc": "pelat, sir, šunka, šampinjoni, origano, masline",
+        "price": 22.0
+      },
+      {
+        "name": "Amazon Pizza - specijalitet kuće (33cm)",
+        "desc": "pelat, sir, pršut, slanina, kulen, šunka, origano, maslina",
+        "price": 17.0
+      },
+      {
+        "name": "Porodična Amazon Pizza - specijalitet kuće (50cm)",
+        "desc": "pelat, sir, pršut, slanina, kulen, šunka, origano, masline",
+        "price": 28.0
+      }
+    ],
+    "Porodična Pizza Napoletana (50cm)": [
+      {
+        "name": "Porodična Amazon Pizza - specijalitet kuće (50cm)",
+        "desc": "pelat, sir, pršut, slanina, kulen, šunka, origano, masline",
+        "price": 28.0
+      },
+      {
+        "name": "Porodična Kraljica pršuta Pizza (50cm)",
+        "desc": "pelat, sir, pršut, grana padano, rukola, cherry, origano, masline",
+        "price": 28.0
+      },
+      {
+        "name": "Porodična Balkanska Pizza (50cm)",
+        "desc": "pelat, sir, šunka, kulen, šampinjoni, feferoni, pavlaka, origano, masline",
+        "price": 27.0
+      },
+      {
+        "name": "Porodična Šefova Pizza (50cm)",
+        "desc": "pelat, sir, šunka, slanina, šampinjoni, crveni luk, pavlaka, origano, masline",
+        "price": 27.0
+      },
+      {
+        "name": "Porodična Pizza Amazonka (50cm)",
+        "desc": "pelat, sir, slanina, pršut, pavlaka, jaje, origano, masline",
+        "price": 27.0
+      },
+      {
+        "name": "Porodična Quattro Formaggi Pizza (50cm)",
+        "desc": "pelat, gorgonzola, mozzarella, grana padano, gauda, origano, svježi bosiljak",
+        "price": 26.0
+      },
+      {
+        "name": "Porodična Mexicana Pizza (50cm)",
+        "desc": "chilli pelat, sir, ljuti kulen, šampinjoni, kukuruz, ljuta paprika babura, feferoni, origano",
+        "price": 26.0
+      },
+      {
+        "name": "Porodična Napoli Pizza (50cm)",
+        "desc": "pelat, mozzarella sir, pršut, cherry, grana padano, svježi bosiljak, origano, masline",
+        "price": 26.0
+      },
+      {
+        "name": "Porodična Pizza Ljuti pizza majstor (50 cm)",
+        "desc": "chilli pelat, domaća ljuta papričica, sir, ljuti kulen, ljute feferone, origano",
+        "price": 26.0
+      },
+      {
+        "name": "Porodična Kulen Pizza (50cm)",
+        "desc": "pelat, sir, kulen, šampinjoni, origano, masline",
+        "price": 25.0
+      },
+      {
+        "name": "Porodična Mozzarella Pizza (50cm)",
+        "desc": "pelat, mozzarella sir, svježi bosiljak, extra djevičansko maslinovo ulje",
+        "price": 25.0
+      },
+      {
+        "name": "Porodična Bianco Pizza (50cm)",
+        "desc": "pavlaka, sir, kulen, šampinjoni, gorgonzola, origano, masline",
+        "price": 25.0
+      },
+      {
+        "name": "Porodična Capricciosa Pizza (50cm)",
+        "desc": "pelat, sir, šunka, šampinjoni, origano, masline",
+        "price": 22.0
+      },
+      {
+        "name": "Porodična Funghi Pizza (50cm)",
+        "desc": "pelat, sir ili posni sir, šampinjoni, origano, masline",
+        "price": 22.0
+      },
+      {
+        "name": "Porodična Posna Tuna Pizza (50cm)",
+        "desc": "pelat, posni sir, tunjevina, ljubičasti luk, šampinjoni, kukuruz, origano, masline",
+        "price": 22.0
+      },
+      {
+        "name": "Porodična Vegy Pizza (50cm)",
+        "desc": "pizza sos, sir ili posni sir, žuta i crvena paprika, tikvice, gljive, kukuruz, origano, masline",
+        "price": 22.0
+      },
+      {
+        "name": "Porodična Margherita Pizza (50 cm)",
+        "desc": "pelat, sir, origano, svježi bosiljak",
+        "price": 21.0
+      }
+    ],
+    "Pizza Napoletana Speciale (33cm)": [
+      {
+        "name": "Amazon Pizza - specijalitet kuće (33cm)",
+        "desc": "pelat, sir, pršut, slanina, kulen, šunka, origano, maslina",
+        "price": 17.0
+      },
+      {
+        "name": "Šefova Pizza (33 cm)",
+        "desc": "pelat, sir, slanina, šunka, šampinjoni, crveni luk, pavlaka, origano, maslina",
+        "price": 16.0
+      },
+      {
+        "name": "Balkanska Pizza (33 cm)",
+        "desc": "pelat, sir, šunka, kulen, šampinjoni, feferoni, pavlaka, origano, maslina",
+        "price": 16.0
+      },
+      {
+        "name": "Pizza Kraljica pršuta (33 cm)",
+        "desc": "pelat, sir, pršut, grana padano, rukola, cherry, origano, masline",
+        "price": 16.0
+      },
+      {
+        "name": "Pizza Bresaola (33 cm)",
+        "desc": "pizza sos, sir, goveđa peka, grana padano, rukola, cherry paradajz, origano, maslina",
+        "price": 16.0
+      },
+      {
+        "name": "Pizza Mortadella e pistacchi (33cm)",
+        "desc": "sir, mortadela, pistacij, cherry paradajz, pavlaka, origano, maslina",
+        "price": 16.0
+      },
+      {
+        "name": "Quattro Formaggi Pizza (33 cm)",
+        "desc": "pelat, gorgonzola, mozzarella, grana padano, gauda, origano, svježi bosiljak",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza Ljuti pizza majstor (33 cm)",
+        "desc": "chilli pelat, domaća ljuta papričica, sir, ljuti kulen, ljute feferone, origano",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza Bianco (33cm)",
+        "desc": "pavlaka, sir, kulen, šampinjoni, gorgonzola, origano, maslina",
+        "price": 15.0
+      },
+      {
+        "name": "Napoli Pizza (33cm)",
+        "desc": "pelat, mozzarella sir, pršut, cherry, grana padano, svježi bosiljak, origano, masline",
+        "price": 15.0
+      }
+    ],
+    "Pizza Napoletana Classic (33cm)": [
+      {
+        "name": "Pizza Amazonka (33cm)",
+        "desc": "pelat, sir, slanina, pršut, pavlaka, jaje, origano, maslina",
+        "price": 16.0
+      },
+      {
+        "name": "Pizza Mexicana (33cm)",
+        "desc": "chilli pelat, sir, ljuti kulen, šampinjoni, kukuruz, ljuta paprika, feferoni, origano",
+        "price": 15.0
+      },
+      {
+        "name": "Mozzarella Pizza (33 cm)",
+        "desc": "pelat, mozzarella sir, svježi bosiljak, extra djevičansko maslinovo ulje",
+        "price": 14.0
+      },
+      {
+        "name": "Kulen Pizza (33 cm)",
+        "desc": "pelat, sir, kulen, šampinjoni, origano, maslina",
+        "price": 14.0
+      },
+      {
+        "name": "Capricciosa Pizza (33 cm)",
+        "desc": "pelat, sir, šunka, šampinjoni, origano, maslina",
+        "price": 14.0
+      },
+      {
+        "name": "Posna Tuna Pizza (33 cm)",
+        "desc": "pelat, posni sir, tuna, ljubičasti luk, kukuruz, šampinjoni, origano, maslina",
+        "price": 13.0
+      },
+      {
+        "name": "Vegy Pizza (33 cm)",
+        "desc": "pelat, sir ili posni sir, žuta i crvena paprika, tikvica, šampinjoni, kukuruz, origano, maslina",
+        "price": 13.0
+      },
+      {
+        "name": "Funghi Pizza (33 cm)",
+        "desc": "pelat, sir ili posni sir, šampinjoni, origano, maslina",
+        "price": 12.0
+      },
+      {
+        "name": "Margherita Pizza (33 cm)",
+        "desc": "pelat, sir, svježi bosiljak, origano",
+        "price": 12.0
+      },
+      {
+        "name": "Piroška Pizza (Calzone)",
+        "desc": "pelat, sir, šunka, pavlaka",
+        "price": 11.0
+      },
+      {
+        "name": "Bakina Pizza (26 cm)",
+        "desc": "sir, šunka, pavlaka, origano, maslina",
+        "price": 10.0
+      }
+    ],
+    "Posni Meni (Posne Pizza Napoletana)": [
+      {
+        "name": "Porodična Posna Funghi Pizza (50cm)",
+        "desc": "pelat, posni sir, šampinjoni, origano, masline",
+        "price": 22.0
+      },
+      {
+        "name": "Porodična Posna Vegy Pizza (50cm)",
+        "desc": "pelat, posni sir, žuta i crvena paprika, tikvica, šampinjoni, kukuruz, origano, masline",
+        "price": 22.0
+      },
+      {
+        "name": "Porodična Posna Tuna Pizza (50cm)",
+        "desc": "pelat, posni sir, tunjevina, kukuruz, šampinjoni, ljubičasti luk, origano, masline",
+        "price": 22.0
+      },
+      {
+        "name": "Porodična Posna Margherita Pizza (50cm)",
+        "desc": "pelat, posni sir, origano, masline",
+        "price": 21.0
+      },
+      {
+        "name": "Posna Tuna Pizza (33cm)",
+        "desc": "pelat, posni sir, tunjevina, šampinjoni, ljubičasti luk, kukuruz, origano, maslina",
+        "price": 13.0
+      },
+      {
+        "name": "Posna Vegy Pizza (33cm)",
+        "desc": "pelat, posni sir, žuta i crvena paprika, tikvica, šampinjoni, kukuruz, origano, masline",
+        "price": 13.0
+      },
+      {
+        "name": "Posna Funghi Pizza (33cm)",
+        "desc": "pelat, posni sir, šampinjoni, origano, maslina",
+        "price": 12.0
+      },
+      {
+        "name": "Posna Margherita Pizza (33cm)",
+        "desc": "pelat, posni sir, origano, maslina",
+        "price": 12.0
+      },
+      {
+        "name": "Posna Pizza Marinara (33cm)",
+        "desc": "pelat, bijeli luk, extra djevičansko maslinovo ulje",
+        "price": 11.0
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Coca cola limenka 0,33l",
+        "desc": "Gazirani sok",
+        "price": 3.5
+      },
+      {
+        "name": "Fanta limenka 0,33l",
+        "desc": "Gazirani sok",
+        "price": 3.5
+      },
+      {
+        "name": "Pepsi limenka 0,33l",
+        "desc": "Gazirani sok",
+        "price": 3.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "name": "La Nostra",
+  "rating": null,
+  "count": null,
+  "service_fee": 1.9,
+  "menu": {
+    "Pizze": [
+      {
+        "name": "Pizza La Nostra 42 cm",
+        "desc": "Sos, sir, šampinjoni, kulen, panceta, pršut, suvi vrat, paradajz, jaja, pavlaka, kajmak",
+        "price": 33.0
+      },
+      {
+        "name": "Pizza Lobelija 42 cm",
+        "desc": "Sos, sir, šunka, kobasica, jaja, pavlaka",
+        "price": 22.5
+      },
+      {
+        "name": "Pizza La Nostra 35 cm",
+        "desc": "Sos, sir, šampinjoni, kulen, panceta, pršut, suvi vrat, paradajz, jaja, pavlaka, kajmak",
+        "price": 20.0
+      },
+      {
+        "name": "Pizza Lobelija 35 cm",
+        "desc": "Sos, sir, šunka, kobasica, jaja, pavlaka",
+        "price": 13.0
+      },
+      {
+        "name": "Pizza La Nostra 24 cm",
+        "desc": "Sos, sir, šampinjoni, kulen, panceta, pršut, suvi vrat, paradajz, jaja, pavlaka, kajmak",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Bolognese",
+        "desc": "Sos, sir, faširano juneće meso, jaje, pavlaka, feferoni",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza La Martina",
+        "desc": "Čokolada, Nutella, banana, orasi, kokos",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Padrino",
+        "desc": "Sos, sir, šunka, šampinjoni, pršut, pavlaka, jaje",
+        "price": 9.5
+      },
+      {
+        "name": "Pizza Sicilijana",
+        "desc": "Sos, sir, tuna, luk, šampinjoni, paprika",
+        "price": 9.5
+      },
+      {
+        "name": "Pizza Mexico",
+        "desc": "Sos, chili, sir, kulen, šampinjoni, feferoni",
+        "price": 8.5
+      },
+      {
+        "name": "Pizza Piknik",
+        "desc": "Sos, sir, panceta, pršut, kulen, suvi vrat",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza Vegetariana",
+        "desc": "Sos, sir, šampinjoni, luk, paprika, grašak, kukuruz",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza Quattro formaggi",
+        "desc": "Sos, Edamer, Mozzarella, Gorgonzola, Dimljeni sir",
+        "price": 7.5
+      },
+      {
+        "name": "Pizza Lobelija 24 cm",
+        "desc": "Sos, sir, šunka, kobasica, jaja, pavlaka",
+        "price": 7.5
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Sos, sir, šampinjoni, šunka svinjska ili pileća",
+        "price": 7.5
+      },
+      {
+        "name": "Pizza Matino",
+        "desc": "Sos, sir, pršut",
+        "price": 7.0
+      },
+      {
+        "name": "Pizza Rival",
+        "desc": "Pavlaka, bijeli luk, sir, panceta",
+        "price": 6.5
+      },
+      {
+        "name": "Pizza Funghi",
+        "desc": "Sos, sir, šampinjoni",
+        "price": 6.0
+      },
+      {
+        "name": "Pizza Margherita",
+        "desc": "Sos, sir",
+        "price": 5.5
+      }
+    ],
+    "Pasta": [
+      {
+        "name": "Pasta Carbonara",
+        "desc": "Slanina, Feta sir, jaja",
+        "price": 11.0
+      },
+      {
+        "name": "Pasta Napuljska",
+        "desc": "Paradajz, tuna, Mozzarella",
+        "price": 10.0
+      },
+      {
+        "name": "Pasta Bolognese",
+        "desc": "Faširano juneće meso",
+        "price": 9.0
+      },
+      {
+        "name": "Pasta Quattro formaggi",
+        "desc": "Mozzarella, Gorgonzola, Edamer, Dimljeni",
+        "price": 9.0
+      },
+      {
+        "name": "Pasta Vegetarijanska",
+        "desc": "Tikvica, paprika, grašak, kukuruz",
+        "price": 8.0
+      },
+      {
+        "name": "Pasta Mexico",
+        "desc": "Sir, bijeli luk, ljuta papričica, chili",
+        "price": 7.0
+      },
+      {
+        "name": "Pasta Caprese",
+        "desc": "Mozzarella, paradajz",
+        "price": 7.0
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "Salata iz Nice",
+        "desc": "Zelena salata, tuna, pomfrit, kuhana jaja",
+        "price": 7.0
+      },
+      {
+        "name": "Italijanska salata",
+        "desc": "Makaroni, tuna, kuhana jaja, majoneza",
+        "price": 6.0
+      },
+      {
+        "name": "Grčka salata",
+        "desc": "Paradajz, krastavac, luk, crne masline, Feta sir",
+        "price": 6.0
+      },
+      {
+        "name": "Miješana salata",
+        "desc": "Paradajz, krastavac, kupus, mrkva, kukuruz",
+        "price": 5.0
+      },
+      {
+        "name": "Šopska salata",
+        "desc": "Paradajz, paprika, krastavac, luk, Feta sir",
+        "price": 5.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Kupus salata",
+        "desc": "Kupus salata",
+        "price": 2.5
+      },
+      {
+        "name": "Krastavac salata",
+        "desc": "Krastavac salata",
+        "price": 2.5
+      },
+      {
+        "name": "Paradajz salata",
+        "desc": "Paradajz salata",
+        "price": 2.5
+      },
+      {
+        "name": "Mix salata",
+        "desc": "Mix salata",
+        "price": 2.5
+      }
+    ]
+  }
+}

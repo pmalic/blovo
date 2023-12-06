@@ -1,0 +1,290 @@
+{
+  "name": "Restoran Stari Most",
+  "rating": 0.61,
+  "count": 10,
+  "service_fee": 3.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Piletina na žaru velika porcija",
+        "desc": "Pileći file, pomfrit",
+        "price": 12.0
+      },
+      {
+        "name": "Ražnjić",
+        "desc": "2 ražnjića, lepinja, pomfrit",
+        "price": 10.0
+      },
+      {
+        "name": "Banjalučki ćevap",
+        "desc": "Banjalučki ćevap, lepinja, luk, pomfrit, mala ili velika porcija",
+        "price": 4.0
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Cheesesteak sendvič biftek",
+        "desc": "Sendvič biftek 150gr cedar sir, zelena salata,  karamelizirani luk pecivo",
+        "price": 12.0
+      },
+      {
+        "name": "Doručak Stari most",
+        "desc": "3 jaja šunka, pršut, kobasica sa sirom, senf",
+        "price": 10.0
+      },
+      {
+        "name": "Doručak Gondola",
+        "desc": "3 jaja, suhi vrat 100 gr, sir, vrhnje",
+        "price": 10.0
+      },
+      {
+        "name": "Pohovane palačinke mala porcija",
+        "desc": "Šunka, sir",
+        "price": 10.0
+      },
+      {
+        "name": "Pohovane palačinke velika porcija",
+        "desc": "Šunka, sir",
+        "price": 10.0
+      },
+      {
+        "name": "Omlet",
+        "desc": "3 jaja, šunka, sir",
+        "price": 8.0
+      },
+      {
+        "name": "Tost sendvič",
+        "desc": "Pršut, sir, šunka, zelena salata",
+        "price": 8.0
+      },
+      {
+        "name": "Homendeks",
+        "desc": "3 jaja, šunka",
+        "price": 7.0
+      },
+      {
+        "name": "Bekendeks",
+        "desc": "3 jaja, slanina",
+        "price": 7.0
+      },
+      {
+        "name": "Uštipci",
+        "desc": "5 ili 10 komada",
+        "price": 3.0
+      }
+    ],
+    "Glavna jela": [
+      {
+        "name": "Biftek u fefer sosu",
+        "desc": "Biftek 300gr, prilog po želji, fefer sos",
+        "price": 35.0
+      },
+      {
+        "name": "Biftek na žaru",
+        "desc": "Biftek 300 gr, prilog po želji",
+        "price": 35.0
+      },
+      {
+        "name": "Karađorđeva šnicla",
+        "desc": "Svinjski file 200gr, kajmak, pomfrit, tartar sos",
+        "price": 20.0
+      },
+      {
+        "name": "Teleći mišići u kajmaku",
+        "desc": "350gr Telećih mišića pekarski krompir, kajmak",
+        "price": 20.0
+      },
+      {
+        "name": "Punjena vješalica Stari most",
+        "desc": "Svinjska vješalica 250gr, sir, slanina, pekarski krompir",
+        "price": 16.0
+      },
+      {
+        "name": "Punjeni batak",
+        "desc": "Batak 200gr sir, slanina, pomfrit",
+        "price": 15.0
+      },
+      {
+        "name": "Pileći jastučići",
+        "desc": "Pileći file 250gr sir, slanina, pomfrit",
+        "price": 14.0
+      },
+      {
+        "name": "Gulaš",
+        "desc": "Junetina 200gr, prilog po želji",
+        "price": 10.0
+      }
+    ],
+    "Roštilj": [
+      {
+        "name": "Plata za 1 osobu",
+        "desc": "Banjalučki ćevap, pileći file svinjski vrat, roštiljska kobasica, ražnjić, luk, lepinja, pomfrit",
+        "price": 14.4
+      },
+      {
+        "name": "Leskovački uštipci",
+        "desc": "Leskovački uštipci 250gr, lepinja, luk, pomfrit",
+        "price": 13.0
+      },
+      {
+        "name": "Piletina na žaru velika porcija",
+        "desc": "Pileći file, pomfrit",
+        "price": 12.0
+      },
+      {
+        "name": "Ražnjić",
+        "desc": "2 ražnjića, lepinja, pomfrit",
+        "price": 10.0
+      },
+      {
+        "name": "Šiš čevap",
+        "desc": "Ćevap, lepinja, luk, pomfrit, mala, srednja ili velika porcija",
+        "price": 7.0
+      },
+      {
+        "name": "Piletina na žaru mala porcija",
+        "desc": "Pileći file, pomfrit",
+        "price": 7.0
+      },
+      {
+        "name": "Banjalučki ćevap",
+        "desc": "Banjalučki ćevap, lepinja, luk, pomfrit, mala ili velika porcija",
+        "price": 4.0
+      }
+    ],
+    "Ribe": [
+      {
+        "name": "Tuna steak",
+        "desc": "Tuna stek 250g, dalmatinska garnitura",
+        "price": 28.0
+      },
+      {
+        "name": "Lignje na žaru",
+        "desc": "Lignje 200gr, dalmatinska garnitura",
+        "price": 20.0
+      },
+      {
+        "name": "Pohovane lignje",
+        "desc": "Lignje 200g, dalmatinska garnitura",
+        "price": 20.0
+      },
+      {
+        "name": "Pastrimka na žaru",
+        "desc": "2 Pastrmke, dalmatinska garnitura",
+        "price": 18.0
+      },
+      {
+        "name": "Riblja pljeskavica",
+        "desc": "2 Riblje pljeskavice, pekarski krompir",
+        "price": 14.0
+      }
+    ],
+    "Burgeri": [
+      {
+        "name": "Burger boss",
+        "desc": "Duplo burger meso, zelena salata, burger sos, paradajz,   cheddar,  karamelizovani luk, slanina, jaje",
+        "price": 16.0
+      },
+      {
+        "name": "Englander burger",
+        "desc": "200gr, burger sos zelena salata, paradajz, cheddar, slanina, karamelizovani luk",
+        "price": 13.4
+      },
+      {
+        "name": "Burger Macho",
+        "desc": "Meso 200gr, burger sos, zelena salata, paradajz, cheddar, karamelizovani luk",
+        "price": 12.0
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "Biftek salata",
+        "price": 16.0
+      },
+      {
+        "name": "Cezar salata",
+        "price": 13.0
+      },
+      {
+        "name": "Tuna salata",
+        "price": 13.0
+      }
+    ],
+    "Paste i rižota": [
+      {
+        "name": "Pasta sa piletinom i paprikama",
+        "price": 16.0
+      },
+      {
+        "name": "Riblji rižoto",
+        "desc": "Plodovi mora",
+        "price": 15.0
+      },
+      {
+        "name": "Rižoto sa piletinom",
+        "desc": "Riza,piletina",
+        "price": 15.0
+      },
+      {
+        "name": "Pasta Carbonara",
+        "price": 15.0
+      }
+    ],
+    "Dodatci": [
+      {
+        "name": "Ljuta Paprika",
+        "desc": "1 komad",
+        "price": 3.0
+      },
+      {
+        "name": "Tartar sos",
+        "desc": "Tartar sos",
+        "price": 2.0
+      },
+      {
+        "name": "Lepinja",
+        "desc": "1 komad",
+        "price": 1.0
+      },
+      {
+        "name": "Hljeb",
+        "desc": "Tri vrste hljeba",
+        "price": 1.0
+      },
+      {
+        "name": "Ketchup",
+        "desc": "Kecap",
+        "price": 1.0
+      },
+      {
+        "name": "Majoneza",
+        "desc": "Majoneza",
+        "price": 1.0
+      },
+      {
+        "name": "Senf",
+        "desc": "Senf",
+        "price": 1.0
+      }
+    ],
+    "Desert": [
+      {
+        "name": "Cheesecake",
+        "price": 6.0
+      },
+      {
+        "name": "Trileće",
+        "desc": "Tri lece",
+        "price": 5.0
+      },
+      {
+        "name": "Palačinke sa Nutellom",
+        "price": 5.0
+      },
+      {
+        "name": "Voćni kolač",
+        "price": 4.0
+      }
+    ]
+  }
+}

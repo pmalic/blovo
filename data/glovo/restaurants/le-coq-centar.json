@@ -1,0 +1,583 @@
+{
+  "name": "Le Coq",
+  "rating": 0.98,
+  "count": 500,
+  "service_fee": 2.0,
+  "menu": {
+    "Piletina": [
+      {
+        "name": "Piletina u Cornfleksu i kikiriki sosu",
+        "desc": "Pileći file pohovan u kornfleksu na prilogu od pire krompira preliven kikiriki sosom",
+        "price": 18.0
+      },
+      {
+        "name": "Pileći mišići u LE COQ sosu",
+        "desc": "Prilog pomfrit, riža ili tjestenina",
+        "price": 13.5
+      },
+      {
+        "name": "Pileći mišići u umaku od šampinjona",
+        "desc": "Prilog pomfrit, riža ili tjestenina",
+        "price": 13.5
+      },
+      {
+        "name": "Piletina u LE COQ sosu",
+        "desc": "Prilog pomfrit, riža ili tjestenina",
+        "price": 12.0
+      },
+      {
+        "name": "Piletina u umaku od šampinjona",
+        "desc": "Prilog pomfrit, riža ili tjestenina",
+        "price": 12.0
+      },
+      {
+        "name": "Le Coq file specijal",
+        "desc": "Mješavina svih vrsta Le Coq filea",
+        "price": 12.0
+      },
+      {
+        "name": "Piletina na meksički način",
+        "desc": "Pecivo, meksičko povrće, blagi ili ljuti sos",
+        "price": 11.0
+      },
+      {
+        "name": "Pileći mišići na maslinovom ulju sa susamom",
+        "desc": "Prilog pomfrit ili mlado povrće",
+        "price": 11.0
+      },
+      {
+        "name": "Chicken nuggets sa pomfritom",
+        "desc": "Sa Le Coq sosom ili slatko - ljutim sosom",
+        "price": 11.0
+      },
+      {
+        "name": "Le Coq file extra",
+        "desc": "Pileće bijelo meso sa topljenim sirom, pečenom slaninom i pomfritom",
+        "price": 11.0
+      },
+      {
+        "name": "Le Coq file medium",
+        "desc": "Pileće bijelo meso sa topljenim sirom, šunkom i pomfritom",
+        "price": 11.0
+      },
+      {
+        "name": "Le Coq file light",
+        "desc": "Pileće bijelo meso sa kajmakom, paradajzom i pomfritom",
+        "price": 11.0
+      },
+      {
+        "name": "Le Coq file premium",
+        "desc": "Pileće bijelo meso sa topljenim sirom, pečenim kobasicama i pomfritom",
+        "price": 11.0
+      },
+      {
+        "name": "Le Coq file SOLO",
+        "desc": "pileće bijelo meso sa topljenim sirom i pomfritom",
+        "price": 11.0
+      },
+      {
+        "name": "Pohovana piletina sa pomfritom",
+        "desc": "Pohovana piletina sa pomfritom",
+        "price": 9.5
+      },
+      {
+        "name": "Pileći mišići sa pomfritom",
+        "desc": "Pecivo, meso pilećeg bataka očišćeno od kostiju i kožice, pečeno na roštilju, pomfrit",
+        "price": 9.0
+      },
+      {
+        "name": "Pohovani palačinci sa piletinom",
+        "desc": "Mala porcija 1 kom., velika porcija 2 kom.",
+        "price": 8.5
+      }
+    ],
+    "Teletina": [
+      {
+        "name": "Teletina u umaku od šampinjona",
+        "desc": "Prilog pomfrit, riža ili tjestenina",
+        "price": 13.0
+      },
+      {
+        "name": "Teletina u Le Coq sosu",
+        "desc": "Prilog pomfrit, riža ili tjestenina",
+        "price": 13.0
+      },
+      {
+        "name": "Teletina na Le Coq način",
+        "desc": "Sa topljenim sirom, pečenom slaninom i pomfritom",
+        "price": 12.0
+      },
+      {
+        "name": "Teleće krpice sa pomfritom",
+        "desc": "(pecivo, teleće meso, pomfrit)",
+        "price": 9.0
+      }
+    ],
+    "Dimljena ćuretina": [
+      {
+        "name": "Kombinacija ćurećeg mesa",
+        "price": 20.0
+      },
+      {
+        "name": "Dimljena ćuretina u Le Coq sosu",
+        "desc": "Prilog pomfrit, riža ili tjestenina",
+        "price": 13.5
+      },
+      {
+        "name": "Dimljena ćuretina u kajmaku",
+        "desc": "Dimljena ćuretina u kajmaku sa pomfritom",
+        "price": 13.0
+      },
+      {
+        "name": "Dimljena ćuretina na Le Coq način",
+        "desc": "Sa topljenim sirom, pečenom slaninom i pomfritom",
+        "price": 13.0
+      },
+      {
+        "name": "Dimljena ćuretina",
+        "desc": "Dimljena ćuretina sa pomfritom",
+        "price": 9.5
+      },
+      {
+        "name": "Roštiljske kobasice od ćuretine",
+        "price": 7.0
+      },
+      {
+        "name": "Ćevapi od ćuretine",
+        "price": 6.0
+      }
+    ],
+    "Svinjetina": [
+      {
+        "name": "Svinjska šnicla u Le Coq sosu",
+        "desc": "Prilog pomfrit, riža ili tjestenina",
+        "price": 12.0
+      },
+      {
+        "name": "Svinjska šnicla u kajmaku",
+        "desc": "Svinjska šnicla u kajmaku sa pomfritom",
+        "price": 11.0
+      },
+      {
+        "name": "Svinjska šnicla na Le Coq način",
+        "desc": "Sa topljenim sirom, pečenom slaninom i pomfritom",
+        "price": 11.0
+      },
+      {
+        "name": "Svinjetina na meksički način",
+        "price": 11.0
+      },
+      {
+        "name": "Svinjska šnicla sa pomfritom",
+        "price": 8.5
+      }
+    ],
+    "Roštilj": [
+      {
+        "name": "Le Coq plata za dvije osobe",
+        "desc": "2 male porcije Le Coq filea, mala porcija telećih krpica, mala porcija dimljene ćuretine, kobasice, pečena slanina, pomfrit",
+        "price": 33.0
+      },
+      {
+        "name": "Extra Plata za dvije osobe",
+        "desc": "2 Le Coq filea, 2 ražnjića, 2 kobasice, 2 ćevapa, mala porcija pilećih krpica, mala porcija pilećih mišića",
+        "price": 33.0
+      },
+      {
+        "name": "Le Coq kombinacija - velika",
+        "desc": "Pileći ćevapi 3 komada, male pileće krpice, 1x roštiljska kobasica, 1x pileći ražnjić, mali pileći mišići, prilog pomfrit",
+        "price": 15.5
+      },
+      {
+        "name": "Le Coq kombinacija - srednja",
+        "desc": "Pecivo, pileći ćevapi 3 komada, male pileće krpice, 1x roštiljska kobasica, 1x pileći ražnjić, prilog pomfrit",
+        "price": 12.5
+      },
+      {
+        "name": "Dimljeni batak sa slatko - ljutim sosom",
+        "desc": "Piletina, sos",
+        "price": 11.5
+      },
+      {
+        "name": "Pileći batak na Le Coq način",
+        "desc": "Sa topljenim sirom i pečenom slaninom.",
+        "price": 10.5
+      },
+      {
+        "name": "Le Coq kombinacija - mala",
+        "desc": "Pecivo, pileći ćevapi 3 komada, male pileće krpice, 1x  roštiljska kobasica, prilog pomfrit",
+        "price": 9.5
+      },
+      {
+        "name": "Pileće krpice sa prženom slaninom",
+        "desc": "Pileće krpice sa prženom slaninom i pomfritom",
+        "price": 9.0
+      },
+      {
+        "name": "Pileće krpice Le Coq",
+        "desc": "Pileće bijelo meso na maslinovom ulju sa susamom i začinima, pomfrit",
+        "price": 8.5
+      },
+      {
+        "name": "Pileći batak",
+        "desc": "Pileći batak sa pomfritom",
+        "price": 8.5
+      },
+      {
+        "name": "Roštiljske kobasice",
+        "desc": "Roštiljske kobasice sa pomfritom",
+        "price": 7.0
+      },
+      {
+        "name": "Rolovani ražnjići",
+        "desc": "Rolovani ražnjići sa pomfritom",
+        "price": 7.0
+      },
+      {
+        "name": "Pileća pljeskavica",
+        "desc": "Pileća pljeskavica",
+        "price": 6.0
+      },
+      {
+        "name": "Pileće krpice pileće bijelo meso",
+        "desc": "Pileće bijelo meso sa pomfritom",
+        "price": 6.0
+      },
+      {
+        "name": "Pileći ćevapi",
+        "desc": "Pileći ćevapi sa pomfritom",
+        "price": 5.5
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "Cezar salata",
+        "desc": "Cezar salata",
+        "price": 15.0
+      },
+      {
+        "name": "Salata sa tunjevinom",
+        "desc": "Salata sa tunjevinom",
+        "price": 15.0
+      },
+      {
+        "name": "Fitnes obrok",
+        "desc": "Pileće krpice sa svježom salatom i parmezanom",
+        "price": 11.0
+      },
+      {
+        "name": "Kapreze salata sa piletinom",
+        "desc": "Piletina sa mladom Mozzarellom, paradajzom i pesto Genoveze sosom, zelena salata",
+        "price": 11.0
+      },
+      {
+        "name": "Grčka salata sa piletinom",
+        "desc": "Grilovana piletina sa paradajzom, krastavcima crvenom i zelenom paprikom, maslinama i feta sirom",
+        "price": 11.0
+      }
+    ],
+    "Posni meni": [
+      {
+        "name": "Lignje na žaru",
+        "desc": "Lignje na žaru sa prilogom od pomfrita ili riže.",
+        "price": 18.0
+      },
+      {
+        "name": "File crvene pastrmke",
+        "desc": "File crvene pastrmke bez kostiju (200 g.) sa pomfritom ili rižom.",
+        "price": 17.0
+      },
+      {
+        "name": "Salata sa tunjevinom",
+        "desc": "Salata sa tunjevinom",
+        "price": 15.0
+      },
+      {
+        "name": "Panirani oslić sa prilogom",
+        "desc": "Oslić, prilog",
+        "price": 14.0
+      },
+      {
+        "name": "Riblji štapići sa rižom, povrćem i šampinjonima",
+        "price": 11.0
+      },
+      {
+        "name": "Posni fitnes obrok",
+        "desc": "Riblji štapići sa svježom salatom",
+        "price": 11.0
+      },
+      {
+        "name": "Panirani lignja kolutići",
+        "desc": "Panirani kolutići od lignji, prilog: pomfrit ili riža",
+        "price": 11.0
+      },
+      {
+        "name": "Šampinjoni sa rižom i povrćem",
+        "price": 10.0
+      },
+      {
+        "name": "Panirani gambori sa slatko ljutim sosom",
+        "desc": "Mala, srednja, velika porcija, prilog pomfrit ili riža",
+        "price": 9.5
+      },
+      {
+        "name": "Šampinjoni sa pomfritom",
+        "price": 9.0
+      },
+      {
+        "name": "Riblji štapići sa pomfritom",
+        "desc": "Riblji štapići sa pomfritom",
+        "price": 7.5
+      },
+      {
+        "name": "Grilovano povrće",
+        "desc": "300 gr",
+        "price": 6.0
+      }
+    ],
+    "Le Coq pileći file": [
+      {
+        "name": "1. Le Coq pileći file",
+        "desc": "Pečena slanina, topljenim sirom,  prilog",
+        "price": 7.0
+      },
+      {
+        "name": "2. Le Coq pileći file",
+        "desc": "Šunka, topljenim sirom, prilog",
+        "price": 7.0
+      },
+      {
+        "name": "3. Le Coq pileći file",
+        "desc": "Kajmak, paradajz, prilog",
+        "price": 7.0
+      },
+      {
+        "name": "4. Le Coq pileći file",
+        "desc": "Prilog",
+        "price": 6.0
+      }
+    ],
+    "Le Coq Svinjski file": [
+      {
+        "name": "5. Le Coq Svinjski file",
+        "desc": "Pečena slanina, topljeni sir, prilog",
+        "price": 8.0
+      },
+      {
+        "name": "6. Le Coq Svinjski file",
+        "desc": "Šunka, topljeni sir,  prilog",
+        "price": 8.0
+      },
+      {
+        "name": "7. Le Coq Svinjski file",
+        "desc": "Kajmak, paradajz, prilog",
+        "price": 8.0
+      }
+    ],
+    "Le Coq Teleća šnicla": [
+      {
+        "name": "8. Le Coq Teleća šnicla",
+        "desc": "Pečena slanina, topljeni sir, prilog",
+        "price": 9.5
+      },
+      {
+        "name": "9. Le Coq Teleća šnicla",
+        "desc": "Šunka, topljeni sir, prilog",
+        "price": 9.5
+      },
+      {
+        "name": "11. Le Coq Teleća šnicla",
+        "desc": "Prilog",
+        "price": 8.5
+      }
+    ],
+    "Le Coq Pileći batak": [
+      {
+        "name": "13.Le Coq  Pileći batak",
+        "desc": "Pečena slanina, topljeni sir, prilog",
+        "price": 8.0
+      },
+      {
+        "name": "14. Le Coq Pileći batak",
+        "desc": "Šunka, topljeni sir,  prilog",
+        "price": 8.0
+      },
+      {
+        "name": "12. Le Coq Pileći batak",
+        "desc": "Prilog",
+        "price": 7.0
+      }
+    ],
+    "Le Coq Dimljena ćuretina": [
+      {
+        "name": "16.Le Coq  Dimljena ćuretina",
+        "desc": "Pečena slanina, topljeni sir, prilog",
+        "price": 9.0
+      },
+      {
+        "name": "17.Le Coq  Dimljena ćuretina",
+        "desc": "Šunka, topljeni sir, prilog",
+        "price": 9.0
+      },
+      {
+        "name": "18. Le Coq Dimljena ćuretina",
+        "desc": "Kajmak, paradajz, prilog",
+        "price": 9.0
+      },
+      {
+        "name": "15. Le Coq Dimljena ćuretina",
+        "desc": "Prilog",
+        "price": 8.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Sjenička paprika",
+        "desc": "Sjenička paprika",
+        "price": 6.5
+      },
+      {
+        "name": "Srpska salata",
+        "desc": "Srpska salata",
+        "price": 5.0
+      },
+      {
+        "name": "Šopska salata",
+        "desc": "Šopska salata",
+        "price": 5.0
+      },
+      {
+        "name": "Pečena paprika",
+        "desc": "Pečena paprika",
+        "price": 5.0
+      },
+      {
+        "name": "Miješana salata",
+        "desc": "Miješana salata",
+        "price": 4.5
+      },
+      {
+        "name": "Kupus salata",
+        "desc": "Kupus salata",
+        "price": 4.0
+      },
+      {
+        "name": "Kisele salate",
+        "desc": "Kisele salate",
+        "price": 4.0
+      },
+      {
+        "name": "Kajmak",
+        "desc": "Kajmak",
+        "price": 4.0
+      },
+      {
+        "name": "Engleska salata",
+        "desc": "Engleska salata",
+        "price": 3.5
+      },
+      {
+        "name": "Ruska salata",
+        "desc": "Ruska salata",
+        "price": 3.5
+      },
+      {
+        "name": "Krastavac salata",
+        "desc": "Krastavac salata",
+        "price": 3.5
+      },
+      {
+        "name": "Paradajz salata",
+        "desc": "Paradajz salata",
+        "price": 3.5
+      },
+      {
+        "name": "Feta sir",
+        "desc": "Feta sir",
+        "price": 3.5
+      }
+    ],
+    "Prilog": [
+      {
+        "name": "Grilovano povrće",
+        "desc": "Grilovano povrće",
+        "price": 6.0
+      },
+      {
+        "name": "Le Coq sos velika porcija",
+        "desc": "Velika porcija",
+        "price": 5.0
+      },
+      {
+        "name": "Dodatni pomfrit velika porcija",
+        "desc": "Velika porcija",
+        "price": 4.0
+      },
+      {
+        "name": "Povrće",
+        "desc": "Povrće",
+        "price": 3.5
+      },
+      {
+        "name": "Slatko - ljuti sos",
+        "desc": "Mala porcija",
+        "price": 3.0
+      },
+      {
+        "name": "Le Coq sos mala porcija",
+        "desc": "Mala porcija",
+        "price": 3.0
+      },
+      {
+        "name": "Dodatni pomfrit mala porcija",
+        "desc": "Mala porcija",
+        "price": 2.0
+      },
+      {
+        "name": "Lepinja",
+        "desc": "Lepinja",
+        "price": 0.7
+      }
+    ],
+    "Desert": [
+      {
+        "name": "Palačinci sa Nutellom",
+        "desc": "Palačinci sa Nutellom",
+        "price": 7.5
+      },
+      {
+        "name": "Palačinci sa orasima",
+        "desc": "Palačinci sa orasima",
+        "price": 7.0
+      },
+      {
+        "name": "Palačinci sa eurokremom",
+        "desc": "Palačinci sa eurokremom",
+        "price": 6.5
+      },
+      {
+        "name": "Palačinci sa džemom",
+        "desc": "Palačinci sa džemom",
+        "price": 6.5
+      },
+      {
+        "name": "Posni palačinci sa eurokremom",
+        "price": 6.5
+      },
+      {
+        "name": "Posni palačinci sa džemom",
+        "price": 6.5
+      },
+      {
+        "name": "Kolač tri leće",
+        "desc": "Kolač tri leće",
+        "price": 5.5
+      },
+      {
+        "name": "Pita sa jabukama (posna)",
+        "desc": "Posna pita sa jabukama",
+        "price": 5.0
+      }
+    ]
+  }
+}

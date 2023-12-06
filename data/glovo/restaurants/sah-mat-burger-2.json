@@ -1,0 +1,143 @@
+{
+  "name": "Šah Mat Burger",
+  "rating": 0.94,
+  "count": 500,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Burger Kralj",
+        "desc": "Sir, tartufo krema, hrskavi luk, srebreni luk, Šah Mat krastavac",
+        "price": 11.0
+      },
+      {
+        "name": "Burger Kraljica",
+        "desc": "Sir, sriracha-med sos, dimljena majoneza, srebreni luk, Šah mat krastavac",
+        "price": 10.5
+      },
+      {
+        "name": "Burger Cheese",
+        "desc": "Sir, majoneza, ketchup, senf, srebreni luk, Šah Mat krastavac",
+        "price": 10.5
+      }
+    ],
+    "Burgeri": [
+      {
+        "name": "Burger Kralj",
+        "desc": "Sir, tartufo krema, hrskavi luk, srebreni luk, Šah Mat krastavac",
+        "price": 11.0
+      },
+      {
+        "name": "Burger Kraljica",
+        "desc": "Sir, sriracha-med sos, dimljena majoneza, srebreni luk, Šah mat krastavac",
+        "price": 10.5
+      },
+      {
+        "name": "Burger Jalapeño",
+        "desc": "Sir, Jalapeño krema, BBQ sos, Šah Mat krastavac",
+        "price": 10.5
+      },
+      {
+        "name": "Burger Cheese",
+        "desc": "Sir, majoneza, ketchup, senf, srebreni luk, Šah Mat krastavac",
+        "price": 10.5
+      }
+    ],
+    "Burger meni": [
+      {
+        "name": "Burger Kralj meni",
+        "desc": "Hamburger, Coca - Cola, pomfrit",
+        "price": 16.0
+      },
+      {
+        "name": "Burger Kraljica meni",
+        "desc": "Hamburger, Coca - Cola, pomfrit",
+        "price": 15.0
+      },
+      {
+        "name": "Burger  Jalapeño meni",
+        "desc": "Hamburger, Coca - Cola, pomfrit",
+        "price": 15.0
+      },
+      {
+        "name": "Burger Cheese meni",
+        "desc": "Hamburger, Coca - Cola, pomfrit",
+        "price": 15.0
+      },
+      {
+        "name": "Mini Kid's meni",
+        "desc": "Burger, pomfrit, malo meso 65 gr i mini pomfrit",
+        "price": 6.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pomfrit",
+        "desc": "Pomfrit",
+        "price": 2.5
+      },
+      {
+        "name": "Tartufo sos",
+        "desc": "Tartufo sos",
+        "price": 1.5
+      },
+      {
+        "name": "Dimljena majoneza",
+        "desc": "Dimljena majoneza",
+        "price": 1.0
+      },
+      {
+        "name": "Ketchup",
+        "desc": "Ketchup",
+        "price": 1.0
+      },
+      {
+        "name": "Majoneza",
+        "desc": "Majoneza",
+        "price": 1.0
+      },
+      {
+        "name": "Jalapeno sos",
+        "desc": "Jalapeno sos",
+        "price": 1.0
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Coca - Cola 250 ml",
+        "desc": "250 ml",
+        "price": 2.5
+      },
+      {
+        "name": "Coca - Cola No sugar 250 ml",
+        "desc": "250 ml",
+        "price": 2.5
+      },
+      {
+        "name": "Sprite 250 ml",
+        "desc": "250 ml",
+        "price": 2.5
+      },
+      {
+        "name": "Fanta Orange 250 ml",
+        "desc": "250 ml",
+        "price": 2.5
+      },
+      {
+        "name": "Cappy 100% jabuka 200 ml",
+        "desc": "200 ml",
+        "price": 2.0
+      },
+      {
+        "name": "Olimpija voda 330 ml",
+        "desc": "330 ml",
+        "price": 2.0
+      },
+      {
+        "name": "Olimpija mineralna voda 330 ml",
+        "desc": "330 ml",
+        "price": 2.0
+      }
+    ]
+  }
+}

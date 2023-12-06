@@ -1,0 +1,253 @@
+{
+  "name": "Donuto",
+  "rating": 0.87,
+  "count": 50,
+  "service_fee": 2.3,
+  "menu": {
+    "Ledeni napici": [
+      {
+        "name": "Fizzy limunada",
+        "desc": "Mango, ananas, jagoda, kiwi ili zelena jabuka",
+        "price": 3.5
+      },
+      {
+        "name": "Home made Ice tea",
+        "desc": "Malina i ruža, limun i mojito",
+        "price": 3.5
+      },
+      {
+        "name": "Ice coffee sa okusima",
+        "desc": "Bijela čokolada, lješnik, slani karamel, vanilija, cookie",
+        "price": 3.5
+      },
+      {
+        "name": "Ice Monin",
+        "desc": "Ice Monin",
+        "price": 3.5
+      },
+      {
+        "name": "Limunada sa okusima",
+        "desc": "Višnja, blue curacaro i kokos, lubenica, passion fruit",
+        "price": 3.3
+      },
+      {
+        "name": "Ice tea",
+        "desc": "Limun, breskva",
+        "price": 3.0
+      },
+      {
+        "name": "Ice coffee",
+        "desc": "Ice coffee",
+        "price": 3.0
+      }
+    ],
+    "Topli napici": [
+      {
+        "name": "Latte Macchiato sa okusima",
+        "desc": "Bijela čokolada, lješnik, slani karamel, vanilija, cookie",
+        "price": 3.5
+      },
+      {
+        "name": "Mocha Chocolate",
+        "desc": "Mocha Chocolate",
+        "price": 3.5
+      },
+      {
+        "name": "Latte Macchiato",
+        "desc": "Latte Macchiato",
+        "price": 3.2
+      },
+      {
+        "name": "Cappuccino",
+        "desc": "Cappuccino",
+        "price": 2.6
+      },
+      {
+        "name": "Nes Coffee",
+        "desc": "Nes Coffee",
+        "price": 2.6
+      },
+      {
+        "name": "Macchiato",
+        "desc": "Macchiato",
+        "price": 2.3
+      },
+      {
+        "name": "Espresso",
+        "desc": "Espresso",
+        "price": 2.2
+      }
+    ],
+    "Frappe & Milkshake": [
+      {
+        "name": "Jagoda milkshake",
+        "desc": "Jagoda milkshake",
+        "price": 5.5
+      },
+      {
+        "name": "Kokos blue curacao milkshake",
+        "desc": "Kokos blue curacao milkshake",
+        "price": 5.5
+      },
+      {
+        "name": "Oreo milkshake",
+        "desc": "Oreo milkshake",
+        "price": 5.5
+      },
+      {
+        "name": "Plazma milkshake",
+        "desc": "Plazma milkshake",
+        "price": 5.5
+      },
+      {
+        "name": "Frappe chocolate",
+        "desc": "Frappe chocolate",
+        "price": 4.0
+      },
+      {
+        "name": "Frappe coffee",
+        "desc": "Frappe coffee",
+        "price": 4.0
+      }
+    ],
+    "Cijeđeni sokovi": [
+      {
+        "name": "Voćni mix Detox",
+        "desc": "Narandža, ananas, jabuka, đumbir",
+        "price": 6.3
+      },
+      {
+        "name": "Voćni mix Basic",
+        "desc": "Narandža, jabuka, mrkva",
+        "price": 5.3
+      },
+      {
+        "name": "Voćni mix Stand up",
+        "desc": "Ananas, grejp, jabuka",
+        "price": 5.3
+      },
+      {
+        "name": "Mix Fruits",
+        "desc": "Limun, narandža, grejp",
+        "price": 4.8
+      },
+      {
+        "name": "Cijeđena narandža",
+        "desc": "Cijeđena narandža",
+        "price": 4.3
+      },
+      {
+        "name": "Limunada sa đumbirom",
+        "desc": "Limunada sa đumbirom",
+        "price": 3.5
+      },
+      {
+        "name": "Limunada",
+        "desc": "Limunada",
+        "price": 3.3
+      }
+    ],
+    "Krofne": [
+      {
+        "name": "Ferrero",
+        "desc": "Crispy krema, mliječna i bijela čokolada",
+        "price": 4.0
+      },
+      {
+        "name": "Kinder Bueno",
+        "desc": "Mliječna čokolada, Kinder krema, prženi lješnjak",
+        "price": 4.0
+      },
+      {
+        "name": "Snickers",
+        "desc": "Punjenje karamel, mliječna čokolada, blanširani lješnjak",
+        "price": 4.0
+      },
+      {
+        "name": "Nougat krofna",
+        "desc": "Nougat krofna",
+        "price": 4.0
+      },
+      {
+        "name": "Vanilla",
+        "desc": "Punjenje vanilija, krema malina, bijela čokolada",
+        "price": 3.8
+      },
+      {
+        "name": "Blueberry",
+        "desc": "Preliv borovnica, krema borovnica i čokolada",
+        "price": 3.8
+      },
+      {
+        "name": "Pistachio",
+        "desc": "Preliv i krema pistacija",
+        "price": 3.8
+      },
+      {
+        "name": "Choco Orange",
+        "desc": "Punjenje nougat krema, preliv narandža",
+        "price": 3.7
+      },
+      {
+        "name": "Choco Banana",
+        "desc": "Punjenje krema od banane, preliv mliječna čokolada, čokoladne mrvice",
+        "price": 3.7
+      },
+      {
+        "name": "Raffaello",
+        "desc": "Bijela čokolada, kokos, punjenje vanilija, badem",
+        "price": 3.7
+      },
+      {
+        "name": "Monster",
+        "desc": "Punjenje čokolada, preliv čokolada, šećerne mrvice",
+        "price": 3.6
+      },
+      {
+        "name": "Choco Donut",
+        "desc": "Punjenje čokolada, preliv mliječna i bijela čokolada, hrskave čoko kuglice",
+        "price": 3.6
+      },
+      {
+        "name": "Choco Donut White",
+        "desc": "Preliv bijela čokolada, niti mliječne čokolade i lješnjak",
+        "price": 3.6
+      },
+      {
+        "name": "Brownie Chocolate",
+        "desc": "Chocolate",
+        "price": 3.6
+      },
+      {
+        "name": "Oreo",
+        "desc": "Bijela čokolada, oreo keks",
+        "price": 3.4
+      },
+      {
+        "name": "Cherry",
+        "desc": "Punjenje čokolada, preliv višnja",
+        "price": 3.3
+      },
+      {
+        "name": "Cake slice",
+        "desc": "Biskvit kolač sa čokoladom",
+        "price": 2.6
+      },
+      {
+        "name": "Mini Donut",
+        "desc": "Čokolada, šećerne mrvice",
+        "price": 2.3
+      },
+      {
+        "name": "Muffin Blueberry",
+        "desc": "Muffin sa borovnicom",
+        "price": 2.0
+      },
+      {
+        "name": "Muffin Choco",
+        "desc": "Muffin sa komadićima čokolade",
+        "price": 2.0
+      }
+    ]
+  }
+}

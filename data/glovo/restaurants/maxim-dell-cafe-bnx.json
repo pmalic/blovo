@@ -1,0 +1,87 @@
+{
+  "name": "Maxim Dell cafe",
+  "rating": 1.0,
+  "count": 10,
+  "service_fee": 2.3,
+  "menu": {
+    "Kafa": [
+      {
+        "name": "Latte Macchiato",
+        "desc": "Latte Macchiato",
+        "price": 3.5
+      },
+      {
+        "name": "Cappuccino vanilija",
+        "desc": "Vanilija",
+        "price": 3.0
+      },
+      {
+        "name": "Cappuccino čokolada",
+        "desc": "Čokolada",
+        "price": 3.0
+      },
+      {
+        "name": "Cappuccino Irish cream",
+        "desc": "Irish cream",
+        "price": 3.0
+      },
+      {
+        "name": "Kafa za ponijet Julius Meinl Poesia",
+        "desc": "Kafa za ponijet Julius Meinl Poesia",
+        "price": 2.8
+      },
+      {
+        "name": "Kafa za ponijet Julius Meinl Intense",
+        "desc": "Kafa za ponijet Julius Meinl Intense",
+        "price": 2.0
+      }
+    ],
+    "Prirodno cijeđeni sokovi": [
+      {
+        "name": "Mix 4",
+        "desc": "Limun, grejp, mrkva, đumbir",
+        "price": 7.0
+      },
+      {
+        "name": "Mix 2",
+        "desc": "Limun, narandža, mrkva",
+        "price": 6.5
+      },
+      {
+        "name": "Mix 5",
+        "desc": "Jabuka, grejp, ananas",
+        "price": 6.0
+      },
+      {
+        "name": "Mix 1",
+        "desc": "Limun, narandža",
+        "price": 5.5
+      },
+      {
+        "name": "Mix 3",
+        "desc": "Narandža, grejp, mrkva",
+        "price": 5.5
+      },
+      {
+        "name": "Cijeđena jabuka",
+        "desc": "Cijeđena jabuka",
+        "price": 5.0
+      },
+      {
+        "name": "Cijeđeni grejp crveni",
+        "desc": "Cijeđeni grejp crveni",
+        "price": 5.0
+      },
+      {
+        "name": "Cijeđena narandža",
+        "desc": "Cijeđena narandža",
+        "price": 4.5
+      },
+      {
+        "name": "Limunada",
+        "desc": "Limunada",
+        "price": 3.5
+      }
+    ]
+  }
+}

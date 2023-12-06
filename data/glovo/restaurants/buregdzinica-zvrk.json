@@ -1,0 +1,111 @@
+{
+  "name": "Buregdžinica ZVRK",
+  "rating": 0.95,
+  "count": 28,
+  "service_fee": 2.8,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Burek",
+        "desc": "Mljevena junetina, luk",
+        "price": 4.2
+      },
+      {
+        "name": "Sirnica",
+        "desc": "Mladi sir, jaja",
+        "price": 3.6
+      },
+      {
+        "name": "Krompiruša posno",
+        "desc": "Krompir, luk",
+        "price": 3.4
+      }
+    ],
+    "Pita": [
+      {
+        "name": "Burek",
+        "desc": "Mljevena junetina, luk",
+        "price": 4.2
+      },
+      {
+        "name": "Burek komad 300 gr",
+        "desc": "300 gr, mljevena junetina, luk",
+        "price": 3.9
+      },
+      {
+        "name": "Pita sa gljivama komad, posno 300 gr",
+        "desc": "300 gr, šampinjoni, luk",
+        "price": 3.9
+      },
+      {
+        "name": "Sirnica",
+        "desc": "Mladi sir, jaja",
+        "price": 3.6
+      },
+      {
+        "name": "Sirnica komad 300 gr",
+        "desc": "300 gr, sir, jaja",
+        "price": 3.6
+      },
+      {
+        "name": "Tikvica komad, posno 300 gr",
+        "desc": "300 gr, tikvica, so",
+        "price": 3.5
+      },
+      {
+        "name": "Krompiruša posno",
+        "desc": "Krompir, luk",
+        "price": 3.4
+      }
+    ],
+    "Slatka pita": [
+      {
+        "name": "Pita sa višnjama posno",
+        "desc": "Pita sa višnjama",
+        "price": 4.0
+      },
+      {
+        "name": "Pita sa jabukama posno",
+        "desc": "Pita sa jabukama",
+        "price": 3.0
+      }
+    ],
+    "Pića": [
+      {
+        "name": "Coca - Cola Original 500 ml",
+        "desc": "500 ml",
+        "price": 2.5
+      },
+      {
+        "name": "Fanta Orange 500 ml",
+        "desc": "500 ml",
+        "price": 2.5
+      },
+      {
+        "name": "Sprite 500 ml",
+        "desc": "500 ml",
+        "price": 2.5
+      },
+      {
+        "name": "Schweppes Bitter Lemon 500 ml",
+        "desc": "500 ml",
+        "price": 2.5
+      },
+      {
+        "name": "Jogurt 500 ml",
+        "desc": "500 ml",
+        "price": 2.0
+      },
+      {
+        "name": "Olimpija mineralna voda 500 ml",
+        "desc": "500 ml",
+        "price": 1.5
+      },
+      {
+        "name": "Jogurt 175 ml",
+        "desc": "175 ml",
+        "price": 1.0
+      }
+    ]
+  }
+}

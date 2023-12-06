@@ -1,0 +1,462 @@
+{
+  "name": "Healthy",
+  "rating": 0.98,
+  "count": 497,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Proteinska palačinka",
+        "desc": "Ovsene pahuljice, bjelanjak, banana cimet, vanilijin extrakt, whey protein i  tri dodatka",
+        "price": 6.0
+      },
+      {
+        "name": "Pileća salata",
+        "desc": "Pileći file, paradajz, krastavac, zelena salata, radič, kukuruz šećerac, sjemenke lana i susama",
+        "price": 7.0
+      },
+      {
+        "name": "Healthy sendvič",
+        "desc": "Integralno pecivo, losos, bjelanjak, mladi sir, zelena salata, paradajz, sjemenke susama, lan, bundeva",
+        "price": 6.5
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Proteinski omlet",
+        "desc": "4 bjelanceta, integralni tost, krem sir, zelena salata, paradajz, špinat, luk",
+        "price": 6.0
+      },
+      {
+        "name": "Omlet sa 4 vrste sira",
+        "desc": "Jaja, integralni tost, Mozzarella sir, Edamer sir, Gorgonzola, krem sir, zelena salata, paradajz",
+        "price": 5.0
+      },
+      {
+        "name": "Omlet sa povrćem",
+        "desc": "Jaja, integralni tost, krem sir, mix povrća, zelena salata, paradajz",
+        "price": 4.5
+      }
+    ],
+    "Hladne paste": [
+      {
+        "name": "Pasta Tricolore ćuretina",
+        "desc": "Tjestenina, ćuretina, grilovano povrće, grašak, kukuruz",
+        "price": 15.0
+      },
+      {
+        "name": "Pasta Tricolore piletina",
+        "desc": "Tjestenina, piletina, grilovano povrće, grašak, kukuruz",
+        "price": 13.0
+      },
+      {
+        "name": "Heljdina pasta sa mljevenim fileom i grilovanim povrćem",
+        "desc": "Ćureći file, grilovano povrće, heljdina tjestenina, Grana Padano, Parmezan",
+        "price": 8.5
+      },
+      {
+        "name": "Heljdina pasta sa mljevenim ćurećim fileom",
+        "desc": "Ćureći file, heljdina tjestenina, šampinjoni, mrkva, čvrsti jogurt",
+        "price": 8.0
+      },
+      {
+        "name": "Heljdina pasta sa tunjevinom",
+        "desc": "Tunjevina, heljdina tjestenina, crvena paprika, kiseli krastavci, kukuruz šećerac",
+        "price": 8.0
+      },
+      {
+        "name": "Pasta sa kuhanom piletinom",
+        "desc": "Kuhana piletina, tjestenina tricolore, grašak, kukuruz šećerac, crvena paprika, mljeveni badem i lješnjak, čvrsti jogurt",
+        "price": 7.0
+      },
+      {
+        "name": "Tjestenina durum i spelta sa tunjevinom posno",
+        "desc": "Tunjevina, heljdina tjestenina, crvena paprika, kiseli krastavac, kukuruz šećerac",
+        "price": 7.0
+      }
+    ],
+    "Topla jela": [
+      {
+        "name": "Rižoto sa ćuretinom i brokulom",
+        "desc": "Ćuretina, riža, brokula, cherry paradajz, bundevino ulje",
+        "price": 15.0
+      },
+      {
+        "name": "Rižoto sa piletinom u curry sosu",
+        "desc": "Grilovana piletina, pileće bijelo, riža, crvena paprika, grašak, kukuruz šećerac, curry",
+        "price": 12.0
+      },
+      {
+        "name": "Rižoto sa plodovima mora posno 180 gr",
+        "desc": "Paradajz cherry, masline, integralna riža",
+        "price": 12.0
+      },
+      {
+        "name": "Cvekla burger posno",
+        "desc": "Zobne pahuljice, cvekla, soya, krompir, grilovano povrće, zelena salata, mljevene sjemenke suncokreta",
+        "price": 10.0
+      },
+      {
+        "name": "Natur burger posno",
+        "desc": "Mljevena soya, zobne pahuljice, soyino brašno, kurkuma, začini, integralno grilovano povrće, zelena salata",
+        "price": 10.0
+      },
+      {
+        "name": "Zeleni burger",
+        "desc": "Kelj, krompir, crveni luk, bijeli luk, prezla, zobne pahuljice, začini, integralno grilovano povrće, zelena salata",
+        "price": 10.0
+      },
+      {
+        "name": "Rižoto sa povrćem posno",
+        "desc": "Riža, grašak, soya sos, grilovano povrće",
+        "price": 9.0
+      },
+      {
+        "name": "Heljdina palenta sa mladim sirom i jogurtom",
+        "desc": "Heljdino brašno i kukuruzno, mladi sir, jogurt",
+        "price": 4.5
+      },
+      {
+        "name": "Krem potaž posno",
+        "desc": "Potaž od povrća bez brašna, blendano povrće",
+        "price": 4.0
+      }
+    ],
+    "Sendviči": [
+      {
+        "name": "Losos sendvič posno",
+        "desc": "Integralno pecivo, losos, zelena salata, parajz",
+        "price": 7.5
+      },
+      {
+        "name": "Sendvič ćureći file, Mozzarella, rukola",
+        "desc": "Integralno pecivo, ćureći file, paradajz, Mozzarella sir",
+        "price": 7.0
+      },
+      {
+        "name": "Healthy sendvič",
+        "desc": "Integralno pecivo, losos, bjelanjak, mladi sir, zelena salata, paradajz, sjemenke susama, lan, bundeva",
+        "price": 6.5
+      },
+      {
+        "name": "Sendvič Ćureći file",
+        "desc": "Integralno pecivo, ćureći file, Edamer sir, zelena salata, paradajz, krastavac",
+        "price": 6.5
+      },
+      {
+        "name": "Pileći sendvič",
+        "desc": "Integralno pecivo, pileći file, sir Edamer, zelena salata, paradajz, krastavac",
+        "price": 5.0
+      },
+      {
+        "name": "Sendvič Steak",
+        "desc": "Integralno pecivo, goveđi ramstek, zelena salata, paradajz, krastavac, Grana Padano, Parmezan",
+        "price": 5.0
+      },
+      {
+        "name": "Sendvič Jeste li probali",
+        "desc": "Integralno pecivo, ćureća šunka, sir Edamer, zelena salata, paradajz, krastavac",
+        "price": 4.5
+      },
+      {
+        "name": "Sendvič sa Mozzarella sirom i grilovanim povrćem",
+        "desc": "Integralno pecivo, Mozzarella sir, grilovano povrće, zelena salata, paradajz",
+        "price": 4.5
+      },
+      {
+        "name": "Sendvič za ljubitelje sira",
+        "desc": "Integralno pecivo, Gorgonzola, Mozzarella sir, Edamer sir, krem sir, zelena salata, paradajz",
+        "price": 4.5
+      },
+      {
+        "name": "Classic šunka",
+        "desc": "Integralno pecivo, Pik šunka delicates, sir Edamer, zelena salata, paradajz, krastavac",
+        "price": 4.0
+      },
+      {
+        "name": "Mozzarella sendvič",
+        "desc": "Integralno pecivo, zelena salata, paradajz, Pesto sos",
+        "price": 4.0
+      },
+      {
+        "name": "Tunjevina sendvič posno",
+        "desc": "Integralno pecivo, tunjevina, zelena salata, paradajz, kukuruz šećerac, masline",
+        "price": 4.0
+      },
+      {
+        "name": "Vegetarijanski sendvič posno",
+        "desc": "Integralno pecivo, Tofu sir, grilovano povrće, zelena salata, sjemenke lana, bundeva i susama",
+        "price": 3.5
+      }
+    ],
+    "Salata": [
+      {
+        "name": "Dimljeni losos salata",
+        "desc": "Losos, rukola, radič, zelena salata, paradajz",
+        "price": 13.0
+      },
+      {
+        "name": "Energy salata",
+        "desc": "Goveđi ramstek, prepečeni hljeb, paradajz, telena salata, radič, rukola, Grana Padano, Parmezan",
+        "price": 9.0
+      },
+      {
+        "name": "Ćureća salata",
+        "desc": "Ćureći file, zelena salata, rukola, radič, paradajz, Grana Padano, Parmezan",
+        "price": 9.0
+      },
+      {
+        "name": "Capresa salata",
+        "desc": "Mozzarella, sir, paradajz, Pesto sos",
+        "price": 7.0
+      },
+      {
+        "name": "Pileća salata",
+        "desc": "Pileći file, paradajz, krastavac, zelena salata, radič, kukuruz šećerac, sjemenke lana i susama",
+        "price": 7.0
+      },
+      {
+        "name": "Rio Mare salata posno",
+        "desc": "Tunjevina, masline, pasulj, kukuruz šećerac, zelena salata, salata, krastavac, paradajz",
+        "price": 7.0
+      },
+      {
+        "name": "Salata od pasulja i tunjevine posno",
+        "desc": "Crveni i bijeli pasulj, tunjevina, kukuruz šećerac, crvena paprika, žuta paprika, maslinovo ulje",
+        "price": 6.5
+      },
+      {
+        "name": "Tuna salata posno",
+        "desc": "Tunjevina u komadima, zelena salata, kiseli krastavac, kukuruz šećerac, crvena paprika, masline",
+        "price": 6.5
+      },
+      {
+        "name": "Salata sa domaćom trikolere tjesteninom posno",
+        "desc": "Mix svježih salata, paradajz, sjemenke bundeve, bučino ulje",
+        "price": 6.0
+      },
+      {
+        "name": "Salata sa domaćom pastom",
+        "desc": "Mix svježih salata, paradjz, pasta, sjemenke bundeve, bundevino ulje",
+        "price": 6.0
+      },
+      {
+        "name": "Grčka salata",
+        "desc": "Feta sir, krastavac, paradajz, paprika, masline, bosiljak",
+        "price": 5.0
+      },
+      {
+        "name": "Jutros iz bašte posno",
+        "desc": "Radič, rukola, zelena salata, paradajz, krastavac, kukuruz šećerac, mrkva",
+        "price": 4.5
+      }
+    ],
+    "Sportski meni": [
+      {
+        "name": "Losos",
+        "desc": "Losos",
+        "price": 8.0
+      },
+      {
+        "name": "Ramsteak",
+        "desc": "Ramsteak",
+        "price": 6.0
+      },
+      {
+        "name": "Ćuretina grilovana",
+        "desc": "Ćuretina grilovana",
+        "price": 5.5
+      },
+      {
+        "name": "Tuna",
+        "desc": "Tuna",
+        "price": 5.0
+      },
+      {
+        "name": "Mozzarella",
+        "desc": "Mozzarella",
+        "price": 3.5
+      },
+      {
+        "name": "Piletina grilovana",
+        "desc": "Piletina grilovana",
+        "price": 3.0
+      },
+      {
+        "name": "Feta",
+        "desc": "Feta",
+        "price": 2.5
+      },
+      {
+        "name": "Brokoli",
+        "desc": "Brokoli",
+        "price": 2.5
+      },
+      {
+        "name": "Kukuruz",
+        "desc": "Kukuruz",
+        "price": 1.5
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Proteinska palačinka",
+        "desc": "Ovsene pahuljice, bjelanjak, banana cimet, vanilijin extrakt, whey protein i  tri dodatka",
+        "price": 6.0
+      },
+      {
+        "name": "Slatka pita posna bez šećera",
+        "desc": "Pečene jabuke, datule, orasi, brusnica,kurkuma, integralno brašno",
+        "price": 5.0
+      },
+      {
+        "name": "Voćna salata",
+        "desc": "Sezonsko voće",
+        "price": 5.0
+      },
+      {
+        "name": "Kolač od jabuke i mrkve",
+        "desc": "Ovsene pahuljice, jaje, mlijeko, mrkva, jabuka, datule, agava sirup, brusnica i par granula čokolade",
+        "price": 5.0
+      },
+      {
+        "name": "Healthy palačinke",
+        "desc": "Ovsene pahuljice, bjelanjak, banana, cimet",
+        "price": 4.0
+      },
+      {
+        "name": "Panna cotta sa whey proteinom",
+        "desc": "Mlijeko, whey protein, kakao granule, panakota",
+        "price": 4.0
+      },
+      {
+        "name": "Muffin",
+        "desc": "Brašno, jaja, šećer, kakao, mlijeko, jogurt",
+        "price": 1.5
+      }
+    ],
+    "Topli napici": [
+      {
+        "name": "Capuccino",
+        "desc": "Capuccino",
+        "price": 2.0
+      },
+      {
+        "name": "Espresso",
+        "desc": "Espresso",
+        "price": 2.0
+      },
+      {
+        "name": "Espresso lunga",
+        "desc": "Espresso lunga",
+        "price": 2.0
+      },
+      {
+        "name": "Espresso macchiato",
+        "desc": "Espresso macchiato",
+        "price": 2.0
+      },
+      {
+        "name": "Latte macchiato",
+        "desc": "Latte macchiato",
+        "price": 2.0
+      }
+    ],
+    "Cijeđeni sokovi": [
+      {
+        "name": "Healthy cijeđeni sok 0.4 dcl",
+        "desc": "Grejp, narandža, jabuka, mrkva, kruška, ananas, đumbir, med 0.4 dcl",
+        "price": 7.5
+      },
+      {
+        "name": "Cijeđeni grejp 0.4 dcl",
+        "desc": "Cijeđeni grejp 0.4 dcl",
+        "price": 6.5
+      },
+      {
+        "name": "Deteox sok od celera 0.4 dcl",
+        "desc": "Celer, jabuka, limun 0.4 dcl",
+        "price": 6.5
+      },
+      {
+        "name": "Idealna kombinacija 0.4 dcl",
+        "desc": "Šumsko voće, narandža, jabuka, grejp 0.4 dcl",
+        "price": 6.5
+      },
+      {
+        "name": "Imunitet 0.4 dcl",
+        "desc": "Mrkva, jabuka, narandža, đumbir 0.4 dcl",
+        "price": 6.5
+      },
+      {
+        "name": "Sok od cvekle 0.4 dcl",
+        "desc": "Cvekla, mrkva, narandža, jabuka, đumbir 0.4 dcl",
+        "price": 6.5
+      },
+      {
+        "name": "Vitaminski sok 0.4 dcl",
+        "desc": "Ananas, narandža, jabuka, mrkva 0.4 dcl",
+        "price": 6.5
+      },
+      {
+        "name": "Cijeđena narandža 0.4 dcl",
+        "desc": "Cijeđena narandža 0.4 dcl",
+        "price": 6.0
+      },
+      {
+        "name": "Sok od jabuke 0.4 dcl",
+        "desc": "0.4 dcl",
+        "price": 5.5
+      },
+      {
+        "name": "Limunada 0.25 l",
+        "desc": "Limunada 0.25 l",
+        "price": 4.5
+      }
+    ],
+    "Jogurt parfe": [
+      {
+        "name": "Parfe sa whey preteinom",
+        "desc": "Zobene pahuljice, jogurt, whey protein, med, sjemenke brusnice i bundeve",
+        "price": 5.5
+      },
+      {
+        "name": "Crunnchy musli",
+        "desc": "Grčki jogurt, banane, jabuke, crunchy musli, čokolada",
+        "price": 5.5
+      },
+      {
+        "name": "Parfe sa svježim voćem i medom",
+        "desc": "Jogurt, musli, svježe voće, med, brusnica, sjemenke",
+        "price": 5.0
+      },
+      {
+        "name": "Jogurt parfe sa medom, muslijem i sjemenkama",
+        "desc": "Musli, jogurt, med, sjemenka bundave, cimet",
+        "price": 4.0
+      },
+      {
+        "name": "Jogurt parfe sa šumskim voćem i muslijem",
+        "desc": "Musli, jogurt, šumsko voće",
+        "price": 4.0
+      }
+    ],
+    "Frapei": [
+      {
+        "name": "Dan za trening",
+        "desc": "Whey protein, banana, med, kikiriki, puter, jogurt, mlijeko, soyino mlijeko, sjemenke lan, bundeva, susam",
+        "price": 7.0
+      },
+      {
+        "name": "Eliksir mladosti",
+        "desc": "Šumsko voće, banana, jogurt, mlijeko, soyino mlijeko",
+        "price": 5.0
+      },
+      {
+        "name": "Savršeni classic",
+        "desc": "Banana, med, cimet, jogurt, mlijeko, soyino mlijeko",
+        "price": 4.5
+      }
+    ]
+  }
+}

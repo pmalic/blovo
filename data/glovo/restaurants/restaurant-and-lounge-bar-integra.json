@@ -1,0 +1,316 @@
+{
+  "name": "Restaurant & Lounge bar Integra",
+  "rating": 0.97,
+  "count": 94,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Cezar salata",
+        "desc": "Grilovani pileći file serviran na podlozi od zelene salate i cherry paradajza sa dressingom na način kuće i hrskava slanina",
+        "price": 17.0
+      },
+      {
+        "name": "Piletina u cornfleksu",
+        "desc": "Pileći file punjen Mozzarella sirom tretiran sous vide tehnologijom, serviran sa grilovinm povrćem i preliven krem sosom od kikirikija",
+        "price": 22.0
+      },
+      {
+        "name": "Pasta sa piletinom i pršutom",
+        "desc": "Pileći file, hrskavi pršut u sosu od bijelog vina, kurkume i vrhnja uz dodatak dimljenog sira",
+        "price": 18.0
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Domaćinski doručak Integra",
+        "desc": "Hercegovački pršut, kulen, kajmak, domaći sir, kobasica, jaja, prženi krompir, kiseli krastavci, paradajz, jogurt, prženice",
+        "price": 14.0
+      },
+      {
+        "name": "Integra doručak",
+        "desc": "Jaja, viršle, šunka, Trapist, sir, suhi vrat, pomfrit",
+        "price": 13.0
+      },
+      {
+        "name": "Engleski doručak",
+        "desc": "Domaća kobasica, jaja, grah, Feta sir, crispy slanina, prženi krompir",
+        "price": 13.0
+      },
+      {
+        "name": "Tortilja sa piletinom",
+        "desc": "Gratinirana tortilja punjena hrskavim povrćem i piletinom u bechamel sosu",
+        "price": 12.0
+      },
+      {
+        "name": "Pileća jetrica na venecijanski način",
+        "desc": "Flambirana jetrica u demiglas sosu servirana na gratiniranom tostu",
+        "price": 12.0
+      },
+      {
+        "name": "Omlet po izboru",
+        "desc": "Šunka, trapist sir, šampinjoni",
+        "price": 8.0
+      }
+    ],
+    "Topla predjela": [
+      {
+        "name": "Bruskete \"La Dalmatino\"",
+        "desc": "Flambirani rakovi blago zapečeni servirani na domaćem bagetu",
+        "price": 28.0
+      },
+      {
+        "name": "Rižoto sa biftekom i bukovačama",
+        "desc": "Juneći file u sosu od bukovača i cherry paradajza sa krem sosom od Gorgonzola sira",
+        "price": 27.0
+      },
+      {
+        "name": "Rižoto sa gamborima",
+        "desc": "Meso rakova obogaćeno fondom od morskih plodova i bijelim vinom",
+        "price": 26.0
+      },
+      {
+        "name": "Pasta Integra",
+        "desc": "Rezanci dimljenog lososa sa gamborima u sosu od prošeka, limete i mediteranskih trava",
+        "price": 23.0
+      },
+      {
+        "name": "Pasta Mexico",
+        "desc": "Slatko-ljuta pasta sa biftekom, flambirana vodkom, oplemenjena osvježavajućom notom limete",
+        "price": 22.0
+      },
+      {
+        "name": "Pasta Genovese",
+        "desc": "Jadranske kozice sotirane na maslinovom ulju u sosu od bosiljka i vrhnja sa domaćom tjesteninom",
+        "price": 22.0
+      },
+      {
+        "name": "Pasta sa piletinom i pršutom",
+        "desc": "Pileći file, hrskavi pršut u sosu od bijelog vina, kurkume i vrhnja uz dodatak dimljenog sira",
+        "price": 18.0
+      }
+    ],
+    "Supe i čorbe": [
+      {
+        "name": "Krem supa od škarpine i rakova",
+        "desc": "Suvidirana škarpina, kozice aromatični krompir",
+        "price": 8.5
+      },
+      {
+        "name": "Potaž od gljiva",
+        "desc": "Potaž od gljiva",
+        "price": 7.5
+      },
+      {
+        "name": "Teleća čorba",
+        "desc": "Teleća čorba",
+        "price": 7.0
+      },
+      {
+        "name": "Goveđa supa",
+        "desc": "Goveđa supa",
+        "price": 6.0
+      }
+    ],
+    "Jela od mesa": [
+      {
+        "name": "Steak Integra",
+        "desc": "Sočni juneći file na intenzivnoj kremi od crnih tartufa, šparoga, gambora, aromatizovani gratinirani brokuli",
+        "price": 48.0
+      },
+      {
+        "name": "Bigtek u krem sosu od gorgonzole",
+        "desc": "Juneći file tretiran mokrim zrenjem 24 dana, serviran na rižotu od praziluka i majčine dušice sa blagom kremom od gorgonzola sira i pistacija",
+        "price": 46.0
+      },
+      {
+        "name": "Biftek u tartuf sosu",
+        "desc": "Juneći file tretiran mokrim zrenjem 24 dana, serviran sa hrskavim povrćem sa grila na kremi od crnog tartufa",
+        "price": 46.0
+      },
+      {
+        "name": "Biftek u lisnatom tijestu",
+        "desc": "Odležali goveđi file obložen vrganjima i pršutom u hrskavom tijestu na kremi od Mozzarelle, majčine dušice i crvenog luka",
+        "price": 46.0
+      },
+      {
+        "name": "Biftek u ulju",
+        "desc": "Juneći file u marinadi od 10 vrsta začina, garniran pireom od špinata",
+        "price": 46.0
+      },
+      {
+        "name": "Biftek u sosu od zelenog bibera",
+        "desc": "Juneći file tretiran mokrim zrenjem 24 dana, serviran sa gratiniranim krompirom u sosu od bibera",
+        "price": 46.0
+      },
+      {
+        "name": "Teletina Moderna",
+        "desc": "Mlada teleća prsa sporo pečena sa povrćem i garnitura sa pireom od krompira i tartufa",
+        "price": 32.0
+      },
+      {
+        "name": "Teletina u sweet chili sosu",
+        "desc": "Konfi od telećih rebara u pikantnom sosu, gratinirani mladi krompir sa četiri vrste sira i crispy slanina",
+        "price": 32.0
+      },
+      {
+        "name": "Ćuretina sa mlincima",
+        "desc": "Ćureći file u sosu od milerama, zapečen sa domaćim mlincima i vrganjima",
+        "price": 28.0
+      },
+      {
+        "name": "Piletina u cornfleksu",
+        "desc": "Pileći file punjen Mozzarella sirom tretiran sous vide tehnologijom, serviran sa grilovinm povrćem i preliven krem sosom od kikirikija",
+        "price": 22.0
+      },
+      {
+        "name": "Sote od teletine na hrskavom tijestu",
+        "desc": "Rezanci od telećeg mesa u sosu od vrganja i sušenog paradajza, krema od Gorgonzole",
+        "price": 22.0
+      },
+      {
+        "name": "Burger Royal",
+        "desc": "Meso telećeg paufleka tretirano sous vide tehnologijom, blago oplemenjeno mirisom ćumura sa remulad sosom",
+        "price": 19.0
+      },
+      {
+        "name": "Piletina parmigiana",
+        "desc": "PilećI file obložen Parmezanom, domaće njoke u sosu od patlidžana i pelata",
+        "price": 19.0
+      }
+    ],
+    "Dječji jelovnik": [
+      {
+        "name": "Ćureća šnicla sa pomfritom",
+        "desc": "Ćureća šnicla sa pomfritom",
+        "price": 9.0
+      },
+      {
+        "name": "Teleća šnicla Pčelica Maja",
+        "desc": "Teleća šnicla Pčelica Maja",
+        "price": 8.0
+      },
+      {
+        "name": "Pileći štapići u korici od susama",
+        "desc": "Pileći štapići u korici od susama",
+        "price": 7.5
+      },
+      {
+        "name": "Bečka šnicla Pera Ždera",
+        "desc": "Bečka šnicla Pera Ždera",
+        "price": 7.5
+      },
+      {
+        "name": "Pileća šnicla sa pomfritom",
+        "desc": "Pileća šnicla sa pomfritom",
+        "price": 7.5
+      },
+      {
+        "name": "Pasta Milaneze",
+        "desc": "Pasta Milaneze",
+        "price": 6.5
+      },
+      {
+        "name": "Goveđa supa sa domaćim rezancima",
+        "desc": "Goveđa supa sa domaćim rezancima",
+        "price": 4.5
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "Salata od hobotnice",
+        "desc": "Pripremljena po staroj primorskoj recepturi",
+        "price": 28.0
+      },
+      {
+        "name": "Salata Frutti di Mare",
+        "desc": "Morski plodovi sa rukolom i cherry paradajzom, emulzija od crnog, bijelog luka, maslinovog ulja i limunovog soka",
+        "price": 26.0
+      },
+      {
+        "name": "Salata sa biftekom i pistacijama",
+        "desc": "Srednje pečeni slajsevi junećeg filea na buketu zelenih salata sa osvježavajućim dressingom obogaćenim gorgonzolom i pistacijama",
+        "price": 24.0
+      },
+      {
+        "name": "Caprese salata",
+        "desc": "Zapečeno domaće tijesto sa dvije vrste sira i začinskim biljem, slajsevi paradajza sa rukolom i pršutom na kremi od bosiljka i pinjola",
+        "price": 19.0
+      },
+      {
+        "name": "Salata sa ćuretinom i kikirikijem",
+        "desc": "Svježi marinirani ćureći file, selekcija sezonskih salata, dressing na način kuće",
+        "price": 17.0
+      },
+      {
+        "name": "Cezar salata",
+        "desc": "Grilovani pileći file serviran na podlozi od zelene salate i cherry paradajza sa dressingom na način kuće i hrskava slanina",
+        "price": 17.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Rukola sa cherry paradajzom i parmezanom",
+        "desc": "Rukola sa cherry paradajzom i parmezanom",
+        "price": 8.5
+      },
+      {
+        "name": "Grčka salata",
+        "desc": "Salata od paprika, krastavca, pradajaz i luka, obogaćena origanom, servirana sa feta sirom i maslinama",
+        "price": 7.5
+      },
+      {
+        "name": "Šopska salata",
+        "desc": "Salata od paprika, paradajza, krastavca i luka, obogaćena travničkim sirom",
+        "price": 6.5
+      },
+      {
+        "name": "Vitaminska salata",
+        "desc": "Salata od rukole, mrkve, kukuruza šećerca, zelene salate, radiča, kupusa, crvenog pasulja i maslina obogaćena sokom od limuna",
+        "price": 6.5
+      },
+      {
+        "name": "Košarica lisnatih salata",
+        "desc": "Zelena salata, radič i rukola sa maslinovim uljem",
+        "price": 6.0
+      },
+      {
+        "name": "Srpska salata",
+        "desc": "Salata od paprika, paradajza, krastavca i luka, obogaćena feferonima",
+        "price": 6.0
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Cheesecake Integra",
+        "desc": "Philadelphia sir, bourbon vanilia, krem sos, od kafe, tostirani bademi",
+        "price": 9.0
+      },
+      {
+        "name": "Čokoladni sufle",
+        "desc": "Topli kolač od crne čokolade sa višnjama serviran sa sladoledom od vanilije",
+        "price": 9.0
+      },
+      {
+        "name": "Čoko šnita Rocher",
+        "desc": "Kolač od kreme sa lješnjacima i mascarpone sira, serviran sa sladoledom od vanilije i sosom od bijele čokolade i višanja",
+        "price": 9.0
+      },
+      {
+        "name": "Pita od jabuka",
+        "desc": "Karamelizovane jabuke sa sladoledom u vanilija sosu",
+        "price": 7.0
+      },
+      {
+        "name": "Palačinke sa šumskim voćem",
+        "desc": "Palačinke punjene bavarskom kremom i prelivene sosom od šumskog voća",
+        "price": 6.5
+      },
+      {
+        "name": "Palačinke",
+        "desc": "Punjene po vašem izboru: čokolada, marmelada, krema od čokolade i lješnjaka, mljeveni keks, orasi",
+        "price": 6.0
+      }
+    ]
+  }
+}

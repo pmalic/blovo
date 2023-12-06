@@ -1,0 +1,96 @@
+{
+  "name": "Papa Feta Giros",
+  "rating": 0.91,
+  "count": 11,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Mix svinjetine i piletine u tortilji",
+        "desc": "Svinjsko i pileće meso, mala porcija 80gr, srednja porcija 120 gr, velika porcija 180 gr",
+        "price": 6.5
+      }
+    ],
+    "Posebna ponuda": [
+      {
+        "name": "Double cheeseburger 200 gr",
+        "desc": "200 gr",
+        "price": 12.0
+      },
+      {
+        "name": "Pileći giros u tortilji veliki 180 gr",
+        "desc": "180 gr",
+        "price": 11.0
+      },
+      {
+        "name": "Svinjski giros u tortilji veliki  180 gr",
+        "desc": "180 gr",
+        "price": 11.0
+      }
+    ],
+    "Burger": [
+      {
+        "name": "Cheeseburger  100 gr",
+        "desc": "100 gr",
+        "price": 9.0
+      },
+      {
+        "name": "Burger 100 gr",
+        "desc": "100 gr",
+        "price": 7.5
+      }
+    ],
+    "Pileći giros": [
+      {
+        "name": "Pileći giros u tortilji",
+        "desc": "Mali giros 80 gr, srednji giros 120 gr, veliki giros 180 gr",
+        "price": 6.5
+      }
+    ],
+    "Svinjski giros": [
+      {
+        "name": "Svinjski giros u tortilji 180 gr",
+        "desc": "Svinjetina, tortilja",
+        "price": 11.0
+      },
+      {
+        "name": "Svinjski giros u tortilji 120 gr",
+        "desc": "Svinjetina, tortilja",
+        "price": 8.5
+      },
+      {
+        "name": "Svinjski giros u tortilji 80 gr",
+        "desc": "Svinjetina, tortilja",
+        "price": 6.5
+      }
+    ],
+    "Mix svinjetina-piletina giros": [
+      {
+        "name": "Mix svinjetine i piletine u tortilji",
+        "desc": "Svinjsko i pileće meso, mala porcija 80gr, srednja porcija 120 gr, velika porcija 180 gr",
+        "price": 6.5
+      }
+    ],
+    "Vegetarijanski i posni giros": [
+      {
+        "name": "Vegetarijanski giros",
+        "desc": "Srednji giros ili veliki giros. Paradajz, zelena salata, tzatziki, kupus, luk, blago pikantni umak, pomfrit",
+        "price": 7.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pomfrit",
+        "desc": "200 gr ili 250 gr",
+        "price": 4.5
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Coca-Cola  330 ml",
+        "desc": "330 ml",
+        "price": 2.3
+      }
+    ]
+  }
+}

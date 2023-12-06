@@ -1,0 +1,282 @@
+{
+  "name": "Health Zone",
+  "rating": 0.92,
+  "count": 38,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Proteinska palačinka 200 gr",
+        "desc": "3 x komada, Ovsene pahuljice, bjelanjak, banana, šumsko voće, crna čokolada, med, protein",
+        "price": 6.0
+      },
+      {
+        "name": "HealthZone pasta sa vrganjima *posno",
+        "desc": "mix grilovanog povrca, kikiriki, soya sos, vrganji, integralna tjestenina",
+        "price": 9.5
+      },
+      {
+        "name": "HealthZone salata",
+        "desc": "Paradajz, salata, grilovana piletina, Parmezan, rukola",
+        "price": 8.5
+      }
+    ],
+    "Omleti": [
+      {
+        "name": "Omlet sa povrćem 230 Kcal",
+        "desc": "Domaća jaja",
+        "price": 6.0
+      },
+      {
+        "name": "Bijeli omlet",
+        "desc": "4 x bjelanjka, mladi sir, zelena salata, tost hljeb",
+        "price": 6.0
+      }
+    ],
+    "Palente": [
+      {
+        "name": "Heljdina palenta *bez glutena",
+        "price": 5.0
+      },
+      {
+        "name": "Kukuruzna palenta *bez glutena",
+        "price": 4.5
+      }
+    ],
+    "Paste": [
+      {
+        "name": "HealthZone pasta sa vrganjima *posno",
+        "desc": "mix grilovanog povrca, kikiriki, soya sos, vrganji, integralna tjestenina",
+        "price": 9.5
+      },
+      {
+        "name": "Grilovana pasta 320 gr",
+        "desc": "Integralna tjestenina, grilovana piletina bijelo meso, kukuruz šećerac, svježa paprika, čvrsti jogurt. 450 Kcal",
+        "price": 9.0
+      },
+      {
+        "name": "Morska pasta 320 gr *posno",
+        "desc": "Integralna tjestenina, tunjevina, paprika, kiseli krastavci, kukuruz šećerac. 400 Kcal",
+        "price": 9.0
+      },
+      {
+        "name": "Vege pasta 320 gr *posno",
+        "desc": "Integralna tjestenina, brokula, avokado, paradajz, limun, kukuruz šećerac. 350 Kcal",
+        "price": 8.0
+      }
+    ],
+    "Rižoto": [
+      {
+        "name": "Rižoto Indija 320 gr",
+        "desc": "Porcija integralna riža, grilovana piletina bijelo meso, kukuruz šećerac, svježa paprika, curry. 375 Kcal",
+        "price": 9.0
+      },
+      {
+        "name": "Zeleni rižoto 320 gr",
+        "desc": "Integralna riža, grilovana piletina bijelo meso, brokula, paradajz, svježa paprika, kurkuma. 505 Kcal",
+        "price": 9.0
+      },
+      {
+        "name": "Morski rižoto *posno *gluten free",
+        "desc": "Integralna riža 150g kuvano, tuna 70g, kukuruz šećerac 50 g, ljuti sos",
+        "price": 9.0
+      },
+      {
+        "name": "HealthZone rižoto 320 gr *vegan",
+        "desc": "Bez glutena integralna riža, bareno povrće: mrkva, tikvica, paprika, kukuruz šećerac, soja sos. 215 Kcal",
+        "price": 8.0
+      }
+    ],
+    "Sendviči": [
+      {
+        "name": "Zona sendvič",
+        "desc": "Integralno pecivo 160 gr, kuvana piletina u kurkumi 50 gr, feta, mozzarella, gorgonzola, mladi sir, zelena salata, paradajz",
+        "price": 7.5
+      },
+      {
+        "name": "Proteinski sendvič",
+        "desc": "520 Kcal, integralno pecivo, dimljeni losos, bjelanjak, mladi domaći sir, salata, paradajz, sjemenke",
+        "price": 7.0
+      },
+      {
+        "name": "Mozzapiletina sendvič",
+        "desc": "570 Kcal, integralno pecivo, rukola, Mozzarella, piletina u kurkumi, paradajz",
+        "price": 7.0
+      },
+      {
+        "name": "Fly fishing sendvič *posno",
+        "desc": "425 Kcal, integralno pecivo, dimljena pastrmka, paradajz, salata",
+        "price": 6.5
+      },
+      {
+        "name": "Sendvič piletina sa kurkumom u pecivu",
+        "desc": "520 Kcal, integralno pecivo, kuvana piletina u kurkumi, mladi sir, krastavci, paradajz, zelena salata",
+        "price": 5.5
+      },
+      {
+        "name": "Sendvič od sira",
+        "desc": "640 Kcal, integralno pecivo, mladi sir, Mozzarella, Gorgonzola, domaći mladi sir, paradajz, salata",
+        "price": 5.5
+      },
+      {
+        "name": "Morski sendvič *posno",
+        "desc": "510 Kcal, integralno pecivo, tunjevina u komadu, masline, kukuruz šećerac, paradajz, zelena salata",
+        "price": 5.5
+      },
+      {
+        "name": "Mozzarellini brusketi",
+        "desc": "Brusketi 4 komada, integralni prepečenac, paradajz, pesto, maslinovo ulje, mozzarella",
+        "price": 5.0
+      },
+      {
+        "name": "Šareni sendvič vegan",
+        "desc": "455 Kcal, integralno pecivo, miks bareno povrće, mrkva, tikvice, paprike, domaći Tofu sir kakav još niste probali, paradajz, salata",
+        "price": 4.3
+      }
+    ],
+    "Salata": [
+      {
+        "name": "HealthZone salata",
+        "desc": "Paradajz, salata, grilovana piletina, Parmezan, rukola",
+        "price": 8.5
+      },
+      {
+        "name": "Tuna salata *posno",
+        "desc": "Salata, kukuruz šećerac, tuna, masline, paprika, kiseli krastavci. 125 Kcal, masti 5 gr, zasićene masti O gr, uh 9 gr, šećeri 3 gr, proteini 17 gr",
+        "price": 6.5
+      },
+      {
+        "name": "Grčka salata",
+        "desc": "Paradajz, paprika, krastavci, masline, Feta. 190 Kcal, masti 18 gr, zasićene masti 9 gr, uh 13 gr, šećeri 4 gr, proteini 11 gr",
+        "price": 6.0
+      },
+      {
+        "name": "Svježe šarenilo *vegan",
+        "desc": "Salata, kukuruz šećerac, mrkva, paradajz, krastavac, rukola. 60 Kcal, masti 0 gr, zasićene masti 0 gr, 12 uh, šećeri 5 gr, proteini 3 gr",
+        "price": 4.5
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Proteinska palačinka 200 gr",
+        "desc": "3 x komada, Ovsene pahuljice, bjelanjak, banana, šumsko voće, crna čokolada, med, protein",
+        "price": 6.0
+      },
+      {
+        "name": "Voćna jabuka 150 gr *posno",
+        "desc": "1 pečena jabuka, banane, orašasti plodovi, crna čokolada",
+        "price": 5.0
+      },
+      {
+        "name": "Banane u crnoj čokoladi 200 gr *posno",
+        "desc": "1 banane, crna čokolada, orašasti plodovi",
+        "price": 4.0
+      },
+      {
+        "name": "Proteinske kuglice 40 gr",
+        "desc": "Ovsene pahuljice, crna čokolada, protein, kikiriki maslac, kakao, bundevine sjemenke, orasi, mix orašastih plodova",
+        "price": 3.0
+      }
+    ],
+    "Parfe": [
+      {
+        "name": "Ovsena kaša",
+        "desc": "Ovsene pahuljice, med, kakao, šumsko voće, crna čokolada, whey protein 30g",
+        "price": 5.5
+      },
+      {
+        "name": "Parfe sa svježim voćem 350 gr",
+        "desc": "Jogurt 0.9 %, musli, narandže, jabuke, banane, sjemenke lan i susam",
+        "price": 5.0
+      }
+    ],
+    "Svježe cijeđeni sokovi": [
+      {
+        "name": "Vitaminski 0.33 l",
+        "desc": "Ananas, jabuka, narandža, mrkva",
+        "price": 6.0
+      },
+      {
+        "name": "Sok od cvekle 0.33 l",
+        "desc": "Cvekla, mrkva, narandža, jabuka, đumbir",
+        "price": 5.5
+      },
+      {
+        "name": "Imuno 0.33 l",
+        "desc": "Mrkva, narandža, jabuka, đumbir",
+        "price": 5.5
+      },
+      {
+        "name": "Detox 0.33 l",
+        "desc": "Jabuka, narandža, grejp, mrkva\nSlika je simbolična*",
+        "price": 5.5
+      },
+      {
+        "name": "Cijeđena narandža 0.33 l",
+        "price": 5.0
+      },
+      {
+        "name": "Grejp 0.33 l",
+        "price": 5.0
+      },
+      {
+        "name": "Limunada  0.33 l",
+        "price": 3.5
+      }
+    ],
+    "Smoothie": [
+      {
+        "name": "Zeleni smoothie 0.3 l",
+        "desc": "Celer, limun, krastavac, špinat",
+        "price": 5.0
+      },
+      {
+        "name": "Metabolism booster 0.3 l",
+        "desc": "Jabuka, cimet, limun",
+        "price": 5.0
+      }
+    ],
+    "Frape": [
+      {
+        "name": "Voćni eliksir 0.33 l",
+        "desc": "Šumsko voće, banana, sojino mlijeko",
+        "price": 5.0
+      },
+      {
+        "name": "Classic 0.33 l",
+        "desc": "Banana, cimet, sojino mlijeko",
+        "price": 5.0
+      }
+    ],
+    "Workout": [
+      {
+        "name": "*Paket* Grilovana piletina s povrćem + ovsena kaša + cijeđena narandža",
+        "price": 17.0
+      },
+      {
+        "name": "Happy workout paket :)",
+        "desc": "Tajni sastojak, 200g grilovane piletine, 100g grilovanog povrća, 100g integralna riža, zelena salata, mladi sir + Sutlijaš sa soyinim mlijekom i šumskim voćem",
+        "price": 16.0
+      },
+      {
+        "name": "Pasta italiana sa 4 vrste sira",
+        "desc": "Integralna tjestenina, mladi sir, mozzarella, feta, gorgonzola, slanina, bosiljak, origano\nKcal 1065, m-45g, zm-0, uh-99g, š-0, pr-58g",
+        "price": 11.0
+      },
+      {
+        "name": "*Dobro jutro paket*- Bijeli omlet + banane u crnoj čokoladi + naša limunada",
+        "price": 11.0
+      },
+      {
+        "name": "Grilovana piletina sa povrćem u soya sosu a.k.a zdravi GRILL!",
+        "desc": "160g mix grilovanog povrća, 120g piletine, soya sos, susam, zelena salata\nKcal 280, m-13g, zm-o, uh-16g, š-0, pr-34g",
+        "price": 9.0
+      },
+      {
+        "name": "Heljdina pasta s mljevenom piletinom (hladna)",
+        "desc": "Mljevena piletina 120g, bijeli luk, bosiljak, crvena *dimljena* paprika, mrkva, jogurt, heljdina tjestenina",
+        "price": 9.0
+      }
+    ]
+  }
+}

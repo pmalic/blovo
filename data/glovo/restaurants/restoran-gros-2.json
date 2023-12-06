@@ -1,0 +1,84 @@
+{
+  "name": "Restoran Groš",
+  "rating": null,
+  "count": null,
+  "service_fee": 3.6,
+  "menu": {
+    "Doručak": [
+      {
+        "name": "Roštiljska kobasica u lepinji",
+        "desc": "3 kobasice, pomfrit",
+        "price": 7.0
+      },
+      {
+        "name": "Omlet šunka sir",
+        "desc": "4 jajeta, šunka, sir",
+        "price": 7.0
+      },
+      {
+        "name": "Jaja sa slaninom",
+        "desc": "4 jajeta, slanina",
+        "price": 7.0
+      },
+      {
+        "name": "Ćevapi",
+        "desc": "7 ćevapa, pomfrit, luk, lepinja",
+        "price": 7.0
+      },
+      {
+        "name": "Jaja sa šunkom i sirom",
+        "desc": "4 jajeta na oko, šunka, sir",
+        "price": 7.0
+      },
+      {
+        "name": "Jaja sa kobasicama",
+        "desc": "4 jajeta na oko, 2 kobasice",
+        "price": 7.0
+      },
+      {
+        "name": "Piletina u šampinjon sosu",
+        "desc": "Pileći file, sos, pomfrit",
+        "price": 7.0
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Capricciosa",
+        "desc": "Sos, sir, šunka, šampinjoni",
+        "price": 7.0
+      },
+      {
+        "name": "Margherita",
+        "desc": "Sos, sir",
+        "price": 7.0
+      },
+      {
+        "name": "Vegetariana",
+        "desc": "Sos, sir, paradajz, paprika, šampinjoni",
+        "price": 7.0
+      }
+    ],
+    "Gotova jela": [
+      {
+        "name": "Lovačka šnicla s rižom",
+        "desc": "Šnicla, riža",
+        "price": 7.0
+      },
+      {
+        "name": "Kotlić čorba sa dvije vrste mesa",
+        "desc": "Dvije vrste mesa, povrće",
+        "price": 7.0
+      },
+      {
+        "name": "Roštiljska kobasica u lepinji",
+        "desc": "Roštiljska kobasica u lepinji, pomfrit",
+        "price": 7.0
+      },
+      {
+        "name": "Pileći file u šampinjon sosu",
+        "desc": "Piletina, sos, riža",
+        "price": 7.0
+      }
+    ]
+  }
+}

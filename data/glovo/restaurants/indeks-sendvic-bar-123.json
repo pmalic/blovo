@@ -1,0 +1,181 @@
+{
+  "name": "Indeks sendvič bar",
+  "rating": 0.97,
+  "count": 500,
+  "service_fee": 2.3,
+  "menu": {
+    "POSNI MENI": [
+      {
+        "name": "Fišindeks",
+        "desc": "Pohovani oslić, posni prilozi",
+        "price": 9.7
+      },
+      {
+        "name": "Mornarov indeks",
+        "desc": "Tuna, ljubičasti kupus, kukuruz, medeni dresing",
+        "price": 9.7
+      },
+      {
+        "name": "Krabafeka sendvič",
+        "desc": "Pohovani rakovi u pecivu, posni prilozi",
+        "price": 7.9
+      },
+      {
+        "name": "Krabafeka",
+        "desc": "Pohovani rakovi, kromporići, posni sosevi",
+        "price": 6.3
+      }
+    ],
+    "INDEKS COMBO": [
+      {
+        "name": "Šefov de luxe indeks + pomfrit + coca cola",
+        "promo": "-15%",
+        "desc": "Šefov de luxe indeks (Marinirani ramstek, sir, jaja, karamelizovani luk, prilozi), pomfrit, coca cola",
+        "price": 26.4,
+        "promo_price": 22.44
+      },
+      {
+        "name": "Šefov indeks + pomfrit + coca cola",
+        "promo": "-15%",
+        "desc": "Šefov indeks (stejk, sir, prilaozi), pomfrit, coca cola",
+        "price": 22.5,
+        "promo_price": 19.13
+      },
+      {
+        "name": "Kulen veliki + pomfrit + coca cola",
+        "promo": "-15%",
+        "desc": "Kulen veliki (pileća šunka, kulen, šampinjoni, prilozi), pomfrit, coca cola",
+        "price": 16.4,
+        "promo_price": 13.94
+      }
+    ],
+    "Sendviči sa sočnom piletinom": [
+      {
+        "name": "Gurmanska piletina",
+        "desc": "Pileći file, slaninica, sir, karamelizovani luk, prilozi",
+        "price": 11.9
+      },
+      {
+        "name": "Klasik piletina sendvič",
+        "desc": "Pileći file, sir, prilozi",
+        "price": 9.8
+      },
+      {
+        "name": "Đenoveze piletina",
+        "desc": "Pileći file u domaćem pesto sosu, prilozi",
+        "price": 9.8
+      },
+      {
+        "name": "Kung Fu piletina",
+        "desc": "pileći file, slatko-ljuti sos, prilozi",
+        "price": 9.6
+      }
+    ],
+    "Klasik sendviči": [
+      {
+        "name": "Šefov de luxe indeks",
+        "desc": "Marinirani ramstek, sir, jaja, karamelizovani luk, prilozi",
+        "price": 19.9
+      },
+      {
+        "name": "Šefov indeks",
+        "desc": "Stejk, sir, prilozi",
+        "price": 16.0
+      },
+      {
+        "name": "Doručkasti sendvič",
+        "desc": "Slaninica, jaja, sir, šampinjoni, prilozi",
+        "price": 9.7
+      },
+      {
+        "name": "Slaninica sendvič",
+        "desc": "Slaninica, pileća šunka, sir, šampinjoni, prilozi",
+        "price": 8.9
+      },
+      {
+        "name": "Kulen sendvič",
+        "desc": "Kulen, pileća šunka, sir, šampinjoni, prilozi",
+        "price": 8.5
+      },
+      {
+        "name": "Indeks sendvič",
+        "desc": "Pileća šunka, sir, šampinjoni, prilozi",
+        "price": 7.6
+      },
+      {
+        "name": "Vedži sendvič",
+        "desc": "Šampinjoni, sir, prilozi",
+        "price": 7.0
+      }
+    ],
+    "Zakuske": [
+      {
+        "name": "Krabafeka",
+        "desc": "Panirani rakovi, krompirići, sos po izboru",
+        "price": 6.3
+      },
+      {
+        "name": "Šestica slanina sendvič",
+        "desc": "Slanina, sir, salata i sos po izboru",
+        "price": 6.2
+      },
+      {
+        "name": "Šestica kulen sendvič",
+        "desc": "Kulen, pileća šunka, sir, šampinjoni",
+        "price": 5.8
+      },
+      {
+        "name": "Indeks pomfrit",
+        "desc": "Hrskava slaninica i sos od topljenog sira",
+        "price": 5.6
+      },
+      {
+        "name": "Šestica šunka sendvič",
+        "desc": "Šunka, sir, salata i sos po izboru",
+        "price": 5.5
+      },
+      {
+        "name": "Čudesni pomfrit",
+        "desc": "Pikantno-slatkasti preliv, mađija",
+        "price": 5.3
+      },
+      {
+        "name": "Ćelavi pomfrit",
+        "desc": "Pomfrit klasik",
+        "price": 4.0
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Cappy juice",
+        "desc": "0.33 l",
+        "price": 3.0
+      },
+      {
+        "name": "Coca-Cola",
+        "desc": "0.33 l",
+        "price": 2.5
+      },
+      {
+        "name": "Fanta",
+        "desc": "0.33 l",
+        "price": 2.5
+      },
+      {
+        "name": "Coca Cola Zero",
+        "desc": "0.33l",
+        "price": 2.5
+      },
+      {
+        "name": "Rosa",
+        "desc": "0.33 l",
+        "price": 2.0
+      },
+      {
+        "name": "Vitinka mineralna",
+        "desc": "0.25 l",
+        "price": 2.0
+      }
+    ]
+  }
+}

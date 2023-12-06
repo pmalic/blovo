@@ -1,0 +1,428 @@
+{
+  "name": "Restoran Obala",
+  "rating": 1.0,
+  "count": 10,
+  "service_fee": 3.6,
+  "menu": {
+    "Doručak": [
+      {
+        "name": "Doručak Obala",
+        "desc": "Jaja 3, suha slanina 70 gr",
+        "price": 9.0
+      },
+      {
+        "name": "Cicvara na kajmaku",
+        "desc": "Kukuruznoo brašno 60 gr, kajmak 50 gr",
+        "price": 8.5
+      },
+      {
+        "name": "Omlet šunka",
+        "desc": "Jaja 3, šunka 50 gr",
+        "price": 8.0
+      },
+      {
+        "name": "Omlet sa sirom",
+        "desc": "Jaja 3, sir 70 gr",
+        "price": 7.0
+      },
+      {
+        "name": "Popara sa vlašićkim sirom",
+        "desc": "Hljeb 50 gr, sir 50 gr",
+        "price": 7.0
+      }
+    ],
+    "Predjela": [
+      {
+        "name": "Hladna plata za 4 osobe",
+        "desc": "Prštut 80 gr, suhi vrat 80 gr, šunka 80 gr, slanina 80 gr, kulen 80 gr, kajmak 100 gr, sir 100 gr",
+        "price": 48.0
+      },
+      {
+        "name": "Hladna plata za 2 osobe",
+        "desc": "Prštut 40 gr, suhi vrat 40 gr, šunka 40 gr, slanina 40 gr, kulen 40 gr, kajmak 50 gr, sir 50 gr",
+        "price": 27.0
+      },
+      {
+        "name": "Punjeni palačinci sa sirom",
+        "desc": "Sir 70 gr, brašno 200, jaje 1",
+        "price": 11.0
+      },
+      {
+        "name": "Punjeni palačinci sa šunkom",
+        "desc": "Šunka 70 gr, brašno 200 gr, jaje 1",
+        "price": 11.0
+      },
+      {
+        "name": "Uštipci sa sirom",
+        "desc": "Brašno 400 gr, sir 100 gr, so, 10 kom",
+        "price": 10.0
+      },
+      {
+        "name": "Uštipci sa kajmakom",
+        "desc": "Brašno 400 gr, kajmak 100 gr, so",
+        "price": 10.0
+      },
+      {
+        "name": "Uštipci",
+        "desc": "Brašno 400 gr, so, 10 kom",
+        "price": 7.0
+      },
+      {
+        "name": "Kulen",
+        "desc": "100 gr",
+        "price": 7.0
+      },
+      {
+        "name": "Pršut",
+        "desc": "100 gr",
+        "price": 6.0
+      },
+      {
+        "name": "Suhi vrat",
+        "desc": "100 gr",
+        "price": 6.0
+      },
+      {
+        "name": "Slanina",
+        "desc": "100 gr",
+        "price": 5.0
+      },
+      {
+        "name": "Šunka",
+        "desc": "100 gr",
+        "price": 4.0
+      }
+    ],
+    "Roštilj": [
+      {
+        "name": "Roštilj plata za 4 osobe",
+        "desc": "Ćevap 200 gr, pljeskavica 200 gr, kobasice 100 gr, ražnjići 100 gr, batak 100 gr, medaljon 80 gr, pomfrit 300 gr, šampinjon sos 60 gr",
+        "price": 65.0
+      },
+      {
+        "name": "Roštilj plata za 2 osobe",
+        "desc": "Ćevap 100 gr, pljeskavica 100 gr, kobasice 50 gr, ražnjići 50 gr, batak 50 gr, medaljon 40 gr, pomfrit 150 gr, šampinjon sos 30 gr",
+        "price": 37.0
+      },
+      {
+        "name": "Miješano meso plata",
+        "price": 19.0
+      },
+      {
+        "name": "Gurmanska pljeskavica",
+        "desc": "Meso 200 gr, šunka 30 gr, sir 30 gr, pomfrit 150 gr",
+        "price": 17.0
+      },
+      {
+        "name": "Pileće bijelo punjeno",
+        "desc": "Piletina 200 gr, sir 30 gr, šunka 30 gr, pomfrit 150 gr",
+        "price": 17.0
+      },
+      {
+        "name": "Ražnjići sa slaninom",
+        "desc": "Meso 200 gr, pomfrit 150gr, slanina 50 gr, začini",
+        "price": 17.0
+      },
+      {
+        "name": "Pileći ražnjići sa povrćem",
+        "desc": "Piletina 100 gr, povrće 100 gr, začini",
+        "price": 14.0
+      },
+      {
+        "name": "Ćevepi Obala",
+        "desc": "Ćevap 200 gr, pomfrit 150 gr, luk",
+        "price": 14.0
+      },
+      {
+        "name": "Pljeskavica",
+        "desc": "Meso 200 gr, pomfrit 150 gr",
+        "price": 13.0
+      },
+      {
+        "name": "Roštiljska kobasica",
+        "desc": "Kobasica 200 gr, pomfrit 150 gr",
+        "price": 13.0
+      },
+      {
+        "name": "Pileće bijelo",
+        "desc": "Piletina 200 gr, pomfrit 150 gr",
+        "price": 13.0
+      },
+      {
+        "name": "Pileći ražnjići",
+        "desc": "Piletina 200 gr, pomfrit 100 gr, začini",
+        "price": 13.0
+      },
+      {
+        "name": "Batak sa žara",
+        "desc": "Meso 200 gr, pomfrit 150 gr, začina",
+        "price": 12.0
+      },
+      {
+        "name": "Ćevapi",
+        "desc": "Ćevapi 200 gr, lepinja, luk",
+        "price": 9.0
+      },
+      {
+        "name": "Šampinjoni na žaru",
+        "desc": "Šampinjoni 200 gr, kajmak 50 gr, riža 100 gr",
+        "price": 9.0
+      },
+      {
+        "name": "Šampinjoni",
+        "desc": "Šampinjoni 200 gr, riža 100 gr",
+        "price": 7.0
+      }
+    ],
+    "Specijalna jela": [
+      {
+        "name": "Karađorđeva šnicla teletina",
+        "desc": "Teletina 180 gr, sir 50 gr, šunka 50 gr, 1 jaje, brašno, prezla, začini",
+        "price": 24.0
+      },
+      {
+        "name": "Sać teleći",
+        "desc": "Teletina 200 gr, krompir 200 gr, začini",
+        "price": 24.0
+      },
+      {
+        "name": "Pohovani mozak",
+        "desc": "Pohovani mozak",
+        "price": 22.0
+      },
+      {
+        "name": "Lignje punjene",
+        "desc": "Lignje 200 gr, sir 70 gr, šunka 70 gr",
+        "price": 22.0
+      },
+      {
+        "name": "Pileći medaljoni u kajmaku",
+        "desc": "Piletina 180 gr, kajmak 70 g, vrhnje za kuhanje 100 ml, pomfrit 100 gr, začini",
+        "price": 20.5
+      },
+      {
+        "name": "Lešo teletina",
+        "desc": "Teletina 200 gr, kuvano povrće 100 gr, začini",
+        "price": 20.0
+      },
+      {
+        "name": "Teleći medaljoni u šampinjon sosu",
+        "desc": "Teleći medaljoni u šampinjon sosu",
+        "price": 20.0
+      },
+      {
+        "name": "Bečka šnicla teletina",
+        "desc": "Teletina 200 gr, pomfrit 150 gr, 1 jaje, brašno, prezla, začini",
+        "price": 19.5
+      },
+      {
+        "name": "Pastrmka",
+        "desc": "Pastrmka 250 gr, blitva 50 gr, krompir 50 gr",
+        "price": 19.5
+      },
+      {
+        "name": "Lignje",
+        "desc": "Lignje 200 gr, kuhano povrće 100 gr",
+        "price": 19.5
+      },
+      {
+        "name": "Lignje frigane",
+        "desc": "Lignje 200 gr, pomfrit 100 gr, brašno 50 gr",
+        "price": 19.5
+      },
+      {
+        "name": "Pileći medaljoni u šampinjon sosu",
+        "desc": "Piletina 180 gr, sos 100 gr, pomfrit 100 gr, začini",
+        "price": 19.0
+      },
+      {
+        "name": "Lignje pohovane",
+        "desc": "Lignje 200 gr, promfrit 100 gr, brašno 50 gr, jaje",
+        "price": 19.0
+      },
+      {
+        "name": "Pariška šnicla",
+        "desc": "Pariška šnicla",
+        "price": 15.0
+      },
+      {
+        "name": "Grilovano povrće",
+        "desc": "Grilovano povrće",
+        "price": 8.0
+      }
+    ],
+    "Čorbe": [
+      {
+        "name": "Riblja čorba",
+        "desc": "Riba 50 gr, mrkva, luk",
+        "price": 8.0
+      },
+      {
+        "name": "Ragu čorba",
+        "desc": "Teletina 50 gr, mrkva, luk, grašak, pavlaka 0,2 dl",
+        "price": 7.5
+      },
+      {
+        "name": "Teleća čorba",
+        "desc": "Teletina 50 gr, mrkva, luk, grašak",
+        "price": 7.0
+      },
+      {
+        "name": "Šampinjon čorba",
+        "desc": "šampinjoni 250 gr, luk, kisela pavlaka, brašno",
+        "price": 6.5
+      },
+      {
+        "name": "Paradajz čorba",
+        "desc": "Pasirani paradajz 500 ml, bijeli luk, mrkva, luk",
+        "price": 6.0
+      },
+      {
+        "name": "Goveđa supa",
+        "desc": "Govedina 40 gr, luk, krompir, mrkva, bijeli luk",
+        "price": 5.0
+      },
+      {
+        "name": "Pileća supa",
+        "desc": "Razanci 50 gr, pileće bijelo 50 gr, mrkva",
+        "price": 4.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Kajmak",
+        "desc": "100 gr",
+        "price": 6.0
+      },
+      {
+        "name": "Vlašićki sir",
+        "desc": "100 gr",
+        "price": 5.0
+      },
+      {
+        "name": "Projice",
+        "desc": "5 kom",
+        "price": 5.0
+      },
+      {
+        "name": "Riža",
+        "desc": "100 gr",
+        "price": 4.0
+      },
+      {
+        "name": "Kuhani krompir",
+        "desc": "100 gr",
+        "price": 4.0
+      },
+      {
+        "name": "Blitva",
+        "desc": "100 gr",
+        "price": 3.0
+      },
+      {
+        "name": "Ajvar",
+        "desc": "100 gr",
+        "price": 2.0
+      },
+      {
+        "name": "Dalmatinski prilog",
+        "desc": "100 gr",
+        "price": 2.0
+      },
+      {
+        "name": "Hljeb",
+        "desc": "Hljeb",
+        "price": 1.5
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Sportska salata",
+        "desc": "Paradajz 50 gr, krastavice 50 gr, luk 30 gr, kupus 70 gr, zelena salata 50 gr, piletina 70 gr, 1 jaje, pavlaka",
+        "price": 20.0
+      },
+      {
+        "name": "Šopska salata",
+        "desc": "Paradajz 50 gr, krastavice 50, luk 35 gr, sir 70 gr, so i ulje",
+        "price": 6.0
+      },
+      {
+        "name": "Srpska salata",
+        "desc": "Paradajz 50 gr, krastavice 50 gr, luk 20 gr, paprika ljuba 20 gr, so i ulje",
+        "price": 6.0
+      },
+      {
+        "name": "Urnebes salata",
+        "desc": "Mlada sir 100 gr, ljuta tucana paprica 20 gr, so i ulje",
+        "price": 6.0
+      },
+      {
+        "name": "Miješana salata",
+        "desc": "Miješana salata",
+        "price": 5.0
+      },
+      {
+        "name": "Paradajz salata sa sirom",
+        "desc": "Paradajz 250 gr. sir 70 gr",
+        "price": 5.0
+      },
+      {
+        "name": "Pečena paprika",
+        "desc": "Paprika 300 gr, bijeli luk 15 gr, so i ulje",
+        "price": 5.0
+      },
+      {
+        "name": "Pečena ljuta paprika",
+        "desc": "Paprika 150, bijeli luk 15 gr. so i ulje",
+        "price": 5.0
+      },
+      {
+        "name": "Grčka salata",
+        "desc": "Paprika 50 gr, paradajz 50 gr, krastavice 50 gr, luk 20 gr, masline 20 gr, so i ulje",
+        "price": 5.0
+      },
+      {
+        "name": "Paradajz salata",
+        "desc": "Paradajz salata",
+        "price": 4.0
+      },
+      {
+        "name": "Krastavice",
+        "desc": "250 gr",
+        "price": 4.0
+      },
+      {
+        "name": "Sveži kupus",
+        "desc": "250 gr",
+        "price": 4.0
+      }
+    ],
+    "Desert": [
+      {
+        "name": "Voćna salata",
+        "desc": "Mix voća 200 gr",
+        "price": 6.0
+      },
+      {
+        "name": "Tufahija",
+        "desc": "1 jabuka, šećer 50 gr, orahi 50 gr, šlag 10 gr",
+        "price": 5.0
+      },
+      {
+        "name": "Palačinke mix 1",
+        "desc": "Keks 50 gr, Nutella 30 gr",
+        "price": 5.0
+      },
+      {
+        "name": "Palačinci mix 2",
+        "desc": "Orasi 50 gr, med 30 gr",
+        "price": 5.0
+      },
+      {
+        "name": "Sladoled",
+        "desc": "Kugla vanilija ili čokolada",
+        "price": 2.0
+      }
+    ]
+  }
+}

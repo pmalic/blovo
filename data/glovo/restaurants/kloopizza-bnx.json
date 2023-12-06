@@ -1,0 +1,470 @@
+{
+  "name": "Kloopizza",
+  "rating": 0.97,
+  "count": 500,
+  "service_fee": 1.0,
+  "menu": {
+    "Combo porodična ponuda": [
+      {
+        "name": "Šef porodična pizza + 2xPepsi",
+        "desc": "Šef porodična pizza + 2xPepsi",
+        "price": 29.0
+      },
+      {
+        "name": "Kloopizza porodična pizza + 2xPepsi",
+        "desc": "Kloopizza porodična pizza + 2xPepsi",
+        "price": 29.0
+      },
+      {
+        "name": "Panceta porodična pizza + 2xPepsi",
+        "desc": "Panceta porodična pizza + 2xPepsi",
+        "price": 29.0
+      },
+      {
+        "name": "Pikant porodična pizza + 2xPepsi",
+        "desc": "Pikant porodična pizza + 2xPepsi",
+        "price": 28.0
+      },
+      {
+        "name": "Capricciosa porodična pizza + 2xPepsi",
+        "desc": "Capricciosa porodična pizza + 2xPepsi",
+        "price": 25.0
+      },
+      {
+        "name": "Margherita porodična pizza + 2xPepsi",
+        "desc": "Margherita porodična pizza + 2xPepsi",
+        "price": 23.0
+      }
+    ],
+    "Pizze male 26 cm": [
+      {
+        "name": "Pizza Losos sa punjenim rubom sa sirom mala 26 cm",
+        "desc": "Pizza Losos sa punjenim rubom sa sirom",
+        "price": 9.5
+      },
+      {
+        "name": "Pizza Pršut sa punjenim rubom sa pancetom i sirom mala 26 cm",
+        "desc": "Pizza Pršut sa punjenim rubom sa pancetom i sirom",
+        "price": 9.5
+      },
+      {
+        "name": "Pizza Panceta sa punjen rubom sa pancetom i sirom mala 26 cm",
+        "desc": "Pizza Panceta sa punjen rubom sa pancetom i sirom",
+        "price": 9.5
+      },
+      {
+        "name": "Pizza Šef sa punjenim rubom sa pancetom i sirom mala 26 cm",
+        "desc": "Pizza Šef sa punjenim rubom sa pancetom i sirom",
+        "price": 9.5
+      },
+      {
+        "name": "Pizza Kloopizza sa punjenim rubom sa pancetom i sirom mala 26 cm",
+        "desc": "Pizza Kloopizza sa punjenim rubom sa pancetom i sirom",
+        "price": 9.5
+      },
+      {
+        "name": "Pizza Picante sa punjenim rubom sa pancetom i sirom mala 26 cm",
+        "desc": "Pizza Picante sa punjenim rubom sa pancetom i sirom",
+        "price": 8.5
+      },
+      {
+        "name": "Pizza Vegetariana sa punjenim rubom sa sirom mala 26 cm",
+        "desc": "Pizza Vegetariana sa punjenim rubom sa sirom",
+        "price": 8.5
+      },
+      {
+        "name": "Pizza Margherita sa punjenim rubom sa sirom mala 26 cm",
+        "desc": "Pizza Margherita sa punjenim rubom sa sirom",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza Capricciosa sa punjenim rubom pancetom i sirom mala 26 cm",
+        "desc": "Pizza Capricciosa sa punjenim rubom pancetom i sirom",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza Pipi sa punjenim rubom sa sirom mala 26 cm",
+        "desc": "Pizza Pipi sa punjenim rubom sa sirom",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza Funghi sa punjenim rubom sa sirom mala 26 cm",
+        "desc": "Pizza Funghi sa punjenim rubom sa sirom",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza Pršut mala 26 cm",
+        "desc": "Sos, šunka, pršut, masline, origano",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza Losos mala 26 cm",
+        "desc": "Sos, šampinjoni, sir, losos, masline, origano",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza Panceta mala 26 cm",
+        "desc": "Sos, sir, panceta, origano, masline",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza Šef mala 26 cm",
+        "desc": "Sos, kulen, suvi vrat, sir, šampinjoni, jaja, pavlaka, feferoni, masline, origano",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza Kloopizza mala 26 cm",
+        "desc": "Sos, šunka, suvi vrat, sir, panceta, šampinjoni, kukuruz, masline, origano",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza Pipi mala 26 cm",
+        "desc": "Sos, pileća šunka, sir, šampinjoni, origano",
+        "price": 7.0
+      },
+      {
+        "name": "Pizza Picante mala 26 cm",
+        "desc": "Sos, kulen, sir, šampinjoni, panceta, feferoni, origano",
+        "price": 7.0
+      },
+      {
+        "name": "Pizza Vegetariana mala 26 cm",
+        "desc": "Sos, šampinjoni, sir, paprika crvena i žuta, paradajz, luk, kukuruz, masline, origano",
+        "price": 7.0
+      },
+      {
+        "name": "Pizza sa Tunom mala 26 cm",
+        "desc": "Sos, šampinjoni, sir, luk, tuna, origano",
+        "price": 6.5
+      },
+      {
+        "name": "Pizza Margherita mala 26 cm",
+        "desc": "Sos, sir, origano",
+        "price": 6.0
+      },
+      {
+        "name": "Pizza Funghi mala 26 cm",
+        "desc": "Sos, šampinjoni, sir, origano",
+        "price": 6.0
+      },
+      {
+        "name": "Pizza Capricciosa mala 26 cm",
+        "desc": "Sos, šunka, sir, šampinjoni, origano",
+        "price": 6.0
+      },
+      {
+        "name": "Pizza parče",
+        "desc": "Pizza parče",
+        "price": 2.8
+      }
+    ],
+    "Pizze srednje 32 cm": [
+      {
+        "name": "Pizza Pršut sa punjenim rubom sa pancetom i sirom srednja 32 cm",
+        "desc": "Pizza Pršut sa punjenim rubom sa pancetom i sirom",
+        "price": 13.0
+      },
+      {
+        "name": "Pizza Panceta sa punjen rubom sa pancetom i sirom srednja 32 cm",
+        "desc": "Pizza Panceta sa punjen rubom sa pancetom i sirom",
+        "price": 13.0
+      },
+      {
+        "name": "Pizza Šef sa punjenim rubom sa pancetom i sirom srednja 32 cm",
+        "desc": "Pizza Šef sa punjenim rubom sa pancetom i sirom",
+        "price": 13.0
+      },
+      {
+        "name": "Pizza Kloopizza sa punjenim rubom sa pancetom i sirom srednja 32 cm",
+        "desc": "Pizza Kloopizza sa punjenim rubom sa pancetom i sirom",
+        "price": 13.0
+      },
+      {
+        "name": "Pizza Losos sa punjenim rubom sa sirom srednja 32 cm",
+        "desc": "Pizza Losos sa punjenim rubom sa sirom",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Picante sa punjenim rubom sa pancetom i sirom srednja 32 cm",
+        "desc": "Pizza Picante sa punjenim rubom sa pancetom i sirom",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Pršut srednja 32 cm",
+        "desc": "Sos, šunka, pršut, masline, origano",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Panceta srednja 32 cm",
+        "desc": "Sos, sir, panceta, origano, masline",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Šef srednja 32 cm",
+        "desc": "Sos, kulen, suvi vrat, sir, šampinjoni, jaja, pavlaka, feferoni, masline, origano",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Kloopizza srednja 32 cm",
+        "desc": "Sos, šunka, suvi vrat, sir, panceta, šampinjoni, kukuruz, masline, origano",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Vegetariana sa punjenim rubom sa sirom srednja 32 cm",
+        "desc": "Pizza Vegetariana sa punjenim rubom sa sirom",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Margherita sa punjenim rubom sa sirom srednja 32 cm",
+        "desc": "Pizza Margherita sa punjenim rubom sa sirom",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Funghi sa punjenim rubom sa sirom srednja 32 cm",
+        "desc": "Pizza Funghi sa punjenim rubom sa sirom",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Capricciosa sa punjenim rubom pancetom i sirom srednja 32 cm",
+        "desc": "Pizza Capricciosa sa punjenim rubom pancetom i sirom",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Pipi sa punjenim rubom sa sirom srednja 32 cm",
+        "desc": "Pizza Pipi sa punjenim rubom sa sirom",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Losos srednja 32 cm",
+        "desc": "Sos, šampinjoni, sir, losos, masline, origano",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Vegetariana srednja 32 cm",
+        "desc": "Sos, šampinjoni, sir, paprika crvena i žuta, paradajz, luk, kukuruz, masline, origano",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Pipi srednja 32 cm",
+        "desc": "Sos, pileća šunka, sir, šampinjoni, origano",
+        "price": 9.0
+      },
+      {
+        "name": "Pizza Picante srednja 32 cm",
+        "desc": "Sos, kulen, sir, šampinjoni, panceta, feferoni, origano",
+        "price": 9.0
+      },
+      {
+        "name": "Pizza sa tunom i punjenim rubom sa sirom srednja 32 cm",
+        "desc": "Sos, šampinjoni, sir, luk, tuna, origano",
+        "price": 8.5
+      },
+      {
+        "name": "Pizza Margherita srednja 32 cm",
+        "desc": "Sos, sir, origano",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza Funghi srednja 32 cm",
+        "desc": "Sos, šampinjoni, sir, origano",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza sa Tunom srednja 32 cm",
+        "desc": "Sos, šampinjoni, sir, luk, tuna, origano",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza sa tunom i punjenim rubom sa sirom mala 26 cm",
+        "desc": "Pizza sa tunom i punjenim rubom sa sirom",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza Capricciosa srednja 32 cm",
+        "desc": "Sos, šunka, sir, šampinjoni, origano",
+        "price": 8.0
+      }
+    ],
+    "Pizze porodične 50 cm": [
+      {
+        "name": "Pizza Pršut sa punjenim rubom sa pancetom i sirom porodična 50 cm",
+        "desc": "Pizza Pršut sa punjenim rubom sa pancetom i sirom",
+        "price": 28.0
+      },
+      {
+        "name": "Pizza Panceta sa punjen rubom sa pancetom i sirom porodična 50 cm",
+        "desc": "Pizza Panceta sa punjen rubom sa pancetom i sirom",
+        "price": 28.0
+      },
+      {
+        "name": "Pizza Šef sa punjenim rubom sa pancetom i sirom porodična 50 cm",
+        "desc": "Pizza Šef sa punjenim rubom sa pancetom i sirom",
+        "price": 28.0
+      },
+      {
+        "name": "Pizza Kloopizza sa punjenim rubom sa pancetom i sirom porodična 50 cm",
+        "desc": "Pizza Kloopizza sa punjenim rubom sa pancetom i sirom",
+        "price": 28.0
+      },
+      {
+        "name": "Pizza Picante sa punjenim rubom sa pancetom i sirom porodična 50 cm",
+        "desc": "Pizza Picante sa punjenim rubom sa pancetom i sirom",
+        "price": 27.0
+      },
+      {
+        "name": "Pizza Vegetariana sa punjenim rubom sa sirom porodična 50 cm",
+        "desc": "Pizza Vegetariana sa punjenim rubom sa sirom",
+        "price": 27.0
+      },
+      {
+        "name": "Pizza Losos sa punjenim rubom sa sirom porodična 50 cm",
+        "desc": "Pizza Losos sa punjenim rubom sa sirom",
+        "price": 26.0
+      },
+      {
+        "name": "Pizza Pršut porodična 50 cm",
+        "desc": "Sos, šunka, pršut, masline, origano",
+        "price": 25.0
+      },
+      {
+        "name": "Pizza Panceta porodična 50 cm",
+        "desc": "Sos, sir, panceta, origano, masline",
+        "price": 25.0
+      },
+      {
+        "name": "Pizza Šef porodična 50 cm",
+        "desc": "Sos, kulen, suvi vrat, sir, šampinjoni, jaja, pavlaka, feferoni, masline, origano",
+        "price": 25.0
+      },
+      {
+        "name": "Pizza Kloopizza porodična 50 cm",
+        "desc": "Sos, šunka, suvi vrat, sir, panceta, šampinjoni, kukuruz, masline, origano",
+        "price": 25.0
+      },
+      {
+        "name": "Pizza Picante porodična 50 cm",
+        "desc": "Sos, kulen, sir, šampinjoni, panceta, feferoni, origano",
+        "price": 24.0
+      },
+      {
+        "name": "Pizza Losos porodična 50 cm",
+        "desc": "Sos, šampinjoni, sir, losos, masline, origano",
+        "price": 24.0
+      },
+      {
+        "name": "Pizza Vegetariana porodična 50 cm",
+        "desc": "Sos, šampinjoni, sir, paprika crvena i žuta, paradajz, luk, kukuruz, masline, origano",
+        "price": 24.0
+      },
+      {
+        "name": "Pizza Margherita sa punjenim rubom sa sirom porodična 50 cm",
+        "desc": "Pizza Margherita sa punjenim rubom sa sirom",
+        "price": 23.0
+      },
+      {
+        "name": "Pizza Funghi sa punjenim rubom sa sirom porodična 50 cm",
+        "desc": "Pizza Funghi sa punjenim rubom sa sirom",
+        "price": 23.0
+      },
+      {
+        "name": "Pizza Capricciosa sa punjenim rubom pancetom i sirom porodična 50 cm",
+        "desc": "Pizza Capricciosa sa punjenim rubom pancetom i sirom",
+        "price": 23.0
+      },
+      {
+        "name": "Pizza Pipi sa punjenim rubom sa sirom porodična 50 cm",
+        "desc": "Pizza Pipi sa punjenim rubom sa sirom",
+        "price": 23.0
+      },
+      {
+        "name": "Pizza sa tunom i punjenim rubom sa sirom porodična 50 cm",
+        "desc": "Sos, šampinjoni, sir, luk, tuna, origano",
+        "price": 21.5
+      },
+      {
+        "name": "Pizza sa Tunom porodična 50 cm",
+        "desc": "Sos, šampinjoni, sir, luk, tuna, origano",
+        "price": 21.0
+      },
+      {
+        "name": "Pizza Pipi porodična 50 cm",
+        "desc": "Sos, pileća šunka, sir, šampinjoni, origano",
+        "price": 21.0
+      },
+      {
+        "name": "Pizza Margherita porodična 50 cm",
+        "desc": "Sos, sir, origano",
+        "price": 20.0
+      },
+      {
+        "name": "Pizza Funghi porodična 50 cm",
+        "desc": "Sos, šampinjoni, sir, origano",
+        "price": 20.0
+      },
+      {
+        "name": "Pizza Capricciosa porodična 50 cm",
+        "desc": "Sos, šunka, sir, šampinjoni, origano",
+        "price": 20.0
+      }
+    ],
+    "Sendviči": [
+      {
+        "name": "Sendvič pohovana piletina i sir",
+        "desc": "Pohovana piletina, sir",
+        "price": 4.0
+      },
+      {
+        "name": "Sendvič pileća šunka i sir",
+        "desc": "Pileća šunka, sir",
+        "price": 3.0
+      },
+      {
+        "name": "Sendvič kulen i sir",
+        "desc": "Kulen, sir",
+        "price": 3.0
+      },
+      {
+        "name": "Sendvič suvi vrat i sir",
+        "desc": "Suvi vrat, sir",
+        "price": 3.0
+      },
+      {
+        "name": "Sendvič peka i sir",
+        "desc": "Peka, sir",
+        "price": 3.0
+      },
+      {
+        "name": "Sendvič tuna i sir",
+        "desc": "Tuna, sir",
+        "price": 3.0
+      },
+      {
+        "name": "Sendvič šunka i sir",
+        "desc": "Šunka, sir",
+        "price": 2.5
+      }
+    ],
+    "Slatke palačinke": [
+      {
+        "name": "Palačinke sa Nutellom, Plazmom, višnjama",
+        "desc": "Nutella, Plazma, višnje",
+        "price": 4.5
+      },
+      {
+        "name": "Palačinke sa Nutellom i Plazmom",
+        "desc": "Nutella, Plazma",
+        "price": 4.0
+      },
+      {
+        "name": "Palačinke sa eurokremom i Plazmom",
+        "desc": "Eurokremom, Plazma",
+        "price": 3.5
+      },
+      {
+        "name": "Palačinke sa marmeladom",
+        "desc": "Marmelada",
+        "price": 3.0
+      }
+    ]
+  }
+}

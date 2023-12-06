@@ -2,4 +2,5 @@
 
 from glovo import gen_data
 
-gen_data(scrape_if_missing = False)
+gen_data(scrape_if_missing = True)
+

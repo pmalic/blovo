@@ -1,0 +1,421 @@
+{
+  "name": "Angelo",
+  "rating": 0.92,
+  "count": 103,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Rižoto sa piletinom currijem",
+        "desc": "Riža, piletina, curry, crvena paprika, vrhnje za kuhanje, kukuruz šećerac, bosiljak",
+        "price": 10.0
+      },
+      {
+        "name": "Piletina sa šampinjonima",
+        "desc": "Grilovana piletina, sos šampinjon, krompirići",
+        "price": 12.0
+      },
+      {
+        "name": "Piletina sa 4 vrste sira",
+        "desc": "Pileći file vrhnje za kuhanje, edamer sir gorgonzola, mozzarella sir parmezan sir, pekarski krompir",
+        "price": 12.0
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Healthy omlet",
+        "desc": "Jaja losos dimljeni masline, cherry paradajz mladi sir",
+        "price": 9.0
+      },
+      {
+        "name": "Rolovani omlet sa dimljenim sirom i piletinom",
+        "desc": "Jaja dimljena piletina, dimljeni sir, paradajz, pavlaka",
+        "price": 9.0
+      },
+      {
+        "name": "Experience doručak",
+        "desc": "Doručak špinat jaja, dimljeni losos",
+        "price": 8.5
+      },
+      {
+        "name": "Full doručak",
+        "desc": "3 Jaja, kobasica, panceta, feta sira, paradajz, pecivo",
+        "price": 8.5
+      },
+      {
+        "name": "Parfe sa whey whey proteinom",
+        "desc": "Zobene,pahuljice, whey proteinom protein med, sjemenke, bundeve, sjemenke brusnice",
+        "price": 8.5
+      },
+      {
+        "name": "Omlet Angelo",
+        "desc": "Jaja pecivo, pršut, mladi sir, luk crveni, tikvica, paprika",
+        "price": 8.0
+      },
+      {
+        "name": "Doručak Angelo",
+        "desc": "3 Jaja na oko, kobasica, feta sir",
+        "price": 8.0
+      },
+      {
+        "name": "Jaja i slanina",
+        "desc": "3 Jaja, slanina, edamer, pecivo",
+        "price": 8.0
+      },
+      {
+        "name": "Pizza štapići doručak s okusom pizze",
+        "desc": "Edamer Mozzarella, šunka, parmezan, šampinjoni, marinirani pizza sos",
+        "price": 7.5
+      },
+      {
+        "name": "Jaja i šunka",
+        "desc": "3 Jaja, pik šunka, edamer pecivo",
+        "price": 7.0
+      },
+      {
+        "name": "Omlet classic",
+        "desc": "Jaja, šunka, sir",
+        "price": 7.0
+      },
+      {
+        "name": "Kukuruzna palenta sa chillijem",
+        "desc": "Kukuruzna palenta, 1 ćureća kobasica, paprika, pelat, chilli paprika",
+        "price": 6.0
+      },
+      {
+        "name": "Italijanska palenta",
+        "desc": "Kukuruzna palenta, heljdina palenta, talijanski sos, panceta, parmezan",
+        "price": 6.0
+      },
+      {
+        "name": "Kukuruzna palenta sa mladim sirom",
+        "desc": "Jogurt kukuruzno brašno, mladi sir",
+        "price": 5.0
+      },
+      {
+        "name": "Jogurt parfe sa šumskim voćem",
+        "desc": "Jogurt, šumsko voće, musli",
+        "price": 5.0
+      },
+      {
+        "name": "Jogurt parfe sa svježim voćem",
+        "desc": "Jogurt, svježe voće, musli",
+        "price": 5.0
+      },
+      {
+        "name": "Tost",
+        "desc": "Integrali tost, senf, zelena salata, pik šunka, edamer sir",
+        "price": 3.5
+      }
+    ],
+    "Sendviči i tortilje": [
+      {
+        "name": "Sendvič sa dimljenim lososom",
+        "desc": "Dimljeni losos, tikvica, zelena salata, paradajz, kopar",
+        "price": 10.0
+      },
+      {
+        "name": "Tortilja šefa kuhinje",
+        "desc": "Pileći file šampinjoni susam, mileram, zelena salata, orasi, jabuke, majoneza",
+        "price": 10.0
+      },
+      {
+        "name": "Angelo club sendvič",
+        "desc": "Pohovano tost pecivo, grilovana piletina, panceta, pik šunka, paradajz edamer sir feta sir kiseli krastavci, honey dresing",
+        "price": 9.5
+      },
+      {
+        "name": "Tortilja sa grilovanom piletinom",
+        "desc": "Tortilja, pileći file, edamer sir, paradajz, paprika, tikvica, mrkva, luk, krastavac, sjemenke lan, susam",
+        "price": 9.5
+      },
+      {
+        "name": "Tortilja sa tunjevinom i pasuljem posno",
+        "desc": "Tortilja, crveni pasulj, bijeli pasulj, tunjevina, kukuruz šećerac, crvena paprika, žuta paprika, mrkva, luk, tikvica",
+        "price": 9.5
+      },
+      {
+        "name": "Sendvič sa ćurećim fileom",
+        "desc": "Integralno pecivo, ćureći file, sir edamer, zelena salata, paradajz kiseli krastavac",
+        "price": 9.0
+      },
+      {
+        "name": "Iron sendvič",
+        "desc": "Talijanski pršut susam, zelena salata, paradajz, Mozzarella, dresing",
+        "price": 9.0
+      },
+      {
+        "name": "Bavarski sendvič",
+        "desc": "Bavarska kifla, kobasica, dimljeni sir, zelena salata, krompirići, chili ili tartar sos",
+        "price": 9.0
+      },
+      {
+        "name": "Vege tortilja posno",
+        "desc": "Tortilja, grilovano povrće, zelena salata, paradajz, sjemenke lana, susam",
+        "price": 8.5
+      },
+      {
+        "name": "De luxe sendvič sa ćurećom šunkom",
+        "desc": "Pecivo, de luxe šunka ćureća, sir edamer zelena salata paradajz, krastavac",
+        "price": 8.0
+      },
+      {
+        "name": "Tunjevina sendvič posno",
+        "desc": "Pecivo, tunjevina, zelena salata, paradajz, kukuruz šećerac, masline, maslinovo ulje",
+        "price": 7.0
+      },
+      {
+        "name": "Classic šunka sendvič",
+        "desc": "Pecivo, pik šunka, sir edamer, zelena salata, paradajz, krastavac",
+        "price": 6.5
+      },
+      {
+        "name": "Pileći sendvič",
+        "desc": "Pecivo pileći file, edamer zelena salata, paradajz kiseli krastavac",
+        "price": 6.0
+      }
+    ],
+    "Jela po narudžbi": [
+      {
+        "name": "Biftek šefa kuhinje",
+        "desc": "Biftek odležao 15 dana u marinadi, grilovano povrće pekarski krompir, sos po izboru",
+        "price": 30.0
+      },
+      {
+        "name": "Slatko ljuta ćuretina",
+        "desc": "Ćureći file, riža, maslac, sweet chili sos",
+        "price": 14.0
+      },
+      {
+        "name": "BBQ ćureći ražnjići",
+        "desc": "Grilovana ćuretina, zelena salata, krastavac, ljubičasti luk tartar sos, BBQ sos po specijalnoj recepturi",
+        "price": 13.0
+      },
+      {
+        "name": "Piletina u saltimboka sosu grande",
+        "desc": "Grilovani pileći file, pršut, pekarski krompir, saltimboka sos",
+        "price": 13.0
+      },
+      {
+        "name": "Parma piletina",
+        "desc": "Grilovani pileći file, vitaminska salata, panceta, mozzarela, tikvica",
+        "price": 12.0
+      },
+      {
+        "name": "Piletina sa 4 vrste sira",
+        "desc": "Pileći file vrhnje za kuhanje, edamer sir gorgonzola, mozzarella sir parmezan sir, pekarski krompir",
+        "price": 12.0
+      },
+      {
+        "name": "Piletina sa šampinjonima",
+        "desc": "Grilovana piletina, sos šampinjon, krompirići",
+        "price": 12.0
+      },
+      {
+        "name": "Chili piletina",
+        "desc": "Grilovani pileći file pelat, ljuti ketchup , tabasco, pekarski krompir",
+        "price": 12.0
+      },
+      {
+        "name": "Pohovana piletina",
+        "desc": "Pohovani pileći file, krompirići, tartar sos, parmezan",
+        "price": 11.0
+      },
+      {
+        "name": "Piletina u saltimboka sosu picolo",
+        "desc": "Grilovani pileći file, pršut, pekarski krompir, saltimboka sos",
+        "price": 11.0
+      },
+      {
+        "name": "Italijanska piletina",
+        "desc": "Grilovani pileći file pršut, sir edamer, paradajz grilovano povrće ili njoke, angelo sos",
+        "price": 11.0
+      },
+      {
+        "name": "BBQ piletina sa grilovanim povrćem",
+        "desc": "Piletina, tikvice paprika, BBQ sos po specijalnoj recepturi, tartar sos",
+        "price": 10.0
+      },
+      {
+        "name": "Zeleni burger posno",
+        "desc": "Burger riža, grilovano povrće, mix zelenih salata humus",
+        "price": 9.0
+      }
+    ],
+    "Paste i rižota": [
+      {
+        "name": "Pesto ćureća pasta",
+        "desc": "Ćuretina, pasta, 2 jaja, pesto sos, grašak limun",
+        "price": 13.0
+      },
+      {
+        "name": "BBQ pileća pasta",
+        "desc": "Piletina pasta, pančeta parmezan, BBQ sos, paprika",
+        "price": 13.0
+      },
+      {
+        "name": "Rižoto sa morskim plodovima",
+        "desc": "Riža, morski plodovi",
+        "price": 11.0
+      },
+      {
+        "name": "Rižoto sa piletinom currijem",
+        "desc": "Riža, piletina, curry, crvena paprika, vrhnje za kuhanje, kukuruz šećerac, bosiljak",
+        "price": 10.0
+      },
+      {
+        "name": "Rižoto sa povrćem",
+        "desc": "Riža, grilovano povrće, grašak, soja sos, kukuruz šećerac",
+        "price": 9.5
+      },
+      {
+        "name": "Vege pasta u paradajz sosu",
+        "desc": "Heljdina tjestenina, mrkva, tikvica šampinjoni, paradajz sos, pasulj",
+        "price": 9.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Ulje salata sa grilovanom ćuretinom",
+        "desc": "Ćureći file, zelena salata, rukola, radić, iceberg, paradajz, grana padano parmezan, masline",
+        "price": 12.0
+      },
+      {
+        "name": "Cesar salata by Angelo",
+        "desc": "Grilovana piletina, mix zelenih salata, crutoni, masline dressing parmezan, panceta",
+        "price": 11.0
+      },
+      {
+        "name": "Panceta salata sa dimljenim lososom",
+        "desc": "Dimljeni losos, zelena salata, paradajz,krastavac, masline, ljubičasti luk, kopar, salata",
+        "price": 11.0
+      },
+      {
+        "name": "Italijanski salata",
+        "desc": "Susam pršut sa, feta maslinovo sir pršutom orasi ulje, mix i zelenih orasima salata,",
+        "price": 11.0
+      },
+      {
+        "name": "Salata sa grilovanom piletinom",
+        "desc": "Pileći file, krastavac, paradajz, salata zelena, kukuruz šećerac, maslinovo ulje",
+        "price": 9.0
+      },
+      {
+        "name": "Rio mare salata posno",
+        "desc": "Tunjevina u komadima, masline, pasulj zelena salata, iceberg, kukuruz šećerac, maslinovo ulje",
+        "price": 8.5
+      },
+      {
+        "name": "Caprese salata",
+        "desc": "Mozzarella sir, paradajz, pesto, maslinovo ulje, bosiljak",
+        "price": 7.0
+      },
+      {
+        "name": "Grčka salata",
+        "desc": "Feta sir, paradajz, krastavac paprika, masline, maslinovo ulje, bosiljak",
+        "price": 5.5
+      },
+      {
+        "name": "Jutros iz bašte posno",
+        "desc": "Iceberg, zelena salata, paradajz mrkva, krastavac, kukuruz šećerac, maslinovo ulje",
+        "price": 5.0
+      }
+    ],
+    "Sosevi": [
+      {
+        "name": "Pesto sos",
+        "desc": "Sos",
+        "price": 2.0
+      },
+      {
+        "name": "Marinada sos",
+        "desc": "Sos",
+        "price": 2.0
+      },
+      {
+        "name": "Angelo BBQ sos",
+        "desc": "Sos",
+        "price": 2.0
+      },
+      {
+        "name": "Honey mustard",
+        "desc": "Sos",
+        "price": 2.0
+      },
+      {
+        "name": "Jogurt začinsko bilje",
+        "desc": "Sos",
+        "price": 2.0
+      },
+      {
+        "name": "Tartar sos",
+        "desc": "Sos",
+        "price": 2.0
+      },
+      {
+        "name": "Chili sos ljuti",
+        "desc": "Sos",
+        "price": 2.0
+      },
+      {
+        "name": "Sweat chili sos slatko ljuti sos",
+        "desc": "Sos",
+        "price": 2.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pomfrit",
+        "desc": "Pomfrit",
+        "price": 4.0
+      },
+      {
+        "name": "Grilovano povrće",
+        "desc": "Grilovano povrće",
+        "price": 3.5
+      },
+      {
+        "name": "Kremasta palenta",
+        "desc": "Kremasta palenta",
+        "price": 3.0
+      },
+      {
+        "name": "Grilovani šampinjoni",
+        "desc": "Grilovani šampinjoni",
+        "price": 3.0
+      },
+      {
+        "name": "Riža",
+        "desc": "Riža",
+        "price": 3.0
+      }
+    ],
+    "Desert": [
+      {
+        "name": "Čokoladni brauni sa sladoledom",
+        "desc": "Vrući biskvit u kombinaciji sa sladoledom će vas oduševiti",
+        "price": 5.5
+      },
+      {
+        "name": "Tri leće",
+        "desc": "Karamel okus će vas ostaviti bez daha",
+        "price": 5.5
+      },
+      {
+        "name": "Palačinke sa Nutellom i Plazmom",
+        "desc": "2 Palačinke, nutella, plazma",
+        "price": 5.5
+      },
+      {
+        "name": "Palačinke sa šumskim voćem",
+        "desc": "2 Palačinke, šumsko voće, 1 kugla sladoleda, prženi bademi ili lješnici",
+        "price": 5.5
+      },
+      {
+        "name": "Sladoled kup",
+        "desc": "Sladoled baza uz izbor jednog od preliva",
+        "price": 4.0
+      }
+    ]
+  }
+}

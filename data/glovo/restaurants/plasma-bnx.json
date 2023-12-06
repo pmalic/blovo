@@ -1,0 +1,191 @@
+{
+  "name": "Plazma",
+  "rating": 0.94,
+  "count": 122,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Palačinke sa piletinom u curry sosu",
+        "desc": "2 komada. Prilog, paradajz, krastavac, tartar sos",
+        "price": 10.5
+      },
+      {
+        "name": "Nutella i Plazma slatke palačinke",
+        "desc": "2 komada",
+        "price": 8.0
+      },
+      {
+        "name": "Palačinke sa šunkom i sirom",
+        "desc": "2 komada. Prilog, paradajz, krastavac, tartar sos",
+        "price": 10.5
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Kajgana šunka, sir",
+        "desc": "3 Јаја, šunka, sir",
+        "price": 8.0
+      },
+      {
+        "name": "Omlet sa povrćem",
+        "desc": "3 Јаја, povrće",
+        "price": 8.0
+      }
+    ],
+    "Slani meni": [
+      {
+        "name": "Pohovani pileći štapići u susamu",
+        "desc": "Pileći štapići 150 gr, pomfrit, 200 gr, prilog paradajz, krastavac, tartar sos",
+        "price": 11.0
+      },
+      {
+        "name": "Palačinke sa piletinom u curry sosu",
+        "desc": "2 komada. Prilog, paradajz, krastavac, tartar sos",
+        "price": 10.5
+      },
+      {
+        "name": "Palačinke sa šunkom i sirom",
+        "desc": "2 komada. Prilog, paradajz, krastavac, tartar sos",
+        "price": 10.5
+      },
+      {
+        "name": "Plazma Prženice sa šunkom i sirom",
+        "desc": "Prilog, mladi sir, ajvar, paradajz, krastavac",
+        "price": 9.0
+      },
+      {
+        "name": "Tost sendvič sa pršutom, šunkom i sirom",
+        "desc": "Prilog paradajz, krastavac i pavlaka",
+        "price": 8.0
+      }
+    ],
+    "Posna jela": [
+      {
+        "name": "Tuna salata",
+        "desc": "Tuna salata",
+        "price": 9.0
+      },
+      {
+        "name": "Tost sendvič sa dimljenom pastrmkom",
+        "desc": "Tuna sos, dimljena pastrmka",
+        "price": 8.0
+      }
+    ],
+    "Knedle": [
+      {
+        "name": "Knedle sa šljivama i plazmom",
+        "desc": "Šljive, plazma",
+        "price": 7.0
+      }
+    ],
+    "Slatke palačinke": [
+      {
+        "name": "Čarolija slatke palačinke",
+        "desc": "2 komada, Nutella, maline, prženi bademi",
+        "price": 8.5
+      },
+      {
+        "name": "Night & day slatke palačinke",
+        "desc": "2 komada, eurokrem, višnje, plazma",
+        "price": 8.0
+      },
+      {
+        "name": "Nutella i Plazma slatke palačinke",
+        "desc": "2 komada",
+        "price": 8.0
+      },
+      {
+        "name": "Plazma slatke palačinke",
+        "desc": "2 komada, lješnjak, eurokrem, plazma, banana",
+        "price": 8.0
+      },
+      {
+        "name": "Royal slatke palačinke",
+        "desc": "2 komada, čokolada, suha plazma, lješnjaci",
+        "price": 8.0
+      },
+      {
+        "name": "Waterloo slatke palačinke",
+        "desc": "2 komada, krem, jabuka, plazma, cimet",
+        "price": 8.0
+      },
+      {
+        "name": "Eurokrem i Plazma slatke palačinke",
+        "desc": "2 komada",
+        "price": 7.5
+      },
+      {
+        "name": "Plazma bakin kolač slatka palačinka",
+        "desc": "1 komad, waffels, eurokrem, banana, sladoled, čokolada",
+        "price": 7.5
+      },
+      {
+        "name": "Čokoladna slatka palačinka sa sladoledom i šumskim voćem",
+        "desc": "1 komad",
+        "price": 5.5
+      }
+    ],
+    "Kolači": [
+      {
+        "name": "Torta Ana",
+        "desc": "Savršena torta od bečkog nugata",
+        "price": 7.0
+      },
+      {
+        "name": "Bajadera",
+        "desc": "Lješnjak, badem, čokolada",
+        "price": 7.0
+      },
+      {
+        "name": "Cheesecake sa šumskim voćem",
+        "desc": "Plazma keks, sir, šumsko voće",
+        "price": 7.0
+      },
+      {
+        "name": "Grazia",
+        "desc": "Belgijska čokolada, narandža, badem",
+        "price": 7.0
+      }
+    ],
+    "Posni Kolači": [
+      {
+        "name": "Vizantija",
+        "desc": "Belgijska čokolada, čokoladni krem, keks, aroma čokolade",
+        "price": 7.0
+      },
+      {
+        "name": "Posni Cheesecake sa šumskim voćem",
+        "desc": "Krema, keks, šumsko voće",
+        "price": 7.0
+      },
+      {
+        "name": "Posna Bajadera",
+        "desc": "Lješnjak, badem, čokolada",
+        "price": 7.0
+      }
+    ],
+    "Posne palačinke": [
+      {
+        "name": "Posne slatke palačinke sa mljevenim keksom i čokoladom",
+        "desc": "2 komada",
+        "price": 7.5
+      },
+      {
+        "name": "Posne slatke palačinke sa čokoladom, lješnjacima i bananom",
+        "desc": "2 komada",
+        "price": 7.5
+      },
+      {
+        "name": "Posne slatke palačinke sa džemom i orasima",
+        "desc": "2 komada",
+        "price": 6.0
+      },
+      {
+        "name": "Posna čokoladna slatka palačinka sa sladoledom i šumskim voćem",
+        "desc": "1 komad",
+        "price": 5.5
+      }
+    ]
+  }
+}

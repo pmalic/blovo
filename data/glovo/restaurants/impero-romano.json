@@ -1,0 +1,428 @@
+{
+  "name": "Impero Romano",
+  "rating": 0.9,
+  "count": 86,
+  "service_fee": 2.8,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Impero Romano Pinsa",
+        "desc": "Paradajz sos, Mozzarella, gljive, kobasica, pršut, jaje, maslina",
+        "price": 16.0
+      },
+      {
+        "name": "Romolo",
+        "desc": "Paradajz sos, Mozzarella",
+        "price": 14.0
+      },
+      {
+        "name": "Constantino",
+        "desc": "Dimljeni sir, tartuf, Parmezan, pršut",
+        "price": 16.0
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Impero Romano droučak",
+        "desc": "Govedina, jaje, kulen, viršla, kajmak, pohovana palačinka, pohovani sir",
+        "price": 13.0
+      },
+      {
+        "name": "Trieste doručak",
+        "desc": "3 jaja, 2 hrenovke, pršut, govedina, salama, sir",
+        "price": 9.0
+      },
+      {
+        "name": "Genova",
+        "desc": "Genova",
+        "price": 9.0
+      },
+      {
+        "name": "Bari doručak",
+        "desc": "Pohovane palačinke",
+        "price": 8.0
+      },
+      {
+        "name": "Firenze doručak",
+        "desc": "Pršut, sir, slanina, hrenovke, vrganji",
+        "price": 8.0
+      },
+      {
+        "name": "Napoli doručak",
+        "desc": "Uštipak, kajmak",
+        "price": 8.0
+      },
+      {
+        "name": "Roma doručak",
+        "desc": "Pršut 50 gr, kulen 50 gr, salama 50 gr, govedina 30 gr, brusketi",
+        "price": 7.5
+      },
+      {
+        "name": "Milano  doručak",
+        "desc": "Pohovani sir",
+        "price": 7.0
+      },
+      {
+        "name": "Verona doručak",
+        "desc": "Jaja",
+        "price": 5.0
+      }
+    ],
+    "Pinsa": [
+      {
+        "name": "Annibale",
+        "desc": "Goveđe suho meso, Parmezan, rukola, paradajz sos",
+        "price": 16.0
+      },
+      {
+        "name": "Constantino",
+        "desc": "Dimljeni sir, tartuf, Parmezan, pršut",
+        "price": 16.0
+      },
+      {
+        "name": "Impero Romano Pinsa",
+        "desc": "Paradajz sos, Mozzarella, gljive, kobasica, pršut, jaje, maslina",
+        "price": 16.0
+      },
+      {
+        "name": "Teodora",
+        "desc": "Vrganji, panceta, Mozzarella, paradajz sos",
+        "price": 16.0
+      },
+      {
+        "name": "Lucila",
+        "desc": "Lucila",
+        "price": 16.0
+      },
+      {
+        "name": "Anco Marzio",
+        "desc": "Krompir, tartuf, Mozzarella",
+        "price": 15.0
+      },
+      {
+        "name": "Andrea",
+        "desc": "Paradajz sos, hrenovke, pomfrit, Parmezan",
+        "price": 15.0
+      },
+      {
+        "name": "Arman",
+        "desc": "Paprike, panceta, Mozzarella, paradajz sos",
+        "price": 15.0
+      },
+      {
+        "name": "Augusto",
+        "desc": "Tunjevina, masline, salsa rosa, paradajz sos",
+        "price": 15.0
+      },
+      {
+        "name": "Cleopatra",
+        "desc": "Paradajz sos, paprike, patlidžan, tikvice, gljive, Mozzarella",
+        "price": 15.0
+      },
+      {
+        "name": "Colosseo",
+        "desc": "Paradajz sos, slanina, crvena paprika,Parmezan",
+        "price": 15.0
+      },
+      {
+        "name": "Comodo",
+        "desc": "Paradajz sos, paprike, patlidžan, tikvice, gljive, blitva",
+        "price": 15.0
+      },
+      {
+        "name": "Diocleziano",
+        "desc": "Paradajz sos, paprike, patlidžan, tikvice, gljive, tunjevina",
+        "price": 15.0
+      },
+      {
+        "name": "Marco Aurelio",
+        "desc": "Blitva, paradajz sos, tunjevina",
+        "price": 15.0
+      },
+      {
+        "name": "Nerone",
+        "desc": "Paradajz sos, kulen, Mozzarella",
+        "price": 15.0
+      },
+      {
+        "name": "Caracalla",
+        "desc": "Caracalla",
+        "price": 15.0
+      },
+      {
+        "name": "Giulio Cesare",
+        "desc": "Giulio Cesare",
+        "price": 15.0
+      },
+      {
+        "name": "Gladiatore",
+        "desc": "Paradajz sos, Mozzarella, patlidžan, Parmezan",
+        "price": 14.0
+      },
+      {
+        "name": "Pompeo",
+        "desc": "Blitva, paradajz sos",
+        "price": 14.0
+      },
+      {
+        "name": "Romolo",
+        "desc": "Paradajz sos, Mozzarella",
+        "price": 14.0
+      },
+      {
+        "name": "Cacio e pepe alla romana",
+        "desc": "Parmezan, ovčiji sir, šareni biber",
+        "price": 13.0
+      }
+    ],
+    "Pasta": [
+      {
+        "name": "Lasagne",
+        "desc": "Mljeveno meso, Mozzarella, Parmezan, paradajz sos",
+        "price": 16.0
+      },
+      {
+        "name": "Albalonga",
+        "desc": "Špek, tikvice, šafran",
+        "price": 14.0
+      },
+      {
+        "name": "Amatriciana",
+        "desc": "Panceta, paradajz sos",
+        "price": 14.0
+      },
+      {
+        "name": "Carbonara",
+        "desc": "Panceta, jaje",
+        "price": 14.0
+      },
+      {
+        "name": "Raggu",
+        "desc": "Bolognese, mljeveno meso, paradajz sos",
+        "price": 14.0
+      },
+      {
+        "name": "Arrabbiata",
+        "desc": "Chilli sos, paradajz",
+        "price": 10.0
+      },
+      {
+        "name": "Cacio e pepe",
+        "desc": "Špagete, sir, biber",
+        "price": 10.0
+      }
+    ],
+    "Ostala jela": [
+      {
+        "name": "Carne mista",
+        "desc": "Miješano meso, svinjska rebarca, slanina, piletina, ćevapi, ražnjići",
+        "price": 16.0
+      },
+      {
+        "name": "Nettuno",
+        "desc": "Nettuno",
+        "price": 14.0
+      },
+      {
+        "name": "Cotoletta ala Milanese",
+        "desc": "Pohovana svinjska  šnicla na milanski način",
+        "price": 12.0
+      },
+      {
+        "name": "Salti in bocca alla Romana",
+        "desc": "Piletina, pršut",
+        "price": 12.0
+      },
+      {
+        "name": "Ostia",
+        "desc": "Ostia",
+        "price": 8.0
+      },
+      {
+        "name": "Insalata mista",
+        "desc": "Miješana salata, zelena salata, crveni luk, rotkvice, mrkva, kivi, orasi",
+        "price": 5.0
+      },
+      {
+        "name": "Pekarski krompir",
+        "desc": "Pekarski krompir",
+        "price": 5.0
+      },
+      {
+        "name": "Patate fritte",
+        "desc": "Pomfrit",
+        "price": 4.0
+      }
+    ],
+    "Desert": [
+      {
+        "name": "Cheesecake limun",
+        "desc": "Cheesecake limun",
+        "price": 7.0
+      },
+      {
+        "name": "Cheesecake šumsko voće",
+        "desc": "Cheesecake šumsko voće",
+        "price": 7.0
+      },
+      {
+        "name": "Tiramisu",
+        "desc": "Kafa, piškote, krema, kakao",
+        "price": 7.0
+      }
+    ],
+    "Pinse desert": [
+      {
+        "name": "Liaria",
+        "desc": "Kruška, cimet, rum",
+        "price": 12.0
+      },
+      {
+        "name": "Pantheon",
+        "desc": "Nutella",
+        "price": 8.0
+      }
+    ],
+    "Negazirani sokovi": [
+      {
+        "name": "Pago jagoda",
+        "desc": "Pago jagoda",
+        "price": 3.5
+      },
+      {
+        "name": "Pago ananas",
+        "desc": "Pago ananas",
+        "price": 3.5
+      },
+      {
+        "name": "Pago narandža",
+        "desc": "Pago narandža",
+        "price": 3.5
+      },
+      {
+        "name": "Pago ACE",
+        "desc": "Pago ACE",
+        "price": 3.5
+      },
+      {
+        "name": "Pago borovnica",
+        "desc": "Pago borovnica",
+        "price": 3.5
+      },
+      {
+        "name": "Cedevita",
+        "desc": "Cedevita",
+        "price": 3.0
+      },
+      {
+        "name": "Ledeni čaj Fuze tea 0.25 ml",
+        "desc": "0.25 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Sok borovnica Vitaminka 0.20 ml",
+        "desc": "0.20 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Sok narandža  Vitaminka 0.20 ml",
+        "desc": "0.20 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Sok jabuka Vitaminka 0.20 ml",
+        "desc": "0.20 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Sok jagoda  Vitaminka 0.20 ml",
+        "desc": "0.20 ml",
+        "price": 3.0
+      }
+    ],
+    "Gazirani sokovi": [
+      {
+        "name": "Vitinka",
+        "desc": "1L",
+        "price": 6.0
+      },
+      {
+        "name": "Vivia",
+        "desc": "0.75l",
+        "price": 6.0
+      },
+      {
+        "name": "Orangina 0.20 ml",
+        "desc": "0.20 ml",
+        "price": 3.5
+      },
+      {
+        "name": "Coca-Cola 0.20 ml",
+        "desc": "0.20 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Coca-Cola Zero 0.20 ml",
+        "desc": "0.20 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Cockta 0.20 ml",
+        "desc": "0.20 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Fanta 0.20 ml",
+        "desc": "0.20 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Schweppes Bitter Lemon 0.20 ml",
+        "desc": "0.20 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Schweppes Tangerina 0.20 ml",
+        "desc": "0.20 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Schweppes Tonic 0.20 ml",
+        "desc": "0.20 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Sprite 0.20 ml",
+        "desc": "0.20 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Exotic limeta 0.20 ml",
+        "desc": "0.20 ml",
+        "price": 2.5
+      },
+      {
+        "name": "Vitinka",
+        "desc": "Vitinka 0,25l",
+        "price": 2.5
+      },
+      {
+        "name": "Vivia voda",
+        "desc": "Vivia voda 0,25l",
+        "price": 2.0
+      }
+    ],
+    "Topli napici": [
+      {
+        "name": "Topla čokolada",
+        "desc": "Topla čokolada",
+        "price": 3.5
+      },
+      {
+        "name": "Nescafe",
+        "desc": "Nescafe classica",
+        "price": 2.5
+      }
+    ]
+  }
+}

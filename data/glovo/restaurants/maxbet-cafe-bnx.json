@@ -1,0 +1,259 @@
+{
+  "name": "Maxbet Cafe",
+  "rating": null,
+  "count": null,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Tortilja piletina",
+        "desc": "Piletina, gljive, paprike, tikvice, Edamer, vrhnje, ketchup, pomfrit",
+        "price": 14.5
+      },
+      {
+        "name": "Burger classic",
+        "desc": "Mljeveno meso, panceta, Edamer, krompirići, senf, majoneza",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Šunka, Edamer, šampinjoni, pelat, masline",
+        "price": 16.5
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Pijadina sa piletinom",
+        "desc": "Piletina, Edamer, vrhnje za kuhanje, pecivo",
+        "price": 11.0
+      },
+      {
+        "name": "Omlet sir i šunka",
+        "desc": "Jaja, šunka, Edamer, pecivo",
+        "price": 10.5
+      },
+      {
+        "name": "Pohovane palačinke",
+        "desc": "Šunka, Edamer, zelena salata",
+        "price": 9.0
+      }
+    ],
+    "Pizze": [
+      {
+        "name": "Pizza Max",
+        "desc": "Kulen, pršut, suvi vrat, šunka, pelat, rukola, masline, Feta sir, cherry paradajz",
+        "price": 21.0
+      },
+      {
+        "name": "Pizza pikantna sa piletinom",
+        "desc": "Piletina, Edamer, pelat, rukola, Feta sir, masline",
+        "price": 18.5
+      },
+      {
+        "name": "Pizza 4 godišnja doba",
+        "desc": "Kulen, pršut, šunka, panceta, Edamer, šampinjoni, masline, luk",
+        "price": 18.0
+      },
+      {
+        "name": "Pizza tunjevina",
+        "desc": "Tuna, pelat, luk, sir",
+        "price": 18.0
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Šunka, Edamer, šampinjoni, pelat, masline",
+        "price": 16.5
+      },
+      {
+        "name": "Pizza vege",
+        "desc": "Pelat, paradajz, masline, paprika, kukuruz, sir",
+        "price": 15.5
+      },
+      {
+        "name": "Pizza Margherita",
+        "desc": "Edamer, pelat, masline",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza Funghi",
+        "desc": "Šampinjoni, Edamer, pelat",
+        "price": 13.0
+      }
+    ],
+    "Burgeri": [
+      {
+        "name": "Burger classic",
+        "desc": "Mljeveno meso, panceta, Edamer, krompirići, senf, majoneza",
+        "price": 15.0
+      },
+      {
+        "name": "Fish burger",
+        "desc": "Riblji filet, zelena salata, pecivo",
+        "price": 12.5
+      }
+    ],
+    "Tortilje": [
+      {
+        "name": "Tortilja piletina",
+        "desc": "Piletina, gljive, paprike, tikvice, Edamer, vrhnje, ketchup, pomfrit",
+        "price": 14.5
+      },
+      {
+        "name": "Tortilja ljuta",
+        "desc": "Svinjski file, gljive, paprike, tikvice, pasulj, slatko-ljuti sos, pomfrit",
+        "price": 14.5
+      }
+    ],
+    "Glavna jela": [
+      {
+        "name": "Punjeni ćureći odrezak",
+        "desc": "Ćuretina dimljena, Mozzarella, vrhnje, Edamer, Gorgonzola, pomfrit",
+        "price": 27.5
+      },
+      {
+        "name": "Svinjski medaljoni u umaku od šampinjona",
+        "desc": "Svinjski file, šampinjoni, vrhnje, rukola, pomfrit",
+        "price": 24.0
+      },
+      {
+        "name": "Dimljena ćuretina sa žara",
+        "desc": "Ćuretina dimljena, kajmak, pomfrit",
+        "price": 22.0
+      },
+      {
+        "name": "Punjeni svinjski file",
+        "desc": "Svinjetina, barena slanina, Edamer, pekarski krompir, tikvice",
+        "price": 20.0
+      },
+      {
+        "name": "Pileći rezanci u Gorgonzola sosu",
+        "desc": "Piletina, Gorgonzola, vrhnje, njoke, pomfrit",
+        "price": 18.0
+      },
+      {
+        "name": "Piletina sir i pršut",
+        "desc": "Pileći file, Edamer, pršut, pekarski krompir",
+        "price": 17.0
+      },
+      {
+        "name": "Punjeni pileći file",
+        "desc": "Piletina, barena slanina, Edamer, tikvice, šampinjoni, pekarski krompir",
+        "price": 16.0
+      },
+      {
+        "name": "Pileći file",
+        "desc": "Piletina, tikvice, pomfrit",
+        "price": 13.5
+      }
+    ],
+    "Paste": [
+      {
+        "name": "Pasta Carbonara pršut",
+        "desc": "Tjestenina, pršut, vrhnje, Parmesan",
+        "price": 16.5
+      },
+      {
+        "name": "Pasta Bolognese",
+        "desc": "Tjestenina, mljeveno meso junetina, pelat, Parmesan, rukola",
+        "price": 13.5
+      },
+      {
+        "name": "Pasta sa piletinom u curry sosu",
+        "desc": "Tjestenina, piletina, vrhnje, Parmesan, curry",
+        "price": 13.5
+      }
+    ],
+    "Rižoto": [
+      {
+        "name": "Rižoto sa piletinom i Gorgonzolom",
+        "desc": "Riža, piletina, Gorgonzola, rukola, vrhnje",
+        "price": 16.0
+      }
+    ],
+    "Sendviči": [
+      {
+        "name": "Sendvič posni sa tunjevinom",
+        "desc": "Tuna, povrće, pecivo",
+        "price": 13.5
+      },
+      {
+        "name": "Sendvič Max",
+        "desc": "Svinjski suvi vrat, Edamer, jaje, ketchup, majoneza, pavlaka, pecivo",
+        "price": 11.0
+      },
+      {
+        "name": "Sendvič De luxe",
+        "desc": "Šunka, Edamer, pavlaka, pecivo",
+        "price": 10.5
+      },
+      {
+        "name": "Pizza sendvič",
+        "desc": "Šunka, Edamer, pelat, pecivo, zelena salata, cherry paradajz",
+        "price": 10.5
+      },
+      {
+        "name": "Sendvič Index",
+        "desc": "Šunka, Edamer, šampinjoni, ketchup, majoneza, pavlaka, paradajz, pomfrit, pecivo",
+        "price": 9.5
+      }
+    ],
+    "Fingerfood": [
+      {
+        "name": "XXL pileće bijelo sa pomfritom",
+        "desc": "Pileće bijelo meso, pomfrit, pecivo",
+        "price": 22.0
+      },
+      {
+        "name": "Hrskavi štapići od piletine u cornflexu",
+        "desc": "Piletina, cornflex, vrhnje, Gorgonzola, pomfrit",
+        "price": 14.5
+      },
+      {
+        "name": "Taquitos",
+        "desc": "Piletina, tortilja",
+        "price": 12.5
+      },
+      {
+        "name": "Xl grilovana krilca",
+        "desc": "Pileća krilca, luk, ketchup, pecivo",
+        "price": 9.5
+      },
+      {
+        "name": "Xl pohovana krilca",
+        "desc": "Pileća krilca, luk, ketchup, jaja, pecivo",
+        "price": 9.5
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "Ceasar salata",
+        "desc": "Piletina, zelena salata, Edamer, vrhnje, panceta, Grana Padano, worcestershire sos, tost, maslinovo ulje",
+        "price": 15.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pomfrit",
+        "desc": "Pomfrit",
+        "price": 5.5
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Crna palačinka",
+        "desc": "Vanilija krema, šumsko voće, sladoled, Plazma, čokolada",
+        "price": 10.0
+      },
+      {
+        "name": "Cheesecake",
+        "desc": "Plazma keks, Mascarpone sir, voće",
+        "price": 9.0
+      },
+      {
+        "name": "Tri leće",
+        "desc": "Karamela, mlijeko, jaja, brašno",
+        "price": 7.0
+      }
+    ]
+  }
+}

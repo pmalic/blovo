@@ -1,0 +1,150 @@
+{
+  "name": "Gatto Trattoria",
+  "rating": 0.91,
+  "count": 18,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Gatto Bresaola combo",
+        "desc": "Gatto, Bresaola, 2x Pepsi",
+        "price": 43.0
+      },
+      {
+        "name": "Bresaola combo",
+        "desc": "2x Bresaola, 2x Pepsi",
+        "price": 44.0
+      },
+      {
+        "name": "Gatto combo",
+        "desc": "2x Gatto, 2x Pepsi",
+        "price": 42.0
+      }
+    ],
+    "Combo ponuda": [
+      {
+        "name": "Bresaola combo",
+        "desc": "2x Bresaola, 2x Pepsi",
+        "price": 44.0
+      },
+      {
+        "name": "Gatto Bresaola combo",
+        "desc": "Gatto, Bresaola, 2x Pepsi",
+        "price": 43.0
+      },
+      {
+        "name": "Gatto combo",
+        "desc": "2x Gatto, 2x Pepsi",
+        "price": 42.0
+      },
+      {
+        "name": "Pizza Bresaola + Pepsi",
+        "desc": "Pelat, Mozzarella, rukola, cherry paradajz, goveđa pršuta, Pepsi",
+        "price": 22.0
+      },
+      {
+        "name": "Pizza Gatto + Pepsi",
+        "desc": "Pelat, Mozzarella, bijeli luk, pršut, panceta, kulen, cherry paradajz, rukola, Pepsi",
+        "price": 21.0
+      }
+    ],
+    "Specijalna ponuda": [
+      {
+        "name": "Pizza Bresaola",
+        "desc": "Pelat, Mozzarella, rukola,  cherry paradajz, goveda pršuta",
+        "price": 19.0
+      },
+      {
+        "name": "Pizza Gatto",
+        "desc": "Pelat, Mozzarella, bijeli luk, pršut, panceta, kulen, cherry paradajz, rukola",
+        "price": 18.0
+      },
+      {
+        "name": "Pizza Tacchino",
+        "desc": "Pelat, Mozzarella, pureća šunka, gljive",
+        "price": 16.0
+      }
+    ],
+    "Po Italijanskom receptu": [
+      {
+        "name": "Pizza Toscana",
+        "desc": "Pelat, Mozzarella, pršut, cherry paradajz, rukola",
+        "price": 17.0
+      },
+      {
+        "name": "Pizza Cacciatora",
+        "desc": "Pelat, Mozzarella, gljive, panceta, kulen, feferoni",
+        "price": 17.0
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Pelat, Mozzarella, gljive, šunka, artičoke",
+        "price": 16.0
+      },
+      {
+        "name": "Pizza Quattro Formaggi",
+        "desc": "Pelat, Mozzarella, Ementaler, Gorgonzola, Parmezan",
+        "price": 16.0
+      },
+      {
+        "name": "Pizza Frutti Di Mare",
+        "desc": "Pelat, sir, morski plodovi, bijeli luk",
+        "price": 16.0
+      },
+      {
+        "name": "Pizza Tonno",
+        "desc": "Pelat, Mozzarella, tuna, ljubičasti luk",
+        "price": 16.0
+      },
+      {
+        "name": "Pizza Diavola",
+        "desc": "Pelat, Mozzarela, gljive, kulen, feferoni",
+        "price": 16.0
+      },
+      {
+        "name": "Pizza Vegeteriana",
+        "desc": "Pelat, Mozzarella, kukuruz, cherry paradajz, paprika, rukola",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza Funghi",
+        "desc": "Pelat, Mozzarella, gljive",
+        "price": 14.0
+      },
+      {
+        "name": "Pizza Margherita",
+        "desc": "Pelat, Mozzarella, bosiljak",
+        "price": 13.0
+      },
+      {
+        "name": "Pizza Marinara",
+        "desc": "Pelat, bijeli luk",
+        "price": 10.0
+      }
+    ],
+    "Mirisi Istre": [
+      {
+        "name": "Bijela Pizza Tartufi",
+        "desc": "Mozzarella, tartufata, tartufi, pršut",
+        "price": 21.0
+      },
+      {
+        "name": "Pizza Kažun",
+        "desc": "Pelat, Mozzarella, gljive, ljubičasti luk, kulen, šunka, panceta",
+        "price": 17.0
+      },
+      {
+        "name": "Pizza Istriana",
+        "desc": "Pelat, Mozzarella, Parmezan, pršut",
+        "price": 16.0
+      }
+    ],
+    "Pivski štapići": [
+      {
+        "name": "Pivski Štapići",
+        "desc": "Bijeli luk, maslinovo ulje",
+        "price": 4.5
+      }
+    ]
+  }
+}

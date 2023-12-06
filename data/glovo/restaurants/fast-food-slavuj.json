@@ -1,0 +1,764 @@
+{
+  "name": "Fast food Slavuj",
+  "rating": 0.97,
+  "count": 214,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Karađorđeva šnicla",
+        "desc": "Piletina punjena kajmakom i pekom. Prilog pomfrit",
+        "price": 7.5
+      },
+      {
+        "name": "Rolovani grekos",
+        "desc": "Pomfrit, lepinja , file, feta sir, slanina",
+        "price": 12.0
+      },
+      {
+        "name": "Piletina sa rižom",
+        "desc": "Zelena salata",
+        "price": 11.0
+      }
+    ],
+    "Promo ponuda": [
+      {
+        "name": "Posna Plata",
+        "desc": "Oslic 0,300g,Girice 0,200,kolutici lignji 0,150,2 lepinje +marinada + limun + rizoto povrce 0,2",
+        "price": 23.0
+      },
+      {
+        "name": "Batak u lepinji",
+        "desc": "200 gr mesa i pomfrit",
+        "price": 8.0
+      }
+    ],
+    "Combo ponuda": [
+      {
+        "name": "Kilogram krilaca za dvije osobe + 2x Nektar pivo 0.5 l",
+        "desc": "Krilca 1 kg, 2x pivo 0.5 l",
+        "price": 30.6
+      },
+      {
+        "name": "Naša plata za dvije osobe + 2x Jelen pivo 0.5 l",
+        "desc": "batak sa kostima x2,pileca krilca 0,300g,pomfrit 0,200g,lepinja x2, 2x pivo 0.5 l",
+        "price": 25.6
+      },
+      {
+        "name": "Combo 3  Naša plata + Sok po izboru",
+        "desc": "batak sa karabatkom x2,pileca krilca 0,300g , pomfrit 0,200g + lepinja x2,Sok po izboru",
+        "price": 22.5
+      },
+      {
+        "name": "Combo 1 Pileća kombinacija+ pomfrit + Coca-Cola",
+        "desc": "Pileća kombinacija+ pomfrit + Coca-Cola",
+        "price": 21.5
+      },
+      {
+        "name": "Combo 2 Pileći mix mali + pomfrit",
+        "desc": "Pileći mix mali + pomfrit",
+        "price": 19.0
+      }
+    ],
+    "Plate": [
+      {
+        "name": "Naša plata za 2 osobe",
+        "desc": "2x batak, 2x karabatak, 200 gr krilca, 200 gr pomfrit, 2 lepinje",
+        "price": 20.0
+      }
+    ],
+    "Fitnes jela": [
+      {
+        "name": "Proteinska bomba 200gr",
+        "desc": "File, riža, 1 kuvano jaje",
+        "price": 13.0
+      },
+      {
+        "name": "Fitnes odrezak",
+        "desc": "Riža, kuvano jaje, pileći file, zelena salata",
+        "price": 12.0
+      },
+      {
+        "name": "Piletina sa brokulijem",
+        "desc": "Sa parmezanom",
+        "price": 12.0
+      },
+      {
+        "name": "Fitnes burger 200 gr",
+        "desc": "Mljevena piletina, svježi sir, tikvice, zelena salata",
+        "price": 12.0
+      },
+      {
+        "name": "Piletina sa rižom",
+        "desc": "Zelena salata",
+        "price": 11.0
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Rolovani omlet",
+        "desc": "4 jaja, šunka, sir, povrće i pecivo",
+        "price": 8.2
+      },
+      {
+        "name": "Jaja sa kobasicom",
+        "desc": "3 jaja, kobasice i pecivo",
+        "price": 7.2
+      },
+      {
+        "name": "Omlet sa sirom i piletinom",
+        "desc": "3 jaja, sir, piletina, pecivo",
+        "price": 7.2
+      },
+      {
+        "name": "Omlet sa sirom i povrćem",
+        "desc": "3 jaja, sir, povrće, pecivo",
+        "price": 6.7
+      },
+      {
+        "name": "Jaja sa slaninom",
+        "desc": "3 jaja, slanina i pecivo",
+        "price": 6.2
+      },
+      {
+        "name": "Jaja sa šunkom",
+        "desc": "3 jaja, šunka i pecivo",
+        "price": 6.2
+      },
+      {
+        "name": "Jaja sa hrenovkom",
+        "desc": "3 jaja, hrenovka i pecivo",
+        "price": 6.2
+      },
+      {
+        "name": "Omlet sa sirom i šunkom",
+        "desc": "3 jaja, sir, šunka i pecivo",
+        "price": 6.2
+      },
+      {
+        "name": "Omlet sa sirom i šampinjonima",
+        "desc": "3 jaja, sir, šampinjoni i pecivo",
+        "price": 6.2
+      },
+      {
+        "name": "Jaja na oko",
+        "desc": "3 jaja i pecivo",
+        "price": 4.2
+      },
+      {
+        "name": "Hot dog",
+        "desc": "Hot dog",
+        "price": 4.2
+      }
+    ],
+    "Supe": [
+      {
+        "name": "Potaž od povrća",
+        "desc": "Karfiol, mrkva, krompir, špinat, začini",
+        "price": 6.0
+      },
+      {
+        "name": "Pileća supa",
+        "desc": "Piletina, povrće, začini, tjestenina",
+        "price": 4.0
+      }
+    ],
+    "Jela sa roštilja": [
+      {
+        "name": "Odrezak u gorgonzola sosu",
+        "desc": "Pileći file punjen kulenom i mozzarellom rolovan u slanini",
+        "price": 14.0
+      },
+      {
+        "name": "File punjen fetom i špinatom",
+        "desc": "Pomfrit, lepinja, file, feta, špinat, gorgonzola",
+        "price": 14.0
+      },
+      {
+        "name": "Batak sa slaninom u kajmaku",
+        "desc": "Pomfrit, batak 200 gr, sir, slanina, kajmak, lepinja",
+        "price": 13.0
+      },
+      {
+        "name": "Rolovani pileći štapići",
+        "desc": "Pomfrit, lepinja, pilći  file, slanina, gorgonzola sos",
+        "price": 13.0
+      },
+      {
+        "name": "Roštilj mix",
+        "desc": "Bijelo meso 100 gr, ćevap 100 gr, kobasica 100 gr, pomfrit, lepinja",
+        "price": 13.0
+      },
+      {
+        "name": "Slagani batak",
+        "desc": "Batak 200 gr, jaje 1 kom, sir, slanina, šunka, pomfrit, lepinja",
+        "price": 13.0
+      },
+      {
+        "name": "Rolovani grekos",
+        "desc": "Pomfrit, lepinja , file, feta sir, slanina",
+        "price": 12.0
+      },
+      {
+        "name": "Rolovani pileći odrezak",
+        "desc": "File punjen sirom, slanina, pomfrit",
+        "price": 12.0
+      },
+      {
+        "name": "Pileća šnicla sa sirom i slaninom",
+        "desc": "Pomfrit, lepinja, pileći file, topljeni sir, slanina",
+        "price": 11.0
+      },
+      {
+        "name": "Punjena piletina sa sirom i šunkom",
+        "desc": "Pomfrit, lepinja, pileći file, šunka, sir",
+        "price": 11.0
+      },
+      {
+        "name": "Grekos odrezak",
+        "desc": "Pomfrit, lepinja, pileći file, feta sir",
+        "price": 11.0
+      },
+      {
+        "name": "Rolovani ražnjići",
+        "desc": "Pomfrit, lepinja, slanina",
+        "price": 8.0
+      },
+      {
+        "name": "Pilece Bjelo Meso",
+        "desc": "bjelo meso 150g,pomfrit,lepinja",
+        "price": 8.0
+      },
+      {
+        "name": "Rolovani grekos mali",
+        "desc": "Mali",
+        "price": 7.5
+      },
+      {
+        "name": "Pileći ražnjići",
+        "desc": "Pomfrit, lepinja, pileći file",
+        "price": 7.0
+      },
+      {
+        "name": "Grekos odrezak mali",
+        "desc": "Grekos odrezak mali",
+        "price": 6.5
+      },
+      {
+        "name": "Batak sa kostima",
+        "desc": "Pomfrit, lepinja, sos",
+        "price": 6.0
+      },
+      {
+        "name": "Ćevapi",
+        "desc": "Mala porcija 2 pločice, srednja porcija 3 pločice, velika porcija 4 pločice",
+        "price": 5.0
+      }
+    ],
+    "Jela u sosu": [
+      {
+        "name": "Piletina u šampinjon sosu",
+        "desc": "Riža, šampinjoni, lepinja, vrhnje za kuhanje",
+        "price": 13.0
+      },
+      {
+        "name": "Piletina sa bademima",
+        "desc": "Riža, lepinja, piletina, mljeveni badem, vrhnje za kuhanje",
+        "price": 13.0
+      },
+      {
+        "name": "Piletina u curry sosu",
+        "desc": "Riža, piletina, lepinja, špinat, curry začin, vrhnje za kuhanje",
+        "price": 13.0
+      },
+      {
+        "name": "Pileci rizoto",
+        "desc": "Piletina,špinat,riza,vrhnje za kuvanje 0,350g",
+        "price": 8.0
+      }
+    ],
+    "Pljeskavice": [
+      {
+        "name": "Plata za 3-4 osobe 1 kg",
+        "desc": "2 bataka, 2 pileća filea, 2 pljeskavice, 4 mesna uštipka, 2 ražnjića, 200 gr pomfrita i 2 lepinje",
+        "price": 36.0
+      },
+      {
+        "name": "Pileći mix velika porcija 600 gr",
+        "desc": "200 gr chicken fingersa, 200 gr chicken nuggets, 200 gr krilca, 100 gr pomfrita i lepinja",
+        "price": 22.0
+      },
+      {
+        "name": "Pileća kombinacija 400 gr",
+        "desc": "100 gr pilećeg filea, 100 gr pljeskavica, 3 mesna uštipka, 1 ražnjić, 100 gr pomfrita i 1 lepinja",
+        "price": 16.0
+      },
+      {
+        "name": "Pileći mix mala porcija 300 gr",
+        "desc": "100 gr chicken fingersa, 100 gr chicken nuggets, 100 gr krilca, 100 gr pomfrita i lepinja",
+        "price": 12.5
+      },
+      {
+        "name": "Gurmanski uštipci 200 gr",
+        "desc": "Pomfrit i lepinja",
+        "price": 12.0
+      },
+      {
+        "name": "Extra velika pljeskavica",
+        "desc": "Lepinja, burger sos, zelena salata, paradajz",
+        "price": 10.0
+      },
+      {
+        "name": "Pileći cheeseburger 200 gr",
+        "desc": "Sir, slanina, burger sos, pomfrit",
+        "price": 10.0
+      },
+      {
+        "name": "Velika gurmanska pljeskavica 200 gr",
+        "desc": "200 gr,  sir, slanina, lepinja, zelena salata, paradajz",
+        "price": 9.5
+      },
+      {
+        "name": "Punjena pljeskavica 200 gr",
+        "desc": "200 gr, mljeveni batak punjen sirom, burger sos, zelena salata,  paradajz",
+        "price": 9.0
+      },
+      {
+        "name": "Velika pljeskavica 200 gr",
+        "desc": "200 gr, lepinja, burger sos, zelena salata, paradajz",
+        "price": 8.5
+      },
+      {
+        "name": "Gurmanska pljeskavica 150 gr",
+        "desc": "150 gr, lepinja, burger sos , zelena salata, paradajz",
+        "price": 7.5
+      },
+      {
+        "name": "Pileća pljeskavica 150 gr",
+        "desc": "150 gr, mljeveni batak, lepinja, burger sos, zelena salata, paradajz",
+        "price": 6.5
+      },
+      {
+        "name": "Mala pljeskavica 100 gr",
+        "desc": "100 gr",
+        "price": 4.5
+      },
+      {
+        "name": "Roštilj kobasica",
+        "desc": "4 komada, pomfrit i lepinja",
+        "price": 4.5
+      }
+    ],
+    "Pohovana piletina": [
+      {
+        "name": "Cordon blue velika porcija",
+        "desc": "Pileći file punjen pekom i mozzarellom",
+        "price": 15.0
+      },
+      {
+        "name": "Pileći jastučići",
+        "desc": "Pileći file punjen sirom, pomfrit",
+        "price": 14.0
+      },
+      {
+        "name": "Pileće krpice velika porcija",
+        "desc": "Velika porcija",
+        "price": 12.0
+      },
+      {
+        "name": "Pileći fingersi",
+        "desc": "Pomfrit, pohovani pileći file",
+        "price": 11.0
+      },
+      {
+        "name": "Nuggetsi blagi",
+        "desc": "Pomfrit, pohovana piletina",
+        "price": 11.0
+      },
+      {
+        "name": "Nuggetsi ljuti",
+        "desc": "Pomfrit, ljuti sos",
+        "price": 11.0
+      },
+      {
+        "name": "Pohovani file sir šunka",
+        "desc": "Pomfrit, lepinja, file , šunka, sir",
+        "price": 11.0
+      },
+      {
+        "name": "Pohovani file gljive",
+        "desc": "Pomfrit, lepinja, file, gljive, sir",
+        "price": 11.0
+      },
+      {
+        "name": "Krilca blaga",
+        "desc": "Pomfrit, lepinja, 300 gr krilaca",
+        "price": 10.0
+      },
+      {
+        "name": "Krilca ljuta",
+        "desc": "Pomfrit, lepinja, 300 gr krilaca",
+        "price": 10.0
+      },
+      {
+        "name": "Pileće krpice srednja porcija",
+        "desc": "Srednja porcija",
+        "price": 8.0
+      },
+      {
+        "name": "Karađorđeva šnicla",
+        "desc": "Piletina punjena kajmakom i pekom. Prilog pomfrit",
+        "price": 7.5
+      },
+      {
+        "name": "Cordon blue mala porcija",
+        "desc": "Mala porcija, pileći file punjen pekom i mozzarellom",
+        "price": 7.5
+      },
+      {
+        "name": "Bečka šnicla",
+        "desc": "Pomfrit, lepinja, pohovana piletina 200 gr",
+        "price": 7.0
+      },
+      {
+        "name": "Pileće krpice",
+        "desc": "100 gr pileće krpice, pomfrit, lepinja",
+        "price": 6.0
+      }
+    ],
+    "Slane palačinke": [
+      {
+        "name": "Pohovane palačinke 1 komad",
+        "desc": "Tijesto, punjenje",
+        "price": 4.0
+      }
+    ],
+    "Sendviči": [
+      {
+        "name": "Sendvič sa piletinom",
+        "desc": "Pileći file, sir, paradajz, zelena salata, sos",
+        "price": 6.5
+      },
+      {
+        "name": "Sendvič sa sirom i  pekom",
+        "desc": "Sir, peka, zelena salata, paradajz , sos",
+        "price": 6.5
+      },
+      {
+        "name": "Sendvič sa sirom i kulenom",
+        "desc": "Kulen, sir, paradajz, zelena salata, sos",
+        "price": 6.5
+      },
+      {
+        "name": "Sendvič sa sirom i šunkom",
+        "desc": "Šunka, sir, paradajz, zelena salata, sos",
+        "price": 5.0
+      }
+    ],
+    "Posna jela": [
+      {
+        "name": "Lignje na žaru",
+        "desc": "Krompir salata, limun, marinada",
+        "price": 16.0
+      },
+      {
+        "name": "Frigane lignje",
+        "desc": "Krompir salata, lepinja, marinada",
+        "price": 16.0
+      },
+      {
+        "name": "Pastrmka sa prilogom",
+        "desc": "Pastrmka, lepinja, krompir salata, marinada, limun",
+        "price": 12.0
+      },
+      {
+        "name": "Oslić",
+        "desc": "300 gr, krompir salata, lepinja, marinada",
+        "price": 10.0
+      },
+      {
+        "name": "Crni rižoto sa kozicama",
+        "desc": "350 gr, riža, lepinja, kozice, crnilo od sipe",
+        "price": 10.0
+      },
+      {
+        "name": "Tuna salata",
+        "desc": "350 gr, riža, zelena salata, paradajz, kiseli krastavci, luk crveni, tunjevina, masline",
+        "price": 8.0
+      },
+      {
+        "name": "Girice 300 gr",
+        "desc": "Lepinja, limun, marinada",
+        "price": 8.0
+      },
+      {
+        "name": "Pohovane lignje",
+        "desc": "Prilog pomfrit, lepinja, lignje, marinada",
+        "price": 7.5
+      },
+      {
+        "name": "Rižoto sa povrćem",
+        "desc": "350 gr, riža, povrće, lepinja",
+        "price": 7.0
+      },
+      {
+        "name": "Rižoto sa gljivama",
+        "desc": "350 gr, riža, gljive, lepinja, začini",
+        "price": 7.0
+      },
+      {
+        "name": "Sendvič sa tunjevinom",
+        "desc": "Lepinja, zelena salata, paradajz, luk, kiseli krasravac, tunjevina",
+        "price": 6.5
+      },
+      {
+        "name": "Grilovano povrće",
+        "desc": "Lepinja, marinada, grilovano povrće, 300 gr",
+        "price": 5.0
+      },
+      {
+        "name": "Girice 100 gr",
+        "desc": "100 gr girica",
+        "price": 2.5
+      }
+    ],
+    "Slatke palačinke": [
+      {
+        "name": "Fritule 5 komada",
+        "desc": "5 komada",
+        "price": 4.0
+      },
+      {
+        "name": "Slatka palačinka 1 komad",
+        "desc": "Tijesto, namaz",
+        "price": 3.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Mozzarella salata 350 gr",
+        "desc": "Mozzarella sir, paradajz",
+        "price": 10.0
+      },
+      {
+        "name": "Cezar salata 350 gr",
+        "desc": "Zelena salata, svježi krastavci, paradajz, paprika, krutoni, piletina i dressing",
+        "price": 9.0
+      },
+      {
+        "name": "Grčka salata",
+        "desc": "paradajz,krastvac masline i feta sir",
+        "price": 8.0
+      },
+      {
+        "name": "Miješana salata 350 gr",
+        "desc": "Svježi kupus, svježi krastavci, paradajz",
+        "price": 6.5
+      },
+      {
+        "name": "Šopska salata",
+        "desc": "250 gr, krastavci,  paradajz, paprika, vlasićki sir",
+        "price": 5.0
+      },
+      {
+        "name": "Srpska salata",
+        "desc": "250 gr, karastavci, paradajz, paprika, feferona",
+        "price": 4.5
+      },
+      {
+        "name": "Miješana salata 0,200 gr",
+        "desc": "Miješana salata 0,200 gr",
+        "price": 4.0
+      },
+      {
+        "name": "Krastavac salata 0,200 gr",
+        "desc": "Krastavac salata 0,200 gr",
+        "price": 4.0
+      },
+      {
+        "name": "Paradajz salata 0,200 gr",
+        "desc": "Paradajz salata 0,200 gr",
+        "price": 4.0
+      },
+      {
+        "name": "Engleska salata 0,200 gr",
+        "desc": "Engleska salata, 200 gr, kupus, mrkva, majoneza",
+        "price": 4.0
+      },
+      {
+        "name": "Kupus salata",
+        "desc": "Kupus 200 gr",
+        "price": 3.0
+      },
+      {
+        "name": "Zelena salata",
+        "desc": "zelena salata 0,2g",
+        "price": 3.0
+      },
+      {
+        "name": "Krompir salata",
+        "desc": "krompir salata 0,300g",
+        "price": 3.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pomfrit",
+        "desc": "200 gr",
+        "price": 3.0
+      },
+      {
+        "name": "Šampinjoni",
+        "desc": "100 gr",
+        "price": 3.0
+      },
+      {
+        "name": "Riža",
+        "desc": "200 gr",
+        "price": 3.0
+      },
+      {
+        "name": "Tikvice",
+        "desc": "100 gr",
+        "price": 3.0
+      },
+      {
+        "name": "Kajmak",
+        "desc": "kajmak 0,5g",
+        "price": 3.0
+      },
+      {
+        "name": "Lepinja",
+        "desc": "Lepinja 180 gr",
+        "price": 1.2
+      },
+      {
+        "name": "Jaje 1komad",
+        "desc": "Jedan komad jaje",
+        "price": 1.2
+      },
+      {
+        "name": "Tzatziki",
+        "desc": "50 gr",
+        "price": 1.0
+      },
+      {
+        "name": "Tartar",
+        "desc": "50 gr",
+        "price": 1.0
+      },
+      {
+        "name": "Urnebes",
+        "desc": "50 gr",
+        "price": 1.0
+      },
+      {
+        "name": "Paradajz",
+        "desc": "0.03",
+        "price": 0.8
+      },
+      {
+        "name": "Krastavac",
+        "desc": "0.03",
+        "price": 0.8
+      },
+      {
+        "name": "Ketchup blagi",
+        "desc": "0.03",
+        "price": 0.5
+      },
+      {
+        "name": "Ketchup ljuti",
+        "desc": "0.03",
+        "price": 0.5
+      },
+      {
+        "name": "Pavlaka",
+        "desc": "0.03",
+        "price": 0.5
+      },
+      {
+        "name": "Majonez",
+        "desc": "0.03",
+        "price": 0.5
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Tuborg pivo 0.5 l",
+        "desc": "0.5 l",
+        "price": 3.0
+      },
+      {
+        "name": "Jelen pivo 0.5 l",
+        "desc": "0.5 l",
+        "price": 2.8
+      },
+      {
+        "name": "Nektar pivo 0.5 l",
+        "desc": "0.5 l",
+        "price": 2.8
+      },
+      {
+        "name": "Schweppes tangerine",
+        "desc": "500ml",
+        "price": 2.5
+      },
+      {
+        "name": "Sprite",
+        "desc": "500ml",
+        "price": 2.5
+      },
+      {
+        "name": "Fanta orange",
+        "desc": "500ml",
+        "price": 2.5
+      },
+      {
+        "name": "Multivita",
+        "desc": "500ml",
+        "price": 2.5
+      },
+      {
+        "name": "Coca-Cola",
+        "desc": "500ml",
+        "price": 2.5
+      },
+      {
+        "name": "Schweppes bitter lemon",
+        "desc": "0,5l",
+        "price": 2.5
+      },
+      {
+        "name": "Schweppes Nar",
+        "desc": "0,5l",
+        "price": 2.5
+      },
+      {
+        "name": "Ledeni čaj breskva",
+        "desc": "500ml",
+        "price": 2.0
+      },
+      {
+        "name": "Kruška Vitinka",
+        "desc": "500ml",
+        "price": 2.0
+      },
+      {
+        "name": "Ledeni čaj brusnica",
+        "desc": "500 ml",
+        "price": 2.0
+      },
+      {
+        "name": "Vivia Mineralna voda",
+        "desc": "500ml",
+        "price": 1.5
+      },
+      {
+        "name": "Vivia Negazirana voda",
+        "desc": "500ml",
+        "price": 1.5
+      }
+    ]
+  }
+}

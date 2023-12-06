@@ -1,0 +1,142 @@
+{
+  "name": "Pizzeria V&S - Pizza Italiana",
+  "rating": 1.0,
+  "count": 18,
+  "service_fee": 2.3,
+  "menu": {
+    "Pizza": [
+      {
+        "name": "Pizza Quattro Stagioni 32 cm",
+        "desc": "Mozzarella, salsa pomodoro, prosciutto, funghi, olive, salamino, sir, paradajz sos, šunka, gljive, kobasica, masline",
+        "price": 17.0
+      },
+      {
+        "name": "Pizza Capricciosa 32 cm",
+        "desc": "Mozzarella, salsa pomodoro, prosciutto, funghi, olive, sir, paradajz sos, šunka, gljive, masline",
+        "price": 16.5
+      },
+      {
+        "name": "Pizza Quattro Formaggi 32 cm",
+        "desc": "Formaggi, salsa pomodoro, 4 sira, paradajz sos",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza  Margherita 32 cm",
+        "desc": "Mozzarella, salsa pomodoro, sir, paradajz sos",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza  Prosciutto",
+        "desc": "Mozzarella, salsa pomodoro, prosciutto, sir, paradajz sos, šunka",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Prosciutto E Funghi",
+        "desc": "Mozzarella, salsa pomodoro, prosciutto, funghi, sir, paradajz sos, šunka, gljive",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Capricciosa 24 cm",
+        "desc": "Mozzarella, salsa pomodoro, prosciutto, funghi, olive, sir, paradajz sos, šunka, gljive, masline",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Quattro Stagioni 24 cm",
+        "desc": "Mozzarella, salsa pomodoro, prosciutto, funghi, olive, salamino, sir, paradajz sos, šunka, gljive, kobasica, masline",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Verdure",
+        "desc": "Mozzarella, salsa pomodoro, melanzane, zucchine, peperoni, sir, paradajz sos, patlidžan, tikvice, paprika",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Diavola",
+        "desc": "Mozzarella, salsa pomodoro, salamino, peperoni piccante, sir, paradajz sos, kobasica, feferoni ljuti",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Quattro Formaggi 24 cm",
+        "desc": "Formaggi, salsa pomodoro, 4 sira, paradajz sos",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Speck",
+        "desc": "Mozzarella, salsa pomodoro, speck, sir, paradajz sos",
+        "price": 10.0
+      },
+      {
+        "name": "Tonno e cipolla",
+        "desc": "Tonno e cipolla",
+        "price": 10.0
+      },
+      {
+        "name": "Montanara",
+        "desc": "Montanara",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza  Margherita 24 cm",
+        "desc": "Mozzarella, salsa pomodoro, sir, paradajz sos",
+        "price": 7.5
+      },
+      {
+        "name": "Pizza  Marinara 24 cm",
+        "desc": "Salsa pomodoro, origano, aglio, paradajz sos, origano, bijeli luk",
+        "price": 5.0
+      },
+      {
+        "name": "Pizza Focaccia 24 cm",
+        "desc": "Ollio di olive, rosmarino, maslinovo ulje, ruzmarin",
+        "price": 4.0
+      }
+    ],
+    "Pizza Italiana": [
+      {
+        "name": "Pizza Italiana Borac 32 cm",
+        "desc": "Mozzarella, salsa pomodoro, prosciutto, verdure, salamino, sir, paradajz sos, šunka, povrće, kobasica",
+        "price": 18.0
+      },
+      {
+        "name": "Pizza Italiana della casa",
+        "desc": "Mozzarella, salsa pomodoro, prosciutto, funghi, salamino, speck, cipolla, peperoni, sir, paradajz sos, šunka, gljive, kobasica, speck, luk, paprika",
+        "price": 11.5
+      },
+      {
+        "name": "Pizza Italiana Borac 24 cm",
+        "desc": "Mozzarella, salsa pomodoro, prosciutto, verdure, salamino, sir, paradajz sos, šunka, povrće, kobasica",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Italiana Zenit",
+        "desc": "Mozzarella, salsa pomodoro, prosciutto, funghi, salamino, cipolla, sir, paradajz sos, šunka, gljive, kobasica, luk",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Italiana Calabrese",
+        "desc": "Mozzarella, salsa pomodoro, salamino, peperoni, sir, paradajz sos, kobasica, paprika",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Italiana Verdure",
+        "desc": "Mozzarella, salsa pomodoro, melanzane, zucchine, peperoni, sir, paradajz sos, patlidžan, tikvice, paprika",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Italiana Funghi",
+        "desc": "Mozzarella, salsa pomodoro, funghi, sir, paradajz sos, gljive",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Italiana Greca",
+        "desc": "Mozzarella, salsa pomodoro, olive, Feta, pomodoro, sir, paradajz sos, masline,  paradajz",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Italiana Focaccia Nutella 24 cm",
+        "desc": "Focaccia eurocrem",
+        "price": 5.0
+      }
+    ]
+  }
+}

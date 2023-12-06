@@ -1,0 +1,358 @@
+{
+  "name": "Gatsby",
+  "rating": null,
+  "count": null,
+  "service_fee": 1.9,
+  "menu": {
+    "Deserti": [
+      {
+        "name": "71 Snickers pate",
+        "desc": "Lisnato tijesto, Nutella, maslac od kikirikija, karamela, lješnik",
+        "price": 9.2
+      },
+      {
+        "name": "73 Nougat palačinke",
+        "desc": "Palačinke, kikiriki puter, Nutella, sladoled",
+        "price": 9.2
+      },
+      {
+        "name": "74 Mr. Black",
+        "desc": "Crna čokolada, bijela čokolada, lješnik, maslac, šumsko voće, sladoled",
+        "price": 9.2
+      },
+      {
+        "name": "72 Tri leće",
+        "desc": "Ukusi: karamela, Nutella preliv, šumsko voće",
+        "price": 8.0
+      },
+      {
+        "name": "75 Mr. Brown",
+        "desc": "Crna čokolada, šumsko voće, slatko vrhnje",
+        "price": 8.0
+      },
+      {
+        "name": "76 Prekomurska gibanica",
+        "desc": "Orasi, maslac, mak, jabuke, mladi sir, mileram, vanila",
+        "price": 7.0
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "39 Sashimi salata",
+        "desc": "Brancin, zelena salata, radič, rukola, rotkvice",
+        "price": 28.5
+      },
+      {
+        "name": "41 Matador salata",
+        "desc": "Biftek, zelena salata, rukola, radič, mrkva, masline, inćuni, orasi",
+        "price": 27.6
+      },
+      {
+        "name": "40 Puket salata",
+        "desc": "Ramsteak, tikvica, šampinjoni, paprika, Grana Padano",
+        "price": 21.8
+      },
+      {
+        "name": "42 Caeser salata",
+        "desc": "Piletina, panceta, dressing, salata",
+        "price": 21.8
+      }
+    ],
+    "Rižoto": [
+      {
+        "name": "30 Rižoto sa mariniranim fileom",
+        "desc": "Riža, biftek, sušeni paradajz, senf, maslac, Grana Padano, crveni luk",
+        "price": 26.4
+      },
+      {
+        "name": "31 Rižoto La tartufo",
+        "desc": "Riža, tartuf pasta, maslac, Grana Padano, svježi tartufi, crveni luk",
+        "price": 23.0
+      }
+    ],
+    "Njoki": [
+      {
+        "name": "28 Forest njoki",
+        "desc": "Dimljena ćuretina, vrganji, šampinjoni, njoki",
+        "price": 25.3
+      },
+      {
+        "name": "29 Gratinirani njoki",
+        "desc": "Dimljena ćuretina, njoke, Mozzarella, Gorgonzola, maslac, blitva, bijeli luk, peršun",
+        "price": 25.3
+      }
+    ],
+    "Jela od ribe": [
+      {
+        "name": "59 Mediterano losos file",
+        "desc": "Losos file, krompir, praziluk, masline, paradajz, susam",
+        "price": 46.0
+      },
+      {
+        "name": "65 Tuna steak u korici od susama",
+        "desc": "Tuna, susam, riža, blitva",
+        "price": 43.7
+      },
+      {
+        "name": "58 Kartošku smuđ file",
+        "desc": "Smuđ u sosu od kajmaka sa prilogom od krompira i peršuna",
+        "price": 34.5
+      },
+      {
+        "name": "62 Gambor tempura rolls",
+        "desc": "Gambori, paprika, dimljeni losos, pikantna majoneza",
+        "price": 34.5
+      },
+      {
+        "name": "61 Calamari",
+        "desc": "Lignje, krompir, bijeli luk, blitva, peršun",
+        "price": 32.2
+      },
+      {
+        "name": "64 Tuna rolls",
+        "desc": "Tuna, avokado, paprika, srircha umak",
+        "price": 32.2
+      },
+      {
+        "name": "60 Sea bass rolls",
+        "desc": "Brancin, Mozzarella, pavlaka, svježi peršun",
+        "price": 31.0
+      },
+      {
+        "name": "63 Califonia rolls",
+        "desc": "Losos, dimljeni losos, avokado, krastavac, riža",
+        "price": 31.0
+      },
+      {
+        "name": "66 Nigiri losos",
+        "desc": "Losos, riža, rižino sirće, vasabi, soya, avokado, đumbir",
+        "price": 21.8
+      }
+    ],
+    "Glavna jela": [
+      {
+        "name": "51 T-bone steak 1 kg",
+        "desc": "T-bone steak i prilog od pomfrita i grilovanog povrća",
+        "price": 103.0
+      },
+      {
+        "name": "52 Tomahawk steak 1 kg",
+        "desc": "Tomahawk steak i prilog od pomfrita i grilovanog povrća",
+        "price": 103.0
+      },
+      {
+        "name": "50 Marinirani steak",
+        "desc": "Biftek, krompiri sa pahuljicama i tartuf pasta",
+        "price": 52.9
+      },
+      {
+        "name": "48 Tagliata steak",
+        "desc": "Biftek, mladi sir, Koziji sir, paradajz, rukola",
+        "price": 40.2
+      },
+      {
+        "name": "54 Mustard dinde",
+        "desc": "Dimljena ćuretina na postelji od grilovanog povrća",
+        "price": 33.3
+      },
+      {
+        "name": "49 Scalopini od ramsteaka",
+        "desc": "Ramsteak, tartuf pasta, rukola, paradajz, aromatični pire",
+        "price": 31.0
+      },
+      {
+        "name": "53 Con Heo file",
+        "desc": "Svinjski file sa rižom, vrganjima i prazilukom",
+        "price": 27.6
+      },
+      {
+        "name": "46 Pipi rolls",
+        "desc": "Pileći file, panceta, Edamer, Gorgonzola",
+        "price": 25.3
+      },
+      {
+        "name": "47 Mr. Gatsby burger",
+        "desc": "Junetina, zelena salata, krastavci, Cheddar sir, krompirići",
+        "price": 24.1
+      },
+      {
+        "name": "56 Crunchy piletina",
+        "desc": "Pileći file, pomfrit, svježa paprika, cherry paradajz",
+        "price": 21.8
+      },
+      {
+        "name": "55 Panco nuggetsi",
+        "desc": "Pileći file, pomfrit, ketchup",
+        "price": 20.7
+      },
+      {
+        "name": "57 Rekonstruisani batak",
+        "desc": "Pileći batak, Mozzarella, Gorgonzola, krompir, vrhnje za kuhanje, crveni luk, bijeli luk",
+        "price": 20.7
+      },
+      {
+        "name": "43 Wok Sichuan",
+        "desc": "Svinjski file, paprika, mrkva, tikvica, nudle, susam, Ojster sos",
+        "price": 19.5
+      },
+      {
+        "name": "44 Wok de cero",
+        "desc": "Pileći batak, paprika, mrkva, tikvica, nudle, susam, Ojster sos",
+        "price": 19.5
+      },
+      {
+        "name": "45 Wok tuna",
+        "desc": "Tunjevina, tikvice, paprika, nudle, Ojster sos",
+        "price": 19.5
+      }
+    ],
+    "Pizze": [
+      {
+        "name": "36 Carpaccio pizza",
+        "desc": "Biftek, Grana Padano, orasi, bosiljak",
+        "price": 21.8
+      },
+      {
+        "name": "37 Mortadelo pizza",
+        "desc": "Mortadela, Mozzarella, masline, Koziji sir, pelat paradajz",
+        "price": 21.8
+      },
+      {
+        "name": "34 Napolitana Gatsby pizza",
+        "desc": "Pršut, Mozzarella, bosiljak, paradajz",
+        "price": 20.7
+      },
+      {
+        "name": "32 Domaćinska pizza",
+        "desc": "Mozzarella, šampinjoni, vrganji, pileći file, prasa, mileram, bijeli luk",
+        "price": 19.5
+      },
+      {
+        "name": "33 Umbrija pizza",
+        "desc": "Slanina, Gorgonzola, Mozzarella, ljubičasti luk, paradajz, pelat",
+        "price": 18.4
+      },
+      {
+        "name": "35 Hungary pizza",
+        "desc": "Kulen, Mozzarella, ljuta paprika, peperoncino",
+        "price": 18.4
+      },
+      {
+        "name": "38 Margherita pizza",
+        "desc": "Mozzarella, pelat paradajz, bosiljak",
+        "price": 18.4
+      }
+    ],
+    "Predjela": [
+      {
+        "name": "13 Mesna ploča",
+        "desc": "Kobasica, kulen, panceta, suvi vrat, domaća suva kobasica",
+        "price": 43.7
+      },
+      {
+        "name": "14 Selekcija sireva",
+        "desc": "Trapist sir, Koziji sir, Grana Padano, masline, tartuf pasta, paradajz",
+        "price": 43.7
+      },
+      {
+        "name": "17 Tart od lososa",
+        "desc": "Losos, kapari, avokado",
+        "price": 26.4
+      },
+      {
+        "name": "18 Tatar biftek",
+        "desc": "Biftek, senf, kapari, majoneza, peršun, bijeli luk, maslac",
+        "price": 25.3
+      },
+      {
+        "name": "15 Pršut sa jadrana",
+        "desc": "Pršut, masline, domaći hljeb",
+        "price": 17.2
+      }
+    ],
+    "Supe i čorbe": [
+      {
+        "name": "67 Boršč",
+        "desc": "Junetina, crveni luk, mrkva, kupus, cvekla, paradajz, pavlaka, prasa",
+        "price": 10.3
+      },
+      {
+        "name": "68 Mađarica na način kuće",
+        "desc": "Ramsteak, slanina, paradajz, mrkva, crveni luk, krompir, celer, svjež peršun",
+        "price": 8.0
+      },
+      {
+        "name": "69 Jadranska supa",
+        "desc": "Kozice, dagnje, brancin, crveni luk, mrkva, celer, peršun",
+        "price": 7.0
+      },
+      {
+        "name": "70 Potaž kuće",
+        "desc": "Bundeva, sjemenke bundeve, vrhnje za kuhanje",
+        "price": 7.0
+      }
+    ],
+    "Doručak i snack": [
+      {
+        "name": "04 Domaćinski doručak",
+        "desc": "Jaja, slanina, kajmak, ajvar, Feta sir, ćureća kobasica, paradajz",
+        "price": 12.6
+      },
+      {
+        "name": "02 Čika Radin sendvič",
+        "desc": "Focaccia, Mortadela, mladi sir, bosiljak, zelena salata, pomfrit",
+        "price": 11.5
+      },
+      {
+        "name": "05 Gatsby omlet",
+        "desc": "Jaja, tartuf pasta, svježi tartuf, mladi sir, maslac, peršun",
+        "price": 11.5
+      },
+      {
+        "name": "07 Mortadelo piroška",
+        "desc": "Domaće pecivo, Mortadela, Feta sir, tvrdi sir, pomfrit",
+        "price": 11.5
+      },
+      {
+        "name": "09 Brunch sendvič",
+        "desc": "Ciabatta, piletina, zelena salata, paradajz, mladi sir",
+        "price": 11.5
+      },
+      {
+        "name": "10 Focaccia pršut",
+        "desc": "Pršut, domaće pecivo, mladi sir, Grana Padano, bosiljak, rukola, orasi",
+        "price": 11.5
+      },
+      {
+        "name": "11 Burrito",
+        "desc": "Tortilja, piletina, paprika, mrkva, tikvica, napolitana, kukuraz šećerac, pomfrit",
+        "price": 11.5
+      },
+      {
+        "name": "12 Tuna sendvič",
+        "desc": "Tunjevina, kukuruz šećerac, crvena paprika, peršun, paradajz, rukola, majoneza",
+        "price": 11.5
+      },
+      {
+        "name": "01 Ranč kajgana",
+        "desc": "Jaja, pršut, panceta, kulen, tost, mix zelenih salata",
+        "price": 10.3
+      },
+      {
+        "name": "08 Hikado jetrica u tamnom sosu",
+        "desc": "Pileća jetrica, crveni luk, bijeli luk, mrkva, paprika, peršun, pavlaka, paradajz",
+        "price": 10.3
+      },
+      {
+        "name": "03 Benedict doručak",
+        "desc": "Jaja benedict, pršut, avokado, zelena salata, radič, paradajz",
+        "price": 9.2
+      },
+      {
+        "name": "06 Frittata",
+        "desc": "Jaja, rukola, radič, paradajz, mladi sir",
+        "price": 9.2
+      }
+    ]
+  }
+}
