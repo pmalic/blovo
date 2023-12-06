@@ -1,0 +1,1264 @@
+{
+  "name": "PIZZA HOUSE - restoran brze hrane",
+  "rating": 0.97,
+  "count": 500,
+  "service_fee": 2.3,
+  "menu": {
+    "SVE PIZZE": [
+      {
+        "name": "Uno Per Due cca 40 cm",
+        "promo": "-15%",
+        "desc": "Ako se ne možete odlučiti Pizza House ima rješenje! Dva različita topinga na dvije polovine pizze.",
+        "price": 24.9,
+        "promo_price": 21.17
+      },
+      {
+        "name": "Serbiana XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kobasica, kulen, kuhana šunka i pavlaka",
+        "price": 24.0
+      },
+      {
+        "name": "Baja California XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, ljuta kobasica, feferoni, masline i origano",
+        "price": 22.7
+      },
+      {
+        "name": "Mexico XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, šampinjoni, kobasica, kuhana šunka, kukuruz i origano",
+        "price": 22.7
+      },
+      {
+        "name": "Ljuta Pizza XXL 38 cm",
+        "desc": "Domaći paradajz sos, chili, kulen, Sremska kobasica, sir, Tex-mex sos i šampinjoni",
+        "price": 22.3
+      },
+      {
+        "name": "Pizza sa Pršutom XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira i pršut",
+        "price": 22.0
+      },
+      {
+        "name": "Capricciosa XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kuhana šunka i šampinjoni",
+        "price": 21.5
+      },
+      {
+        "name": "Classic XXL 38 cm",
+        "desc": "Domaći paradajz sos, tri vrste sira, šampinjoni, kuhana šunka, origano i bosiljak",
+        "price": 21.5
+      },
+      {
+        "name": "Diavolo XXL 38 cm",
+        "desc": "Domaći sos, 3 vrste sira, kobasica, kulen, feferoni i Tabasco",
+        "price": 21.5
+      },
+      {
+        "name": "Vesuvio XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira i kuhana šunka",
+        "price": 21.5
+      },
+      {
+        "name": "Arrabbiata XXL 38 cm",
+        "desc": "Domaći paradajz sos, ljuta kobasica, chili i Arrabbiata sos",
+        "price": 21.5
+      },
+      {
+        "name": "Prava Domaća Pizza XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, panceta, kulen i suhi vrat",
+        "price": 21.5
+      },
+      {
+        "name": "Capricciosa De Luxe XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kuhana šunka, artičoka i šampinjoni",
+        "price": 21.5
+      },
+      {
+        "name": "Tuna De Luxe XXL 38 cm",
+        "desc": "Domaći paradajz sos, Mozzarella, Ementaler, Rio mare tunjevina, Parmezan i luk po izboru",
+        "price": 20.9
+      },
+      {
+        "name": "Pizza Quattro Formaggi XXL 38 cm",
+        "desc": "Domaći paradajz sos, Mozzarella, Gouda, Edamer i Gorgonzola",
+        "price": 20.0
+      },
+      {
+        "name": "Aleksandar 33 cm",
+        "desc": "Domaći paradajz sos, kuhana šunka, svježa kobasica, sremska, sjeckana panceta i feferoni",
+        "price": 19.9
+      },
+      {
+        "name": "Kralj Milutin 33 cm",
+        "desc": "Domaći paradajz sos, kuhana šunka, svježa kobasica Sremska, sjeckana panceta i suhi vrat",
+        "price": 19.9
+      },
+      {
+        "name": "Kremasta Pizza Carbonara 33 cm",
+        "desc": "Kremasti bijeli sos, 3 vrste sira, sjeckana panceta i Parmezan",
+        "price": 19.9
+      },
+      {
+        "name": "Pizza House Special XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kuhana šunka, barena peka i šampinjoni",
+        "price": 19.9
+      },
+      {
+        "name": "Tuna XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, tunjevina i Parmezan",
+        "price": 19.0
+      },
+      {
+        "name": "Pizza sa Ćuretinom XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira i kuhana ćureća šunka",
+        "price": 19.0
+      },
+      {
+        "name": "Premier 33 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, svježa kobasica, kulen i sušeni vrat",
+        "price": 18.7
+      },
+      {
+        "name": "Bacon Ranch 33 cm",
+        "desc": "Piletina u Gorgonzola sosu, sjeckana panceta, Ranch sos i 3 vrste sira",
+        "price": 18.7
+      },
+      {
+        "name": "Dupli Kulen 33 cm",
+        "desc": "Kremasti bijeli sos, sir i puno kulena",
+        "price": 18.7
+      },
+      {
+        "name": "Kremasta Pizza sa Piletinom 33 cm",
+        "desc": "Kremasti bijeli sos, 2 vrste sira i piletina u Gorgonzola sosu",
+        "price": 18.7
+      },
+      {
+        "name": "Kremasta Grill Pizza 33 cm",
+        "desc": "Kremasti bijeli sos, 3 vrste sira i svježa kobasica",
+        "price": 18.7
+      },
+      {
+        "name": "Kremasta Pizza sa Piletinom i Šampinjonima 33 cm",
+        "desc": "Kremasti bijeli sos, 3 vrste sira,  piletina u Gorgonzola sosu i dinstani šampinjoni",
+        "price": 18.7
+      },
+      {
+        "name": "Funghi XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira i šampinjoni",
+        "price": 18.5
+      },
+      {
+        "name": "Tuna de Luxe 33 cm",
+        "desc": "Domaći paradajz sos, Mozzarella, Emmental, Rio mare tunjevina, Parmezan i luk po izboru",
+        "price": 17.3
+      },
+      {
+        "name": "Grill Pizza 33 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, svježa grill kobasica i BBQ sos",
+        "price": 17.3
+      },
+      {
+        "name": "Ljuto Pile 33 cm",
+        "desc": "Piletina u Gorgonzola sosu, sjeckana panceta, feferoni i tajni sos",
+        "price": 17.3
+      },
+      {
+        "name": "Kremasta Capricciosa 33 cm",
+        "desc": "Kremasti bijeli sos, kuhana šunka, 3 vrste sira i dinstani šampinjoni",
+        "price": 17.3
+      },
+      {
+        "name": "Margherita XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, bosiljak i maslinovo ulje",
+        "price": 16.9
+      },
+      {
+        "name": "Prava Domaća",
+        "desc": "Domaći paradajz sos, 3 vrste sira, panceta, kulen i suhi vrat",
+        "price": 16.0
+      },
+      {
+        "name": "Capricciosa 33 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kuhana šunka i šampinjoni",
+        "price": 13.9
+      },
+      {
+        "name": "Calabrese Pizza sa Tri Vrste Sira",
+        "desc": "Domaći paradajz sos, dvije vrste kobasice, kuhana šunka, pečeni crveni luk, zelena paprika, šampinjoni, crne masline i Mozzarella",
+        "price": 13.5
+      },
+      {
+        "name": "Pikantna Italijanska Pizza",
+        "desc": "Kuhana šunka, Italijanska ljuta kobasica, 3 vrste sira, domaći paradajz sos i 7 vrsta začina",
+        "price": 13.5
+      },
+      {
+        "name": "Pizza sa Pršutom i Šampinjonima",
+        "desc": "Domaći paradajz sos, 3 vrste sira, pršut i šampinjoni",
+        "price": 13.5
+      },
+      {
+        "name": "Pizza sa Sušenim Mesom",
+        "desc": "Tradicionalni specijaliteti pršut i panceta dopunjeni sa domaćim paradajz sosom, Mozzarellom, crvenim lukom i zelenom paprikom",
+        "price": 13.5
+      },
+      {
+        "name": "Tuna Pizza 33 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, tunjevina i Parmezan",
+        "price": 13.5
+      },
+      {
+        "name": "Pizza sa Pršutom",
+        "desc": "Domaći paradajz sos, 3 vrste sira i pršut",
+        "price": 12.9
+      },
+      {
+        "name": "3 Mesa 3 Sira",
+        "desc": "Domaći paradajz sos, kuhana šunka, kobasica, kulen, tri vrste sira, šampinjoni  i tri vrste začina",
+        "price": 12.5
+      },
+      {
+        "name": "Ljuta Pizza",
+        "desc": "Domaći paradajz sos, chili, kulen, Sremska kobasica, sir, Tex mex sos i\nšampinjoni",
+        "price": 12.5
+      },
+      {
+        "name": "Pizza iz Campanie sa 4 Vrste Mesa",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kuhana šunka, kulen, Italijanska kobasica, bareni vrat i šampinjoni",
+        "price": 12.5
+      },
+      {
+        "name": "Piletina Panceta",
+        "desc": "Piletina pečena na puteru, sjeckana panceta, Mozzarella, Gouda, domaći paradajz sos i 7 vrsta začina",
+        "price": 12.5
+      },
+      {
+        "name": "Pizza sa Ćuretinom",
+        "desc": "Domaći paradajz sos, 3 vrste sira i kuhana ćureća šunka",
+        "price": 12.5
+      },
+      {
+        "name": "Sremska Pizza",
+        "desc": "Domaći paradajz sos, piletina  u Pizza House sosu, kulen i 3 vrste sira",
+        "price": 12.5
+      },
+      {
+        "name": "Ljuta Pizza sa Piletinom",
+        "desc": "Domaći paradajz sos, piletina u Gorgonzola sosu, 3 vrste sira, feferoni i ljuta paprika",
+        "price": 12.5
+      },
+      {
+        "name": "San Sebastian",
+        "desc": "Domaći paradajz sos, piletina u Gorgonzola sosu, sjeckana panceta, šampinjoni, luk i 3 vrste sira",
+        "price": 12.5
+      },
+      {
+        "name": "Mexico Chicken Pizza",
+        "desc": "Domaći paradajz sos, piletina u Gorgonzola sosu, 3 vrste sira i sjeckana paprika",
+        "price": 12.5
+      },
+      {
+        "name": "Pesto Con Polo",
+        "desc": "Domaći paradajz sos, piletina u Pizza House sosu, Feta sir, grilovane tikvice, Pesto Genovese i 3 vrste sira",
+        "price": 12.5
+      },
+      {
+        "name": "Pomodoro Chicken",
+        "desc": "Domaći paradajz sos, piletina u Pizza House sosu, 3 vrste sira, paradajz i bosiljak",
+        "price": 12.5
+      },
+      {
+        "name": "California Chicken",
+        "desc": "Tex-mex sos, piletina u Gorgonzola sosu, feferoni, 3 vrste sira i crveni luk",
+        "price": 12.5
+      },
+      {
+        "name": "Mexico City Pizza",
+        "desc": "Tex-mex sos, ljuta kobasica, 3 vrste sira, sjeckana paprika i šampinjoni",
+        "price": 12.5
+      },
+      {
+        "name": "Pizza iz Toscane sa 6 Vrsta Sira",
+        "desc": "Naša pizza sa 6 vrsta sira: Mozzarella, Parmezan, Gorgonzola, Edamer, Gouda, Emmentaler, domaći sos i 3 vrste začina",
+        "price": 12.3
+      },
+      {
+        "name": "Capricciosa de Luxe",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kuhana šunka, artičoka i šampinjoni",
+        "price": 12.3
+      },
+      {
+        "name": "Povrtna Pizza iz Toscane",
+        "desc": "Pizza za ljubitelje povrća: šampinjoni, zelena paprika, crne masline, crveni luk, Mozzarella i sočni paradajz",
+        "price": 12.3
+      },
+      {
+        "name": "Funghi",
+        "desc": "Domaći paradajz sos, 3 vrste sira i šampinjoni",
+        "price": 11.5
+      },
+      {
+        "name": "Quattro Formaggi",
+        "desc": "Domaći paradajz sos, Mozzarella, Gouda, Edamer i Gorgonzola",
+        "price": 11.5
+      },
+      {
+        "name": "Vesuvio",
+        "desc": "Domaći paradajz sos, 3 vrste sira i kuhana šunka",
+        "price": 11.5
+      },
+      {
+        "name": "Tex-Mex Pizza",
+        "desc": "Tex-mex sos, ljuta kobasica, 3 vrste sira i šampinjoni",
+        "price": 10.8
+      },
+      {
+        "name": "Pizza House Special",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kuhana šunka, barena peka i šampinjoni",
+        "price": 10.5
+      },
+      {
+        "name": "Arrabbiata Diavolo",
+        "desc": "Domaći paradajz sos, ljuta kobasica, chili i Arabbiata sos",
+        "price": 10.0
+      },
+      {
+        "name": "Pili Capricciosa",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kuhana pileća šunka i šampinjoni",
+        "price": 10.0
+      },
+      {
+        "name": "Capricciosa 28 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kuhana šunka i šampinjoni",
+        "price": 9.9
+      },
+      {
+        "name": "Margherita",
+        "desc": "Domaći paradajz sos, 3 vrste sira, bosiljak i maslinovo ulje",
+        "price": 9.5
+      }
+    ],
+    "TATA ZAPADA": [
+      {
+        "name": "Dominator",
+        "desc": "Pikantna pohovana piletina, pohovani sir i tartar sos",
+        "price": 12.0
+      },
+      {
+        "name": "Chicken&Cheese",
+        "desc": "Pohovana piletina, topljeni sir i tartar sos",
+        "price": 10.0
+      },
+      {
+        "name": "Pohovani Sir",
+        "desc": "Dupli pohovani sir i tartar sos",
+        "price": 10.0
+      },
+      {
+        "name": "Ljuta",
+        "desc": "Pikantna pohovana piletina, feferoni i tajni sos",
+        "price": 9.9
+      },
+      {
+        "name": "Tata sa Sirom",
+        "desc": "Pikantna pohovana piletina, topljeni sir, kiseli krastavci i tajni sos",
+        "price": 9.2
+      },
+      {
+        "name": "Klasik",
+        "desc": "Pohovana piletina i Engleska salata",
+        "price": 9.2
+      },
+      {
+        "name": "Berliner",
+        "desc": "Pikantna pohovana piletina i Engleska salata",
+        "price": 9.2
+      },
+      {
+        "name": "Spicy",
+        "desc": "Pikantna pohovana piletina i tartar sos",
+        "price": 9.2
+      },
+      {
+        "name": "Tata Zapada",
+        "promo": "-15%",
+        "desc": "Pikantna pohovana piletina, tajni sos i kiseli krastavci",
+        "price": 8.6,
+        "promo_price": 7.31
+      },
+      {
+        "name": "Mama Zapada",
+        "desc": "Pohovana piletina, kiseli krastavac i tajni sos",
+        "price": 8.6
+      }
+    ],
+    "PIZZA SANDWICH": [
+      {
+        "name": "Pikantni Sendvič sa Piletinom",
+        "desc": "Nadjeven sa Pizza House piletinom, lukom, sirom i pikantnim Buffalo sosom",
+        "price": 13.9
+      },
+      {
+        "name": "Sendvič sa Grilovanom Kobasicom",
+        "desc": "Savršena kombinacija mesa grill kobasice, dinstanih šampinjona, sira i tajnog sosa",
+        "price": 13.9
+      },
+      {
+        "name": "Sendvič sa Piletinom i Slaninom",
+        "desc": "Sočna piletina u Gorgonzola sosu, sir, sjeckana panceta, luk i tajni sos",
+        "price": 13.9
+      },
+      {
+        "name": "Ruski Car",
+        "desc": "Preukusna kombinacija piletine, sira, svježe grill kobasice i tajnog sosa",
+        "price": 13.9
+      },
+      {
+        "name": "Povrtni Sendvič",
+        "desc": "Naše domaće preklopljeno pizza tijesto nadjeveno sa dinstanim šampinjonima, prženom tikvicom, sirom, prženim patlidžanom, malo paprike i tajnim sosom",
+        "price": 13.9
+      }
+    ],
+    "CHICKEN SENDVIČI": [
+      {
+        "name": "DeLuxe Ljuti Chicken Sandwich",
+        "desc": "Pohovani pileći file, topljeni sir, zelena salata, paradajz, majoneza i kiseli krastavac u burger pecivu",
+        "price": 7.9
+      },
+      {
+        "name": "DeLuxe Chicken Sandwich",
+        "desc": "Pohovani pileći file, Tex-mex sos, topljeni sir, zelena salata, paradajz, majoneza i kiseli krastavac u burger pecivu",
+        "price": 7.9
+      },
+      {
+        "name": "Chicken Sandwich",
+        "desc": "Pohovani pilećI file, majoneza i kiseli krastavac u burger pecivu",
+        "price": 6.9
+      },
+      {
+        "name": "Ljuti Chicken Sandwich",
+        "desc": "Pohovani pilećI file, Tex-mex sos, majoneza i kiseli krastavac u burger pecivu",
+        "price": 6.9
+      }
+    ],
+    "FRYMASTER PILETINA": [
+      {
+        "name": "Chicken Nuggets",
+        "desc": "Pohovane pileće krpice, tartar sos, limun i domaće pecivo",
+        "price": 13.0
+      },
+      {
+        "name": "Pohovana Piletina u Domaćoj Lepinji",
+        "desc": "Pohovani pilećI file u domaćoj lepinji",
+        "price": 7.9
+      },
+      {
+        "name": "DeLuxe Ljuti Chicken Sandwich",
+        "desc": "Pohovani pilećI file, topljeni sir, zelena salata, paradajz, majoneza i kiseli krastavac u burger pecivu",
+        "price": 7.9
+      },
+      {
+        "name": "DeLuxe Chicken Sandwich",
+        "desc": "Pohovani pilećI file, Tex-mex sos, topljeni sir, zelena salata, paradajz, majoneza i kiseli krastavac u burger pecivu",
+        "price": 7.9
+      },
+      {
+        "name": "Chicken Nuggets sendvič",
+        "desc": "Pohovane pileće krpice u domaćoj lepinji",
+        "price": 7.9
+      },
+      {
+        "name": "Chicken Sandwich",
+        "desc": "Pohovani pileći file, majoneza i kiseli krastavac u burger pecivu",
+        "price": 6.9
+      },
+      {
+        "name": "Ljuti Chicken Sandwich",
+        "desc": "Pohovani pileći file, Tex-mex sos, majoneza i kiseli krastavac u burger pecivu",
+        "price": 6.9
+      }
+    ],
+    "OBROCI": [
+      {
+        "name": "Chicken Nuggets u Buffalo Sosu",
+        "desc": "Nuggets u Buffalo sosu sa pomfritom,  salatom i pecivom",
+        "price": 15.5
+      },
+      {
+        "name": "Chicken Nuggets",
+        "desc": "Pohovane pileće krpice, tartar sos, limun i domaće pecivo",
+        "price": 13.0
+      },
+      {
+        "name": "Piletina General Tao",
+        "desc": "Posebno pohovane pileće krpice sa okusom Azije, pomfrit, salata i pecivo",
+        "price": 13.0
+      },
+      {
+        "name": "Pohovana Piletina sa Topljenim Sirom",
+        "desc": "Pohovani pileći file sa topljenim sirom, pomfritom,  salatom i pecivom",
+        "price": 10.5
+      }
+    ],
+    "SENDVIČI": [
+      {
+        "name": "Zlatiborski Sendvič",
+        "desc": "Sa suhim vratom, kajmakom i 3 vrste sira u domaćoj lepinji",
+        "price": 9.0
+      },
+      {
+        "name": "Sendvič Sa Piletinom veliki",
+        "desc": "Sa pilećim krpicama u Pizza House sosu",
+        "price": 8.5
+      },
+      {
+        "name": "Pohovana Piletina u Domaćoj Lepinji",
+        "desc": "Pohovani pileći file u domaćoj lepinji",
+        "price": 7.9
+      },
+      {
+        "name": "DeLuxe Ljuti Chicken Sandwich",
+        "desc": "Pohovani pilećI file, topljeni sir, zelena salata, paradajz, majoneza i kiseli krastavac u burger pecivu",
+        "price": 7.9
+      },
+      {
+        "name": "DeLuxe Chicken Sandwich",
+        "desc": "Pohovani pileći file, Tex-mex sos, topljeni sir, zelena salata, paradajz, majoneza i kiseli krastavac u burger pecivu",
+        "price": 7.9
+      },
+      {
+        "name": "Banjalučki Sendvič",
+        "desc": "Sa barenim vratom, pekom i 3 vrste sira u domaćoj lepinji",
+        "price": 7.9
+      },
+      {
+        "name": "DeLuxe Sendvič",
+        "desc": "Sa pekom, kulenom, kuhanim jajetom, 3 vrste sira u domaćoj lepinji",
+        "price": 7.9
+      },
+      {
+        "name": "Njeguški Sendvič",
+        "desc": "Sa pršutom, kajmakom, 3 vrste sira u domaćoj lepinji",
+        "price": 7.9
+      },
+      {
+        "name": "Pikantni Sendvič",
+        "desc": "Sa kulenom, Sremskom kobasicom, 3 vrste sira u domaćoj lepinji",
+        "price": 7.9
+      },
+      {
+        "name": "Pizza House Sendvič",
+        "desc": "Sa kuhanom šunkom, 3 vrste sira, kuhanim jajetom u domaćoj lepinji",
+        "price": 7.9
+      },
+      {
+        "name": "Sremski Sendvič",
+        "desc": "Sa Sremskom kobasicom, kajmakom i 3 vrste sira u domaćoj lepinji",
+        "price": 7.9
+      },
+      {
+        "name": "Tuna Sendvič",
+        "desc": "Sa tunjevinom, 3 vrste sira u domaćoj lepinji",
+        "price": 7.9
+      },
+      {
+        "name": "Nuggets Sendvič",
+        "desc": "Pileći nuggets u domaćem pecivu",
+        "price": 7.9
+      },
+      {
+        "name": "Chicken Sandwich",
+        "desc": "Pohovani pilećI file, majoneza i kiseli krastavac u burger pecivu",
+        "price": 6.9
+      },
+      {
+        "name": "Ljuti Chicken Sandwich",
+        "desc": "Pohovani pilećI file, Tex-mex sos, majoneza i kiseli krastavac u burger pecivu",
+        "price": 6.9
+      },
+      {
+        "name": "Sendvič Sa Piletinom mali",
+        "desc": "Sa pilećim krpicama u Pizza House sosu",
+        "price": 6.7
+      },
+      {
+        "name": "Klasični Sendvič",
+        "desc": "Sa kuhanom šunkom, 3 vrste sira u domaćoj lepinji",
+        "price": 5.3
+      }
+    ],
+    "CLASSIC PIZZE": [
+      {
+        "name": "Capricciosa XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kuhana šunka i šampinjoni",
+        "price": 21.5
+      },
+      {
+        "name": "Tuna de Luxe 33 cm",
+        "desc": "Domaći paradajz sos, Mozzarella, Ementaler, Rio mare tunjevina, Parmezan i luk po izboru",
+        "price": 17.3
+      },
+      {
+        "name": "Capricciosa 33 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kuhana šunka i šampinjoni",
+        "price": 13.9
+      },
+      {
+        "name": "Calabrese Pizza sa Tri Vrste Sira",
+        "desc": "Domaći paradajz sos, dvije vrste kobasice, kuhana šunka, pečeni crveni luk, zelena paprika, šampinjoni, crne masline i Mozzarella",
+        "price": 13.5
+      },
+      {
+        "name": "Pikantna Italijanska Pizza",
+        "desc": "Kuhana šunka, Italijanska ljuta kobasica, 3 vrste sira, domaći paradajz sos i 7 vrsta začina",
+        "price": 13.5
+      },
+      {
+        "name": "Pizza sa Sušenim Mesom",
+        "desc": "Tradicionalni specijaliteti pršut i panceta, dopunjeni sa domaćim paradajz sosom, Mozzarellom, crvenim lukom i zelenom paprikom",
+        "price": 13.5
+      },
+      {
+        "name": "Tuna Pizza 33 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, tunjevina i Parmezan",
+        "price": 13.5
+      },
+      {
+        "name": "Pizza sa Pršutom",
+        "desc": "Domaći paradajz sos, 3 vrste sira i pršut",
+        "price": 12.9
+      },
+      {
+        "name": "3 Mesa 3 Sira",
+        "desc": "Domaći paradajz sos, kuhana šunka, kobasica, kulen, tri vrste sira, šampinjoni i tri vrste začina",
+        "price": 12.5
+      },
+      {
+        "name": "Ljuta Pizza",
+        "desc": "Domaći paradajz sos, chili, kulen, Sremska kobasica, sir, Tex-mex sos i šampinjoni",
+        "price": 12.5
+      },
+      {
+        "name": "Pizza iz Campanie sa 4 Vrste Mesa",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kuhana šunka, kulen, Italijanska kobasica, bareni vrat i šampinjoni",
+        "price": 12.5
+      },
+      {
+        "name": "Piletina Panceta",
+        "desc": "Piletina pečena na puteru, sjeckana panceta, Mozzarella, Gouda, domaći paradajz sos i 7 vrsta začina",
+        "price": 12.5
+      },
+      {
+        "name": "Pizza sa Ćuretinom",
+        "desc": "Domaći paradajz sos, 3 vrste sira i kuhana ćureća šunka",
+        "price": 12.5
+      },
+      {
+        "name": "Pizza iz Toscane sa 6 Vrsta Sira",
+        "desc": "Naša pizza sa 6 vrsta sira: Mozzarella, Parmezan, Gorgonzola, Edamer, Gouda, Emmentaler, domaći sos i 3 vrste začina",
+        "price": 12.3
+      },
+      {
+        "name": "Capricciosa de Luxe",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kuhana šunka, artičoka i šampinjoni",
+        "price": 12.3
+      },
+      {
+        "name": "Povrtna Pizza iz Toscane",
+        "desc": "Pizza za ljubitelje povrća: šampinjoni, zelena paprika, crne masline, crveni luk, Mozzarella i sočni paradajz",
+        "price": 12.3
+      },
+      {
+        "name": "Funghi",
+        "desc": "Domaći paradajz sos, 3 vrste sira i šampinjoni",
+        "price": 11.5
+      },
+      {
+        "name": "Quattro Formaggi",
+        "desc": "Domaći paradajz sos, Mozzarella, Gouda, Edamer i Gorgonzola",
+        "price": 11.5
+      },
+      {
+        "name": "Vesuvio",
+        "desc": "Domaći paradajz sos, 3 vrste sira i kuhana šunka",
+        "price": 11.5
+      },
+      {
+        "name": "Pizza House Special",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kuhana šunka, barena peka i šampinjoni",
+        "price": 10.5
+      },
+      {
+        "name": "Arrabbiata Diavolo",
+        "desc": "Domaći paradajz sos, ljuta kobasica, chili i Arrabbiata sos",
+        "price": 10.0
+      },
+      {
+        "name": "Pili Capricciosa",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kuhana pileća šunka i šampinjoni",
+        "price": 10.0
+      },
+      {
+        "name": "Capricciosa 28 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kuhana šunka i šampinjoni",
+        "price": 9.9
+      },
+      {
+        "name": "Margherita",
+        "desc": "Domaći paradajz sos, 3 vrste sira, bosiljak i maslinovo ulje",
+        "price": 9.5
+      }
+    ],
+    "PREMIUM PIZZE": [
+      {
+        "name": "Aleksandar 33 cm",
+        "desc": "Domaći paradajz sos, kuhana šunka, svježa kobasica Sremska, sjeckana panceta i feferoni",
+        "price": 19.9
+      },
+      {
+        "name": "Kralj Milutin 33 cm",
+        "desc": "Domaći paradajz sos, kuhana šunka, svježa kobasica Sremska, sjeckana panceta i suhi vrat",
+        "price": 19.9
+      },
+      {
+        "name": "Premier 33 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, svježa kobasica, kulen i sušeni vrat",
+        "price": 18.7
+      },
+      {
+        "name": "Bacon Ranch 33 cm",
+        "desc": "Piletina u Gorgonzola sosu, sjeckana panceta, Ranch sos i 3 vrste sira",
+        "price": 18.7
+      },
+      {
+        "name": "Dupli Kulen 33 cm",
+        "desc": "Kremasti bijeli sos, sir i puno kulena",
+        "price": 18.7
+      },
+      {
+        "name": "Grill Pizza 33 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, svježa grill kobasica i BBQ sos",
+        "price": 17.3
+      },
+      {
+        "name": "Ljuto Pile 33 cm",
+        "desc": "Piletina u Gorgonzola sosu, sjeckana panceta, feferoni i tajni sos",
+        "price": 17.3
+      }
+    ],
+    "CHICKEN PIZZE": [
+      {
+        "name": "Sremska Pizza",
+        "desc": "Domaći paradajz sos, piletina  u Pizza House sosu, kulen i 3 vrste sira",
+        "price": 12.5
+      },
+      {
+        "name": "Ljuta Pizza sa Piletinom",
+        "desc": "Domaći paradajz sos, piletina u Gorgonzola sosu, 3 vrste sira, feferoni i ljuta paprika",
+        "price": 12.5
+      },
+      {
+        "name": "San Sebastian",
+        "desc": "Domaći paradajz sos, piletina u Gorgonzola sosu, sjeckana panceta, šampinjoni, luk i 3 vrste sira",
+        "price": 12.5
+      },
+      {
+        "name": "Mexico Chicken Pizza",
+        "desc": "Domaći paradajz sos, piletina u Gorgonzola sosu, 3 vrste sira i sjeckana paprika",
+        "price": 12.5
+      },
+      {
+        "name": "Pesto Con Polo",
+        "desc": "Domaći paradajz sos, piletina u Pizza House sosu, Feta sir, grilovane tikvice, Pesto Genovese i 3 vrste sira",
+        "price": 12.5
+      },
+      {
+        "name": "Pomodoro Chicken",
+        "desc": "Domaći paradajz sos, piletina u Pizza House sosu, 3 vrste sira, paradajz i bosiljak",
+        "price": 12.5
+      },
+      {
+        "name": "California Chicken",
+        "desc": "Tex-mex sos, piletina u Gorgonzola sosu, feferoni, 3 vrste sira i crveni luk",
+        "price": 12.5
+      }
+    ],
+    "SPECIJAL KREMASTE PIZZE": [
+      {
+        "name": "Kremasta Pizza Carbonara 33 cm",
+        "desc": "Kremasti bijeli sos , 3 vrste sira, sjeckana panceta i Parmezan",
+        "price": 19.9
+      },
+      {
+        "name": "Kremasta Pizza sa Piletinom 33 cm",
+        "desc": "Kremasti bijeli sos, 2 vrste sira i piletina u Gorgonzola sosu",
+        "price": 18.7
+      },
+      {
+        "name": "Kremasta Grill Pizza 33 cm",
+        "desc": "Kremasti bijeli sos, 3 vrste sira i svježa kobasica",
+        "price": 18.7
+      },
+      {
+        "name": "Kremasta Pizza sa Piletinom i Šampinjonima 33 cm",
+        "desc": "Kremasti bijeli sos, 3 vrste sira, piletina u Gorgonzola sosu i dinstani šampinjoni",
+        "price": 18.7
+      },
+      {
+        "name": "Kremasta Capricciosa 33 cm",
+        "desc": "Kremasti bijeli sos, kuhana šunka, 3 vrste sira i dinstani šampinjoni",
+        "price": 17.3
+      }
+    ],
+    "XXL PIZZA": [
+      {
+        "name": "Uno Per Due cca 40 cm",
+        "promo": "-15%",
+        "desc": "Ako se ne možete odlučiti Pizza House ima rješenje! Dva različita topinga na dvije polovine pizze",
+        "price": 24.9,
+        "promo_price": 21.17
+      },
+      {
+        "name": "Serbiana XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kobasica, kulen, kuhana šunka i pavlaka",
+        "price": 24.0
+      },
+      {
+        "name": "Baja California XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, ljuta kobasica, feferoni, masline i origano",
+        "price": 22.7
+      },
+      {
+        "name": "Mexico XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, šampinjoni, kobasica, kuhana šunka, kukuruz i origano",
+        "price": 22.7
+      },
+      {
+        "name": "Ljuta Pizza XXL 38 cm",
+        "desc": "Domaći paradajz sos, chili, kulen, Sremska kobasica, sir, Tex-mex sos i šampinjoni",
+        "price": 22.3
+      },
+      {
+        "name": "Pizza sa Pršutom XXL 38cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira i pršut",
+        "price": 22.0
+      },
+      {
+        "name": "Classic XXL 38 cm",
+        "desc": "Domaći paradajz sos, tri vrste sira, šampinjoni, kuhana šunka, origano i bosiljak",
+        "price": 21.5
+      },
+      {
+        "name": "Diavolo XXL 38 cm",
+        "desc": "Domaći sos, 3 vrste sira, kobasica, kulen, feferoni i Tabasco",
+        "price": 21.5
+      },
+      {
+        "name": "Vesuvio XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira i kuhana šunka",
+        "price": 21.5
+      },
+      {
+        "name": "Capricciosa XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kuhana šunka i šampinjoni",
+        "price": 21.5
+      },
+      {
+        "name": "Arrabbiata XXL 38 cm",
+        "desc": "Domaći paradajz sos, ljuta kobasica, chili i Arrabbiata sos",
+        "price": 21.5
+      },
+      {
+        "name": "Prava Domaća Pizza XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, panceta, kulen i suhi vrat",
+        "price": 21.5
+      },
+      {
+        "name": "Capricciosa De Luxe XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, kuhana šunka, artičoka i šampinjoni",
+        "price": 21.0
+      },
+      {
+        "name": "Tuna De Luxe XXL 38 cm",
+        "desc": "Domaći paradajz sos, Mozzarella, Ementaler, Rio mare tunjevina, Parmezan i luk po izboru",
+        "price": 20.9
+      },
+      {
+        "name": "Quattro Formaggi XXL 38 cm",
+        "desc": "Domaći paradajz sos, Mozzarella, Gouda, Edamer i Gorgonzola",
+        "price": 20.0
+      },
+      {
+        "name": "Pizza House Special XXL 38 cm",
+        "desc": "Domaći paradajz sos. 3 vrste sira, kuhana šunka, barena peka i šampinjoni",
+        "price": 19.9
+      },
+      {
+        "name": "Tuna XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, tunjevina i Parmezan",
+        "price": 19.0
+      },
+      {
+        "name": "Pizza sa Ćuretinom XXL",
+        "desc": "Domaći paradajz sos, 3 vrste sira i kuhana ćureća šunka",
+        "price": 19.0
+      },
+      {
+        "name": "Funghi XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira i šampinjoni",
+        "price": 18.5
+      },
+      {
+        "name": "Margherita XXL 38 cm",
+        "desc": "Domaći paradajz sos, 3 vrste sira, bosiljak i maslinovo ulje",
+        "price": 16.9
+      }
+    ],
+    "PILEĆA KRILCA U TEX-MEX SOSU": [
+      {
+        "name": "Pileća Krilca u Tex-Mex Sosu jumbo porcija 16 kom",
+        "desc": "Pileća krilca u Tex-mex sosu",
+        "price": 39.9
+      },
+      {
+        "name": "Pileća Krilca u Tex-Mex Sosu velika porcija 8 kom",
+        "desc": "Pileća krilca u Tex-mex sosu",
+        "price": 19.5
+      },
+      {
+        "name": "Pileća Krilca u Tex-Mex Sosu srednja porcija 6 kom",
+        "desc": "Pileća krilca u Tex-mex sosu",
+        "price": 14.4
+      },
+      {
+        "name": "Pileća Krilca u Tex-Mex Sosu sa Pomfritom",
+        "desc": "Pileća krilca u Tex-mex sosu i pomfrit",
+        "price": 13.2
+      },
+      {
+        "name": "Pileća Krilca u Tex-Mex Sosu mala porcija 4 kom",
+        "desc": "Pileća krilca u Tex-mex sosu",
+        "price": 10.6
+      }
+    ],
+    "SVI SENDVIČI": [
+      {
+        "name": "Pikantni Sendvič sa Piletinom",
+        "desc": "Nadjeven sa Pizza House piletinom, lukom, sirom i pikantnim Buffalo sosom",
+        "price": 13.9
+      },
+      {
+        "name": "Sendvič sa Grilovanom Kobasicom",
+        "desc": "Savršena kombinacija mesa grill kobasice, dinstanih šampinjona, sira i tajnog sosa",
+        "price": 13.9
+      },
+      {
+        "name": "Sendvič sa Piletinom i Slaninom",
+        "desc": "Sočna piletina u Gorgonzola sosu, sir, sjeckana panceta, luk i tajni sos",
+        "price": 13.9
+      },
+      {
+        "name": "Ruski Car",
+        "desc": "Preukusna kombinacija piletine, sira, svježe grill kobasice i tajnog sosa",
+        "price": 13.9
+      },
+      {
+        "name": "Povrtni Sendvič",
+        "desc": "Naše domaće preklopljeno pizza tijesto nadjeveno sa dinstanim šampinjonima, prženom tikvicom, sirom, prženim patlidžanom, malo paprike i tajnim sosom",
+        "price": 13.9
+      },
+      {
+        "name": "Dominator",
+        "desc": "Pikantna pohovana piletina, pohovani sir i tartar sos",
+        "price": 12.0
+      },
+      {
+        "name": "Chicken&Cheese",
+        "desc": "Pohovana piletina, topljeni sir i tartar sos",
+        "price": 10.0
+      },
+      {
+        "name": "Pohovani Sir",
+        "desc": "Dupli pohovani sir i tartar sos",
+        "price": 10.0
+      },
+      {
+        "name": "Ljuta",
+        "desc": "Pikantna pohovana piletina, feferoni i tajni sos",
+        "price": 9.9
+      },
+      {
+        "name": "Tata sa Sirom",
+        "desc": "Pikantna pohovana piletina, topljeni sir, kiseli krastavci i tajni sos",
+        "price": 9.2
+      },
+      {
+        "name": "Klasik",
+        "desc": "Pohovana piletina i Engleska salata",
+        "price": 9.2
+      },
+      {
+        "name": "Spicy",
+        "desc": "Pikantna pohovana piletina i tartar sos",
+        "price": 9.2
+      },
+      {
+        "name": "Zlatiborski Sendvič",
+        "desc": "Sa suhim vratom, kajmakom i 3 vrste sira u domaćoj lepinji",
+        "price": 9.0
+      },
+      {
+        "name": "Tata Zapada",
+        "promo": "-15%",
+        "desc": "Pikantna pohovana piletina, tajni sos i kiseli krastavci",
+        "price": 8.6,
+        "promo_price": 7.31
+      },
+      {
+        "name": "Mama Zapada",
+        "desc": "Pohovana piletina, kiseli krastavac i tajni sos",
+        "price": 8.6
+      },
+      {
+        "name": "Sendvič Sa Piletinom veliki",
+        "desc": "Sa pilećim krpicama u Pizza House sosu",
+        "price": 8.5
+      },
+      {
+        "name": "Pohovana Piletina u Domaćoj Lepinji",
+        "desc": "Pohovani pilećI file u domaćoj lepinji",
+        "price": 7.9
+      },
+      {
+        "name": "DeLuxe Ljuti Chicken Sandwich",
+        "desc": "Pohovani pileći file, topljeni sir, zelena salata, paradajz, majoneza i kiseli krastavac u burger pecivu",
+        "price": 7.9
+      },
+      {
+        "name": "DeLuxe Chicken Sandwich",
+        "desc": "Pohovani pileći file, Tex-mex sos, topljeni sir, zelena salata, paradajz, majoneza i kiseli krastavac u burger pecivu",
+        "price": 7.9
+      },
+      {
+        "name": "Banjalučki Sendvič",
+        "desc": "Sa barenim vratom, pekom i 3 vrste sira u domaćoj lepinji",
+        "price": 7.9
+      },
+      {
+        "name": "DeLuxe Sendvič",
+        "desc": "Sa pekom, kulenom, kuhanim jajetom, 3 vrste sira u domaćoj lepinji",
+        "price": 7.9
+      },
+      {
+        "name": "Njeguški Sendvič",
+        "desc": "Sa pršutom, kajmakom, 3 vrste sira u domaćoj lepinji",
+        "price": 7.9
+      },
+      {
+        "name": "Pikantni Sendvič",
+        "desc": "Sa kulenom, Sremskom kobasicom, 3 vrste sira u domaćoj lepinji",
+        "price": 7.9
+      },
+      {
+        "name": "Pizza House Sendvič",
+        "desc": "Sa kuhanom šunkom, 3 vrste sira, kuhanim jajetom u domaćoj lepinji",
+        "price": 7.9
+      },
+      {
+        "name": "Sremski Sendvič",
+        "desc": "Sa Sremskom kobasicom, kajmakom i 3 vrste sira u domaćoj lepinji",
+        "price": 7.9
+      },
+      {
+        "name": "Tuna Sendvič",
+        "desc": "Sa tunjevinom, 3 vrste sira u domaćoj lepinji",
+        "price": 7.9
+      },
+      {
+        "name": "Nuggets Sendvič",
+        "desc": "Pileći nuggets u domaćem pecivu",
+        "price": 7.9
+      },
+      {
+        "name": "Chicken Sandwich",
+        "desc": "Pohovani pileći file, majoneza i kiseli krastavac u burger pecivu",
+        "price": 6.9
+      },
+      {
+        "name": "Ljuti Chicken Sandwich",
+        "desc": "Pohovani pilećI file, Tex-mex sos, majoneza i kiseli krastavac u burger pecivu",
+        "price": 6.9
+      },
+      {
+        "name": "Sendvič Sa Piletinom mali",
+        "desc": "Sa pilećim krpicama u Pizza House sosu",
+        "price": 6.7
+      },
+      {
+        "name": "Classic Hot-Dog Premium",
+        "desc": "Sa ketchupom, senfom, kiselim krastavcima i lukom",
+        "price": 6.0
+      },
+      {
+        "name": "Maestro Hot-Dog Premium",
+        "desc": "Sa lukom, majonezom, senfom i chipsom",
+        "price": 6.0
+      },
+      {
+        "name": "Ljuti Hot-Dog Premium",
+        "desc": "Sa ketchupom, senfom, feferonima i lukom",
+        "price": 6.0
+      },
+      {
+        "name": "Tex-Mex Hot-Dog Premium",
+        "desc": "Sa Tex-mex sosom i topljenim sirom",
+        "price": 6.0
+      },
+      {
+        "name": "Chips Hot-Dog Premium",
+        "desc": "Sa ketchupom, senfom, majonezom i chipsom",
+        "price": 6.0
+      },
+      {
+        "name": "Cheese Hot-Dog Premium",
+        "desc": "Sa ketchupom, majonezom, topljenim sirom i kiselim krastavcima",
+        "price": 6.0
+      },
+      {
+        "name": "Klasični Sendvič",
+        "desc": "Sa kuhanom šunkom, 3 vrste sira u domaćoj lepinji",
+        "price": 5.3
+      }
+    ],
+    "POSNI MENI": [
+      {
+        "name": "Posna Tuna De Luxe 33 cm",
+        "desc": "Domaći paradajz sos, biljni sir, Rio mare tunjevina, i luk po izboru",
+        "price": 17.3
+      },
+      {
+        "name": "Posna Tuna Pizza 33 cm",
+        "desc": "Domaći paradajz sos, biljni sir, tunjevina",
+        "price": 13.5
+      },
+      {
+        "name": "Posna Povrtna Pizza iz Toscane",
+        "desc": "Pizza za ljubitelje povrća: šampinjoni, zelena paprika, crne masline, crveni luk, biljni sir i sočni paradajz",
+        "price": 12.3
+      },
+      {
+        "name": "Posna Funghi",
+        "desc": "Domaći paradajz sos, biljni sir i šampinjoni",
+        "price": 11.5
+      },
+      {
+        "name": "Posna Margherita",
+        "desc": "Domaći paradajz sos, biljni sir, bosiljak i maslinovo ulje",
+        "price": 9.5
+      }
+    ],
+    "DESERT": [
+      {
+        "name": "Palačinka Nutella i Linolada",
+        "desc": "Palačinka Nutella i Linolada",
+        "price": 4.5
+      },
+      {
+        "name": "Palačinka Eurokrem i Plazma",
+        "desc": "Palačinka Eurokrem i Plazma",
+        "price": 4.5
+      }
+    ],
+    "PIĆE": [
+      {
+        "name": "Coca-Cola",
+        "desc": "Coca-Cola",
+        "price": 2.5
+      },
+      {
+        "name": "Coca-Cola zero",
+        "desc": "Coca-Cola zero",
+        "price": 2.5
+      },
+      {
+        "name": "Fanta",
+        "desc": "Fanta",
+        "price": 2.5
+      },
+      {
+        "name": "Bitter Lemon",
+        "desc": "Bitter Lemon",
+        "price": 2.5
+      },
+      {
+        "name": "Sprite",
+        "desc": "Sprite",
+        "price": 2.5
+      },
+      {
+        "name": "Kisela voda 0.5 l",
+        "desc": "0.5 l",
+        "price": 1.8
+      }
+    ],
+    "PRILOG-PRELIV-SOS-DRESING-SALATE": [
+      {
+        "name": "Pomfrit",
+        "desc": "Pomfrit",
+        "price": 3.0
+      },
+      {
+        "name": "Pomfrit PREKO PIZZE",
+        "desc": "Pomfrit Preko Pizze",
+        "price": 2.5
+      },
+      {
+        "name": "Ketchup POSUDA",
+        "desc": "Ketchup odvojeno",
+        "price": 1.3
+      },
+      {
+        "name": "Ljuti Ketchup POSUDA",
+        "desc": "Ljuti Ketchup POSEBNO",
+        "price": 1.3
+      },
+      {
+        "name": "Domaći Paradajz Sos POSUDA",
+        "desc": "Domaći Paradajz Sos",
+        "price": 1.3
+      },
+      {
+        "name": "Majoneza POSUDA",
+        "desc": "Majoneza POSEBNO",
+        "price": 1.3
+      },
+      {
+        "name": "Senf POSUDA",
+        "desc": "Senf POSEBNO",
+        "price": 1.3
+      }
+    ],
+    "OSTALO": [
+      {
+        "name": "Burger Pecivo 5 komada",
+        "desc": "5 komada",
+        "price": 7.2
+      },
+      {
+        "name": "Pomfrit",
+        "desc": "Pomfrit",
+        "price": 3.0
+      },
+      {
+        "name": "Domaća Lepinja",
+        "desc": "Domaća Lepinja",
+        "price": 1.3
+      },
+      {
+        "name": "Pecivo",
+        "desc": "Pecivo",
+        "price": 0.6
+      }
+    ]
+  }
+}

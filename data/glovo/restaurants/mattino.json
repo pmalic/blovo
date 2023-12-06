@@ -1,0 +1,484 @@
+{
+  "name": "Mattino",
+  "rating": 0.98,
+  "count": 41,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Queen musli",
+        "desc": "Malina, banana, kokos, crna čokolada, granole i jogurt",
+        "price": 8.5
+      },
+      {
+        "name": "Pistacija vafl",
+        "desc": "Pistacija krema, pistacija crunch, bijela čokolada",
+        "price": 9.5
+      },
+      {
+        "name": "Skin care",
+        "desc": "Mango, banana, narandža i jabuka",
+        "price": 7.0
+      }
+    ],
+    "Mattino kombinacije i ponude": [
+      {
+        "name": "Ja i ti na pauzi",
+        "desc": "2x kroasan čokolada ili malina, 2x espresso",
+        "price": 14.0
+      },
+      {
+        "name": "Trio meni 2",
+        "desc": "Kroasan pistacija siciliana, ledeni čaj sa ukusom i espresso",
+        "price": 12.5
+      },
+      {
+        "name": "Fit proteinski doručak",
+        "desc": "Proteinski musli crunch i cijeđena narandža",
+        "price": 12.0
+      },
+      {
+        "name": "Zdravi doručak",
+        "desc": "Musli crunch i limunada",
+        "price": 11.5
+      },
+      {
+        "name": "Double treat",
+        "desc": "2x kroasan pistacija siciliana ili bueno",
+        "price": 11.5
+      },
+      {
+        "name": "Trio meni 1",
+        "desc": "Kroasan čokolada, ledeni čaj sa ukusom i espresso",
+        "price": 11.0
+      },
+      {
+        "name": "Jutro u Rimu",
+        "desc": "Kroasan pistacija siciliana i kapućino",
+        "price": 9.0
+      }
+    ],
+    "Kroasani": [
+      {
+        "name": "Pistacija-čokolada kroasan",
+        "price": 6.5
+      },
+      {
+        "name": "Pistacija siciliana kroasan",
+        "desc": "Kroasan sa kremom od pistacije posut svježom sjeckanom sicilijanskom pistacijom",
+        "price": 6.0
+      },
+      {
+        "name": "Bueno kroasan",
+        "desc": "Kroasan sa bueno kremom i mliječnom čokoladom",
+        "price": 6.0
+      },
+      {
+        "name": "Čokoladni kroasan",
+        "desc": "Kroasan sa nougat čokoladnom kremom, posut crunchy mrvicama i preliven mliječnom čokoladom",
+        "price": 5.5
+      },
+      {
+        "name": "Malina Ruby kroasan",
+        "desc": "Kroasan sa kremom od malina i komadićima Ruby čokolade",
+        "price": 5.5
+      }
+    ],
+    "Musli crunch": [
+      {
+        "name": "Ruby musli",
+        "desc": "Ruby čokolada, malina, badem, voćne granole, jogurt",
+        "price": 9.0
+      },
+      {
+        "name": "Nuts musli",
+        "desc": "Indijski orah, lješnjak, listići badema, med, granole, kikiriki puter, jogurt",
+        "price": 9.0
+      },
+      {
+        "name": "Queen musli",
+        "desc": "Malina, banana, kokos, crna čokolada, granole i jogurt",
+        "price": 8.5
+      },
+      {
+        "name": "Berry musli",
+        "desc": "Godži bobice, brusnica, šumsko voće, med, granole, jogurt",
+        "price": 8.5
+      },
+      {
+        "name": "Čoko musli",
+        "desc": "Kakao, med, banana, datula, granole, jogurt",
+        "price": 8.0
+      }
+    ],
+    "Fitness meni": [
+      {
+        "name": "Hi-pro nuts musli",
+        "desc": "Protein 30 gr, badem, lješnjak, kakao, brusnica, listići badema, med, musli, jogurt",
+        "price": 9.0
+      },
+      {
+        "name": "Hi-pro Grecia musli",
+        "desc": "Protein 30 gr, jogurt, kivi, orašasti plodovi, šumsko voće, musli",
+        "price": 9.0
+      },
+      {
+        "name": "Hi-pro musli",
+        "desc": "Protein 30 gr, kikiriki puter, datule, banana, musli, kakao, jogurt",
+        "price": 8.5
+      },
+      {
+        "name": "Čokoladni proteinski šejk",
+        "desc": "30 gr whey proteina",
+        "price": 6.5
+      },
+      {
+        "name": "Šumsko voće proteinski šejk",
+        "desc": "30 gr whey proteina",
+        "price": 6.5
+      },
+      {
+        "name": "Java banana proteinski šejk",
+        "desc": "30 gr whey proteina",
+        "price": 6.5
+      },
+      {
+        "name": "Chia obrok",
+        "desc": "Chia sjemenke, jogurt, med i ukusi: šumsko voće, banana, borovnica",
+        "price": 6.0
+      }
+    ],
+    "Vafle": [
+      {
+        "name": "Antverp",
+        "desc": "Mliječna čokolada, banana, bijeli krem, krem bananice, cookie crunch",
+        "price": 10.5
+      },
+      {
+        "name": "Leven",
+        "desc": "Narandža krem, sos od narandže, choconut krema, oranž čoko medaljon, sjeckani lješnjak",
+        "price": 9.5
+      },
+      {
+        "name": "Brisel",
+        "desc": "Nougat krem, čoko bombonice, Oreo, šlag i čokoladni toping",
+        "price": 9.5
+      },
+      {
+        "name": "Pistacija vafl",
+        "desc": "Pistacija krema, pistacija crunch, bijela čokolada",
+        "price": 9.5
+      },
+      {
+        "name": "Briž",
+        "desc": "Bijeli krem, maline, kokos, preliv od bijele čokolade i roleri",
+        "price": 9.0
+      },
+      {
+        "name": "Gent",
+        "desc": "Čokoladna krema, banana, plazma i šlag",
+        "price": 8.5
+      }
+    ],
+    "Smoothie": [
+      {
+        "name": "Sport smoothie",
+        "desc": "Whey protein 30 gr, borovnica, malina, jabuka, mlijeko i ovsene pahuljice",
+        "price": 8.5
+      },
+      {
+        "name": "Ruby smoothie",
+        "desc": "Malina, jabuka, banana, vanilija, med, mlijeko i ovsene pahuljice",
+        "price": 7.5
+      },
+      {
+        "name": "Chia smoothie",
+        "desc": "Chia sjemenke, jabuka, banana, datule, mlijeko i ovsene pahuljice",
+        "price": 7.5
+      },
+      {
+        "name": "Berry smoothie",
+        "desc": "Šumsko voće, banana, cimet, med, mlijeko i ovsene pahuljice",
+        "price": 7.5
+      },
+      {
+        "name": "Tropico smoothie",
+        "desc": "Kokos, banana, ananas i med, mlijeko i ovsene pahuljice",
+        "price": 7.0
+      },
+      {
+        "name": "Kikiriki premium smoothie",
+        "desc": "kakao, banana, lješnjak, badem, kikiriki, mlijeko i ovsene pahuljice",
+        "price": 7.0
+      },
+      {
+        "name": "Vita smoothie",
+        "desc": "Mrkva, jabuka, đumbir, miks sjemenki, narandža, mlijeko i ovsene pahuljice",
+        "price": 7.0
+      },
+      {
+        "name": "Creamy smoothie",
+        "desc": "Malina, banana, jabuka, sjemenke lana i jogurt",
+        "price": 7.0
+      },
+      {
+        "name": "Silky skin smoothie",
+        "desc": "Jabuka, đumbir, limun, mrkva, mlijeko i ovsene pahuljice",
+        "price": 7.0
+      }
+    ],
+    "Kafe i topli napici": [
+      {
+        "name": "Mocha grande",
+        "desc": "Mocha grande",
+        "price": 4.9
+      },
+      {
+        "name": "Hladna mocha",
+        "desc": "Hladna mocha",
+        "price": 4.9
+      },
+      {
+        "name": "Dupli espresso",
+        "desc": "Dupli espresso",
+        "price": 4.5
+      },
+      {
+        "name": "Latte pistacija XL",
+        "desc": "Latte pistacija XL",
+        "price": 4.5
+      },
+      {
+        "name": "Latte vanilija XL",
+        "desc": "Latte vanilija XL",
+        "price": 4.5
+      },
+      {
+        "name": "Latte karamela XL",
+        "desc": "Latte karamela XL",
+        "price": 4.5
+      },
+      {
+        "name": "Latte cookie XL",
+        "desc": "Latte cookie XL",
+        "price": 4.5
+      },
+      {
+        "name": "Matcha latte",
+        "desc": "Matcha latte",
+        "price": 4.5
+      },
+      {
+        "name": "Iced matcha latte",
+        "desc": "Iced matcha latte",
+        "price": 4.5
+      },
+      {
+        "name": "Latte",
+        "desc": "Latte",
+        "price": 4.0
+      },
+      {
+        "name": "Iced latte",
+        "desc": "Iced latte",
+        "price": 4.0
+      },
+      {
+        "name": "Veliki macchiatto",
+        "desc": "Veliki espresso sa mlijekom",
+        "price": 3.0
+      },
+      {
+        "name": "Cappuccino",
+        "desc": "Cappuccino",
+        "price": 3.0
+      },
+      {
+        "name": "Espresso s mlijekom",
+        "desc": "Espresso s mlijekom",
+        "price": 2.8
+      },
+      {
+        "name": "Mali macchiatto",
+        "desc": "Mali macchiatto",
+        "price": 2.8
+      },
+      {
+        "name": "Espresso",
+        "desc": "Espresso",
+        "price": 2.5
+      },
+      {
+        "name": "Produženi espresso",
+        "desc": "Produženi espresso",
+        "price": 2.5
+      }
+    ],
+    "Posebne kafe": [
+      {
+        "name": "Pumpkin spice latte",
+        "desc": "Pumpkin spice latte",
+        "price": 6.0
+      },
+      {
+        "name": "Marcipan",
+        "desc": "Marcipan",
+        "price": 6.0
+      },
+      {
+        "name": "Jaffa latte",
+        "desc": "Jaffa latte",
+        "price": 5.5
+      },
+      {
+        "name": "Toffee karamela latte",
+        "desc": "Toffee karamela latte",
+        "price": 5.5
+      },
+      {
+        "name": "Irish",
+        "desc": "Irish",
+        "price": 5.0
+      }
+    ],
+    "Sirove tortice - raw cake": [
+      {
+        "name": "Pistacija raw cake - sirova tortica",
+        "desc": "Posno, veganski i prirodno. Sirova tortica napravljena je od badema, lješnjaka, ,oraha, datula, ovsenih pahuljica, grožđica i organskog kakaa. Prelivena kremom od sicilijanske pistacije i posuta komadićima svježe pistacije.",
+        "price": 8.5
+      },
+      {
+        "name": "Karamela raw cake - sirova tortica",
+        "desc": "Posno, veganski, bez glutena i prirodno. Sirova tortica napravljena je od badema, lješnjaka, ,oraha, datula, ovsenih pahuljica, grožđica i organskog kakaa. Prelivena karamelom i komadićima karamelizovanog lješnjaka.",
+        "price": 8.5
+      },
+      {
+        "name": "Badem raw cake - sirova tortica",
+        "price": 8.5
+      },
+      {
+        "name": "Lješnjak raw cake - sirova tortica",
+        "price": 8.5
+      }
+    ],
+    "Cijeđeni sok cold press": [
+      {
+        "name": "Kiss",
+        "desc": "Jagoda, banana, šumsko voće i jabuka",
+        "price": 7.0
+      },
+      {
+        "name": "Skin care",
+        "desc": "Mango, banana, narandža i jabuka",
+        "price": 7.0
+      },
+      {
+        "name": "Mix",
+        "desc": "Grejp, narandža, jabuka, mrkva",
+        "price": 6.5
+      },
+      {
+        "name": "Pie",
+        "desc": "Banana, jabuka, med, cimet",
+        "price": 6.5
+      },
+      {
+        "name": "Kiwi",
+        "desc": "Kivi, narandža, jabuka i banana",
+        "price": 6.5
+      },
+      {
+        "name": "Citrus mix 300 ml",
+        "desc": "Narandža, limun i grejp",
+        "price": 6.0
+      },
+      {
+        "name": "Restart",
+        "desc": "Ananas, menta, limun i jabuka",
+        "price": 6.0
+      },
+      {
+        "name": "Slim",
+        "desc": "Celer, đumbir, jabuka i narandža",
+        "price": 6.0
+      },
+      {
+        "name": "Wake up",
+        "desc": "Mrkva, đumbir, limun i jabuka",
+        "price": 6.0
+      },
+      {
+        "name": "Calm",
+        "desc": "Kruška, jabuka, cimet, narandža",
+        "price": 6.0
+      },
+      {
+        "name": "Cijeđena narandža 300 ml",
+        "desc": "300 ml",
+        "price": 5.0
+      },
+      {
+        "name": "Cijeđena jabuka cold press 300 ml",
+        "desc": "300 ml",
+        "price": 5.0
+      },
+      {
+        "name": "Limunada cold press 300 ml",
+        "desc": "300 ml",
+        "price": 3.5
+      }
+    ],
+    "Sokovi i vode": [
+      {
+        "name": "Limunana  300 ml",
+        "desc": "Svježe cijeđena limunada sa mentom",
+        "price": 4.5
+      },
+      {
+        "name": "Limunada lubenica  300 ml",
+        "desc": "Svježe cijeđena limunada sa ukusom lubenice",
+        "price": 4.5
+      },
+      {
+        "name": "Limunada marakuja  300 ml",
+        "desc": "Svježe cijeđena limunada sa ukusom marakuje",
+        "price": 4.5
+      },
+      {
+        "name": "Limunada breskva 300ml",
+        "desc": "Svježe cijeđena limunada sa ukusom breskve",
+        "price": 4.5
+      },
+      {
+        "name": "Limunada malina  300 ml",
+        "desc": "Svježe cijeđena limunada sa ukusom maline",
+        "price": 4.5
+      },
+      {
+        "name": "Ledeni čaj lubenica  300 ml",
+        "desc": "300 ml",
+        "price": 4.0
+      },
+      {
+        "name": "Ledeni čaj marakuja  300 ml",
+        "desc": "300 ml",
+        "price": 4.0
+      },
+      {
+        "name": "Ledeni čaj breskva  300 ml",
+        "desc": "300 ml",
+        "price": 4.0
+      },
+      {
+        "name": "Ledeni čaj malina 300 ml",
+        "desc": "300 ml",
+        "price": 4.0
+      },
+      {
+        "name": "Limunada 300 ml",
+        "desc": "300 ml",
+        "price": 4.0
+      }
+    ]
+  }
+}

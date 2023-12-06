@@ -1,0 +1,728 @@
+{
+  "name": "Marco Polo",
+  "rating": 0.99,
+  "count": 265,
+  "service_fee": 2.8,
+  "menu": {
+    "Happy Wok 12:00-21:00": [
+      {
+        "name": "Wok lignje u ljuto slatko kiselom sosu **POSNO",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 16.5
+      },
+      {
+        "name": "Wok škampi u slatko kiselom sosu **POSNO",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 16.5
+      },
+      {
+        "name": "Wok lignje u soja sosu **POSNO",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 16.5
+      },
+      {
+        "name": "Wok škampi u Sečuan sosu **POSNO",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 16.5
+      },
+      {
+        "name": "Wok Smuđ u Jang Ce sosu **POSNO**Novo u ponudi-ljuto-POSNO",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 16.5
+      },
+      {
+        "name": "Wok teletina ljuto začinjena",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 12.5
+      },
+      {
+        "name": "Wok TERIJAKI Teletina **NOVO u ponudi",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 12.5
+      },
+      {
+        "name": "Wok teletina u Sečuan sosu",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 11.9
+      },
+      {
+        "name": "Wok teletina u curry sosu",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 11.9
+      },
+      {
+        "name": "Wok teletina u Ostriga sosu",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 11.9
+      },
+      {
+        "name": "Wok svinjetina sa kikirikijem **NOVO u ponudi!",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 11.5
+      },
+      {
+        "name": "Wok svinjetina u Sečuan sosu",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 11.5
+      },
+      {
+        "name": "Wok svinjetina slatko kisela",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 11.5
+      },
+      {
+        "name": "Wok Jang ce piletina *ljuto *",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 10.9
+      },
+      {
+        "name": "Wok piletina u slatko kiselom sosu",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 10.9
+      },
+      {
+        "name": "Wok piletina u Sečuan sosu",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 10.9
+      },
+      {
+        "name": "Wok piletina sa kikirikijem",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 10.9
+      },
+      {
+        "name": "Wok TERIJAKI Piletina ** NOVO u ponudi",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 10.9
+      },
+      {
+        "name": "Wok piletina u Ostriga sosu",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 10.5
+      },
+      {
+        "name": "Wok piletina u curry sosu",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 10.5
+      },
+      {
+        "name": "Wok šampinjoni u soja sosu **POSNO-VEGE",
+        "desc": "Komplet obrok 450 gr, 250 gr jelo, 200 gr prilog",
+        "price": 10.5
+      }
+    ],
+    "Predjela": [
+      {
+        "name": "Ljuto kisela supa",
+        "desc": "Mrkva, bijeli i plavi kupus, jaja, šampinjoni",
+        "price": 7.5
+      },
+      {
+        "name": "Proljećne rolnice",
+        "desc": "Kupus, mrkva, praziluk, jaja, šampinjoni, rezanci od riže",
+        "price": 3.5
+      }
+    ],
+    "Piletina": [
+      {
+        "name": "Pikantna piletina 280 gr",
+        "desc": "Ljuta paprika",
+        "price": 17.5
+      },
+      {
+        "name": "TERIJAKI Piletina **NOVO u ponudi",
+        "desc": "Jelo se servira ISKLJUČIVO sa pšeničnim nudlama!",
+        "price": 17.5
+      },
+      {
+        "name": "Piletina u ljuto-slatko-kiselom sosu",
+        "desc": "Piletina, ljuto-slatko-kiseli sos",
+        "price": 16.9
+      },
+      {
+        "name": "Piletina sa kikirikijem",
+        "desc": "Mrkva, kikiriki, ljuta paprika",
+        "price": 15.9
+      },
+      {
+        "name": "Piletina slatko-kisela",
+        "desc": "Piletina, slatko-kiseli sos",
+        "price": 15.9
+      },
+      {
+        "name": "Pileći batak u ljuto-slatko- kiselom sosu",
+        "desc": "Pileći batak, ljuto-slatko-kiseli sos",
+        "price": 15.9
+      },
+      {
+        "name": "Pileći batak u pikantnom sosu",
+        "desc": "Pileći batak, pikantni sos",
+        "price": 15.9
+      },
+      {
+        "name": "Jang ce piletina",
+        "desc": "Ljuti Sambal sos",
+        "price": 15.9
+      },
+      {
+        "name": "Piletina Sečuan",
+        "desc": "Šampinjoni, mrkva, Sečuan sos",
+        "price": 15.9
+      },
+      {
+        "name": "Piletina ljuto pržena",
+        "desc": "Piletina ljuto pržena",
+        "price": 15.9
+      },
+      {
+        "name": "Piletina u Ostriga sosu",
+        "desc": "Piletina, sos",
+        "price": 14.9
+      },
+      {
+        "name": "Piletina u curry sosu",
+        "desc": "Piletina, curry sos",
+        "price": 14.5
+      },
+      {
+        "name": "Piletina sa ananasom",
+        "desc": "Piletina, ananas",
+        "price": 14.0
+      },
+      {
+        "name": "Pohovana pileća šnicla",
+        "desc": "Pohovana pileća šnicla, pomfrit, sir, ketchup, majoneza",
+        "price": 11.9
+      }
+    ],
+    "Teletina": [
+      {
+        "name": "TERIJAKI Teletina **NOVO u ponudi",
+        "desc": "Jelo se servira ISKLJUČIVO sa pšeničnim nudlama!",
+        "price": 19.0
+      },
+      {
+        "name": "Teletina u Ostriga sosu",
+        "desc": "Teletina, Ostriga sos",
+        "price": 18.0
+      },
+      {
+        "name": "Teletina sa kikirikijem",
+        "desc": "Teletina, kikiriki",
+        "price": 18.0
+      },
+      {
+        "name": "Teletina u curry sosu",
+        "desc": "Teletina, curry sos",
+        "price": 18.0
+      },
+      {
+        "name": "Ljuto začinjena teletina",
+        "desc": "Teletina u ljutom sosu",
+        "price": 18.0
+      }
+    ],
+    "Svinjetina": [
+      {
+        "name": "Pikantna svinjetina",
+        "desc": "Svinjetina, pikant",
+        "price": 17.5
+      },
+      {
+        "name": "Ljuto pržena svinjetina 280 gr",
+        "desc": "Pržena svinjetina, ljuti sos",
+        "price": 17.5
+      },
+      {
+        "name": "Svinjetina u ljuto-slatko-kiselom sosu",
+        "desc": "Svinjetina, ljuto-slatko-kiseli sos",
+        "price": 16.5
+      },
+      {
+        "name": "Svinjetina sa kikirikijem i povrćem",
+        "desc": "Svinjetina, kikiriki, povrće",
+        "price": 16.5
+      },
+      {
+        "name": "Svinjetina Sečuan",
+        "desc": "Svinjetina, Sečuan sos",
+        "price": 16.5
+      },
+      {
+        "name": "Svinjetina slatko kisela",
+        "desc": "Svinjetina slatko kisela",
+        "price": 16.5
+      },
+      {
+        "name": "Svinjetina u curry sosu",
+        "desc": "Svinjetina, curry sos",
+        "price": 16.0
+      },
+      {
+        "name": "Svinjetina u Marco Polo sosu",
+        "desc": "Svinjetina, sos",
+        "price": 16.0
+      }
+    ],
+    "Riba i morski plodovi": [
+      {
+        "name": "Pohovane lignje u soja sosu",
+        "desc": "Lignje, soja sos posno",
+        "price": 22.0
+      },
+      {
+        "name": "Škampi u slatko kiselom sosu",
+        "desc": "Škampi, slatko kiseli sos, posno",
+        "price": 22.0
+      },
+      {
+        "name": "Škampi u Sečuan sosu",
+        "desc": "Škampi, Sečuan sos, posno",
+        "price": 22.0
+      },
+      {
+        "name": "Pohovane lignje u ljuto-slatko-kiselom sosu",
+        "desc": "Lignje, ljuto-slatko-kiseli sos, posno",
+        "price": 22.0
+      },
+      {
+        "name": "Smuđ u Jang Ce sosu",
+        "desc": "Smuđ u Jang Ce sosu",
+        "price": 22.0
+      }
+    ],
+    "Vege": [
+      {
+        "name": "Šampinjoni u soja sosu",
+        "desc": "Šampinjoni, soja sos",
+        "price": 13.5
+      },
+      {
+        "name": "Povrće u slatko-ljuto-kiselom sosu",
+        "desc": "Povrće, slatko-ljuto-kiseli sos",
+        "price": 13.5
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Jastog salata",
+        "desc": "Jastog",
+        "price": 5.0
+      },
+      {
+        "name": "Kupus na kineski način",
+        "desc": "Kupus",
+        "price": 4.9
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pomfrit",
+        "desc": "Pomfrit",
+        "price": 4.0
+      },
+      {
+        "name": "Pekarski krompir",
+        "desc": "Pekarski krompir",
+        "price": 4.0
+      },
+      {
+        "name": "Grilovano povrće",
+        "desc": "Grilovano povrće",
+        "price": 4.0
+      },
+      {
+        "name": "Kroketi",
+        "desc": "Kroketi",
+        "price": 4.0
+      },
+      {
+        "name": "Nudle pšenične",
+        "desc": "Nudle pšenične",
+        "price": 3.4
+      },
+      {
+        "name": "Riža jaja",
+        "desc": "Riža, jaja",
+        "price": 2.3
+      },
+      {
+        "name": "Riža curry",
+        "desc": "Riža, curry sos",
+        "price": 2.3
+      },
+      {
+        "name": "Riža povrće",
+        "desc": "Riža, povrće",
+        "price": 2.3
+      },
+      {
+        "name": "Riža soja",
+        "desc": "Riža, soja sos",
+        "price": 2.3
+      },
+      {
+        "name": "Baget",
+        "desc": "Baget, pecivo",
+        "price": 2.2
+      },
+      {
+        "name": "Riža bijela",
+        "desc": "Bijela",
+        "price": 2.1
+      }
+    ],
+    "Sosevi": [
+      {
+        "name": "Gorgonzola sos",
+        "desc": "0,03 l",
+        "price": 3.5
+      },
+      {
+        "name": "Curry sos 0,03 l",
+        "desc": "0,03 l",
+        "price": 1.0
+      },
+      {
+        "name": "Ljuti chilli sos 0,03 l",
+        "desc": "Sambal 0,03 l",
+        "price": 1.0
+      },
+      {
+        "name": "Slatko kiseli sos 0,03 l",
+        "desc": "0,03 l",
+        "price": 1.0
+      },
+      {
+        "name": "Ljuto-slatko kiseli sos 0,03 l",
+        "desc": "0.03 l",
+        "price": 1.0
+      },
+      {
+        "name": "Ostriga sos 0,03 l",
+        "desc": "0,03 l",
+        "price": 1.0
+      },
+      {
+        "name": "Sečuan sos 0,03 l",
+        "desc": "0,03 l",
+        "price": 1.0
+      },
+      {
+        "name": "Soja sos 0,03 l",
+        "desc": "0,03 l",
+        "price": 0.8
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Pohovani sladoled",
+        "desc": "Pohovani sladoled",
+        "price": 9.0
+      },
+      {
+        "name": "Krempita teta Vide",
+        "desc": "Krempita teta Vide",
+        "price": 8.0
+      },
+      {
+        "name": "POSNO Kolač sa jabukom",
+        "desc": "Kolač sa jabukom, orasi, grožđice, keks, sos od maline i Caramel sos",
+        "price": 8.0
+      },
+      {
+        "name": "Kolač od čokolade sa mariniranim malinama",
+        "desc": "Kolač od čokolade sa mariniranim malinama",
+        "price": 8.0
+      },
+      {
+        "name": "Pohovane banane sa medom ili čokoladom",
+        "desc": "Med ili čokolada",
+        "price": 6.5
+      }
+    ],
+    "Domaća i internacionalna kuhinja": [
+      {
+        "name": "Biftek u krem sosu od Gorgonzole",
+        "desc": "Biftek 300 gr, kroketi od krompira, grilovano povrće",
+        "price": 42.0
+      },
+      {
+        "name": "Biftek na maslacu sa začinskim biljem",
+        "desc": "Biftek 300 gr.kroketi od krompira, grilovano povrće",
+        "price": 41.0
+      },
+      {
+        "name": "Biftek u sosu od zelenog bibera",
+        "desc": "Biftek 300 gr, biber sos, kroketi od krompira, grilovano povrće",
+        "price": 41.0
+      },
+      {
+        "name": "Biftek na ploške",
+        "desc": "Biftek 300 gr, rižoto, blitva, šampinjoni",
+        "price": 41.0
+      },
+      {
+        "name": "File lososa posno",
+        "desc": "File lososa, blitva sa krompirom, posno",
+        "price": 39.0
+      },
+      {
+        "name": "Teleći medaljoni u sosu od šampinjona",
+        "desc": "Teletina, pomfrit, grilovano povrće",
+        "price": 28.0
+      },
+      {
+        "name": "***NOVO***File smuđa posno",
+        "desc": "File smuđa, blitva sa krompirom, posno",
+        "price": 28.0
+      },
+      {
+        "name": "NOVO***Teletina sa kajmakom",
+        "desc": "Kroketi, povrće iz woka",
+        "price": 26.0
+      },
+      {
+        "name": "Zapečena teletina na hrskavom krompiru",
+        "desc": "Teletina, krompir, paradajz, praziluk, curry sos",
+        "price": 25.0
+      },
+      {
+        "name": "Lignje sa žara i blitva s krompirom posno",
+        "desc": "Lignje, blitva, krompir",
+        "price": 22.0
+      },
+      {
+        "name": "Karađorđeva šnicla",
+        "desc": "Šunka, kajmak,grilovano povrće, pomfrit",
+        "price": 21.5
+      },
+      {
+        "name": "Losos salata posno",
+        "desc": "Posno",
+        "price": 21.0
+      },
+      {
+        "name": "Rižoto sa junetinom i crnim tartufom",
+        "desc": "Rižoto, junetina, tartufi",
+        "price": 19.0
+      },
+      {
+        "name": "Svinjski rolovani ražnjići",
+        "desc": "Svinjski rolovani ražnjići",
+        "price": 19.0
+      },
+      {
+        "name": "Pileći file u krem sosu od curry-ja i špinata",
+        "desc": "Pileći file, sos, špinat",
+        "price": 18.5
+      },
+      {
+        "name": "Rižoto sa pilećim batkom i vrganjima",
+        "desc": "Riža, meso, gljive",
+        "price": 18.5
+      },
+      {
+        "name": "Punjeni pileći ražnjići",
+        "desc": "Punjeni pileći ražnjići",
+        "price": 18.5
+      },
+      {
+        "name": "Marinirani svinjski vrat ***NOVO",
+        "desc": "Kroketi, povrće iz voka",
+        "price": 18.0
+      },
+      {
+        "name": "Pileći file u Šampinjon sosu, povrće iz woka, krompir",
+        "desc": "Pileće filete, sos, povrće",
+        "price": 17.5
+      },
+      {
+        "name": "Pastrmka na žaru i blitva s krompirom posno",
+        "desc": "Pastrmka, blitva, krompir",
+        "price": 17.5
+      },
+      {
+        "name": "Pileći file u Gorgonzola sosu",
+        "desc": "Pileći file, sos",
+        "price": 17.5
+      },
+      {
+        "name": "Spaghetti Carbonara",
+        "desc": "Spaghetti Carbonara",
+        "price": 16.5
+      },
+      {
+        "name": "Chicken pasta",
+        "desc": "Pasta, piletina",
+        "price": 16.5
+      },
+      {
+        "name": "Cezar salata",
+        "desc": "Piletina, slanina, krutoni, zelena salata, pavlaka",
+        "price": 16.0
+      },
+      {
+        "name": "Fitness salata",
+        "desc": "Fitness salata, posno",
+        "price": 14.5
+      },
+      {
+        "name": "Bruskete sa tikvicama i dimljenim biftekom",
+        "desc": "Bruskete, tikvice, dimljeni biftek",
+        "price": 13.5
+      },
+      {
+        "name": "Batman šnicla",
+        "desc": "Pileći file",
+        "price": 11.9
+      },
+      {
+        "name": "Pileći štapići sa pomfritom",
+        "desc": "Pileći file 120 gr.pomfrit, sos po želji ( kečap, majonez, tartar )",
+        "price": 11.9
+      },
+      {
+        "name": "Pileći kolutići u sosu od Gorgonzole",
+        "desc": "Piletina, sos",
+        "price": 10.5
+      },
+      {
+        "name": "Pileći kolutići u sosu od 4 vrste sira",
+        "desc": "Pileći kolutići, sos",
+        "price": 10.5
+      },
+      {
+        "name": "Mađarska čorba",
+        "desc": "Blaga ili ljuta",
+        "price": 9.0
+      },
+      {
+        "name": "Bistra supa sa povrćem",
+        "desc": "Supa, povrće",
+        "price": 7.5
+      },
+      {
+        "name": "Srpska salata",
+        "desc": "Paradajz, krastavac, paprika, luk",
+        "price": 4.9
+      },
+      {
+        "name": "Svježa miješana salata",
+        "desc": "Paradajz, krastavac, kupus, zelena salata",
+        "price": 4.9
+      },
+      {
+        "name": "Šopska salata",
+        "desc": "Paradajz, krastavac, paprika, luk, sir",
+        "price": 4.9
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Negazirana voda Vivia 0,75 l",
+        "desc": "0,75 l",
+        "price": 6.5
+      },
+      {
+        "name": "Gazirana voda Vitinka 0,75 l",
+        "desc": "0,75 l",
+        "price": 6.5
+      },
+      {
+        "name": "Cijeđeni Grejp 0.20 l",
+        "desc": "0.20 l",
+        "price": 4.5
+      },
+      {
+        "name": "Cijeđena Narandža 0,20 l",
+        "desc": "0,20 l",
+        "price": 4.0
+      },
+      {
+        "name": "Gazirani sok Orangina 0,25 l",
+        "desc": "0,25 l",
+        "price": 4.0
+      },
+      {
+        "name": "Gazirani sok Cockta 0.275 l",
+        "desc": "0.275 l",
+        "price": 3.7
+      },
+      {
+        "name": "Prirodni sok Vitaminka Borovnica 0,20 l",
+        "desc": "0,20 l",
+        "price": 3.5
+      },
+      {
+        "name": "Prirodni sok Vitaminka Jabuka 0,20 l",
+        "desc": "0,20 l",
+        "price": 3.3
+      },
+      {
+        "name": "Prirodni sok Vitaminka Narandža 0,20 l",
+        "desc": "0,20 l",
+        "price": 3.3
+      },
+      {
+        "name": "Prirodni sok Vitaminka Višnja 0,20 l",
+        "desc": "0,20 l",
+        "price": 3.3
+      },
+      {
+        "name": "Prirodni sok Vitaminka Jagoda 0,20 l",
+        "desc": "0,20 l",
+        "price": 3.3
+      },
+      {
+        "name": "Prirodni sok Vitaminka Breskva 0,20 l",
+        "desc": "0,20 l",
+        "price": 3.3
+      },
+      {
+        "name": "Ledeni čaj Vitinka Brusnica 0,25 l",
+        "desc": "0,25 l",
+        "price": 3.3
+      },
+      {
+        "name": "Ledeni čaj Vitinka Breskva 0,25 l",
+        "desc": "0,25 l",
+        "price": 3.3
+      },
+      {
+        "name": "Limunada 0,20 l",
+        "desc": "0,20 l",
+        "price": 3.0
+      },
+      {
+        "name": "Negazirana voda Vivia 0,25 l",
+        "desc": "0,25 l",
+        "price": 2.5
+      },
+      {
+        "name": "Negazirana voda Vivia limun 0,25 l",
+        "desc": "0,25 l",
+        "price": 2.5
+      },
+      {
+        "name": "Gazirana voda Vitinka 0,25 l",
+        "desc": "0,25 l",
+        "price": 2.5
+      }
+    ],
+    "Energetska pića": [
+      {
+        "name": "Red Bull Energy Drink 0,25 l",
+        "desc": "0,25 l",
+        "price": 7.0
+      }
+    ],
+    "Pivo": [
+      {
+        "name": "Pivo Bavaria 0,25 l",
+        "desc": "0,25 l",
+        "price": 3.3
+      }
+    ]
+  }
+}

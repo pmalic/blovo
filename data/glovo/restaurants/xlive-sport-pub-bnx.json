@@ -1,0 +1,208 @@
+{
+  "name": "Xlive Sport Pub",
+  "rating": 1.0,
+  "count": 10,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Burger",
+        "desc": "Junetina 150 gr, slanina, Edamer, zelena salata, paradajz, kiseli krastavac, luk, krompirići",
+        "price": 11.5
+      }
+    ],
+    "Predjela": [
+      {
+        "name": "Xlive hladna plata",
+        "desc": "Kulen, peka, suhi vrat, Kozji sir, Edamer",
+        "price": 22.0
+      },
+      {
+        "name": "Bruskete",
+        "desc": "Tost, paradajz, pesto sos, zelena salata",
+        "price": 7.0
+      }
+    ],
+    "Posni meni": [
+      {
+        "name": "Salata sa tunjevinom",
+        "desc": "Tunjevina, zelena salata, kiseli krastavci, paprika, masline, kukuruz",
+        "price": 8.5
+      },
+      {
+        "name": "Sendvič sa tunjevinom",
+        "desc": "Tunjevina, ajvar, kiseli krastavci, zelena salata",
+        "price": 7.0
+      }
+    ],
+    "Glavni meni": [
+      {
+        "name": "Xlive sport pub plata",
+        "desc": "Rebarca 200 gr, kobasice sa sirom 100 gr, ljuta kobasica 100 gr, krilca 100 gr, krompirići",
+        "price": 24.0
+      },
+      {
+        "name": "Piletina u Saltimbocca sosu",
+        "desc": "Piletina, sos na bazi vrhnja za kuhanje, peka, kroketi od krompira",
+        "price": 13.5
+      },
+      {
+        "name": "Piletina sa njokama",
+        "desc": "Piletina, njoke, pesto sos",
+        "price": 13.0
+      },
+      {
+        "name": "Rebarca",
+        "desc": "Svinjska rebarca 450 gr, krompirići, pikant sos",
+        "price": 12.0
+      },
+      {
+        "name": "Piletina Caprese",
+        "desc": "Piletina 200 gr, paradajz, Mozzarella, pesto sos, mix salata",
+        "price": 12.0
+      },
+      {
+        "name": "Rebarca s pomfritom",
+        "desc": "450 gr, pomfrit",
+        "price": 12.0
+      },
+      {
+        "name": "Mix kobasica",
+        "desc": "Ljuta kobasica 100 gr, blaga kobasica 100 gr, roštiljska kobasica, krompirići, senf",
+        "price": 11.5
+      },
+      {
+        "name": "Otkošten batak u cornflakesu",
+        "desc": "Batak 300 gr, krompirići, kikiriki sos",
+        "price": 11.0
+      },
+      {
+        "name": "Pileći štapići",
+        "desc": "Piletina, pomfrit, Tartar sos",
+        "price": 11.0
+      },
+      {
+        "name": "Bečka šnicla",
+        "desc": "Pohovana piletina, krompirići, bijeli sos",
+        "price": 9.0
+      },
+      {
+        "name": "Krilca u ljutom sosu",
+        "desc": "Krilca 350 gr, krompirići, ljuti sos",
+        "price": 9.0
+      },
+      {
+        "name": "Pivska gulaš čorba",
+        "desc": "Pivska gulaš čorba",
+        "price": 6.5
+      }
+    ],
+    "Burgeri": [
+      {
+        "name": "Burger Tony Adams",
+        "desc": "Junetina 180 gr, slanina, Cheddar, paradajz, zelena paprika, ljubičasti luk, rukola, sos na bazi meda i senfa, krompirići",
+        "price": 16.0
+      },
+      {
+        "name": "Burger George Best",
+        "desc": "Junetina 180 gr, Mozzarella, slanina, paradajz, zelena salata, paprika, krompirići",
+        "price": 13.5
+      },
+      {
+        "name": "Burger",
+        "desc": "Junetina 150 gr, slanina, Edamer, zelena salata, paradajz, kiseli krastavac, luk, krompirići",
+        "price": 11.5
+      }
+    ],
+    "Sendviči i tortilje": [
+      {
+        "name": "Tortilja sa piletinom",
+        "desc": "Tortilja, piletina 100 gr, Edamer, slanina, zelenasalata, cherry",
+        "price": 9.5
+      },
+      {
+        "name": "Sendvič sa piletinom",
+        "desc": "Piletina 100 gr, Edamer, slanina, paradajz, kiseli krastavac, luk, krompirići",
+        "price": 9.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Cezar salata",
+        "desc": "Piletina 120 gr, slanina, zelena salata, cherry, Parmezan, dresing",
+        "price": 10.5
+      },
+      {
+        "name": "Salata Caprese",
+        "desc": "Paradajz, Mozzarella, pesto sos, zelena salata",
+        "price": 8.0
+      },
+      {
+        "name": "Sezonska salata",
+        "desc": "Zelena salata, kupus salata, paradajz, krastavac",
+        "price": 3.5
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pomfrit 200 gr",
+        "desc": "200 gr",
+        "price": 4.0
+      },
+      {
+        "name": "Krompirići",
+        "desc": "Krompirići *Slika je simbolična",
+        "price": 4.0
+      },
+      {
+        "name": "Domaće pecivo",
+        "desc": "Domaće pecivo *Slika je simbolična",
+        "price": 1.0
+      }
+    ],
+    "Sosevi": [
+      {
+        "name": "Kikiriki sos",
+        "desc": "Kikiriki sos *Slika je simbolična",
+        "price": 1.5
+      },
+      {
+        "name": "Ljuti sos",
+        "desc": "Ljuti sos",
+        "price": 1.5
+      },
+      {
+        "name": "Bijeli sos",
+        "desc": "Bijeli sos",
+        "price": 1.5
+      },
+      {
+        "name": "Slatko ljut sos",
+        "desc": "Slatko ljut sos *Slika je simbolična",
+        "price": 1.5
+      },
+      {
+        "name": "Ketchup",
+        "desc": "Ketchup *Slika je simbolična",
+        "price": 1.0
+      },
+      {
+        "name": "Majoneza",
+        "desc": "Majoneza *Slika je simbolično",
+        "price": 1.0
+      },
+      {
+        "name": "Senf",
+        "desc": "Senf *Slika je simbolična",
+        "price": 1.0
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Souffle",
+        "desc": "Souffle",
+        "price": 7.5
+      }
+    ]
+  }
+}

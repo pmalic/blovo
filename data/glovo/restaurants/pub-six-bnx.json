@@ -1,0 +1,621 @@
+{
+  "name": "PUB Šestica",
+  "rating": 0.92,
+  "count": 71,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Pohovana piletina u sosu od sira",
+        "desc": "Pileći file 150 gr, McCain krompirići, sir, krem sos, pecivo",
+        "price": 11.0
+      },
+      {
+        "name": "Zapečena piletina u domaćim mlincima",
+        "desc": "Piletina, mlinci, sir, vrhnje",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "32 cm. Pelat, šunka, sir, šampinjoni",
+        "price": 13.0
+      }
+    ],
+    "Combo ponuda": [
+      {
+        "name": "Specijal plata za 2 osobe + 2x Coca-Cola",
+        "desc": "Specijal plata za 2 osobe, 2x Coca-Cola",
+        "price": 38.0
+      },
+      {
+        "name": "Pizza Capricciosa + 2x Coca-Cola",
+        "desc": "Pizza Capricciosa, 2x Coca-Cola",
+        "price": 16.0
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Doručak Šestica",
+        "desc": "2 jaja, kobasica, 70 gr slanine, 50 gr šampinjona, 50 gr kajmaka, uštipci",
+        "price": 10.0
+      },
+      {
+        "name": "Omlet sa piletinom i sirom",
+        "desc": "Jaja, piletina, sir",
+        "price": 7.5
+      },
+      {
+        "name": "Jaja po želji",
+        "desc": "3 jajeta, šunka, slanina, sir, uštipci",
+        "price": 7.2
+      },
+      {
+        "name": "Jaja zapečena u domaćoj pogači",
+        "desc": "Jaja, šunka, sir, feta, paradajz",
+        "price": 7.2
+      },
+      {
+        "name": "Omlet sa slaninom",
+        "desc": "Jaja, slanina",
+        "price": 6.5
+      },
+      {
+        "name": "Omlet sa šampinjonima",
+        "desc": "Jaja, šampinjoni",
+        "price": 6.5
+      },
+      {
+        "name": "Omlet sa šunkom i sirom",
+        "desc": "Jaja, šunka, sir",
+        "price": 6.5
+      },
+      {
+        "name": "Jaja na oko sa slaninom",
+        "desc": "3 jaja, slanina, pecivo",
+        "price": 6.0
+      },
+      {
+        "name": "Jaja na oko sa Feta sirom",
+        "desc": "3 Jaja, Feta sir, pecivo",
+        "price": 6.0
+      },
+      {
+        "name": "Jaja na oko sa šunkom",
+        "desc": "3 jaja, šunka, pecivo",
+        "price": 6.0
+      },
+      {
+        "name": "Jaja na oko",
+        "desc": "3 jaja, pecivo",
+        "price": 5.0
+      }
+    ],
+    "Na naš način": [
+      {
+        "name": "Krompirići sa BBQ sosom",
+        "desc": "Krompir, BBQ sos",
+        "price": 5.0
+      },
+      {
+        "name": "Slani pizza štapić sa bijelim lukom",
+        "desc": "Pizza štapić, bijeli luk",
+        "price": 4.0
+      },
+      {
+        "name": "Peciva na naš način",
+        "desc": "Pecivo",
+        "price": 4.0
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Pizza Šestica",
+        "desc": "32 cm. Sir, slanina, kobasica, kulen, suvi vrat, jaje",
+        "price": 15.5
+      },
+      {
+        "name": "Pizza Pančeta",
+        "desc": "32 cm. Domaći mileram, sir, slanina",
+        "price": 14.5
+      },
+      {
+        "name": "Pizza Pikant",
+        "desc": "32 cm. Pelat, sir, kobasice, paprika",
+        "price": 14.5
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "32 cm. Pelat, šunka, sir, šampinjoni",
+        "price": 13.0
+      },
+      {
+        "name": "Pizza Margherita",
+        "desc": "32 cm. Sir, pelat",
+        "price": 13.0
+      },
+      {
+        "name": "Pizza Tuna",
+        "desc": "32 cm",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza sa Nuttellom i orasima",
+        "desc": "Nuttella, mljeveni orasi",
+        "price": 8.5
+      }
+    ],
+    "Čorbe i gulaši": [
+      {
+        "name": "Pikant gulaš od svinjetine na pireu od krompira",
+        "desc": "Svinjetina, mrkva, pire krompir, celer, tucana ljuta paprika, pecivo",
+        "price": 10.0
+      },
+      {
+        "name": "Juneća pikant čorba",
+        "desc": "Junetina, svinjetina, povrće razno, pecivo",
+        "price": 7.0
+      }
+    ],
+    "Glavno jelo": [
+      {
+        "name": "Specijal plata za 4 osobe",
+        "desc": "Karađorđeva x2, cordon bleu x2, rolovani ražnjici, rolovani odrezak x2, bečka šnicla x2, roštiljska kobasica x4, šampinjoni, krompirići",
+        "price": 54.0
+      },
+      {
+        "name": "Topla plata Šestica za 4 osobe",
+        "desc": "Roštiljska kobasica 300 gr, pileća krilca 300 gr, krompirići, sir, umak, pizza štapići",
+        "price": 38.0
+      },
+      {
+        "name": "Specijal plata za 2 osobe",
+        "desc": "Karađorđeva, cordon blue, rolovani ražnjici, rolovani odrezak, bečka šnicla, roštiljska kobasica x2, šampinjoni, krompirići",
+        "price": 32.0
+      },
+      {
+        "name": "Porodični box classic",
+        "desc": "Porodični box classic",
+        "price": 23.0
+      },
+      {
+        "name": "Porodični box blagi",
+        "desc": "Porodični box blagi",
+        "price": 23.0
+      },
+      {
+        "name": "Porodični box ljuti",
+        "desc": "Porodični box ljuti",
+        "price": 23.0
+      },
+      {
+        "name": "Topla plata Šestica za 2 osobe",
+        "desc": "Roštiljska kobasica 150 gr, pileća krilca 150 gr, krompirići, sir, umak, pica štapići",
+        "price": 22.0
+      },
+      {
+        "name": "Pivski box",
+        "desc": "Krilca, pileći file, pomfrit, pecivo",
+        "price": 17.5
+      },
+      {
+        "name": "Habanero box",
+        "desc": "Habanero box",
+        "price": 17.5
+      },
+      {
+        "name": "File sa špinatom i feta sirom",
+        "desc": "Piletina, špinat, Feta sir",
+        "price": 13.5
+      },
+      {
+        "name": "Piletina sa njokama i 4 vrste sira",
+        "desc": "Piletina njoke, 4 vrste sira",
+        "price": 13.5
+      },
+      {
+        "name": "File sa slaninom i sirom u Gorgonzola sosu",
+        "desc": "Piletina, slanina, sir, Gorgonzola",
+        "price": 13.5
+      },
+      {
+        "name": "Batak sa slaninom i sirom u Gorgonzola sosu",
+        "desc": "Piletina, slanina, sir, Gorgonzola sos",
+        "price": 13.5
+      },
+      {
+        "name": "Karađorđeva šnicla",
+        "desc": "Karađorđeva šnicla",
+        "price": 13.5
+      },
+      {
+        "name": "Rolovani odrezak sa kulenom i Feta sirom",
+        "desc": "Odrezak, kulen, Feta sir",
+        "price": 13.5
+      },
+      {
+        "name": "Pileći odrezak",
+        "desc": "Pileći odrezak",
+        "price": 13.5
+      },
+      {
+        "name": "Dimljena krilca",
+        "desc": "Dimljena krilca",
+        "price": 12.5
+      },
+      {
+        "name": "Rolovani ražnjići",
+        "desc": "Velika porcija, file,slanina,krompirići,pecivo",
+        "price": 12.5
+      },
+      {
+        "name": "Chickenco ražnjići",
+        "desc": "Velika porcija, file, slanina, sir, svježa paprika, krompirići, pecivo",
+        "price": 12.5
+      },
+      {
+        "name": "Zapečena piletina u domaćim mlincima",
+        "desc": "Piletina, mlinci, sir, vrhnje",
+        "price": 12.0
+      },
+      {
+        "name": "Piletina sa 4 vrste sira",
+        "desc": "Piletina, 4 vrste sira",
+        "price": 11.5
+      },
+      {
+        "name": "Nuggetsi blagi",
+        "desc": "Nuggetsi blagi",
+        "price": 11.0
+      },
+      {
+        "name": "Nuggetsi ljuti",
+        "desc": "Nuggetsi ljuti",
+        "price": 11.0
+      },
+      {
+        "name": "Pileća krilca u BBQ sosu",
+        "desc": "Pileća krilca 300 gr, McCain krompirići, BBQ sos",
+        "price": 11.0
+      },
+      {
+        "name": "Krilca u slatko ljutom sosu",
+        "desc": "350 gr krilaca, krompirići, pecivo",
+        "price": 11.0
+      },
+      {
+        "name": "Medaljoni u šampinjon sosu",
+        "desc": "Medaljoni u šampinjon sosu",
+        "price": 11.0
+      },
+      {
+        "name": "Batak u Gorgonzola sosu",
+        "desc": "Batak, Gorgonzola, krompirići, pecivo",
+        "price": 11.0
+      },
+      {
+        "name": "Grilovana piletina u kari sosu sa rižom",
+        "desc": "150 gr piletine, 150 riže, špinat, curry sos, pecivo",
+        "price": 11.0
+      },
+      {
+        "name": "Pohovana piletina u curry sosu",
+        "desc": "Pileći file 150 gr, slanina, sir, povrće, šunka, riža, pecivo",
+        "price": 11.0
+      },
+      {
+        "name": "Nuggetsi classic",
+        "desc": "Nuggetsi classic",
+        "price": 11.0
+      },
+      {
+        "name": "Rolovana piletina u kari sosu",
+        "desc": "Pileći file 150 gr, slanina, sir, povrće, šunka, riža, pecivo",
+        "price": 11.0
+      },
+      {
+        "name": "Pileći file sa slaninom i kajmakom",
+        "desc": "Piletina, slanina, kajmak",
+        "price": 11.0
+      },
+      {
+        "name": "Grilovana piletina u šampinjon sosu",
+        "desc": "Pileći file 150 gr, McCain krompirići, šampinjoni, krem sos, pecivo",
+        "price": 11.0
+      },
+      {
+        "name": "Pohovana piletina u sosu od sira",
+        "desc": "Pileći file 150 gr, McCain krompirići, sir, krem sos, pecivo",
+        "price": 11.0
+      },
+      {
+        "name": "Sweet Chili batak",
+        "desc": "Prodimljeni pileći batak 200g, pire krompir, sweet chili sos, pecivo",
+        "price": 11.0
+      },
+      {
+        "name": "Pileći ražnjići",
+        "desc": "Velika porcija, file, krompirići, pecivo",
+        "price": 11.0
+      },
+      {
+        "name": "Pileće kocke u šampinjon sosu",
+        "desc": "Piletina u kockicama, šampinjoni, vrhnje, krompirići, pecivo",
+        "price": 11.0
+      },
+      {
+        "name": "Krilca Classic",
+        "desc": "300 gr krilaca, krompirići, pecivo",
+        "price": 10.0
+      },
+      {
+        "name": "Krilca ljuta",
+        "desc": "300 gr krilaca, krompirići, pecivo",
+        "price": 10.0
+      },
+      {
+        "name": "Cordon bleu",
+        "desc": "Pileći file, Mozzarella, šunka, pomfrit, pecivo",
+        "price": 10.0
+      },
+      {
+        "name": "Pileći štapići",
+        "desc": "Pileći štapići",
+        "price": 10.0
+      },
+      {
+        "name": "Pileći štapići ljuti",
+        "desc": "Pileći štapići ljuti",
+        "price": 10.0
+      },
+      {
+        "name": "Bečka šnicla",
+        "desc": "Pileći file, pomfrit, pecivo",
+        "price": 10.0
+      },
+      {
+        "name": "Pileći rižoto",
+        "desc": "Piletina, riža",
+        "price": 10.0
+      },
+      {
+        "name": "Batak sa roštilja",
+        "desc": "Piletina",
+        "price": 10.0
+      },
+      {
+        "name": "Štapići sa susamom",
+        "desc": "Štapići sa susamom",
+        "price": 10.0
+      },
+      {
+        "name": "Chickenco ražnjići",
+        "desc": "Mala porcija, file, slanina, sir, svježa paprika, krompirići, pecivo",
+        "price": 9.5
+      },
+      {
+        "name": "Roštiljska kobasica v.p.",
+        "desc": "3x kobasica, pomfrit, lepinja",
+        "price": 8.5
+      },
+      {
+        "name": "Pileći ražnjići",
+        "desc": "Mala porcija, file, krompirići, pecivo",
+        "price": 8.5
+      },
+      {
+        "name": "Rolovani ražnjići",
+        "desc": "Mala porcija, file, slanina, krompirići, pecivo",
+        "price": 8.5
+      },
+      {
+        "name": "Pohovane palačinke sa šunkom i sirom",
+        "desc": "Šunka, sir, šampinjoni, vrhnje, McCain krompir",
+        "price": 8.0
+      },
+      {
+        "name": "Pohovane palačinke sa piletinom i slaninom",
+        "desc": "Piletina, slanina, šampinjoni, vrhnje, McCain krompir",
+        "price": 8.0
+      },
+      {
+        "name": "Roštiljska kobasica m.p.",
+        "desc": "2x kobasica, pomfrit, lepinja",
+        "price": 7.5
+      }
+    ],
+    "Pasta": [
+      {
+        "name": "Pasta pikante",
+        "desc": "Kobasica, povrće, tjestenina, sir",
+        "price": 10.0
+      },
+      {
+        "name": "Pasta sa piletinom i povrćem",
+        "desc": "Piletina, tjestenina, sir, povrće",
+        "price": 10.0
+      },
+      {
+        "name": "Pasta Bolognese",
+        "desc": "Testjenina, povrće, junetina",
+        "price": 10.0
+      },
+      {
+        "name": "Pasta vegeteriana",
+        "desc": "Taljatele, Šampinjon sos, povrće",
+        "price": 7.2
+      }
+    ],
+    "Sendviči": [
+      {
+        "name": "Burger na način kuće",
+        "desc": "Junetina, svinjetina, BBQ sos, salata, paradajz, sir, senf sos",
+        "price": 11.5
+      },
+      {
+        "name": "Pohovana piletina u domaćoj pogači",
+        "desc": "Pileći file 150 gr, sir, namaz, salata, paradajz, domaće pecivo",
+        "price": 9.0
+      },
+      {
+        "name": "Grilovana piletina u domaćoj pogači",
+        "desc": "Pileći file 150 gr , slanina, sir, namaz, salata, paradajz, domaće pecivo",
+        "price": 9.0
+      },
+      {
+        "name": "Sendvič tuna",
+        "desc": "Pecivo, tunjevina, salata, namaz",
+        "price": 7.5
+      },
+      {
+        "name": "Index sendvič",
+        "desc": "Šunka, sir, šampinjoni, ketchup, majonez, salata, domaće pecivo",
+        "price": 7.0
+      }
+    ],
+    "Fitnes jelovnik": [
+      {
+        "name": "Piletina sa šampinjonima u kikiriki sosu",
+        "desc": "Fille 150 gr, 50gr šampinjona, 50gr kikiriki sosa, pecivo",
+        "price": 13.5
+      },
+      {
+        "name": "Proteinska bomba",
+        "desc": "File 150 gr, 2 kuhana jaja, riža 100gr",
+        "price": 12.5
+      },
+      {
+        "name": "File sa bijelom rižom i salatom",
+        "desc": "File 150 gr, riža 100 gr, salata",
+        "price": 12.5
+      },
+      {
+        "name": "Fitnes piletina",
+        "desc": "File 150 gr, kuhana jaja, riža, salata",
+        "price": 12.5
+      }
+    ],
+    "Posni jelovnik": [
+      {
+        "name": "Riblja plata za 4 osobe",
+        "desc": "Pastrmka 500gr, oslić 500gr, lignje 500gr, girice 500gr, grilovano povrće , pecivo",
+        "price": 54.0
+      },
+      {
+        "name": "Riblja plata za dvije osobe",
+        "desc": "Pastrmka 250gr, oslić 250 gr, lignje 250gr, girice 250gr, grilovano povrće , pecivo",
+        "price": 29.0
+      },
+      {
+        "name": "Lignje sa žara sa prilogom",
+        "desc": "Lignje, prilog",
+        "price": 15.5
+      },
+      {
+        "name": "Lignje frigane",
+        "desc": "Lignje frigane",
+        "price": 15.5
+      },
+      {
+        "name": "Grilovana pastrmka sa povrćem",
+        "desc": "Grilovana pastrmka, povrće",
+        "price": 12.5
+      },
+      {
+        "name": "Ranč salata sa lignjama",
+        "desc": "Lignje, povrće, ranč dressing, tostirani hljeb",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza sa tunom i grilovanim povrćem",
+        "desc": "Tuna, grilovano povrće",
+        "price": 8.0
+      },
+      {
+        "name": "Tuna salata",
+        "desc": "Tuna salata",
+        "price": 7.2
+      },
+      {
+        "name": "Tunjevina sendvič",
+        "desc": "Pecivo, tunjevina",
+        "price": 7.2
+      },
+      {
+        "name": "Girice 300 gr",
+        "desc": "300 gr",
+        "price": 6.0
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "Cezar salata na naš način",
+        "desc": "Piletina, slanina, kupus, povrće, tostirani hljeb, dressing kuće",
+        "price": 10.0
+      },
+      {
+        "name": "Ranč salata sa piletinom i slaninom",
+        "desc": "Povrće, piletina, slanina, ranč dressing, tostirani hljeb",
+        "price": 10.0
+      },
+      {
+        "name": "Šopska salata",
+        "desc": "Paradajz, krastavac, paprika, Feta, origano",
+        "price": 6.0
+      },
+      {
+        "name": "Grčka salata",
+        "desc": "Feta, paradajz, krastavac, paprika, masline",
+        "price": 6.0
+      },
+      {
+        "name": "Srpska salata",
+        "desc": "Paradajz, krastavac, paprika, feferona",
+        "price": 6.0
+      }
+    ],
+    "Desert": [
+      {
+        "name": "Palačinka Nutella",
+        "desc": "Tijesto, Nutella",
+        "price": 7.5
+      },
+      {
+        "name": "Palačinka sa eurokremom i Plazmom",
+        "desc": "Eurokrem, Plazma",
+        "price": 5.5
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Cjeđena narandža",
+        "desc": "Svježa narandža",
+        "price": 4.0
+      },
+      {
+        "name": "Coca-Cola",
+        "desc": "250 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Limunada",
+        "desc": "Svježi limun",
+        "price": 3.0
+      },
+      {
+        "name": "Fanta",
+        "desc": "250 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Vitaminka 200ml",
+        "desc": "Prirodni sokovi",
+        "price": 3.0
+      },
+      {
+        "name": "Cocta",
+        "desc": "275 ml",
+        "price": 3.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "name": "Pizza bar La Strada",
+  "rating": 0.92,
+  "count": 24,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Rolo panini la strada",
+        "desc": "Mozzarella, rukola, mortadela,  paradajz, pesto",
+        "price": 8.0
+      },
+      {
+        "name": "Rolo pizza sandwich",
+        "desc": "Mozzarela, šunka, preliv",
+        "price": 7.0
+      },
+      {
+        "name": "Rolo panini siciliano",
+        "desc": "Feta sir, kolen, pršut, zelena salata,  paradajz",
+        "price": 8.0
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Pizza Parma Velika",
+        "desc": "Pelat, sir, pršut, rukola, Parmezan",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza Pecorino Velika",
+        "desc": "Pelat, sir, šunka, kulen, šampionjoni, masline, Feta sir",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza La Strada Velika",
+        "desc": "Pelat, sir, šunka, šampinjoni, kulen, Parmezan, bijeli luk",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza La Strada Bianca Velika",
+        "desc": "Bijeli sos, sir, šunka, šanpioni, bijeli luk, masline",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza Calzone Velika",
+        "desc": "Pelat, sir, sunka, šampioni, artichoke, masline",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza Tonno Velika",
+        "desc": "Pelat sir tunjevina, crveni luk",
+        "price": 14.0
+      },
+      {
+        "name": "Pizza Calabrese Pikant Velika",
+        "desc": "Pelat, sir, šunka, šampinjoni, Peperoncino, salama Milanese",
+        "price": 14.0
+      },
+      {
+        "name": "Pizza Speciale Velika",
+        "desc": "Pelat, sir, šunka, paprika, bijeli luk, crveni luk, salama Milanese",
+        "price": 14.0
+      },
+      {
+        "name": "Pizza Mafiosa Pikant Velika",
+        "desc": "Pelat, kulen, feferoni, masline, sir",
+        "price": 14.0
+      },
+      {
+        "name": "Pizza Salami Velika",
+        "desc": "Pelat, sir,  salama Milanese",
+        "price": 13.0
+      },
+      {
+        "name": "Pizza Capricciosa Velika",
+        "desc": "Pelat, sir, šunka,  šampinjoni",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Vegetariana Velika",
+        "desc": "Pelat, sir, sezonsko povrce",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Prosciutto Velika",
+        "desc": "Pelat, sir, šunka",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Margherita Velika",
+        "desc": "Pelat, sir",
+        "price": 9.0
+      }
+    ],
+    "Rolo senvidč": [
+      {
+        "name": "Rolo panini siciliano",
+        "desc": "Feta sir, kolen, pršut, zelena salata,  paradajz",
+        "price": 8.0
+      },
+      {
+        "name": "Rolo panini la strada",
+        "desc": "Mozzarella, rukola, mortadela,  paradajz, pesto",
+        "price": 8.0
+      },
+      {
+        "name": "Rolo pizza sandwich",
+        "desc": "Mozzarela, šunka, preliv",
+        "price": 7.0
+      }
+    ],
+    "Bruschetti": [
+      {
+        "name": "Bruschetta alla toscana",
+        "desc": "Pršut, feta sir, pesto, masline",
+        "price": 8.0
+      },
+      {
+        "name": "Bruschetta classica",
+        "desc": "Paradajz, masline, kopar, bosiljak, bjeli luk",
+        "price": 7.0
+      },
+      {
+        "name": "Bruschetta la strada",
+        "desc": "Šunka, bijeli luk, mocarela, pelat",
+        "price": 7.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Ketchup",
+        "price": 1.0
+      },
+      {
+        "name": "Majoneza",
+        "price": 1.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "name": "The lunch bar Ara",
+  "rating": 0.97,
+  "count": 32,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Uštipci sa prilogom",
+        "desc": "Kajmak, vlašićki sir",
+        "price": 8.5
+      },
+      {
+        "name": "Pasta 4 vrste sira",
+        "desc": "Pasta 4 vrste sira",
+        "price": 12.0
+      },
+      {
+        "name": "Pohovane palačinke sa sirom i šunkom",
+        "desc": "Pohovane palačinke sa sirom i šunkom",
+        "price": 9.5
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Palačinke sa piletinom",
+        "desc": "Piletina, gljive, vrhnje, rukola, Edamer",
+        "price": 12.0
+      },
+      {
+        "name": "Pohovane palačinke sa sirom i pršutom",
+        "desc": "Pohovane palačinke sa sirom i pršutom",
+        "price": 11.0
+      },
+      {
+        "name": "Palačinka Ara",
+        "desc": "Crveni luk, piletina, vrhnje, marinada, palačinci, Edamer",
+        "price": 11.0
+      },
+      {
+        "name": "Jaja sa dimljenom kobasicom",
+        "desc": "3 jaja, kobasica, senf, hljeb",
+        "price": 9.5
+      },
+      {
+        "name": "Jaja po izboru",
+        "desc": "Jaja po izboru",
+        "price": 9.5
+      },
+      {
+        "name": "Pohovane palačinke sa sirom i šunkom",
+        "desc": "Pohovane palačinke sa sirom i šunkom",
+        "price": 9.5
+      },
+      {
+        "name": "Palačinke sa blitvom i kajmakom",
+        "desc": "Palačinke sa blitvom i kajmakom",
+        "price": 9.5
+      },
+      {
+        "name": "Heljdini uštipci",
+        "desc": "Kajmak, vlašićki sir",
+        "price": 9.5
+      },
+      {
+        "name": "Bekendex",
+        "desc": "3 jaja, slanina, pavlaka, hljeb",
+        "price": 8.5
+      },
+      {
+        "name": "Prženice",
+        "desc": "Tost, sir, šunka, pavlaka",
+        "price": 8.5
+      },
+      {
+        "name": "Tost sendvič",
+        "desc": "Tost, suvi vrat, šunka, sir",
+        "price": 8.5
+      },
+      {
+        "name": "Uštipci sa prilogom",
+        "desc": "Kajmak, vlašićki sir",
+        "price": 8.5
+      },
+      {
+        "name": "Cicvara",
+        "desc": "Kukuruzno brašno, kajmak, vlašićki sir",
+        "price": 8.5
+      },
+      {
+        "name": "Omlet sendvič",
+        "desc": "Jaja, tost, Edamer, šunka, paradajz",
+        "price": 8.5
+      },
+      {
+        "name": "Omlet sir i šunka",
+        "desc": "3 jaja, sir, šunka, pavlaka, hljeb",
+        "price": 8.0
+      },
+      {
+        "name": "Hemendex",
+        "desc": "3 jaja, šunka, pavlaka, hljeb",
+        "price": 7.5
+      },
+      {
+        "name": "Omlet šunka",
+        "desc": "3 jaja, šunka, pavlaka, hljeb",
+        "price": 7.5
+      },
+      {
+        "name": "Omlet sir",
+        "desc": "3 jaja, sir, pavlaka, hljeb",
+        "price": 7.5
+      },
+      {
+        "name": "Jaja sa hrenovkama",
+        "desc": "3 jaja, hrenovke, pavlaka, hljeb",
+        "price": 7.0
+      },
+      {
+        "name": "Uštipci",
+        "desc": "Uštipci",
+        "price": 6.5
+      },
+      {
+        "name": "Kajgana sa pavlakom",
+        "desc": "Pavlaka, jaja",
+        "price": 6.5
+      }
+    ],
+    "Supe i čorbe": [
+      {
+        "name": "Teleća čorba",
+        "desc": "Teleća čorba",
+        "price": 8.5
+      },
+      {
+        "name": "Mađarska čorba",
+        "desc": "Mađarska čorba",
+        "price": 8.5
+      }
+    ],
+    "Jela od mesa": [
+      {
+        "name": "Topla zakuska ARA",
+        "desc": "Piletina, dimljeni batak, krmenadla, kobasica, bareni vrat, pomfrit, hljeb",
+        "price": 36.0
+      },
+      {
+        "name": "Karađorđeva šnicla",
+        "desc": "Piletina, kajmak, Edamer, tartar, hljeb",
+        "price": 20.5
+      },
+      {
+        "name": "Cordon Blue",
+        "desc": "Piletina, kajmak, pršut, pomfrit",
+        "price": 20.5
+      },
+      {
+        "name": "Dimljena svinjska vješalica",
+        "desc": "Vješalica, pekarski krompir, hljeb",
+        "price": 16.5
+      },
+      {
+        "name": "Dimljeni batak",
+        "desc": "Dimljeni batak, hljeb",
+        "price": 14.5
+      },
+      {
+        "name": "Piletina u sosu od gljiva",
+        "desc": "Piletina, gljive, pomfrit, hljeb",
+        "price": 14.5
+      },
+      {
+        "name": "Svinjska krmenadla",
+        "desc": "Krmenadla, pomfrit, hljeb",
+        "price": 13.5
+      },
+      {
+        "name": "Pileći file na žaru",
+        "desc": "File, pomfrit, hljeb",
+        "price": 13.5
+      },
+      {
+        "name": "Pileći nuggets",
+        "desc": "File, tartar, hljeb",
+        "price": 13.5
+      },
+      {
+        "name": "Roštiljska kobasica",
+        "desc": "Kobasica, hljeb",
+        "price": 13.0
+      },
+      {
+        "name": "Pileća bečka sa pomfritom",
+        "desc": "Pileća bečka sa pomfritom",
+        "price": 12.5
+      }
+    ],
+    "Jela od ribe": [
+      {
+        "name": "Lignje na žaru",
+        "desc": "Lignje, dalmatinski prilog, hljeb",
+        "price": 17.5
+      },
+      {
+        "name": "Pržene lignje",
+        "desc": "Lignje, pomfrit, hljeb",
+        "price": 17.5
+      },
+      {
+        "name": "Oslić file",
+        "desc": "Sa barenim povrćem",
+        "price": 12.5
+      }
+    ],
+    "Pasta": [
+      {
+        "name": "Pasta Ara",
+        "desc": "Pasta, panceta, pršut, piletina, vrhnje",
+        "price": 15.0
+      },
+      {
+        "name": "Pasta Carbonara",
+        "desc": "Panceta, jaja, vrhnje",
+        "price": 13.0
+      },
+      {
+        "name": "Pasta 4 vrste sira",
+        "desc": "Pasta 4 vrste sira",
+        "price": 12.0
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "Obrok salata Ara",
+        "desc": "Zelena salata, crvena paprika, žuta paprika, ljubičasti kupus, cherry, piletina, tost, slanina, Parmezan, limun, kukuruz",
+        "price": 16.5
+      },
+      {
+        "name": "Salata sa piletinom",
+        "desc": "Piletina, zelena salata, rukola, paprika, paradajz, ljubičasti kupus, slanina, Parmezan, dressing",
+        "price": 15.0
+      },
+      {
+        "name": "Salata sa lignjama",
+        "desc": "Zelena salata, cherry, crne masline, zelene masline, ljubičasti kupus",
+        "price": 14.5
+      },
+      {
+        "name": "Salata sa tunjevinom",
+        "desc": "Tunjevina, zelena salata, ljubičasti kupus, paradajz, rukola, masline, luk",
+        "price": 14.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Salata rukola i cherry",
+        "desc": "Salata rukola i cherry",
+        "price": 7.5
+      },
+      {
+        "name": "Šopska salata",
+        "desc": "Šopska salata",
+        "price": 6.5
+      },
+      {
+        "name": "Krastavac salata",
+        "desc": "Krastavac salata",
+        "price": 5.5
+      },
+      {
+        "name": "Paradajz salata",
+        "desc": "Paradajz salata",
+        "price": 5.5
+      },
+      {
+        "name": "Zelena salata",
+        "desc": "Zelena salata",
+        "price": 5.5
+      },
+      {
+        "name": "Miješana salata",
+        "desc": "Miješana salata",
+        "price": 5.5
+      },
+      {
+        "name": "Srpska salata",
+        "desc": "Srpska salata",
+        "price": 5.5
+      },
+      {
+        "name": "Kupus salata",
+        "desc": "Kupus salata",
+        "price": 4.5
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pohovane gljive",
+        "desc": "Pohovane gljive",
+        "price": 8.0
+      },
+      {
+        "name": "Paprika grill",
+        "desc": "Paprika grill",
+        "price": 7.0
+      },
+      {
+        "name": "Grilovano povrće",
+        "desc": "Grilovano povrće *Slika je simbolična",
+        "price": 6.5
+      },
+      {
+        "name": "Gljive na žaru",
+        "desc": "Gljive na žaru",
+        "price": 6.5
+      },
+      {
+        "name": "Pomfrit",
+        "desc": "Pomfrit *Slika je simbolična",
+        "price": 5.5
+      },
+      {
+        "name": "Pekarski krompir",
+        "desc": "Pekarski krompir *Slika je simbolična",
+        "price": 5.5
+      },
+      {
+        "name": "Dalmatinski prilog",
+        "desc": "Dalmatinski prilog",
+        "price": 5.5
+      },
+      {
+        "name": "Riža na maslacu",
+        "desc": "Riža na maslacu *Slika je simbolična",
+        "price": 3.5
+      },
+      {
+        "name": "Tartar sos",
+        "desc": "Tartar sos *Slika je simbolična",
+        "price": 2.5
+      }
+    ],
+    "Desert": [
+      {
+        "name": "Palačinka sa Nutellom i Plazmom",
+        "desc": "Palačinka sa Nutellom i Plazmom",
+        "price": 6.5
+      },
+      {
+        "name": "Prženice sa Nutellom",
+        "desc": "Tost, Nutella",
+        "price": 6.5
+      },
+      {
+        "name": "Palačinka sa marmeladom",
+        "desc": "Palačinka sa marmeladom",
+        "price": 5.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "name": "Mek roštilj",
+  "rating": 0.95,
+  "count": 46,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Hamburger s pomfritom",
+        "desc": "Paradajz, zelena, Cheddar sir, dressing sos",
+        "price": 10.0
+      },
+      {
+        "name": "Punjena pljeskavica sa kajmakom 250 gr",
+        "desc": "Kajmak janjski, šunka kuhana,luk,",
+        "price": 10.0
+      },
+      {
+        "name": "Svinjske koljenice butkice + krompir",
+        "desc": "Pekarski krompir, kiseli kupus",
+        "price": 18.0
+      }
+    ],
+    "Jela s roštilja": [
+      {
+        "name": "Mek plata 1300 gr",
+        "desc": "2 bataka, veliki banjalučki ćevap, veliki file, v.leskovački ćevap, v.kobasice, 2 porcije pomfrita",
+        "price": 48.0
+      },
+      {
+        "name": "Miješano meso 820 gr",
+        "desc": "Kobasice, pljeskavica, leskovački ćevap, file,m.banjalucki cevap pomfrit,urnebes,feferon,engleska",
+        "price": 34.0
+      },
+      {
+        "name": "Svinjske koljenice butkice + krompir",
+        "desc": "Pekarski krompir, kiseli kupus",
+        "price": 18.0
+      },
+      {
+        "name": "PASTRMKA 280gr + pomfrit i povrce",
+        "price": 16.0
+      },
+      {
+        "name": "Punjeni pileći batak i pomfrit 320 gr",
+        "desc": "Sir, šunka,pomfrit,urnebes,luk",
+        "price": 15.0
+      },
+      {
+        "name": "Krmenadle i pomfrit 280 gr",
+        "desc": "280 gr krmenadla ,pomfrit,engleska sal,urnebes",
+        "price": 15.0
+      },
+      {
+        "name": "Punjene pileće krpice i pomfrit 250 gr",
+        "desc": "Sir Edamer,kuhana sunka,pomfrit,urnebes,salata",
+        "price": 15.0
+      },
+      {
+        "name": "Dimljeni svinjski vrat 250 gr",
+        "desc": "250 gr sv..vrat ,urnebes pomfrit,luk.engleska",
+        "price": 14.0
+      },
+      {
+        "name": "Punjeni ćevap 250 gr",
+        "desc": "Sir edamer,kuhana sunka",
+        "price": 12.0
+      },
+      {
+        "name": "OSLIC 250gr+ krompir,povrce hljeb",
+        "price": 12.0
+      },
+      {
+        "name": "Pileći batak 280 gr",
+        "desc": "2 komada",
+        "price": 10.5
+      },
+      {
+        "name": "Krilca i pomfrit",
+        "desc": "5 komada",
+        "price": 10.0
+      },
+      {
+        "name": "Hamburger s pomfritom",
+        "desc": "Paradajz, zelena, Cheddar sir, dressing sos",
+        "price": 10.0
+      },
+      {
+        "name": "Punjena pljeskavica sa kajmakom 250 gr",
+        "desc": "Kajmak janjski, šunka kuhana,luk,",
+        "price": 10.0
+      },
+      {
+        "name": "Leskovački ćevap 250 gr",
+        "desc": "5 komada",
+        "price": 8.5
+      },
+      {
+        "name": "Gurmanska pljeskavica 150gr",
+        "desc": "Luk, feferoni urnebes sir sunka slanina",
+        "price": 7.5
+      },
+      {
+        "name": "Leskovačka pljeskavica",
+        "desc": "Luk, feferoni,urnebes Mala ili velika porcija",
+        "price": 7.0
+      },
+      {
+        "name": "Rolovani ražnjić  130gr",
+        "desc": "Luk, feferoni. Mala ili velika porcija",
+        "price": 7.0
+      },
+      {
+        "name": "ŠAMPINJONI 300 GR u lepinji",
+        "price": 7.0
+      },
+      {
+        "name": "Banjalučki ćevap",
+        "desc": "Luk, feferoni. Mala, srednja ili velika porcija",
+        "price": 6.0
+      },
+      {
+        "name": "Ražnjići  mali 100gr",
+        "desc": "Luk, feferoni. Mala ili velika porcija",
+        "price": 6.0
+      },
+      {
+        "name": "Pileće krpice",
+        "desc": "Luk, feferoni. Mala, srednja ili velika porcija",
+        "price": 5.5
+      },
+      {
+        "name": "Pljeskavica 100 gr",
+        "desc": "100 gr",
+        "price": 5.5
+      },
+      {
+        "name": "Roštiljska kobasica",
+        "desc": "Luk, feferoni. Mala ili velika porcija",
+        "price": 5.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Engleska salata",
+        "desc": "Crveni kupus, mrkva, pavlaka, majoneza",
+        "price": 4.0
+      },
+      {
+        "name": "Zelena salata",
+        "desc": "Zelena salata",
+        "price": 3.0
+      },
+      {
+        "name": "Miješana salata",
+        "desc": "Krastavac, paradajz, kupus",
+        "price": 3.0
+      },
+      {
+        "name": "Kupus salata",
+        "desc": "Kupus salata",
+        "price": 3.0
+      },
+      {
+        "name": "Paradajz salata",
+        "desc": "Paradajz",
+        "price": 3.0
+      },
+      {
+        "name": "Krastavac salata",
+        "desc": "Krastavac",
+        "price": 3.0
+      },
+      {
+        "name": "Urnebes salata 2 kugle, 140 gr",
+        "desc": "140 gr",
+        "price": 2.5
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Šampinjoni u lepinji 300 gr",
+        "desc": "300 gr",
+        "price": 7.0
+      },
+      {
+        "name": "Pomfrit 200 gr",
+        "desc": "200 gr",
+        "price": 3.5
+      },
+      {
+        "name": "Kajmak 60 gr",
+        "desc": "60 gr",
+        "price": 3.0
+      },
+      {
+        "name": "Lepinja",
+        "desc": "1 komad",
+        "price": 1.5
+      }
+    ],
+    "Pića": [
+      {
+        "name": "Cappy juice 330 ml",
+        "desc": "330 ml",
+        "price": 3.5
+      },
+      {
+        "name": "Pepsi 0.25",
+        "desc": "O.25",
+        "price": 3.0
+      },
+      {
+        "name": "Jogurt",
+        "desc": "Čaša 180ml",
+        "price": 2.0
+      }
+    ]
+  }
+}

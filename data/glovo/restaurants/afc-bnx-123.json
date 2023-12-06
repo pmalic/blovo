@@ -1,0 +1,359 @@
+{
+  "name": "AFC",
+  "rating": 0.85,
+  "count": 494,
+  "service_fee": 2.8,
+  "menu": {
+    "Promocije": [
+      {
+        "name": "Sweet combo",
+        "promo": "-40%",
+        "desc": "Dvije palacinke za 9,90KM",
+        "price": 16.5,
+        "promo_price": 9.9
+      }
+    ],
+    "Najprodavanije": [
+      {
+        "name": "AFC Wings 350gr Meni",
+        "desc": "AFC Wings 350gr Meni",
+        "price": 15.5
+      },
+      {
+        "name": "AFC Strips 400gr Meni",
+        "desc": "AFC Strips 400gr Meni",
+        "price": 18.0
+      },
+      {
+        "name": "AFC Strips & Wings box",
+        "desc": "Strips 300gr, wings 250gr i 400gr pomfrit",
+        "price": 20.0
+      }
+    ],
+    "A. F. C Box": [
+      {
+        "name": "Familly Combo",
+        "desc": "Deluxe burger classic, afc warp, strips 300gr, nuggets 9kom, wings 250, 3x pomfrit i 3x donut",
+        "price": 48.3
+      },
+      {
+        "name": "AFC MAXI SNACK COMBO",
+        "desc": "1x wings 250gr, 1x strips 200gr mild, 1x strips 200gr hot, nuggets 9kom, 3x pomfrit i 3x donut",
+        "price": 40.0
+      },
+      {
+        "name": "Duo combo AFC",
+        "desc": "BBQ deluxe burger, wrap classic, 2x pomfrit, strips 300gr, 2x donut",
+        "price": 30.0
+      },
+      {
+        "name": "AFC Chicken box",
+        "desc": "Nuggets 9kom, strips 300gr i 400gr pomfrit",
+        "price": 20.0
+      },
+      {
+        "name": "AFC Strips & Wings box",
+        "desc": "Strips 300gr, wings 250gr i 400gr pomfrit",
+        "price": 20.0
+      },
+      {
+        "name": "AFC Burger box",
+        "desc": "Burger deluxe + 200gr strip + pomfrit 200gr",
+        "price": 16.4
+      },
+      {
+        "name": "AFC Wrap box",
+        "desc": "Burger deluxe + 200gr strip + pomfrit 200gr",
+        "price": 16.4
+      }
+    ],
+    "Strips Chicken": [
+      {
+        "name": "AFC Strips 400gr",
+        "desc": "AFC Strips 400gr",
+        "price": 14.0
+      },
+      {
+        "name": "AFC Strips 300gr",
+        "desc": "AFC Strips 300gr",
+        "price": 11.0
+      },
+      {
+        "name": "AFC Wings 350gr",
+        "desc": "AFC Wings 350gr",
+        "price": 11.0
+      },
+      {
+        "name": "AFC Strips 200gr",
+        "desc": "AFC Strips 200gr",
+        "price": 8.0
+      },
+      {
+        "name": "AFC Wings 250gr",
+        "desc": "AFC Wings 250gr",
+        "price": 8.0
+      }
+    ],
+    "Strips Chicken Meni": [
+      {
+        "name": "AFC Strips 400gr Meni",
+        "desc": "AFC Strips 400gr Meni",
+        "price": 18.0
+      },
+      {
+        "name": "AFC Strips 300gr Meni",
+        "desc": "AFC Strips 300gr Meni",
+        "price": 15.5
+      },
+      {
+        "name": "AFC Wings 350gr Meni",
+        "desc": "AFC Wings 350gr Meni",
+        "price": 15.5
+      },
+      {
+        "name": "AFC Strips 200gr Meni",
+        "desc": "AFC Strips 200gr Meni",
+        "price": 12.5
+      },
+      {
+        "name": "AFC Wings 250gr Meni",
+        "desc": "AFC Wings 250gr Meni",
+        "price": 12.5
+      }
+    ],
+    "A. F. C Deluxe Chicken": [
+      {
+        "name": "AFC Deluxe Classic",
+        "desc": "AFC Deluxe Classic",
+        "price": 8.5
+      },
+      {
+        "name": "AFC Deluxe Jalapeno",
+        "desc": "AFC Deluxe Jalapeno",
+        "price": 8.5
+      },
+      {
+        "name": "AFC Deluxe Kentucky",
+        "desc": "AFC Deluxe Kentucky",
+        "price": 8.5
+      },
+      {
+        "name": "AFC Deluxe BBQ",
+        "desc": "AFC Deluxe BBQ",
+        "price": 8.5
+      }
+    ],
+    "A. F. C Deluxe Chicken Meni": [
+      {
+        "name": "AFC Deluxe Classic Meni",
+        "desc": "AFC Deluxe Classic Meni",
+        "price": 13.0
+      },
+      {
+        "name": "AFC Deluxe Jalapeno Meni",
+        "desc": "AFC Deluxe Jalapeno Meni",
+        "price": 13.0
+      },
+      {
+        "name": "AFC Deluxe Kentucky Meni",
+        "desc": "AFC Deluxe Kentucky Meni",
+        "price": 13.0
+      },
+      {
+        "name": "AFC Deluxe BBQ Meni",
+        "desc": "AFC Deluxe BBQ",
+        "price": 13.0
+      }
+    ],
+    "A. F. C Wrap": [
+      {
+        "name": "AFC Wrap Classic",
+        "desc": "AFC Wrap Classic",
+        "price": 8.0
+      },
+      {
+        "name": "AFC Wrap Jalapeno",
+        "desc": "AFC Wrap Jalapeno",
+        "price": 8.0
+      },
+      {
+        "name": "AFC Wrap BBQ",
+        "desc": "AFC Wrap BBQ",
+        "price": 8.0
+      }
+    ],
+    "A. F. C Wrap Meni": [
+      {
+        "name": "AFC Wrap Classic Meni",
+        "desc": "AFC Wrap Classic Meni",
+        "price": 12.5
+      },
+      {
+        "name": "AFC Wrap Jalapeno Meni",
+        "desc": "AFC Wrap Jalapeno Meni",
+        "price": 12.5
+      },
+      {
+        "name": "AFC Wrap BBQ Meni",
+        "desc": "AFC Wrap BBQ Meni",
+        "price": 12.5
+      }
+    ],
+    "Kids Box": [
+      {
+        "name": "Kids box AFC",
+        "desc": "Burger, pomfrit, sokic i igračka",
+        "price": 9.9
+      }
+    ],
+    "Snack": [
+      {
+        "name": "Nuggets 9 Meni",
+        "desc": "Nuggets 9 Meni",
+        "price": 11.5
+      },
+      {
+        "name": "Nuggets 6 Meni",
+        "desc": "Nuggets 6 Meni",
+        "price": 9.5
+      },
+      {
+        "name": "Nuggets",
+        "desc": "Nuggets 6, 9 ili 12 komada",
+        "price": 5.5
+      },
+      {
+        "name": "Cheddar Pomfrit",
+        "desc": "Cheddar Pomfrit",
+        "price": 5.0
+      },
+      {
+        "name": "Pomfrit",
+        "desc": "Big pomfrit ili XXL pomfrit",
+        "price": 4.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Salata AFC",
+        "desc": "Salata AFC",
+        "price": 8.0
+      }
+    ],
+    "Umaci": [
+      {
+        "name": "Heinz Ketchup",
+        "desc": "Heinz Ketchup",
+        "price": 1.0
+      },
+      {
+        "name": "Heinz Majoneza",
+        "desc": "Heinz Majoneza",
+        "price": 1.0
+      },
+      {
+        "name": "Heinz BBQ",
+        "desc": "Heinz BBQ",
+        "price": 1.0
+      },
+      {
+        "name": "Heinz Garlic",
+        "desc": "Heinz Garlic",
+        "price": 1.0
+      },
+      {
+        "name": "Heinz Sweet chili",
+        "desc": "Heinz Sweet chili",
+        "price": 1.0
+      },
+      {
+        "name": "Heinz Salsa",
+        "desc": "Heinz Salsa",
+        "price": 1.0
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Coca-Cola",
+        "desc": "Coca-Cola",
+        "price": 3.0
+      },
+      {
+        "name": "Coca-Cola Zero",
+        "desc": "Coca-Cola Zero",
+        "price": 3.0
+      },
+      {
+        "name": "Sprite",
+        "desc": "Sprite",
+        "price": 3.0
+      },
+      {
+        "name": "Fanta",
+        "desc": "Fanta",
+        "price": 3.0
+      },
+      {
+        "name": "Ledeni čaj",
+        "desc": "Ledeni čaj",
+        "price": 3.0
+      },
+      {
+        "name": "Cappy jabuka",
+        "desc": "Cappy jabuka",
+        "price": 3.0
+      },
+      {
+        "name": "Cappy jagoda",
+        "desc": "Cappy jagoda",
+        "price": 3.0
+      },
+      {
+        "name": "Cappy narandža",
+        "desc": "Cappy narandža",
+        "price": 3.0
+      },
+      {
+        "name": "Voda prirodna",
+        "desc": "Voda prirodna",
+        "price": 2.0
+      },
+      {
+        "name": "Voda gazirana",
+        "desc": "Voda gazirana",
+        "price": 2.0
+      }
+    ],
+    "Desert": [
+      {
+        "name": "Donut čokolada",
+        "price": 3.0
+      },
+      {
+        "name": "Donut Vanilija",
+        "price": 3.0
+      }
+    ],
+    "PANCAKE": [
+      {
+        "name": "Sweet combo",
+        "promo": "-40%",
+        "desc": "Dvije palacinke za 9,90KM",
+        "price": 16.5,
+        "promo_price": 9.9
+      },
+      {
+        "name": "Pancake Sushi",
+        "price": 8.0
+      },
+      {
+        "name": "Pancake choco",
+        "price": 8.0
+      },
+      {
+        "name": "Pancake Fruit",
+        "price": 8.0
+      }
+    ]
+  }
+}

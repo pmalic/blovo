@@ -1,0 +1,39 @@
+{
+  "name": "Mumbai Indian Flavours",
+  "rating": 0.96,
+  "count": 28,
+  "service_fee": 2.3,
+  "menu": {
+    "Glavna jela": [
+      {
+        "name": "Chicken curry Madras",
+        "desc": "Tradicionalni indijski curry sa pilećim fileom u sosu od vrhnja i Madras mješavine začina, prilog riža",
+        "price": 13.0
+      },
+      {
+        "name": "Butter chicken murgh makhani",
+        "desc": "Pileći file u sosu od paradajza, maslaca, Garam masale i začina, prilog riža",
+        "price": 13.0
+      }
+    ],
+    "Vege meni": [
+      {
+        "name": "Vege curry Madras",
+        "desc": "Tradicionalni indijski curry sa povrćem u sosu od vrhnja i Madras mješavine začina, prilog riža",
+        "price": 12.0
+      },
+      {
+        "name": "Vege Makhan",
+        "desc": "Povrće u sosu od paradajza, maslaca, Garam masale i začina, prilog riža",
+        "price": 12.0
+      }
+    ],
+    "posni meni": [
+      {
+        "name": "vege makhan - posno",
+        "desc": "Povrće u sosu od paradajza, biljnog vrhnja, Garam masale i začina, prilog riža.",
+        "price": 12.0
+      }
+    ]
+  }
+}

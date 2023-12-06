@@ -1,0 +1,245 @@
+{
+  "name": "Konoba Kava-Tava",
+  "rating": 0.99,
+  "count": 23,
+  "service_fee": 3.6,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Gurmanska pljeskavica sa pomfritom",
+        "desc": "Gurmanska pljeskavica, pecivo, salata, pomfrit",
+        "price": 10.0
+      },
+      {
+        "name": "Gulaš",
+        "desc": "Salata, pecivo",
+        "price": 9.0
+      },
+      {
+        "name": "Kava Tava doručak",
+        "desc": "Jaja, kobasica, slanina, pršut, kajmak, uštipci",
+        "price": 9.5
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Pohovani palačinci",
+        "desc": "Šunka, sir, pomfrit",
+        "price": 9.5
+      },
+      {
+        "name": "Kava Tava doručak",
+        "desc": "Jaja, kobasica, slanina, pršut, kajmak, uštipci",
+        "price": 9.5
+      },
+      {
+        "name": "Jaja",
+        "desc": "Šunka, sir, slanina, kobasica",
+        "price": 7.0
+      },
+      {
+        "name": "Uštipci sa kajmakom",
+        "desc": "Uštipci, kajmak",
+        "price": 6.5
+      },
+      {
+        "name": "Omlet",
+        "desc": "Šunka, sir, slanina, povrće",
+        "price": 6.0
+      }
+    ],
+    "Predjela": [
+      {
+        "name": "Tava plata za tri osobe",
+        "desc": "Pršut, sir, kajmak, kulen, masline",
+        "price": 36.0
+      },
+      {
+        "name": "Tava plata za dvije osobe",
+        "desc": "Pršut, sir, kajmak, kulen, masline",
+        "price": 24.0
+      },
+      {
+        "name": "Tava plata za jednu osobu",
+        "desc": "Pršut, sir, kajmak, kulen, masline",
+        "price": 12.0
+      }
+    ],
+    "Čorbe": [
+      {
+        "name": "Teleća čorba",
+        "desc": "Salata, pecivo",
+        "price": 7.0
+      },
+      {
+        "name": "Mađarska čorba",
+        "desc": "Salata, pecivo",
+        "price": 7.0
+      }
+    ],
+    "Jela sa roštilja": [
+      {
+        "name": "Miješano meso za četiri osobe",
+        "desc": "Miješano meso, pomfrit",
+        "price": 48.0
+      },
+      {
+        "name": "Miješano meso za tri osobe",
+        "desc": "Miješano meso, pomfrit",
+        "price": 36.0
+      },
+      {
+        "name": "Miješano meso za dvije osobe",
+        "desc": "Miješano meso, pomfrit",
+        "price": 24.0
+      },
+      {
+        "name": "Miješano meso za jednu osobu",
+        "desc": "Miješano meso, pomfrit",
+        "price": 12.0
+      },
+      {
+        "name": "Ražnjići sa pomfritom",
+        "desc": "Lepinja, luk, pomfrit",
+        "price": 10.0
+      },
+      {
+        "name": "Gurmanska pljeskavica sa pomfritom",
+        "desc": "Gurmanska pljeskavica, pecivo, salata, pomfrit",
+        "price": 10.0
+      },
+      {
+        "name": "Banjalučki ćevap",
+        "desc": "Banjalučki ćevap",
+        "price": 9.0
+      },
+      {
+        "name": "Pileće bijelo meso sa pomfritom",
+        "desc": "Lepinja, pomfrit",
+        "price": 9.0
+      },
+      {
+        "name": "Krpice sa pomfritom",
+        "desc": "Lepinja, feferone, pomfrit",
+        "price": 8.0
+      },
+      {
+        "name": "Pileći batak sa pomfritom",
+        "desc": "Lepinja, luk, pomfrit",
+        "price": 8.0
+      },
+      {
+        "name": "Roštiljske kobasice sa pomfritom",
+        "desc": "Kobasice, pomfrit",
+        "price": 7.0
+      }
+    ],
+    "Jela po narudžbi": [
+      {
+        "name": "Koljenica",
+        "desc": "Pasulj, salata, hren, pecivo",
+        "price": 15.0
+      },
+      {
+        "name": "Punjeni pileći batak",
+        "desc": "Sir, šunka, pomfrit, sos",
+        "price": 10.0
+      },
+      {
+        "name": "Pileće bijelo meso u šampinjon sosu",
+        "desc": "Gljive, pomfrit, sos",
+        "price": 10.0
+      },
+      {
+        "name": "Bečka šnicla sa prilogom",
+        "desc": "Bečka šnicla, pomfrit",
+        "price": 10.0
+      },
+      {
+        "name": "Pileći crispy štapići",
+        "desc": "Pomfrit, sjemenke, sos",
+        "price": 10.0
+      }
+    ],
+    "Gotova jela": [
+      {
+        "name": "Gulaš",
+        "desc": "Salata, pecivo",
+        "price": 9.0
+      },
+      {
+        "name": "Pasulj",
+        "desc": "Kranjska kobasica, salata, pecivo",
+        "price": 6.0
+      }
+    ],
+    "Riba": [
+      {
+        "name": "Pastrmka sa dalmatinskim povrćem",
+        "desc": "Pastrmka, dalmatinsko povrće",
+        "price": 12.0
+      },
+      {
+        "name": "Lignje",
+        "desc": "Pohovane na žaru",
+        "price": 12.0
+      },
+      {
+        "name": "Oslić sa prilogom",
+        "desc": "Oslić, pomfrit ili bareno povrće",
+        "price": 8.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Srpska salata",
+        "desc": "Srpska salata",
+        "price": 3.0
+      },
+      {
+        "name": "Šopska salata",
+        "desc": "Šopska salata",
+        "price": 3.0
+      },
+      {
+        "name": "Sezonska salata",
+        "desc": "Sezonska salata",
+        "price": 2.5
+      },
+      {
+        "name": "Miješana salata",
+        "desc": "Miješana salata",
+        "price": 2.5
+      },
+      {
+        "name": "Kupus salata",
+        "desc": "Kupus salata",
+        "price": 2.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pomfrit",
+        "desc": "Pomfrit",
+        "price": 4.0
+      },
+      {
+        "name": "Kajmak",
+        "desc": "Kajmak",
+        "price": 2.5
+      },
+      {
+        "name": "Lepinja",
+        "desc": "Lepinja",
+        "price": 1.0
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Palačinci Eurokrem, Plazma, Nutella",
+        "desc": "Tijesto, Eurokrem, Plazma, Nutella",
+        "price": 5.0
+      }
+    ]
+  }
+}

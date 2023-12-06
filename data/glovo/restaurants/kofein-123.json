@@ -1,0 +1,388 @@
+{
+  "name": "Kofein",
+  "rating": null,
+  "count": null,
+  "service_fee": 2.3,
+  "menu": {
+    "Kafa": [
+      {
+        "name": "KAFA + CEDEVITA",
+        "price": 2.5
+      },
+      {
+        "name": "KAFA + JUPI SOK",
+        "price": 2.5
+      },
+      {
+        "name": "Kafa i Limunada",
+        "desc": "Kafa i Limunada",
+        "price": 3.0
+      },
+      {
+        "name": "Kafa i Pepsi",
+        "desc": "Kafa i Pepsi",
+        "price": 3.0
+      },
+      {
+        "name": "Kafa i Cedevita",
+        "desc": "Kafa i Cedevita",
+        "price": 3.0
+      },
+      {
+        "name": "Kafa i kisela voda",
+        "desc": "Kafa i kisela voda",
+        "price": 2.5
+      },
+      {
+        "name": "Kafa",
+        "desc": "Kafa",
+        "price": 1.0
+      }
+    ],
+    "Espresso Blend ll": [
+      {
+        "name": "Espresso",
+        "desc": "50% arabika, 50% robusta, aroma karamel, ukus čokolada",
+        "price": 1.7
+      },
+      {
+        "name": "Machiatto mali",
+        "desc": "50% arabika, 50% robusta, aroma karamel, ukus čokolada",
+        "price": 1.7
+      },
+      {
+        "name": "Machiatto veliki",
+        "desc": "50% arabika, 50% robusta, aroma karamel, ukus čokolada",
+        "price": 1.7
+      },
+      {
+        "name": "Cappuccino",
+        "desc": "50% arabika, 50% robusta, aroma karamel, ukus čokolada",
+        "price": 1.7
+      },
+      {
+        "name": "Latte",
+        "desc": "50% arabika, 50% robusta, aroma karamel, ukus čokolada",
+        "price": 1.7
+      }
+    ],
+    "Topli napitci": [
+      {
+        "name": "Nes sa Mominim sirupom",
+        "desc": "Lješnjak, karamela, keks i bijela čokolada",
+        "price": 3.5
+      },
+      {
+        "name": "Hladna kafa sa Monin sirupom",
+        "desc": "Bijla čokolada, čokolada, keks, karamela",
+        "price": 3.5
+      },
+      {
+        "name": "Topla čokolada",
+        "desc": "Topla čokolada",
+        "price": 3.5
+      },
+      {
+        "name": "Nescaffe Irish",
+        "desc": "Nescaffe Irish",
+        "price": 3.0
+      },
+      {
+        "name": "Nescaffe Chocolate",
+        "desc": "Nescaffe Chocolate",
+        "price": 3.0
+      },
+      {
+        "name": "Nescaffe Vanilla",
+        "desc": "Nescaffe Vanilla",
+        "price": 3.0
+      },
+      {
+        "name": "Nescaffe Classic",
+        "desc": "Nescaffe Classic",
+        "price": 2.5
+      },
+      {
+        "name": "Čaj Plantago",
+        "desc": "Čaj Plantago",
+        "price": 2.0
+      }
+    ],
+    "Gazirani sokovi": [
+      {
+        "name": "Orangina 0.25 l",
+        "desc": "0.25 l",
+        "price": 4.0
+      },
+      {
+        "name": "Coca - Cola 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Coca - Cola Zero 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Fanta 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Cockta 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Schweppes Bitter 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Schweppes Tonic 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Sprite 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      }
+    ],
+    "Negazirani sokovi": [
+      {
+        "name": "Narandža 0.20 l",
+        "desc": "0.20 l",
+        "price": 3.0
+      },
+      {
+        "name": "Jabuka 0.20 l",
+        "desc": "0.20 l",
+        "price": 3.0
+      },
+      {
+        "name": "Breskva 0.20 l",
+        "desc": "0.20 l",
+        "price": 3.0
+      },
+      {
+        "name": "Jagoda 0.20 l",
+        "desc": "0.20 l",
+        "price": 3.0
+      },
+      {
+        "name": "Višnja 0.20 l",
+        "desc": "0.20 l",
+        "price": 3.0
+      },
+      {
+        "name": "Borovnica 0.20 l",
+        "desc": "0.20 l",
+        "price": 3.0
+      },
+      {
+        "name": "Ledeni čaj 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Cedevita limun",
+        "desc": "Cedevita limun",
+        "price": 2.5
+      },
+      {
+        "name": "Cedevita narandža",
+        "desc": "Cedevita narandža",
+        "price": 2.5
+      },
+      {
+        "name": "Ledeni čaj sa Monin sirupom",
+        "desc": "Dostupni okusi: Limun i Mojito mint, Malina i ruža, Breskva",
+        "price": 2.5
+      }
+    ],
+    "Cijeđeni sokovi": [
+      {
+        "name": "Cijeđeni sok Narandža 0.30 l",
+        "desc": "0.30 l",
+        "price": 4.0
+      },
+      {
+        "name": "Limunada sa Monin sirupom",
+        "desc": "Lubenica, limun rancho, breskva, kivi, tropsko voće, višnja",
+        "price": 3.0
+      },
+      {
+        "name": "Cijeđeni sok Limun 0.30 l",
+        "desc": "0.30 l",
+        "price": 2.5
+      }
+    ],
+    "Voda": [
+      {
+        "name": "Exotic okus",
+        "desc": "Exotic okus",
+        "price": 2.5
+      },
+      {
+        "name": "Kisela voda",
+        "desc": "Kisela voda",
+        "price": 2.0
+      },
+      {
+        "name": "Voda sa okusom",
+        "desc": "Voda sa okusom",
+        "price": 2.0
+      },
+      {
+        "name": "Voda obična",
+        "desc": "Voda obična",
+        "price": 2.0
+      }
+    ],
+    "Pivo": [
+      {
+        "name": "Erdinger 0.5 l",
+        "desc": "0.5 l",
+        "price": 4.5
+      },
+      {
+        "name": "Heineken 0.33 l",
+        "desc": "0.33 l",
+        "price": 4.0
+      },
+      {
+        "name": "Somersby 0.33 l",
+        "desc": "0.33 l",
+        "price": 4.0
+      },
+      {
+        "name": "Tuborg 0.33 l",
+        "desc": "0.33 l",
+        "price": 3.5
+      },
+      {
+        "name": "Nektar 0.33 l",
+        "desc": "0.33 l",
+        "price": 3.0
+      },
+      {
+        "name": "Tuborg 0.50 l",
+        "desc": "0.50 l",
+        "price": 3.0
+      },
+      {
+        "name": "Calsberg 0.33 l",
+        "desc": "0.33 l",
+        "price": 3.0
+      },
+      {
+        "name": "Budweiser 0.33 l",
+        "desc": "0.33 l",
+        "price": 3.0
+      },
+      {
+        "name": "Nektar 0.50 l",
+        "desc": "0.50 l",
+        "price": 2.5
+      },
+      {
+        "name": "Lav Premium 0.33 l",
+        "desc": "0.33 l",
+        "price": 2.5
+      }
+    ],
+    "Vina": [
+      {
+        "name": "Vranac 0,187 l",
+        "desc": "0,187 l",
+        "price": 6.0
+      },
+      {
+        "name": "Graševina  0,187 l",
+        "desc": "0,187 l",
+        "price": 6.0
+      },
+      {
+        "name": "Vranac 0,1 l",
+        "desc": "0,1 l",
+        "price": 2.0
+      },
+      {
+        "name": "Smederevska 0,1 l",
+        "desc": "0,1 l",
+        "price": 2.0
+      }
+    ],
+    "Jaka alkoholna pića": [
+      {
+        "name": "Chivas Regal 0,03 l",
+        "desc": "0,03 l",
+        "price": 6.0
+      },
+      {
+        "name": "Jack Daniel's 0,03 l",
+        "desc": "0,03 l",
+        "price": 5.0
+      },
+      {
+        "name": "Votka Smirnoff 0,03 l",
+        "desc": "0,03 l",
+        "price": 3.5
+      },
+      {
+        "name": "Gin Brokers 0,03 l",
+        "desc": "0,03 l",
+        "price": 3.5
+      },
+      {
+        "name": "Divna dunja 0,03 l",
+        "desc": "0,03 l",
+        "price": 3.5
+      },
+      {
+        "name": "Divna kajsija 0,03 l",
+        "desc": "0,03 l",
+        "price": 3.5
+      },
+      {
+        "name": "Meduška 0,03 l",
+        "desc": "0,03 l",
+        "price": 3.5
+      },
+      {
+        "name": "Johnnie Walker 0,03 l",
+        "desc": "0,03 l",
+        "price": 3.5
+      },
+      {
+        "name": "Tequila 0,03 l",
+        "desc": "0,03 l",
+        "price": 3.0
+      },
+      {
+        "name": "Loza 0,03 l",
+        "desc": "0,03 l",
+        "price": 3.0
+      },
+      {
+        "name": "Viljamovka 0,03 l",
+        "desc": "0,03 l",
+        "price": 3.0
+      },
+      {
+        "name": "Baba višnja 0,03 l",
+        "desc": "0,03 l",
+        "price": 2.5
+      }
+    ],
+    "Energetska pića": [
+      {
+        "name": "Red Bull Energy Drink 0,25 l",
+        "desc": "0,25 l",
+        "price": 5.0
+      }
+    ]
+  }
+}

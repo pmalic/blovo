@@ -1,0 +1,350 @@
+{
+  "name": "Pastirska kuća",
+  "rating": 0.97,
+  "count": 296,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Pastirski doručak",
+        "desc": "Porcija uštipaka, jaja 2 kom, slanina 2 lista, roštiljska kobasica 50 gr, Vlašički sir 30 gr, Urnebes 50 gr, mladi sir sa mirođijom 50 gr",
+        "price": 10.0
+      },
+      {
+        "name": "Ćevap u kajmaku 10 kom",
+        "desc": "10 kom, prilog pomfrit, luk, lepinja",
+        "price": 15.0
+      },
+      {
+        "name": "Janjski doručak",
+        "desc": "Kajgana sa Janjskim kajmakom, slanina, uštipci, prilog Vlašički sir, paradajz",
+        "price": 10.0
+      }
+    ],
+    "Top ponuda": [
+      {
+        "name": "Boemska priča",
+        "desc": "Svinjska kremenadla sa žara, pekarski krompir sa kajmakom i marindom, burger sos, 2 pogačice",
+        "price": 15.0
+      },
+      {
+        "name": "Rolovani ćevap u maramici",
+        "desc": "Rolovani ćevap u maramici punjen sirom i pršutom, prilog pekarski krompir, urnebes, 2 pogačice",
+        "price": 15.0
+      },
+      {
+        "name": "Užička mlada",
+        "desc": "Rolovana piletina sa slaninom prelivena kajmakom, prilog riža i pekarski krompir, 2 pogačice",
+        "price": 15.0
+      },
+      {
+        "name": "Pastirska čorba",
+        "desc": "Pastirska čorba",
+        "price": 8.0
+      }
+    ],
+    "Uštipci": [
+      {
+        "name": "Uštipci sa sirom i kajmakom",
+        "desc": "12 kom, Vlašički sir 100 gr, kajmak 50 gr",
+        "price": 9.0
+      },
+      {
+        "name": "Uštipci sa kajmakom",
+        "desc": "12 kom, kajmak 50 gr",
+        "price": 8.0
+      },
+      {
+        "name": "Uštipci sa sirom",
+        "desc": "12 kom, Vlašički sir 100 gr",
+        "price": 7.0
+      },
+      {
+        "name": "Uštipci porcija",
+        "desc": "12 kom uštipaka sa narendanim sirom",
+        "price": 5.0
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Pastirski doručak",
+        "desc": "Porcija uštipaka, jaja 2 kom, slanina 2 lista, roštiljska kobasica 50 gr, Vlašički sir 30 gr, Urnebes 50 gr, mladi sir sa mirođijom 50 gr",
+        "price": 10.0
+      },
+      {
+        "name": "Janjski doručak",
+        "desc": "Kajgana sa Janjskim kajmakom, slanina, uštipci, prilog Vlašički sir, paradajz",
+        "price": 10.0
+      },
+      {
+        "name": "Cicvara",
+        "desc": "Kukuruzno brašno, prilog kajmak 50 gr, slanina 50 gr, pavlaka 50 gr, rendani Vlašički sir 30 gr",
+        "price": 9.0
+      },
+      {
+        "name": "Omlet po želji",
+        "desc": "3 jaja, sir, šunka, povrće, 4 uštipka ili 2 pogačice",
+        "price": 8.0
+      }
+    ],
+    "Hladna predjela": [
+      {
+        "name": "Hladni tanjir",
+        "desc": "6 listova vrata, 7 listova pršuta, 8 listova kulena, 3 lista slanine, 2 kugle kajmaka, 2 kugle mirođije, 4 kom Vlašičkog sira, 1 korpica uštipaka sa narendanim sirom",
+        "price": 25.0
+      }
+    ],
+    "Specijaliteti": [
+      {
+        "name": "Pastirska pljeskavica 350 gr",
+        "desc": "Punjena sirom Edamerom i uvaljana u svinjski vrat, prilog pekarski krompir, burger sos, luk, 2 pogačice",
+        "price": 16.0
+      },
+      {
+        "name": "Ćevap u kajmaku 10 kom",
+        "desc": "10 kom, prilog pomfrit, luk, lepinja",
+        "price": 15.0
+      },
+      {
+        "name": "Pileći file u šampinjon sosu 200 gr",
+        "desc": "Prilog riža, pomfrit, 2 pogačice",
+        "price": 15.0
+      },
+      {
+        "name": "Pastirski jastučić 200 gr",
+        "desc": "Svinjski file punjen sirom Edamerom i svinjskim vratom, preliven Gorgonzola sosom, prilog riža, pekarski krompir, 2 pogačice",
+        "price": 14.0
+      },
+      {
+        "name": "Sportski obrok Ares",
+        "desc": "Pileći file sa žara, prilog grilovano povrće, burger sos, 2 pogačice",
+        "price": 14.0
+      },
+      {
+        "name": "Piletina sa curry sosem u špinatu 200 gr",
+        "desc": "200 gr, pileći file preliven sosom od špinata sa curry-em, prilog riža, pomfrit, 2 pogačice",
+        "price": 14.0
+      },
+      {
+        "name": "Pileća karađorđeva 2 kom",
+        "desc": "Pileći file punjen kajmakom i pohovan, tartar, 2 pogačice",
+        "price": 14.0
+      },
+      {
+        "name": "Leskovački uštipci veliki",
+        "desc": "Prilog pomfrit, tartar sos, luk, 2 pogačice",
+        "price": 14.0
+      },
+      {
+        "name": "Leskovački uštipci srednji",
+        "desc": "Prilog pomfrit, tartar sos, 2 pogačice",
+        "price": 13.0
+      },
+      {
+        "name": "Rolovani pileći ražnjići u slanini 200 gr",
+        "desc": "Prilog pomfrit, burger sos, 2 pogačice",
+        "price": 13.0
+      },
+      {
+        "name": "Rolovani svinjski ražnjići u slanini 200 gr",
+        "desc": "Prilog pomfrit, luk, lepinja",
+        "price": 13.0
+      },
+      {
+        "name": "Batak na Banjalučki način 250 gr",
+        "desc": "Batak, sir Edamer, zapečeni svinjski vrat, pečeni krompir, burger sos, 2 pogačice",
+        "price": 13.0
+      },
+      {
+        "name": "Pileći file sa žara 200 gr",
+        "desc": "Prilog pomfrit, tartar sos, 2 pogačice",
+        "price": 13.0
+      },
+      {
+        "name": "Bečka šnicla 200 gr",
+        "desc": "Pohovani pileći file, prilog pomfrit, tartar sos, 2 pogačice",
+        "price": 13.0
+      },
+      {
+        "name": "Chicken nuggets 200 gr",
+        "desc": "Prilog pomfrit, burger sos, 2 pogačice",
+        "price": 12.0
+      },
+      {
+        "name": "Pileći batak sa žara 200 gr",
+        "desc": "Prilog pomfrit, tartar sos, 2 pogačice",
+        "price": 11.0
+      },
+      {
+        "name": "Pileća karađorđeva 1 kom",
+        "desc": "Pohovani pileći file, pomfrit, tartar sos, 2 pogačice",
+        "price": 8.0
+      },
+      {
+        "name": "Pileća krilca u peper sosu 5 kom",
+        "desc": "Prilog pomfrit, 2 pogačice",
+        "price": 8.0
+      }
+    ],
+    "Jela u lepinji": [
+      {
+        "name": "Gurmanska extra velika pljeskavica",
+        "desc": "Sir, vrat, šunka, ljuta paprika",
+        "price": 13.0
+      },
+      {
+        "name": "Pileći file u lepinji 200 gr",
+        "desc": "200 gr",
+        "price": 12.0
+      },
+      {
+        "name": "Gurmanska pljeskavica",
+        "desc": "200 gr, sir, vrat, šunka, ljuta paprika",
+        "price": 11.0
+      },
+      {
+        "name": "Pljeskavica punjena Edamer sirom",
+        "desc": "250 gr ili 300 gr",
+        "price": 11.0
+      },
+      {
+        "name": "Pileći batak 200 gr",
+        "desc": "200 gr",
+        "price": 9.0
+      },
+      {
+        "name": "Pljeskavica u lepinji",
+        "desc": "150 gr, 200 gr i 250 gr",
+        "price": 7.0
+      },
+      {
+        "name": "Domaćinski ćevap",
+        "desc": "175 gr 5 kom ili 350 gr 10 kom",
+        "price": 7.0
+      }
+    ],
+    "Plate": [
+      {
+        "name": "Roštilj plata",
+        "desc": "2 kobasice, 2 punjene pljeskavice, 2 krmenadle, 2 bijela mesa, 2 bataka na Banjalučki način, 4 ćevapa, 4 Leskovačka uštipka, prilog pomfrit, luk, mladi sir sa mirođijom, burger sos, 4 lepinje",
+        "price": 55.0
+      },
+      {
+        "name": "Miješano meso",
+        "desc": "2 kobasice, 1 punjena pljeskavica, 1 krmenadla, 1 bijelo meso, 1 batak na Banjalučki način, 2 ćevapa, 2 Leskovačka uštipka, prilog pomfrit, luk, mladi sir sa mirođijom, burger sos, 2 lepinje",
+        "price": 33.0
+      }
+    ],
+    "Posna jela": [
+      {
+        "name": "Lignje sa žara 250 gr *posno",
+        "desc": "Prilog pomfrit, marinada sa bijelim lukom, 2 pogačice",
+        "price": 21.0
+      },
+      {
+        "name": "Pastrmka sa žara 300 gr * posno",
+        "desc": "Prilog pomfrit, marinada sa bijelim lukom, 2 pogačice",
+        "price": 14.0
+      },
+      {
+        "name": "Riblja pljeskavica u lepinji 200 gr *posno",
+        "desc": "Prilog zelena salata, senf, kiseli krastavci, paradajz",
+        "price": 10.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Grilovano povrće   porcija",
+        "desc": "Grilovano povrće  porcija",
+        "price": 10.0
+      },
+      {
+        "name": "Pekarski krompir porcija",
+        "desc": "Pekarski krompir porcija",
+        "price": 3.0
+      },
+      {
+        "name": "Pomfrit prilog",
+        "desc": "Pomfrit prilog",
+        "price": 2.5
+      },
+      {
+        "name": "Riža prilog",
+        "desc": "Riža prilog",
+        "price": 2.5
+      },
+      {
+        "name": "Kajmak 50 gr",
+        "desc": "50 gr",
+        "price": 2.5
+      },
+      {
+        "name": "Sir 50 gr",
+        "desc": "50 gr",
+        "price": 2.0
+      },
+      {
+        "name": "Lepinja 1 komad",
+        "desc": "1 komad",
+        "price": 1.5
+      },
+      {
+        "name": "Pogačice 2 komada",
+        "desc": "2 komada",
+        "price": 1.5
+      },
+      {
+        "name": "Urnebes 50 gr",
+        "desc": "50 gr",
+        "price": 1.0
+      },
+      {
+        "name": "Mladi sir sa mirođijom 50 gr",
+        "desc": "50 gr",
+        "price": 1.0
+      },
+      {
+        "name": "Ajvar 50 gr",
+        "desc": "50 gr",
+        "price": 1.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Šopska salata",
+        "desc": "Šopska salata",
+        "price": 5.5
+      },
+      {
+        "name": "Srpska salata",
+        "desc": "Srpska salata",
+        "price": 4.5
+      },
+      {
+        "name": "Kupus salata",
+        "desc": "Kupus salata",
+        "price": 3.5
+      },
+      {
+        "name": "Paradajz salata",
+        "desc": "Paradajz salata",
+        "price": 3.5
+      },
+      {
+        "name": "Krastavac salata",
+        "desc": "Krastavac salata",
+        "price": 3.5
+      },
+      {
+        "name": "Zelena salata",
+        "desc": "Zelena salata",
+        "price": 3.5
+      },
+      {
+        "name": "Ajvar",
+        "desc": "Ajvar",
+        "price": 3.5
+      }
+    ]
+  }
+}

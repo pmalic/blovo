@@ -1,0 +1,129 @@
+{
+  "name": "Bizarre Diverse Bar",
+  "rating": 0.91,
+  "count": 69,
+  "service_fee": 2.3,
+  "menu": {
+    "Novi winter meni 2022/2023": [
+      {
+        "name": "Sablja Bizarre",
+        "desc": "Ćevapčići spremljeni na način kuće, sa tortiljom, krompirčićima i domaćim sosom od kajmaka",
+        "price": 19.0
+      },
+      {
+        "name": "Zlatiborski doručak",
+        "desc": "Uštipci, kajmak, pršut, domaće kiselo mlIjeko, kobasica i tvrdi sir",
+        "price": 10.0
+      }
+    ],
+    "Doručak do 12h": [
+      {
+        "name": "Cowboy sandwich",
+        "desc": "Domaće pecivo punjeno smjesom bataka, krompira, Gorgonzola sosa i rukole",
+        "price": 14.0
+      },
+      {
+        "name": "Camarro doručak",
+        "desc": "Camarro doručak",
+        "price": 12.0
+      },
+      {
+        "name": "Jaja kobaja",
+        "desc": "Jaja, kobasice",
+        "price": 12.0
+      },
+      {
+        "name": "American crunch wrap",
+        "desc": "Pohovani komadići piletine sa paradajzom, kiselim krastavcima i salatom u hrskavoj tortilji, uz American sos sa strane",
+        "price": 11.0
+      }
+    ],
+    "Starter": [
+      {
+        "name": "Meza Bizarre",
+        "desc": "Livanjski pršut, Slavonski kulen, Livanjski sir, Gorgonzola, Kačkavalj, Mozzarella, masline",
+        "price": 35.0
+      },
+      {
+        "name": "Selekcija sireva",
+        "desc": "Livanjski sir, Gorgonzola, Kačkavalj, Mozzarella, masline",
+        "price": 20.0
+      }
+    ],
+    "Specijal": [
+      {
+        "name": "Biftek Bizzare",
+        "desc": "Biftek Bizzare",
+        "price": 48.0
+      },
+      {
+        "name": "Pileća BBQ krilca 20 komada",
+        "desc": "20 komada",
+        "price": 23.0
+      },
+      {
+        "name": "Svinjski medaljoni",
+        "desc": "Svinjski medaljoni servirani u sosu od šumskih gljiva, krompir u kajmaku",
+        "price": 22.0
+      },
+      {
+        "name": "Chicken fingers",
+        "desc": "Pileći štapići pohovani u cornflexu i susamu, Gorgonzola sos",
+        "price": 20.0
+      },
+      {
+        "name": "Piletina Bizarre",
+        "desc": "Sočni komadi piletine u domaćem Bizzarre sosu sa ajvarom i kajmakom, za prste polizati!",
+        "price": 20.0
+      },
+      {
+        "name": "Peanut chicken",
+        "desc": "Peanut chicken",
+        "price": 20.0
+      },
+      {
+        "name": "Pileća BBQ krilca 10 komada",
+        "desc": "10 komada",
+        "price": 15.0
+      }
+    ],
+    "Burgeri": [
+      {
+        "name": "Burger Classic",
+        "desc": "Mljevena junetina, Cheddar sir, salata i svježi paradajz",
+        "price": 16.0
+      }
+    ],
+    "Paste i rižota": [
+      {
+        "name": "Rižoto Di Polo",
+        "desc": "Marinirani komadići piletine, najfinija Arborrio riža, Pesto Genovese",
+        "price": 20.0
+      },
+      {
+        "name": "Penne San Danielle",
+        "desc": "Pasta sa pršutom i Parmezan sirom",
+        "price": 17.0
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "Cezar salata",
+        "desc": "Marinirana piletina, mix svježih salata, prepečena panceta, domaći dressing",
+        "price": 18.0
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Pohovani sladoled",
+        "desc": "Pohovani sladoled",
+        "price": 11.0
+      },
+      {
+        "name": "Apple pie",
+        "desc": "Apple pie",
+        "price": 9.0
+      }
+    ]
+  }
+}

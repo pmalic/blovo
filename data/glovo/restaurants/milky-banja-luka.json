@@ -1,0 +1,211 @@
+{
+  "name": "Milky",
+  "rating": 0.9,
+  "count": 223,
+  "service_fee": 2.3,
+  "menu": {
+    "Naša preporuka slatke palačinke": [
+      {
+        "name": "Palačinka Schwarzwald",
+        "desc": "Schwarzwald",
+        "price": 14.5
+      },
+      {
+        "name": "Palačinka Cheesecake",
+        "desc": "Cheesecake",
+        "price": 14.5
+      },
+      {
+        "name": "Palačinka Jaffa",
+        "desc": "Jaffa",
+        "price": 14.5
+      },
+      {
+        "name": "Milky zna palačinka",
+        "desc": "Zvanična Milky palačinka, tajna kombinacija po preporuci šefa kuhinje",
+        "price": 13.0
+      },
+      {
+        "name": "Palačinka Tiramisu",
+        "desc": "Tiramisu",
+        "price": 13.0
+      },
+      {
+        "name": "Palačinka Jabuka & cimet",
+        "desc": "Jabuka & cimet",
+        "price": 13.0
+      }
+    ],
+    "Naša preporuka slane palačinke": [
+      {
+        "name": "Meksikana po odabiru klasična ili američka palačinka",
+        "desc": "Goveđa pršuta, namaz sa crvenim kupusom, meksička salsa, rukola, crveni kupus, šafran dressing",
+        "price": 14.0
+      },
+      {
+        "name": "Cezar američka palačinka",
+        "desc": "Dimljena piletina, pancetta, Parmesan, iceberg salata, Cezar dressing",
+        "price": 13.0
+      },
+      {
+        "name": "Dimljena piletina po odabiru klasična ili američka palačinka",
+        "desc": "Dimljena piletina, namaz sa crvenim kupusom, paradajz, rukola, crveni kupus, šafran dressing",
+        "price": 13.0
+      },
+      {
+        "name": "Pikant po odabiru klasična ili američka palačinka",
+        "desc": "Kulen, namaz sa crvenim kupusom, meksička salsa, rukola, crveni kupus, šafran dressing",
+        "price": 13.0
+      }
+    ],
+    "Doručak do 13 h": [
+      {
+        "name": "Milky doručak",
+        "desc": "Jaja, slanina, Mc Cain, roštiljska kobasica, senf",
+        "price": 10.5
+      },
+      {
+        "name": "Milky Onassis doručak",
+        "desc": "Jaja, roštiljska kobasica, Gauda sir, pršut, prilog ajvar",
+        "price": 10.5
+      },
+      {
+        "name": "Jaja sa hrenovkama",
+        "desc": "Jaja, Gauda sir, hrenovke, prilog ketchup",
+        "price": 8.5
+      },
+      {
+        "name": "Milky prženice",
+        "desc": "Jaja, Gauda sir, pršut, tost hljeb, prilog mileram",
+        "price": 7.5
+      },
+      {
+        "name": "Kajgana",
+        "desc": "Jaja, šunka, panceta, prilog mileram",
+        "price": 7.5
+      },
+      {
+        "name": "Classic Tost",
+        "desc": "Šunka, Gauda sir, tost ketchup, majoneza",
+        "price": 6.5
+      },
+      {
+        "name": "Bekendeks doručak",
+        "desc": "Jaja, slanina, prilog ajvar",
+        "price": 6.5
+      },
+      {
+        "name": "Hemendeks doručak",
+        "desc": "Jaja, šunka, prilog mileram",
+        "price": 6.5
+      }
+    ],
+    "Omleti": [
+      {
+        "name": "Omlet br. 1",
+        "desc": "Jaja, šunka, ajvar, sir Gauda",
+        "price": 6.5
+      },
+      {
+        "name": "Omlet br. 2",
+        "desc": "Jaja, sir, slanina, prilog ajvar",
+        "price": 6.5
+      },
+      {
+        "name": "Omlet sa povrćem",
+        "desc": "Jaja, šampinjoni, povrće",
+        "price": 6.0
+      }
+    ],
+    "Jela od piletine": [
+      {
+        "name": "Tortilja",
+        "desc": "Zelena salata, kukuruz šećerac, paprika, Gauda sir, piletina, prilog mileram , salsa sos, tortilja",
+        "price": 9.5
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pršut",
+        "desc": "Pršut",
+        "price": 4.0
+      }
+    ],
+    "Sosevi": [
+      {
+        "name": "Blagi sos",
+        "desc": "Blagi sos",
+        "price": 2.0
+      },
+      {
+        "name": "Tartar sos",
+        "desc": "Tartar sos",
+        "price": 2.0
+      },
+      {
+        "name": "Mileram",
+        "desc": "Mileram",
+        "price": 2.0
+      },
+      {
+        "name": "Majoneza",
+        "desc": "Majoneza",
+        "price": 1.5
+      },
+      {
+        "name": "Ketchup",
+        "desc": "Ketchup",
+        "price": 1.5
+      },
+      {
+        "name": "Kiseli krastavaci",
+        "desc": "Kiseli krastavaci",
+        "price": 1.0
+      },
+      {
+        "name": "Ajvar",
+        "desc": "Ajvar",
+        "price": 1.0
+      }
+    ],
+    "Kreiraj svoj slani palačinak": [
+      {
+        "name": "Pohovana palačinka",
+        "desc": "Napravi sam svoju palačinku po želji",
+        "price": 5.0
+      },
+      {
+        "name": "Tost palačinak",
+        "desc": "Napravi sam svoju palačinku po želji",
+        "price": 4.5
+      },
+      {
+        "name": "Slana palačinka",
+        "desc": "Napravi sam svoju palačinku po želji",
+        "price": 4.0
+      }
+    ],
+    "Kreiraj svoj slatki palačinak": [
+      {
+        "name": "Red Velvet palačinka",
+        "desc": "Napravi sam svoju palačinku po želji",
+        "price": 4.5
+      },
+      {
+        "name": "Američke palačinke",
+        "desc": "Napravi sam svoju palačinku po želji",
+        "price": 4.5
+      },
+      {
+        "name": "Čoko palačinke",
+        "desc": "Napravi sam svoju palačinku po želji",
+        "price": 4.5
+      },
+      {
+        "name": "Slatki palačinak",
+        "desc": "Napravi sam svoju palačinku po želji",
+        "price": 4.0
+      }
+    ]
+  }
+}

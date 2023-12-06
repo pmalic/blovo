@@ -1,0 +1,105 @@
+{
+  "name": "Pekoteka Merci",
+  "rating": 0.83,
+  "count": 10,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Pizza Merci 32 cm",
+        "desc": "Šunka, sir, pršut , kulen",
+        "price": 9.6
+      },
+      {
+        "name": "Obrok jaja, šunka, slanina",
+        "desc": "Obrok",
+        "price": 4.8
+      }
+    ],
+    "Obrok": [
+      {
+        "name": "Obrok jaja, šunka, slanina",
+        "desc": "Obrok",
+        "price": 4.8
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Pizza Merci 32 cm",
+        "desc": "Šunka, sir, pršut , kulen",
+        "price": 9.6
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "32 cm",
+        "price": 7.2
+      }
+    ],
+    "Sendviči": [
+      {
+        "name": "Sendvič kulen",
+        "desc": "Sendvič kulen",
+        "price": 3.3
+      },
+      {
+        "name": "Sendvič šunka sir",
+        "desc": "Sendvič šunka sir",
+        "price": 3.0
+      }
+    ],
+    "Desert": [
+      {
+        "name": "Tri leće komad",
+        "desc": "Komad",
+        "price": 3.0
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Vitalia jogurt 0,50 l",
+        "desc": "0,50 l",
+        "price": 1.9
+      },
+      {
+        "name": "Coca-Cola",
+        "desc": "Coca-Cola",
+        "price": 1.7
+      },
+      {
+        "name": "Fanta 0,50 l",
+        "desc": "0,50 l",
+        "price": 1.7
+      },
+      {
+        "name": "Schweppes 0,50 l",
+        "desc": "0,50 l",
+        "price": 1.7
+      },
+      {
+        "name": "Cappy narandža 0,33 l",
+        "desc": "80 gr",
+        "price": 1.7
+      },
+      {
+        "name": "Prolom voda 0,50 I",
+        "desc": "0,50 l",
+        "price": 1.2
+      },
+      {
+        "name": "Vivia voda 0,50 I",
+        "desc": "0,50 l",
+        "price": 1.0
+      },
+      {
+        "name": "Vitalia jogurt 0,20 I",
+        "desc": "0,20 l",
+        "price": 1.0
+      },
+      {
+        "name": "Moja Kravica 0,20 l",
+        "desc": "0,20 l",
+        "price": 1.0
+      }
+    ]
+  }
+}

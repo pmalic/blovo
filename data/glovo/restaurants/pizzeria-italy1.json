@@ -1,0 +1,527 @@
+{
+  "name": "Pizzeria Italy",
+  "rating": 0.98,
+  "count": 500,
+  "menu": {
+    "Doručak": [
+      {
+        "name": "Specijalitet kuće",
+        "desc": "2 jaja na oko, dvije kobasice, sir, pečeni krompir, grah, tartar sos",
+        "price": 11.0
+      },
+      {
+        "name": "Omlet po narudžbi",
+        "desc": "3 jaja, sir, slanina, kulen, šunka",
+        "price": 11.0
+      },
+      {
+        "name": "Piletina na tostu",
+        "desc": "Piletina, tost, pomfrit, povrće",
+        "price": 10.0
+      },
+      {
+        "name": "Omlet sa gorgonzolom i pršutom",
+        "desc": "3 jaja, gorgonzola sir, pršut, rukola, cherry paradajz",
+        "price": 9.5
+      },
+      {
+        "name": "Omlet sa šampinjonima i sirom",
+        "desc": "3 jaja, sir, šampinjoni, pecivo",
+        "price": 8.0
+      },
+      {
+        "name": "Jaja sa kobasicom",
+        "desc": "3 jaja, dvije kobasice",
+        "price": 8.0
+      },
+      {
+        "name": "Omlet sa slaninom",
+        "desc": "3 jaja, slanina, pecivo",
+        "price": 8.0
+      },
+      {
+        "name": "Omlet sa šunkom i sirom",
+        "desc": "3 jaja, sir, šunkarica, pecivo",
+        "price": 8.0
+      },
+      {
+        "name": "Omlet sa povrćem i sirom",
+        "desc": "3 jaja, sir, povrće, pecivo",
+        "price": 8.0
+      },
+      {
+        "name": "Jaja na oko sa šunkom",
+        "desc": "3 jaja, sir, šunkarica, pecivo",
+        "price": 8.0
+      },
+      {
+        "name": "Jaja na oko sa slaninom",
+        "desc": "3 jaja, sir, slanina, pecivo",
+        "price": 8.0
+      }
+    ],
+    "Sendviči": [
+      {
+        "name": "Tortilje sa piletinom",
+        "desc": "4 rolovane tortilje punjene sa piletinom, paprikom i sirom",
+        "price": 12.5
+      },
+      {
+        "name": "Burito sa piletinom",
+        "desc": "Tortilja punjena piletinom, grahom, kukuruzom, pikant sos",
+        "price": 12.5
+      },
+      {
+        "name": "Rolovani sendvič Italy",
+        "desc": "Pohovana piletina, zelena salata, paprika, kukuruz, sir",
+        "price": 9.0
+      },
+      {
+        "name": "Rolovani sendvič pršut",
+        "desc": "Pršut, sir, preliv",
+        "price": 9.0
+      },
+      {
+        "name": "Sendvič u domaćoj lepinji sa pohovanom piletinom",
+        "desc": "Pohovana piletina, sir, paradajz",
+        "price": 9.0
+      },
+      {
+        "name": "Rolovani sendvič piletina",
+        "desc": "Piletina, sir",
+        "price": 8.5
+      },
+      {
+        "name": "Rolovani sendvič kulen",
+        "desc": "Kulen, sir, preliv",
+        "price": 8.0
+      },
+      {
+        "name": "Rolovani sendvič šunkom",
+        "desc": "Šunka, sir, preliv",
+        "price": 7.5
+      },
+      {
+        "name": "Rolovani sendvič sa šampinjonima",
+        "desc": "Šampinjoni prženi, sir",
+        "price": 7.5
+      },
+      {
+        "name": "Rolovani sendvič tunjevina",
+        "desc": "Tunjevina, posni sir",
+        "price": 7.5
+      },
+      {
+        "name": "Rolovani sendvič povrće",
+        "desc": "Posni sir, pržena paprika, kukuruz",
+        "price": 7.0
+      }
+    ],
+    "Specijaliteti kuće": [
+      {
+        "name": "Medaljoni zapečeni mozzarella sirom",
+        "desc": "Teleći medaljoni, grilovano povrće, krompir u bijelom umaku",
+        "price": 22.0
+      },
+      {
+        "name": "Burger sa slaninom",
+        "desc": "Junetina mljevena, slanina, luk, paradajz, zelena salata, kiseli krastavac, sir, pecivo, pomfrit i umak za burger",
+        "price": 10.5
+      },
+      {
+        "name": "Kobasice sa sirom, krompirićima i pikant umakom",
+        "desc": "Kobasice punjene sirom, pekarski krompir, pikant crveni sos",
+        "price": 9.5
+      }
+    ],
+    "Specijaliteti od piletine i ćuretine": [
+      {
+        "name": "Ćuretina prodimljena sa vrganjima i šampinjonima",
+        "desc": "Ćuretina, povrće, krompir, sos sa vrganjima i šampinjonima",
+        "price": 21.0
+      },
+      {
+        "name": "Piletina punjena šunkom i sirom",
+        "desc": "Piletina, sir, šunka, sos, 4 vrste sira, pomfrit",
+        "price": 20.0
+      },
+      {
+        "name": "Piletina sa pršutom i njokama",
+        "desc": "Piletina, pršut, njoke, Gorgonzola, vrhnje za kuhanje",
+        "price": 20.0
+      },
+      {
+        "name": "Pileće rolnice u badem sosu",
+        "desc": "Piletina, Mozzarella sir, slanina, bademi, paprika, šampinjoni, vrhnje za kuhanje",
+        "price": 20.0
+      },
+      {
+        "name": "Piletina u curry sosu",
+        "desc": "Piletina, curry sos, pomfrit, kuhano povrće",
+        "price": 17.5
+      },
+      {
+        "name": "Punjene pileće rolnice",
+        "desc": "Piletina, šampinjoni, šunka, sir, slanina, Gorgonzola sos, dolar chips, cherry paradajz",
+        "price": 17.5
+      },
+      {
+        "name": "Piletina sa slaninom i sirom",
+        "desc": "Piletina, slanina, sir, pomfrit, kuhano povrće",
+        "price": 17.5
+      },
+      {
+        "name": "Piletina u sosu od gorgonzole",
+        "desc": "Piletina, Gorgonzola sos, pomfrit, kuhano povrće",
+        "price": 17.5
+      },
+      {
+        "name": "Piletina u sosu od šampinjona",
+        "desc": "Piletina, šampinjon sos, pomfrit, kuhano povrće",
+        "price": 17.5
+      },
+      {
+        "name": "Pohovane pileće krpice",
+        "desc": "Pohovana piletina, Tartar sos, pomfrit, kuhano povrće",
+        "price": 17.5
+      },
+      {
+        "name": "Piletina u umaku od špinata",
+        "desc": "Piletina, umak od špinata, pomfrit, kuhano povrće",
+        "price": 17.5
+      },
+      {
+        "name": "Piletina i njoke u kikiriki puteru",
+        "desc": "Piletina, njoke, kikiriki puter, vrhnje za kuhanje",
+        "price": 17.5
+      }
+    ],
+    "Pizze": [
+      {
+        "name": "Pizza Diavolo",
+        "desc": "Sos, sir, kulen, šampinjoni, chili papričice",
+        "price": 12.5
+      },
+      {
+        "name": "Piroška",
+        "desc": "Sos, sir, šunka, šampinjoni, vhrnje, kulen",
+        "price": 12.5
+      },
+      {
+        "name": "Pizza Siciliana",
+        "desc": "Sos, sir pršut, rukola,cherry paradajz",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Italy",
+        "desc": "Sos, sir,šunka, pršut, šampinjoni, vrhnje, jaje",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Sos, sir, šunka, šampinjoni",
+        "price": 11.5
+      },
+      {
+        "name": "Pizza Frutti di mare",
+        "desc": "Sos, sir, plodovi mora",
+        "price": 11.5
+      },
+      {
+        "name": "Pizza Calzone",
+        "desc": "Sos, sir, šunka, šampinjoni",
+        "price": 11.5
+      },
+      {
+        "name": "Pizza Quattro Formaggio",
+        "desc": "Sos, sir, Parmezan, Mozzarella, Gorgonzola",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Vesuvio",
+        "desc": "Sos, sir, šunka",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Tuna",
+        "desc": "Sos, sir, tunjevina, crveni luk",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Funghi",
+        "desc": "Sos, sir, šampinjoni",
+        "price": 10.5
+      },
+      {
+        "name": "Pizza Margherita",
+        "desc": "Sos, sir",
+        "price": 10.0
+      },
+      {
+        "name": "Pizza Vegeteriana",
+        "desc": "Sos, sir, povrće",
+        "price": 9.5
+      }
+    ],
+    "Pasta": [
+      {
+        "name": "Lasagne",
+        "desc": "Tjestenina, sos bechamel, sos bolognese, sir",
+        "price": 13.0
+      },
+      {
+        "name": "Tagliatelle Bolognese",
+        "desc": "Tjestenina, bolognese sos",
+        "price": 12.0
+      },
+      {
+        "name": "Tagliatelle Piletina i povrće",
+        "desc": "Tjestenina, povrće, piletina, bijeli sos",
+        "price": 12.0
+      },
+      {
+        "name": "Tagliatelle Četiri vrste sira",
+        "desc": "Tjestenina, Edamer, Gorgonzola, Parmezan, Mozzarella sos",
+        "price": 12.0
+      },
+      {
+        "name": "Tagliatelle Carbonara",
+        "desc": "Tjestenina, slanina, šunka, sir, sos",
+        "price": 12.0
+      },
+      {
+        "name": "Njoke gorgonzola",
+        "desc": "Tjestenina, gorgonzola, sos",
+        "price": 12.0
+      },
+      {
+        "name": "Spaghetti Carbonara",
+        "desc": "Tjestenina, panceta, šunka, sir, jaje, vrhnje za kuhanje",
+        "price": 12.0
+      },
+      {
+        "name": "Spaghetti Bolognese",
+        "desc": "Tjestenina, sos bolognese",
+        "price": 12.0
+      },
+      {
+        "name": "Penne Arabiata",
+        "desc": "Tjestenina, slanina, cherry paradajz, crveni sos",
+        "price": 11.5
+      },
+      {
+        "name": "Spaghetti sa morskim plodovima",
+        "desc": "Tjestenina, tunjevina, sos",
+        "price": 11.0
+      }
+    ],
+    "Rižoto": [
+      {
+        "name": "Rižoto u imperijal sosu",
+        "desc": "Riža, piletina, kiseli krastavci, šunka, gljive",
+        "price": 17.0
+      },
+      {
+        "name": "Rižoto sa brokulama i piletinom",
+        "desc": "Riža, piletina, brokula, vrhnje za kuhanje",
+        "price": 17.0
+      }
+    ],
+    "Posni meni": [
+      {
+        "name": "Salata sa lignjama",
+        "desc": "Povrće/mix salata, pržene lignje",
+        "price": 20.0
+      },
+      {
+        "name": "Pohovane lignje",
+        "desc": "Lignje, špinat, riža",
+        "price": 20.0
+      },
+      {
+        "name": "Pizza sa dimljenom pastrmkom",
+        "desc": "Sos, posni sir, dimljena pastrmka, šampinjoni",
+        "price": 14.0
+      },
+      {
+        "name": "Rolovani sendvič sa dimljenom pastrmkom",
+        "desc": "Dimljena pastrmka, posni sir",
+        "price": 11.5
+      },
+      {
+        "name": "Spaghetti sa morskim plodovima",
+        "desc": "Tjestenina, tunjevina, sos",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Frutti di mare posna",
+        "desc": "Posni sir, morski plodovi",
+        "price": 10.5
+      },
+      {
+        "name": "Pizza sa povrćem posna",
+        "desc": "Sos, posni sir, paprika, kukuruz, paradajz",
+        "price": 9.5
+      },
+      {
+        "name": "Pizza Tuna posna",
+        "desc": "Sos, posni sir, tunjevina, crveni luk",
+        "price": 9.5
+      },
+      {
+        "name": "Pohovani filet oslića",
+        "desc": "Filet oslića, pekarski kormpir",
+        "price": 9.5
+      },
+      {
+        "name": "Rolovani sendvič povrće",
+        "desc": "Pržena paprika, kukuruz, posni sir",
+        "price": 7.5
+      },
+      {
+        "name": "Rolovani sendvič šampinjoni",
+        "desc": "Šampinjoni, posni sir",
+        "price": 7.5
+      },
+      {
+        "name": "Rolovani sendvič tunjevina",
+        "desc": "Tunjevina, posni sir",
+        "price": 7.5
+      }
+    ],
+    "Slane palačinke": [
+      {
+        "name": "Zapečena palačinka šunka, kulen",
+        "desc": "Zapečene palačinke sa šunkaricom i kulenom u crvenom sosu",
+        "price": 10.0
+      },
+      {
+        "name": "Zapečena palačinka piletina",
+        "desc": "Zapečene palačinke sa šampinjonima i piletinom u bijelom sosu",
+        "price": 10.0
+      },
+      {
+        "name": "Pohovane palačinke sa šunkom i sirom",
+        "desc": "Šunka,sir",
+        "price": 7.5
+      },
+      {
+        "name": "Pohovane palačinke sa piletinom i šampinjonima",
+        "desc": "Piletina, šampinjoni, sir",
+        "price": 7.5
+      },
+      {
+        "name": "Pohovane palačinke sa mesom",
+        "desc": "Sos bolognez",
+        "price": 7.5
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "Salata sa lignjama",
+        "desc": "Mix salata/povrće, pržene lignje, Gorgonzola",
+        "price": 20.0
+      },
+      {
+        "name": "Cezar salata",
+        "desc": "Mix zelenih salata/povrće, preliv, piletina, slanina, Parmezan",
+        "price": 12.5
+      },
+      {
+        "name": "Salata sa piletinom",
+        "desc": "Mix salata/povrće, piletina, poreliv za salatu",
+        "price": 12.0
+      },
+      {
+        "name": "Salata sa tjesteninom i piletinom",
+        "desc": "Tjestenina, piletina, povrće/salate, preliv",
+        "price": 11.0
+      },
+      {
+        "name": "Salata sa tjesteninom i tunjevinom",
+        "desc": "Tjestenina, tunjevina, povrće/salate, preliv",
+        "price": 10.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Grilovano povrće",
+        "desc": "Grilovano povrće",
+        "price": 6.0
+      },
+      {
+        "name": "Pomfrit",
+        "desc": "Pomfrit",
+        "price": 3.0
+      },
+      {
+        "name": "Parmezan",
+        "desc": "Parmezan",
+        "price": 2.0
+      },
+      {
+        "name": "Masline",
+        "desc": "Masline",
+        "price": 1.5
+      },
+      {
+        "name": "Tartar sos",
+        "desc": "Tartar sos",
+        "price": 1.0
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Palačinka sa sladoledom u sosu od višanja",
+        "desc": "Palačinka sa sladoledom u sosu od višanja",
+        "price": 6.0
+      },
+      {
+        "name": "Voćna salata",
+        "desc": "Voćna salata",
+        "price": 5.0
+      },
+      {
+        "name": "Čokoladni parfe",
+        "desc": "Čokoladni parfe",
+        "price": 5.0
+      },
+      {
+        "name": "Panna Cotta preliv višnja",
+        "desc": "Panna Cotta preliv višnja",
+        "price": 5.0
+      },
+      {
+        "name": "Panna Cotta preliv čokolada",
+        "desc": "Panna Cotta preliv čokolada",
+        "price": 5.0
+      },
+      {
+        "name": "Pita sa jabukama i suvim šljivama sa sladoledom",
+        "desc": "Pita sa jabukama i suvim šljivama sa sladoledom",
+        "price": 4.5
+      },
+      {
+        "name": "Palačinka Nutella",
+        "desc": "Palačinka Nutella",
+        "price": 4.5
+      },
+      {
+        "name": "Sladoled porcija",
+        "desc": "Sladoled porcija",
+        "price": 4.0
+      },
+      {
+        "name": "Palačinka Marmelada",
+        "desc": "Palačinka Marmelada",
+        "price": 4.0
+      },
+      {
+        "name": "Palačinka Eurokrem",
+        "desc": "Palačinka Eurokrem",
+        "price": 4.0
+      }
+    ]
+  },
+  "service_fee": 2.3
+}

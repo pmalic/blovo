@@ -1,0 +1,218 @@
+{
+  "name": "Sečuan",
+  "rating": 0.97,
+  "count": 94,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Slatko kisela piletina",
+        "desc": "Piletina, slatko ljuti sos, barena riža",
+        "price": 16.5
+      },
+      {
+        "name": "Carska piletina",
+        "desc": "Piletina, kikiriki, krompir, ljuti sos, barena riža",
+        "price": 16.5
+      },
+      {
+        "name": "Piletina sečuan",
+        "desc": "Piletina, tikvice, mrkva, ljuti sos, barena riža",
+        "price": 16.5
+      }
+    ],
+    "Topla predjela": [
+      {
+        "name": "Supa od smuđa",
+        "desc": "Supa od smuđa",
+        "price": 7.0
+      },
+      {
+        "name": "Proljećne rolnice",
+        "desc": "2 rolnice",
+        "price": 7.0
+      },
+      {
+        "name": "Ljuto kisela supa",
+        "desc": "Ljuto kisela supa",
+        "price": 6.0
+      }
+    ],
+    "Glavna jela od piletine": [
+      {
+        "name": "Slatko kisela piletina",
+        "desc": "Piletina, slatko ljuti sos, barena riža",
+        "price": 16.5
+      },
+      {
+        "name": "Piletina u curry sosu",
+        "desc": "Tikvice, mrkva, kupus, luk, barena riža",
+        "price": 16.5
+      },
+      {
+        "name": "Piletina sečuan",
+        "desc": "Piletina, tikvice, mrkva, ljuti sos, barena riža",
+        "price": 16.5
+      },
+      {
+        "name": "Carska piletina",
+        "desc": "Piletina, kikiriki, krompir, ljuti sos, barena riža",
+        "price": 16.5
+      },
+      {
+        "name": "Egzotična piletina",
+        "desc": "Bambus, crne gljive, tikvice, barena riža",
+        "price": 16.5
+      }
+    ],
+    "Glavna jela od svinjetine": [
+      {
+        "name": "Ši Hu Lu",
+        "desc": "Bambus, šampinjoni, mrkva, kupus, barena riža",
+        "price": 18.0
+      },
+      {
+        "name": "Svinjetina curry",
+        "desc": "Tikvica, mrkva, kupus, luk, barena riža",
+        "price": 18.0
+      },
+      {
+        "name": "Sečuan svinjetina",
+        "desc": "Bambus, crne gljive, mrkva, praziluk, barena riža",
+        "price": 17.5
+      },
+      {
+        "name": "Slatko kisela svinjetina",
+        "desc": "Svinjetina, slatko ljuti sos, barena riža",
+        "price": 17.5
+      }
+    ],
+    "Glavna jela od junetine": [
+      {
+        "name": "Mongolia beef",
+        "desc": "Ljuto, biftek isječen na listiće, barena riža",
+        "price": 29.0
+      },
+      {
+        "name": "Junetina Peking",
+        "desc": "Crne gljive, šampinjoni, barena riža",
+        "price": 21.0
+      },
+      {
+        "name": "Junetina u ostriga sosu",
+        "desc": "Brokoli, začini, barena riža",
+        "price": 20.0
+      },
+      {
+        "name": "Junetina u curry sosu",
+        "desc": "Mrkva, kupus, luk, barena riža",
+        "price": 20.0
+      }
+    ],
+    "Glavna vegetarijanska jela": [
+      {
+        "name": "Nudle sa povrćem",
+        "desc": "Bambus, crne gljive, šitaki, šampinjoni, barena riža",
+        "price": 14.5
+      },
+      {
+        "name": "Šitaki gljive",
+        "desc": "Ostriga sos, praziluk, barena riža",
+        "price": 14.5
+      },
+      {
+        "name": "Brokoli Peking",
+        "desc": "Praziluk, začini, barena riža",
+        "price": 13.5
+      },
+      {
+        "name": "Kitaki Taj",
+        "desc": "Bambus, crne gljive, mrkva, tikvica, barena riža",
+        "price": 13.0
+      }
+    ],
+    "Riba i morski plodovi": [
+      {
+        "name": "Gambori sečuan",
+        "desc": "Praziluk, ljuti sos, barena riža",
+        "price": 27.0
+      },
+      {
+        "name": "Gambori u slatko kiselom sosu",
+        "desc": "Gambori, slatko kiseli sos, barena riža",
+        "price": 27.0
+      },
+      {
+        "name": "Gambori u ostriga sosu",
+        "desc": "Gambori, barena riža",
+        "price": 27.0
+      },
+      {
+        "name": "Smuđ sečuan",
+        "desc": "Bambus, mrkva, tikvice, krompir, barena riža",
+        "price": 25.0
+      },
+      {
+        "name": "Smuđ mejošama",
+        "desc": "Slatko kiseli sos, barena riža",
+        "price": 25.0
+      },
+      {
+        "name": "Lignje sa povrćem",
+        "desc": "Bambus, crne, gljive, mrkva, tikvice, barena riža",
+        "price": 22.0
+      },
+      {
+        "name": "Frigane lignje",
+        "desc": "Frigane lignje, barena riža",
+        "price": 20.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Kineska salata",
+        "desc": "Kineska salata",
+        "price": 6.0
+      },
+      {
+        "name": "Sezonska salata",
+        "desc": "Sezonska salata",
+        "price": 6.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Riža sa povrćem",
+        "desc": "Riža, povrće",
+        "price": 3.0
+      },
+      {
+        "name": "Riža curry",
+        "desc": "Riža curry",
+        "price": 2.5
+      },
+      {
+        "name": "Barena riža",
+        "desc": "Barena riža",
+        "price": 2.0
+      }
+    ],
+    "Desert": [
+      {
+        "name": "Kineski uštipci sa čokoladom",
+        "desc": "Kineski uštipci sa čokoladom",
+        "price": 6.0
+      },
+      {
+        "name": "Pohovane banane",
+        "desc": "Pohovane banane",
+        "price": 6.0
+      },
+      {
+        "name": "Pohovani ananas",
+        "desc": "Pohovani ananas",
+        "price": 6.0
+      }
+    ]
+  }
+}

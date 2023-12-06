@@ -1,0 +1,157 @@
+{
+  "name": "Kaš'kom",
+  "rating": 0.95,
+  "count": 53,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Pasulj sa slaninom",
+        "price": 7.0
+      },
+      {
+        "name": "Juneći gulaš sa prilogom",
+        "desc": "Juneći gulaš 250 gr sa prilogom po izboru",
+        "price": 14.0
+      }
+    ],
+    "Gotova jela sa dnevnog menia": [
+      {
+        "name": "Juneći gulaš sa prilogom",
+        "desc": "Juneći gulaš 250 gr sa prilogom po izboru",
+        "price": 14.0
+      },
+      {
+        "name": "Mućkalica",
+        "desc": "Jelo spremljeno od svinjetine,paprike,crvenog luka,paradajza i bijelog luka.",
+        "price": 12.0
+      },
+      {
+        "name": "Škembići u saftu",
+        "desc": "Škembići ,fileke ili tripice.",
+        "price": 10.0
+      },
+      {
+        "name": "Pasulj sa slaninom",
+        "price": 7.0
+      }
+    ],
+    "Jela po narudžbi": [
+      {
+        "name": "Kuhana svinjska koljenica + Nektar pivo \"Bez filtera\".",
+        "desc": "Kuhana svinjska koljenica + 2 Nektar piva",
+        "price": 25.0
+      },
+      {
+        "name": "Kuhana svinjska koljenica",
+        "desc": "Svinjska koljenica uz pasulj prebranac i dinstani kiseli kupus.",
+        "price": 23.0
+      }
+    ],
+    "Posni meni": [
+      {
+        "name": "Domaća riblja pljeskavica",
+        "desc": "Prilog po izboru",
+        "price": 8.0
+      },
+      {
+        "name": "Pasulj prebranac",
+        "desc": "350 gr",
+        "price": 7.0
+      }
+    ],
+    "Prilozi uz jela": [
+      {
+        "name": "Grilovano povrće",
+        "desc": "Tikvice,paprika,šampinjoni 250 gr",
+        "price": 5.0
+      },
+      {
+        "name": "Bareno povrće",
+        "desc": "Krompir,mrkva,prokulica,grašak 220 gr",
+        "price": 3.0
+      },
+      {
+        "name": "Pečeni krompirići",
+        "desc": "180 gr",
+        "price": 3.0
+      },
+      {
+        "name": "Dinstani kiseli kupus",
+        "desc": "250 gr",
+        "price": 3.0
+      },
+      {
+        "name": "Pire krompir",
+        "desc": "180 gr",
+        "price": 2.5
+      },
+      {
+        "name": "Riža",
+        "desc": "Dinstana riža 180 gr",
+        "price": 2.5
+      },
+      {
+        "name": "Tjestenina",
+        "desc": "180 gr",
+        "price": 2.5
+      },
+      {
+        "name": "Krompir salata",
+        "desc": "220 gr",
+        "price": 2.5
+      },
+      {
+        "name": "Hljeb 1 šnita",
+        "desc": "1 šnita",
+        "price": 0.3
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Šopska salata",
+        "desc": "Šopska salata",
+        "price": 3.5
+      },
+      {
+        "name": "Salata od paradajza",
+        "desc": "Salata od paradajza",
+        "price": 3.0
+      },
+      {
+        "name": "Miješana salata",
+        "desc": "Svježi kupus, krastavci, paradajz",
+        "price": 3.0
+      },
+      {
+        "name": "Srpska salata",
+        "desc": "Srpska salata",
+        "price": 3.0
+      },
+      {
+        "name": "Miješana kisela salata",
+        "desc": "Krastavci, kupus, i paprika filet",
+        "price": 3.0
+      },
+      {
+        "name": "Salata od svježeg kupusa",
+        "desc": "Salata od svježeg kupusa",
+        "price": 2.5
+      },
+      {
+        "name": "Salata od kiselog kupusa",
+        "desc": "Salata od kiselog kupusa",
+        "price": 2.5
+      },
+      {
+        "name": "Crveni luk",
+        "desc": "svjež crveni luk",
+        "price": 1.0
+      },
+      {
+        "name": "Feferone",
+        "price": 1.0
+      }
+    ]
+  }
+}

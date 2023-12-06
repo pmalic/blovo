@@ -1,0 +1,298 @@
+{
+  "name": "Cap - Cap",
+  "rating": 0.97,
+  "count": 343,
+  "service_fee": 1.9,
+  "menu": {
+    "Sendviči": [
+      {
+        "name": "Sendvič sa žara sa suhim vratom i topljenim sirom",
+        "desc": "Pecivo, suhi vrat, topljeni sir, 40 gr",
+        "price": 5.4
+      },
+      {
+        "name": "Sendvič sa žara sa pančetom i topljenim sirom",
+        "desc": "Pecivo, pančeta 40 gr, topljeni sir",
+        "price": 5.4
+      },
+      {
+        "name": "Sendvič sa žara sa pilećim prsima i topljenim sirom",
+        "desc": "Pecivo, pileća prsa, topljeni sir, 40 gr",
+        "price": 4.2
+      },
+      {
+        "name": "Sendvič đački sa žara sa šunkom i topljenim sirom",
+        "desc": "Pecivo, šunka, topljeni sir",
+        "price": 4.2
+      },
+      {
+        "name": "Tost sendvič",
+        "desc": "Topljeni sir",
+        "price": 4.2
+      },
+      {
+        "name": "Posni sendvič sa tunjevinom",
+        "desc": "Posni sendvič sa tunjevinom",
+        "price": 4.2
+      },
+      {
+        "name": "Hot - Dog sa žara",
+        "desc": "Pecivo, kobasica, salata",
+        "price": 4.2
+      }
+    ],
+    "Jela sa roštilja": [
+      {
+        "name": "Rolovani ćevapi sa slaninom",
+        "desc": "Blagi ili ljuti",
+        "price": 10.8
+      },
+      {
+        "name": "Pileći rolovani ćevapi sa slaninom",
+        "desc": "Blagi ili ljuti",
+        "price": 10.8
+      },
+      {
+        "name": "Pileći rolovani ćevapi sa slaninom i sirom",
+        "desc": "Blagi ili ljuti",
+        "price": 10.8
+      },
+      {
+        "name": "Roštiljske kobasice",
+        "desc": "Roštiljske kobasice",
+        "price": 9.6
+      },
+      {
+        "name": "Pileći batak pečena slanina, topljeni sir",
+        "desc": "Pečena slanina, topljeni sir",
+        "price": 9.6
+      },
+      {
+        "name": "Pileći batak topljeni sir",
+        "desc": "Topljeni sir",
+        "price": 9.6
+      },
+      {
+        "name": "Pileće bijelo meso pečena slanina, topljeni sir",
+        "desc": "Pileće bijelo meso pečena slanina, topljeni sir",
+        "price": 9.6
+      },
+      {
+        "name": "Pileće bijelo meso topljeni  sir",
+        "desc": "Pileće bijelo meso topljeni  sir",
+        "price": 9.6
+      },
+      {
+        "name": "Kombinacija banjalučki ćevapi, kobasice",
+        "desc": "Banjalučki ćevapi, kobasice",
+        "price": 9.0
+      },
+      {
+        "name": "Kombinacija leskovački ćevapi, kobasice",
+        "desc": "Leskovački ćevapi, kobasice",
+        "price": 9.0
+      },
+      {
+        "name": "Kombinacija šiš ćevapi, kobasice",
+        "desc": "Šiš ćevapi, kobasice",
+        "price": 9.0
+      },
+      {
+        "name": "Leskovački ćevapi",
+        "desc": "Blagi ili ljuti",
+        "price": 8.4
+      },
+      {
+        "name": "Banjalučki ćevapi",
+        "desc": "Banjalučki ćevapi",
+        "price": 8.4
+      },
+      {
+        "name": "Šiš ćevapi",
+        "desc": "Blagi ili ljuti",
+        "price": 8.4
+      },
+      {
+        "name": "Svinjski vrat pečena slanina, topljeni sir",
+        "desc": "Pečena slanina, topljeni sir",
+        "price": 8.4
+      },
+      {
+        "name": "Svinjski vrat topljeni sir",
+        "desc": "Svinjski vrat topljeni sir",
+        "price": 8.4
+      },
+      {
+        "name": "Pileći batak",
+        "desc": "Pileći batak",
+        "price": 8.4
+      },
+      {
+        "name": "Pileće bijelo meso",
+        "desc": "Pileće bijelo meso",
+        "price": 8.4
+      },
+      {
+        "name": "Pileći ćevapi",
+        "desc": "Blagi ili ljuti",
+        "price": 8.4
+      },
+      {
+        "name": "Pljeskavica gurmanska",
+        "desc": "Velika ili mala, blaga ili ljuta",
+        "price": 7.2
+      },
+      {
+        "name": "Pljeskavica punjena",
+        "desc": "Velika ili mala, blaga ili ljuta",
+        "price": 7.2
+      },
+      {
+        "name": "Svinjski vrat",
+        "desc": "Svinjski vrat",
+        "price": 7.2
+      },
+      {
+        "name": "Pileća pljeskavica gurmanska",
+        "desc": "Velika ili mala, blaga ili ljuta",
+        "price": 7.2
+      },
+      {
+        "name": "Pileća pljeskavica punjena",
+        "desc": "Velika ili mala, blaga ili ljuta",
+        "price": 7.2
+      },
+      {
+        "name": "Pljeskavica",
+        "desc": "Velika ili mala, blaga ili ljuta",
+        "price": 6.0
+      },
+      {
+        "name": "Pileća pljeskavica",
+        "desc": "Velika ili mala, blaga ili ljuta",
+        "price": 6.0
+      },
+      {
+        "name": "Hamburger",
+        "desc": "Blagi ili ljuti",
+        "price": 5.4
+      },
+      {
+        "name": "Burger",
+        "desc": "Blagi ili ljuti",
+        "price": 5.4
+      },
+      {
+        "name": "Pileći hamburger",
+        "desc": "Blagi ili ljuti",
+        "price": 5.4
+      },
+      {
+        "name": "Pileći burger",
+        "desc": "Blagi ili ljuti",
+        "price": 5.4
+      },
+      {
+        "name": "Pljeskavica đačka",
+        "desc": "Blaga ili ljuta",
+        "price": 4.8
+      },
+      {
+        "name": "Pileća pljeskavica đačka",
+        "desc": "Blagi ili ljuti",
+        "price": 4.8
+      }
+    ],
+    "Specijaliteti kuće": [
+      {
+        "name": "Cap cap plata",
+        "desc": "Banjalučki ćevapi, leskovački uštipci, svinjski vrat pileće bijelo, roštiljske kobasice, rolovani ćevapi, pet lepinja",
+        "price": 42.0
+      },
+      {
+        "name": "Leskovački uštipci",
+        "desc": "Veliki ili mali, blagi ili ljuti",
+        "price": 7.2
+      }
+    ],
+    "Mliječni proizvodi": [
+      {
+        "name": "Čokoladno mlijeko  0.25 l",
+        "desc": "0.25 l",
+        "price": 1.8
+      },
+      {
+        "name": "Jogurt 0.25 l",
+        "desc": "0.25 l",
+        "price": 1.8
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Monster Energy Drink",
+        "desc": "Monster Energy Drink",
+        "price": 4.2
+      },
+      {
+        "name": "Fanta WhatTheFanta  500 ml",
+        "desc": "500 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Cappy Breskva",
+        "desc": "Cappy Breskva",
+        "price": 3.0
+      },
+      {
+        "name": "Coca-Cola 500 ml",
+        "desc": "500 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Powerade vitaminska voda",
+        "desc": "Powerade vitaminska voda",
+        "price": 3.0
+      },
+      {
+        "name": "Sprite  500 ml",
+        "desc": "500 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Fanta Orange 500 ml",
+        "desc": "500 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Schweppes Tonic Water",
+        "desc": "500 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Cappy Narandža",
+        "desc": "Cappy Narandža",
+        "price": 3.0
+      },
+      {
+        "name": "Nestea Fuzze Tea 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Fanta Shokata  500 ml",
+        "desc": "500 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Olimpija negazirana  500 ml",
+        "desc": "500 ml",
+        "price": 1.8
+      },
+      {
+        "name": "Olimpija gazirana  500 ml",
+        "desc": "500 ml",
+        "price": 1.8
+      }
+    ]
+  }
+}

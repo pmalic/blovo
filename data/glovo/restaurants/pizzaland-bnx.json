@@ -1,0 +1,180 @@
+{
+  "name": "Pizzaland",
+  "rating": 0.94,
+  "count": 167,
+  "service_fee": 2.3,
+  "menu": {
+    "Pizza": [
+      {
+        "name": "Dedina 33cm",
+        "desc": "pelat, edamer, peka, pršut, bareni vrat, slanina, masline",
+        "price": 16.5
+      },
+      {
+        "name": "Susam 33cm",
+        "desc": "pelat, edamer, šunka, kulen, pavlaka, jaje, šampinjoni, susam, masline",
+        "price": 16.5
+      },
+      {
+        "name": "Pizzaland 33cm",
+        "desc": "pelat, edamer, pršut, grana padano, rukola, masline",
+        "price": 16.0
+      },
+      {
+        "name": "Kalabrese 33cm",
+        "desc": "pelat, edamer, italijanska salama sa biberom, sušeni paradajz,  crne masline",
+        "price": 16.0
+      },
+      {
+        "name": "Mortadela 33cm",
+        "desc": "pavlaka, edamer, mortadela, domaći pesto od pistaća, mrvljeni pistaći, masline",
+        "price": 16.0
+      },
+      {
+        "name": "Bianca 33cm",
+        "desc": "pavlaka, edamer, kulen, gorgonzola, šampinjoni, masline",
+        "price": 16.0
+      },
+      {
+        "name": "Pršut 33cm",
+        "desc": "pelat, mozzarella, pršut, masline",
+        "price": 15.5
+      },
+      {
+        "name": "Mexicana 33cm",
+        "desc": "čili pelat, edamer, kulen, kukuruz, šampinjoni, ljute paprike, masline",
+        "price": 15.0
+      },
+      {
+        "name": "Giros 33cm",
+        "desc": "pelat, edamer, pileće meso, tzatziki sos, masline",
+        "price": 15.0
+      },
+      {
+        "name": "Kebab 33cm",
+        "desc": "pelat, edamer, juneće meso, tzatziki sos, masline",
+        "price": 15.0
+      },
+      {
+        "name": "Quattro formaggi 33cm",
+        "desc": "pelat, edamer, gorgonzola, mozzarella, grana padano, masline",
+        "price": 14.5
+      },
+      {
+        "name": "Vegetarijana 33cm",
+        "desc": "pelat, edamer, ljubičasti luk, tikvice, paprika, kukuruz, šampinjoni, masline\n*opcija sa posnim sirom",
+        "price": 14.5
+      },
+      {
+        "name": "Verona 33cm",
+        "desc": "Pelat, edamer, slanina, pršut, pavlaka, jaje",
+        "price": 14.5
+      },
+      {
+        "name": "Kaprićoza 33cm",
+        "desc": "pelat, edamer, šunka, gljive, masline",
+        "price": 14.0
+      },
+      {
+        "name": "Tuna 33cm",
+        "desc": "pelat, edamer, tuna, ljubičasti luk, kapari, kukuruz, masline\n*opcija sa posnim sirom",
+        "price": 14.0
+      },
+      {
+        "name": "Margarita 33cm",
+        "desc": "pelat, mozzarella, ekstra djevičansko maslinovo ulje, masline\n*opcija sa posnim sirom",
+        "price": 13.0
+      },
+      {
+        "name": "Funghi 33cm",
+        "desc": "pelat, edamer, šampinjoni, cherry paradajz, masline\n*opcija sa posnim sirom",
+        "price": 13.0
+      },
+      {
+        "name": "Dedina 28cm",
+        "desc": "pelat, edamer, peka, pršut, bareni vrat, slanina, masline",
+        "price": 12.5
+      },
+      {
+        "name": "Susam 28cm",
+        "desc": "pelat, edamer, šunka, kulen, pavlaka, jaje, šampinjoni, susam, masline",
+        "price": 12.5
+      },
+      {
+        "name": "Bianca 28cm",
+        "desc": "pavlaka, edamer, kulen, gorgonzola, šampinjoni, masline",
+        "price": 12.5
+      },
+      {
+        "name": "Pizzaland 28cm",
+        "desc": "pelat, edamer, pršut, grana padano, rukola, masline",
+        "price": 12.0
+      },
+      {
+        "name": "Kalabrese 28cm",
+        "desc": "pelat, edamer, italijanska salama sa biberom, sušeni paradajz,  crne masline",
+        "price": 12.0
+      },
+      {
+        "name": "Mortadela 28cm",
+        "desc": "pavlaka, edamer, mortadela, domaći pesto od pistaća, mrvljeni pistaći, masline",
+        "price": 12.0
+      },
+      {
+        "name": "Pršut 28cm",
+        "desc": "pelat, mozzarella, pršut, masline",
+        "price": 12.0
+      },
+      {
+        "name": "Mexicana 28cm",
+        "desc": "čili pelat, edamer, kulen, kukuruz, šampinjoni, ljute paprike, masline",
+        "price": 11.5
+      },
+      {
+        "name": "Tuna 28cm",
+        "desc": "pelat, edamer, tuna, ljubičasti luk, kapari, kukuruz, masline\n*opcija sa posnim sirom",
+        "price": 11.5
+      },
+      {
+        "name": "Verona 28cm",
+        "desc": "Pelat, edamer, slanina, pršut, pavlaka, jaje",
+        "price": 11.5
+      },
+      {
+        "name": "Quattro formaggi 28cm",
+        "desc": "pelat, edamer, gorgonzola, mozzarella, grana padano, masline",
+        "price": 11.0
+      },
+      {
+        "name": "Vegetarijana 28cm",
+        "desc": "pelat, edamer, ljubičasti luk, tikvice, paprika, kukuruz, šampinjoni, masline\n*opcija sa posnim sirom",
+        "price": 11.0
+      },
+      {
+        "name": "Giros 28cm",
+        "desc": "pelat, edamer, pileće meso, tzatziki sos, masline",
+        "price": 11.0
+      },
+      {
+        "name": "Kebab 28cm",
+        "desc": "pelat, edamer, juneće meso, tzatziki sos, masline",
+        "price": 11.0
+      },
+      {
+        "name": "Kaprićoza 28cm",
+        "desc": "pelat, edamer, šunka, gljive, masline",
+        "price": 10.0
+      },
+      {
+        "name": "Funghi 28cm",
+        "desc": "pelat, edamer, šampinjoni, cherry paradajz, masline\n*opcija sa posnim sirom",
+        "price": 10.0
+      },
+      {
+        "name": "Margarita 28cm",
+        "desc": "pelat, mozzarella, esktra djevičansko maslinovo ulje, masline\n*opcija sa posnim sirom",
+        "price": 9.0
+      }
+    ]
+  }
+}

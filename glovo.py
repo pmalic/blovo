@@ -104,8 +104,9 @@ def _scrape_restaurant (uid: str, data: dict, seen_pages: set, *, page_id = '') 
 
 		if service_fee := soup.find(None, attrs = {'data-test-id': 'service-fee-label'}):
 
-			service_fee = service_fee.get_text(strip = True)
-			data['service_fee'] = float(service_fee.replace('KM', '').replace(',', '.'))
+			service_fee = service_fee.get_text(strip = True).replace('KM', '').strip().replace(',', '.')
+
+			data['service_fee'] = float(service_fee) if service_fee.replace('.', '').isdecimal() else 0
 
 	# menu items
 	if 'menu' not in data:
@@ -120,14 +121,38 @@ def _scrape_restaurant (uid: str, data: dict, seen_pages: set, *, page_id = '') 
 
 			section = product_row.find_parent(None, attrs = {'type': 'LIST'}).find(None, attrs = {'data-test-id': 'list-title'}).get_text(strip = True)
 
+			menu_item = {}
+
+			product_row = list(product_row.stripped_strings)
+			promo_price = None
+
+			match len(product_row):
+
+				case 2:
+					menu_item['name'], price = product_row
+
+				case 3:
+					menu_item['name'], menu_item['desc'], price = product_row
+
+				case 4:
+					menu_item['name'], menu_item['promo'], promo_price, price = product_row
+
+				case 5:
+					menu_item['name'], menu_item['promo'], menu_item['desc'], promo_price, price = product_row
+
+				case _:
+					raise RuntimeError(f'Unexpected product row: {product_row}')
+			#}
+
+			menu_item['price'] = float(price.replace('KM', '').replace(',', '.'))
+
+			if promo_price is not None:
+				menu_item['promo_price'] = float(promo_price.replace('KM', '').replace(',', '.'))
+
 			if section not in menu:
 				menu[section] = []
 
-			name, desc, price = product_row.get_text(strip = True, separator = '|||').split('|||')
-
-			price = float(price.replace('KM', '').replace(',', '.'))
-
-			menu[section].append({'name': name, 'desc': desc, 'price': price})
+			menu[section].append(menu_item)
 			menu_items += 1
 		#}
 	#}
@@ -143,7 +168,7 @@ def _scrape_restaurant (uid: str, data: dict, seen_pages: set, *, page_id = '') 
 
 	for a in soup.find_all('a'):
 
-		match = page_id_pattern.match(a.get('href'))
+		match = page_id_pattern.match(a.get('href')) if a.has_attr('href') else None
 
 		if match is not None and match.group(1) not in seen_pages:
 

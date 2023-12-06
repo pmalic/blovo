@@ -1,0 +1,284 @@
+{
+  "name": "Ćevapterija",
+  "rating": 0.94,
+  "count": 281,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Pileće pohovano sa pomfritom",
+        "desc": "200 gr mesa i 150 gr pomfrita",
+        "price": 8.9
+      },
+      {
+        "name": "Plata za 2 osobe 800 gr",
+        "desc": "2 kobasice, 2 ploče ćevapa, pileći file, 5 Travničkih ćevapa, 5 Leskovačkih ćevapa, pomfrit",
+        "price": 27.5
+      },
+      {
+        "name": "Punjeni ćevapi",
+        "desc": "2 kom 250 gr",
+        "price": 9.0
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "3 jaja, 2 kobasice, lepinja, ajvar",
+        "desc": "3 jaja, 2 kobasice, lepinja, ajvar",
+        "price": 7.0
+      },
+      {
+        "name": "Omlet sa sirom i šunkom, lepinja, ajvar",
+        "desc": "Omlet sa sirom i šunkom, lepinja, ajvar",
+        "price": 6.0
+      }
+    ],
+    "Plate": [
+      {
+        "name": "Plata \"Ćevapterija\" 1400 gr",
+        "desc": "1400 gr za 4 osobe. 4 ploče Banjalučkih ćevapa, 3 šiša, 3 roštiljske kobasice, 2 punjena ćevapa, 10 Travničkih ćevapa, 10 Leskovačkih ćevapa, 10 telećih ćevapa, 2 pomfrita, 4 lepinje",
+        "price": 55.0
+      },
+      {
+        "name": "Plata za 4 osobe 1450 gr",
+        "desc": "4 ploče ćevapa, 3 šiša, 2 ražnjići, pileći file, svinjski vrat, 10 Travničkih ćevapa, 2 pomfrita",
+        "price": 55.0
+      },
+      {
+        "name": "Plata za 3 osobe 1250 gr",
+        "desc": "3 kobasice, 3 ploče ćevapa, 3 šiša, veliki Leskovački uštipci, svinjski vrat, 10 Travničkih ćevapa, pomfrit",
+        "price": 44.0
+      },
+      {
+        "name": "Plata za 2 osobe 800 gr",
+        "desc": "2 kobasice, 2 ploče ćevapa, pileći file, 5 Travničkih ćevapa, 5 Leskovačkih ćevapa, pomfrit",
+        "price": 27.5
+      }
+    ],
+    "Posni program": [
+      {
+        "name": "Pastrmka s prilogom",
+        "desc": "Pastrmka 200 gr, 100 gr pomfrit",
+        "price": 9.5
+      },
+      {
+        "name": "Lignje sa prilogom",
+        "desc": "Lignje 200 gr, pomfrit 100 gr",
+        "price": 8.0
+      },
+      {
+        "name": "Girice sa prilogom",
+        "desc": "Girice 200 gr, 100 gr pomfrit",
+        "price": 6.5
+      }
+    ],
+    "Svinjetina": [
+      {
+        "name": "Svinjski ražnjići",
+        "desc": "200 gr mesa i 100 gr pomfrita",
+        "price": 8.9
+      },
+      {
+        "name": "Carsko meso",
+        "desc": "200 gr mesa i 100 gr pomfrita",
+        "price": 7.9
+      },
+      {
+        "name": "Svinjska kremenadla",
+        "desc": "200 gr mesa i 100 gr pomfrita",
+        "price": 7.9
+      }
+    ],
+    "Ćevapi": [
+      {
+        "name": "Punjeni ćevapi",
+        "desc": "2 kom 250 gr",
+        "price": 9.0
+      },
+      {
+        "name": "Teleći ćevapi",
+        "desc": "5 kom 100 gr, 10 kom 200 gr, 15 kom 300 gr, 20 kom 400 gr",
+        "price": 7.0
+      },
+      {
+        "name": "Banjalučki ćevapi",
+        "desc": "Mala porcija 100 gr, srednja porcija 150 gr, velika porcija 200 gr",
+        "price": 4.5
+      },
+      {
+        "name": "Leskovački ćevapi",
+        "desc": "5 kom 100 gr, 10 kom 200 gr, 15 kom 300 gr, 20 kom 400 gr",
+        "price": 4.5
+      },
+      {
+        "name": "Travnički ćevapi",
+        "desc": "5 kom 100 gr, 10 kom 200 gr, 15 kom 300 gr, 20 kom 400 gr",
+        "price": 4.5
+      }
+    ],
+    "Pljeskavice": [
+      {
+        "name": "Pljeskavica gurmanska 250 gr",
+        "desc": "250 gr",
+        "price": 8.9
+      },
+      {
+        "name": "Pljeskavica leskovačka",
+        "desc": "Mala porcija 100 gr, velika porcija 200 gr",
+        "price": 4.5
+      }
+    ],
+    "Piletina sa roštilja": [
+      {
+        "name": "Pileći dimljeni batak 200 gr",
+        "desc": "200 gr",
+        "price": 8.9
+      },
+      {
+        "name": "Pileće pohovano sa pomfritom",
+        "desc": "200 gr mesa i 150 gr pomfrita",
+        "price": 8.9
+      },
+      {
+        "name": "Pileći batak 200 gr",
+        "desc": "200 gr",
+        "price": 7.9
+      },
+      {
+        "name": "Pileće krpice 170 gr",
+        "desc": "170 gr",
+        "price": 6.5
+      },
+      {
+        "name": "Pileći file",
+        "desc": "Mala porcija 100 gr, velika porcija 200 gr",
+        "price": 4.5
+      }
+    ],
+    "Roštilj": [
+      {
+        "name": "Leskovački uštipci 250 gr",
+        "desc": "250 gr",
+        "price": 8.9
+      },
+      {
+        "name": "Kombinacija",
+        "desc": "Mala porcija 140 gr, srednja porcija 180 gr, velika porcija 270 gr",
+        "price": 5.5
+      },
+      {
+        "name": "Šiš",
+        "desc": "Mala porcija 90 gr, srednja porcija 170 gr, velika porcija 250 gr",
+        "price": 4.5
+      },
+      {
+        "name": "Roštiljska kobasica dimljena",
+        "desc": "Mala porcija 2 komada srednja porcija3 komada , velika porcija 4 komada",
+        "price": 4.5
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Gljive",
+        "desc": "Gljive",
+        "price": 5.0
+      },
+      {
+        "name": "Kajmak 50 gr",
+        "desc": "50 gr",
+        "price": 3.0
+      },
+      {
+        "name": "Pomfrit 200 gr",
+        "desc": "200 gr",
+        "price": 3.0
+      },
+      {
+        "name": "Sezonska salata",
+        "desc": "Sezonsko povrće",
+        "price": 3.0
+      },
+      {
+        "name": "Urnebes 80 gr",
+        "desc": "80 gr",
+        "price": 2.5
+      },
+      {
+        "name": "Lepinja 180 gr",
+        "desc": "180 gr",
+        "price": 1.0
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Palačinke sa Nutellom",
+        "desc": "2 palačinke sa Nutellom, mljevena Plazma keks i preliv od čokolade",
+        "price": 6.0
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Coca Cola",
+        "desc": "Coca Cola",
+        "price": 3.0
+      },
+      {
+        "name": "Fanta",
+        "desc": "Fanta",
+        "price": 3.0
+      },
+      {
+        "name": "Cockta",
+        "desc": "Cockta",
+        "price": 3.0
+      },
+      {
+        "name": "Schweppes tonic",
+        "desc": "Schweppes tonic",
+        "price": 3.0
+      },
+      {
+        "name": "Cedevita",
+        "desc": "Cedevita",
+        "price": 3.0
+      },
+      {
+        "name": "Ledeni čaj",
+        "desc": "Ledeni čaj",
+        "price": 3.0
+      },
+      {
+        "name": "Jogurt 0.2 l",
+        "desc": "0.2 l",
+        "price": 2.0
+      }
+    ],
+    "Prirodni sokovi": [
+      {
+        "name": "Narandža sok",
+        "desc": "Narandža",
+        "price": 3.0
+      },
+      {
+        "name": "Jabuka sok",
+        "desc": "Jabuka",
+        "price": 3.0
+      },
+      {
+        "name": "Višnja sok",
+        "desc": "Višnja",
+        "price": 3.0
+      },
+      {
+        "name": "Borovnica sok",
+        "desc": "Borovnica",
+        "price": 3.0
+      },
+      {
+        "name": "Breskva sok",
+        "desc": "Breskva",
+        "price": 3.0
+      }
+    ]
+  }
+}

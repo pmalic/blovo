@@ -1,0 +1,760 @@
+{
+  "name": "Dvorište: knedle - pizza - palačinke",
+  "rating": 0.86,
+  "count": 297,
+  "service_fee": 2.3,
+  "menu": {
+    "Ponuda dana": [
+      {
+        "name": "VINO TVRDOŠKI VRANAC,\"Bukefal\",0.75 l",
+        "promo": "-40%",
+        "desc": "Vino crno vranac,vrhunsko,Tvrdoški manastir",
+        "price": 27.5,
+        "promo_price": 16.5
+      },
+      {
+        "name": "Pizza 28 cm + piće",
+        "desc": "Pizza Capricciosa, Pizza Margherita, Pizza Dvorište. Piće: Coca-Cola ili sok jabuka",
+        "price": 16.5
+      },
+      {
+        "name": "KNNEDLA PEKMEZ ŠLJIVA SA MAKOM I VANILIJA PRELIVOM",
+        "desc": "pekmez šljiva,mak,vanilija",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA NUTELA PLAZMA",
+        "desc": "Nutela,plazma keks",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA KRANČI",
+        "desc": "čokolada,kinder,lješnjak,kikiriki",
+        "price": 3.8
+      }
+    ],
+    "Porodični meni": [
+      {
+        "name": "Porodični pizza obrok",
+        "desc": "2 velike pizze 33 cm + 2 srednje pizze 28 cm",
+        "price": 44.0
+      },
+      {
+        "name": "Porodični palačinka obrok",
+        "desc": "Zapečene palačinke 1 porcija, 6 pohovanih palačinki, pomfrit 600 gr, 2 porcije slatkih palačinki",
+        "price": 42.0
+      },
+      {
+        "name": "2 Baš velike pizze 42 cm + dvije slatke palačinke gratis!",
+        "desc": "2 Baš velike pizze 42 cm, Palačinka marelica i palačinka višnja gratis!",
+        "price": 39.0
+      },
+      {
+        "name": "2 pohovane palačinke +2 pomfrita + 2 slatke palačinke",
+        "desc": "2 pohovane palačinke, 2 pomfrita, 2 slatke palačinke",
+        "price": 19.5
+      }
+    ],
+    "Posebna ponuda": [
+      {
+        "name": "2x pizza po želji 33 cm i dva gazirana pića",
+        "desc": "2x pizza po želji 33 cm i dva gazirana pića",
+        "price": 33.0
+      },
+      {
+        "name": "2x pizza velika po želji + 2x gazirano piće konzerva",
+        "desc": "2x pizza velika 33 cm po želji + 2x gazirano piće konzerva",
+        "price": 33.0
+      },
+      {
+        "name": "Pizza Baš velika 42 cm + palačinka slatka gratis!",
+        "promo": "-40%",
+        "desc": "Odaberi pizzu u nastavku, palačinka slatka gratis!",
+        "price": 32.5,
+        "promo_price": 19.5
+      },
+      {
+        "name": "2 pizze velike 33 cm + 2 nutella slatke palačinke gratis!",
+        "desc": "2 velike pizze po izboru, Palačinka šumsko voće i palačinka Nutella Plazma gratis!",
+        "price": 32.0
+      },
+      {
+        "name": "Set 4 pohovane palačinke po izboru + 4 porcije pomfrita + tartar sos",
+        "desc": "Set 4 pohovane palačinke po izboru + 4 porcije pomfrita + tartar sos",
+        "price": 26.0
+      },
+      {
+        "name": "1 velika pizza 33 cm + 2 knedle",
+        "desc": "1 velika pizza i 2 knedle po izboru",
+        "price": 20.0
+      },
+      {
+        "name": "Set 6 slatkih palačinki po želji",
+        "desc": "Slatke palačinke po želji",
+        "price": 18.0
+      },
+      {
+        "name": "4x knedle po želji",
+        "desc": "Jaffa knedla, Posna šljiva knedla, Višnja knedla, Šumsko voće knedla, Nutella knedla",
+        "price": 14.5
+      },
+      {
+        "name": "2 pohovane palačinke po izboru",
+        "desc": "2 pohovane palačinke po izboru",
+        "price": 9.0
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Vrući uštipci. Slani tanjir",
+        "desc": "Kajmak, feta, pršut, šunka, kulen",
+        "price": 14.0
+      },
+      {
+        "name": "Dvorište doručak",
+        "desc": "Jaja, slanina, kobasica, ajvar, sir",
+        "price": 11.9
+      },
+      {
+        "name": "Vrući uštipci. Slatki tanjir",
+        "desc": "Po izboru marmelada ili Nutella",
+        "price": 8.0
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Pizza Pola-Pola baš velika (42 cm)..",
+        "promo": "-40%",
+        "desc": "Pizza Pola-Pola baš velika (42 cm)..",
+        "price": 32.5,
+        "promo_price": 19.5
+      },
+      {
+        "name": "Pizza Baš velika 42 cm + jedna slatka palačinka Nutella Plazma gratis!",
+        "promo": "-40%",
+        "desc": "Odaberi pizzu u nastavku, slatka palačinka Nutella Plazma",
+        "price": 32.5,
+        "promo_price": 19.5
+      },
+      {
+        "name": "Pizza 28 cm + piće",
+        "desc": "Pizza Capricciosa, Pizza Margherita, Pizza Dvorište. Piće: Coca-Cola ili sok ribizla Cappy",
+        "price": 16.5
+      },
+      {
+        "name": "Pizza Vegetriana (33 cm)",
+        "desc": "Pelat, biljni sir, šampinjoni, masline, paprika, paradajz, crvrni luk, rukola",
+        "price": 14.5
+      },
+      {
+        "name": "Pizza Margherita (33 cm)",
+        "desc": "Pelat, sir, parmezan, maslinovo ulje, bosiljak",
+        "price": 14.5
+      },
+      {
+        "name": "Pizza Capricciosa (33 cm)",
+        "desc": "Pelat, sir, svinjska šunka ili pileća šunka, paradajz, masline",
+        "price": 14.5
+      },
+      {
+        "name": "Pizza Vesuvio (33 cm)",
+        "desc": "Sir, šunka, masline",
+        "price": 14.5
+      },
+      {
+        "name": "Pizza Diavola (33 cm)",
+        "desc": "Pelat, pikant kobasica, masline",
+        "price": 14.5
+      },
+      {
+        "name": "Peperoni pizza - ljuta (33 cm)",
+        "desc": "Sir, kulen, feferoni, šampinjoni",
+        "price": 14.5
+      },
+      {
+        "name": "Pizza Serbiana (33 cm)",
+        "desc": "Pelat, sir, panceta, šampinjoni, pavlaka, kulen, ljuta paprika, ljuta kobasica",
+        "price": 14.5
+      },
+      {
+        "name": "Pizza Quattro formaggi (33 cm)",
+        "desc": "Pelat, mozzarella, gorgonzola, edamer, dimljeni sir, masline",
+        "price": 14.5
+      },
+      {
+        "name": "Quattro stagioni pizza (33 cm)",
+        "desc": "Pelat, sir, šunka,  parmezan, šampinjoni, paradajz, masline",
+        "price": 14.5
+      },
+      {
+        "name": "Pizza El Toro (33 cm)",
+        "desc": "Pelat, goveđi pršut, sir, šampinjoni, parmezan, crveni luk, masline",
+        "price": 14.5
+      },
+      {
+        "name": "Pizza Pršuto (33 cm)",
+        "desc": "Pršut, sir, masline",
+        "price": 14.5
+      },
+      {
+        "name": "Pizza NLO (33 cm)",
+        "desc": "Sir, suvi vrat, kobasica, dimljeni sir, šunka, masline, pršut",
+        "price": 14.5
+      },
+      {
+        "name": "Pizza Picante (33 cm)",
+        "desc": "Pelat, sir, dimljeni vrat, panceta, ljuti feferoni",
+        "price": 14.5
+      },
+      {
+        "name": "Pizza Roma (33 cm)",
+        "desc": "Sir, šunka, pečenica, šampinjoni",
+        "price": 14.5
+      },
+      {
+        "name": "Pizza Index (33 cm)",
+        "desc": "Šunka, sir, pečenica, slanina, feferone",
+        "price": 14.5
+      },
+      {
+        "name": "Pizza Mexico (33 cm)",
+        "desc": "Sir, sos bolognese, nacho-umak, taco-sos, kukuruz šećerac, feferone",
+        "price": 14.5
+      },
+      {
+        "name": "Pizza Dvorište (33 cm)",
+        "desc": "Pelat, sir, pršut, parmezan, masline, šampinjjoni, kulen, origano",
+        "price": 14.5
+      },
+      {
+        "name": "Pizza Toscana (33 cm)",
+        "desc": "Pelat, sir, dimljeni vrat, svinjska pečenica, šampinjoni",
+        "price": 14.5
+      }
+    ],
+    "Pohovane palačinke": [
+      {
+        "name": "Zapečene palačinke u rerni pršut - šunka",
+        "desc": "Pršut, šunka",
+        "price": 9.0
+      },
+      {
+        "name": "Zapečene palačinke u rerni sa pilećom šunkom",
+        "desc": "Pileća šunka",
+        "price": 9.0
+      },
+      {
+        "name": "Pohovana palačinka sa pršutom ili pilećom šunkom i pomfritom",
+        "desc": "1 komad. Pomfrit 230 gr",
+        "price": 8.0
+      },
+      {
+        "name": "Pohovana palačinka sa sirom",
+        "desc": "1 komad",
+        "price": 4.5
+      },
+      {
+        "name": "Meksička ljuta pohovana palačinka",
+        "desc": "Faširano meso, chilli, BBQ sos",
+        "price": 4.5
+      },
+      {
+        "name": "Pohovana palačinka sa pršutom i šunkom",
+        "desc": "1 komad. Pršut, šunka, gljive, salata zelena. Prilog tartar sos",
+        "price": 4.5
+      },
+      {
+        "name": "Pohovana palačinka sa pilećom šunkom",
+        "desc": "1 komad. Pileća šunka, sir, šampinjoni. Prilog tartar sos",
+        "price": 4.5
+      },
+      {
+        "name": "Pohovana palačinke sa pilećim fileom i sirom",
+        "desc": "Pileći file, sir",
+        "price": 4.5
+      }
+    ],
+    "SLATKE PALAČINKE ,2 KOM": [
+      {
+        "name": "PALAČINKE BAJADERA",
+        "desc": "2 kom",
+        "price": 11.5
+      },
+      {
+        "name": "Američke palačinke voćne",
+        "desc": "Američke palačinke voćne",
+        "price": 8.5
+      },
+      {
+        "name": "Američke palačinke 3 vrste čokolade",
+        "desc": "Američke palačinke 3 vrste čokolade",
+        "price": 8.5
+      },
+      {
+        "name": "Američke palačinke",
+        "desc": "Šumsko voće, čokolada, Nutella, Snickers",
+        "price": 8.5
+      },
+      {
+        "name": "PALAČINKE KINDER KRANČI",
+        "desc": "kinder bueno,kikiriki,čokolada",
+        "price": 6.9
+      },
+      {
+        "name": "PALAČINKE ŠUMSKA JAGODA &VANILIJA",
+        "desc": "2 kom",
+        "price": 6.9
+      },
+      {
+        "name": "PALAČINKE ŠUMSKO VOĆE&VANILIJA",
+        "desc": "2 komada",
+        "price": 6.9
+      },
+      {
+        "name": "PALAČINKE BADEM,VANILIJA,KOKOS",
+        "desc": "2 kom",
+        "price": 6.9
+      },
+      {
+        "name": "PALAČINKE SNJEŽNA KRALJICA",
+        "desc": ". bijela čokolada, šumsko voće",
+        "price": 6.9
+      },
+      {
+        "name": "PALAČINKE LIMUN & ČOKOLADA SA VANILIJOM",
+        "desc": "limun,čokolada ,vanilija",
+        "price": 6.9
+      },
+      {
+        "name": "PALAČINKE KINDER BUENO",
+        "desc": "2 komada",
+        "price": 6.9
+      },
+      {
+        "name": "PALAČINKE MARASKINO",
+        "desc": "višnja,bijela čokolada,liker višnja",
+        "price": 6.9
+      },
+      {
+        "name": "PALAČINKE PISTACIJA&VANILIJA",
+        "desc": "2 komada",
+        "price": 6.9
+      },
+      {
+        "name": "PALAČINKE KRALJICA ČOKOLADE",
+        "desc": "Crna čokolada,bijela čokolada,kinder čokolada,amareto keks",
+        "price": 6.9
+      },
+      {
+        "name": "PALAČINKE KAFA&ČOKOLADA&CIMET",
+        "desc": "2 komada",
+        "price": 6.9
+      },
+      {
+        "name": "NUTELA& PLAZMA",
+        "desc": "2 komada",
+        "price": 6.9
+      },
+      {
+        "name": "PALAČINKE PEKMEZ ŠLJIVA&VANILIJA&ORASI",
+        "desc": "2 komada",
+        "price": 6.9
+      },
+      {
+        "name": "PALAČINKE MARELICA&BIJELA ČOKOLADA",
+        "desc": "2 komada",
+        "price": 6.9
+      },
+      {
+        "name": "KAPRI PALAČINKE",
+        "desc": "višnja,čokolada",
+        "price": 6.9
+      },
+      {
+        "name": "PALAČINKE BADEM &VANILIJA&ČOKOLADA",
+        "desc": "2 kom",
+        "price": 6.9
+      },
+      {
+        "name": "RED VELVET PALAČINKE",
+        "desc": "Crna čokolada, bijela čokolada, šumska jagoda",
+        "price": 6.9
+      },
+      {
+        "name": "FERERO ROŠER PALAČINKE",
+        "desc": "2kom",
+        "price": 6.9
+      },
+      {
+        "name": "DVORIŠTE PALAČINKE",
+        "desc": "karamel,čokolada,badem,kikiriki",
+        "price": 6.9
+      }
+    ],
+    "KNEDLE SLATKE \"RAZLIKA POSTOJI\"": [
+      {
+        "name": "KNEDLA KAPRI(jagoda šumska i čokolada)",
+        "desc": "jagoda šumska i čokolada",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA ŠLJIVA- posno",
+        "desc": "Posno. 1 knedla,  od domaćeg krompira, vrijeme pripreme cca 25 minuta.",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA ŠUMSKO VOĆE",
+        "desc": "1 knedla,  od domaćeg krompira, vrijeme pripreme cca 25 minuta.",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA LIMUN ČOKOLADA(limun krema,keks amareto sa bademima,čokokada)",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA NUTELA PLAZMA",
+        "desc": "1 knedla,  od domaćeg krompira, vrijeme pripreme cca 25 minuta.",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA MARELICA",
+        "desc": "1 knedla,  od domaćeg krompira, vrijeme pripreme cca 25 minuta.",
+        "price": 3.8
+      },
+      {
+        "name": "DVORIŠTE KNEDLA(karamel,badem ,kikiriki,čokolada)",
+        "desc": "1 knedla,  od domaćeg krompira, vrijeme pripreme cca 25 minuta.",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA BADEM I KOKOS(badem krema,kokos)",
+        "desc": "Od domaćeg krompira, vrijeme pripreme cca 25 minuta.",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA FERERO",
+        "desc": "Od domaćeg krompira, vrijeme pripreme cca 25 minuta.",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA KINDER KRANČI",
+        "desc": "Kinder čokolada, snickers lješnjak prženi,  od domaćeg krompira, vrijeme pripreme cca 25 minuta.",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA PREMIUM SA PISTACIJAMA I PRELIVOM OD VANILIJE",
+        "desc": "Pistacija krema,vanilija preliv",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA PREMIUM SA PEKMEZOM OD ŠLJIVE,MAKOM I VANILIJA PRELIVOM",
+        "desc": "pekmez šliva,mak,vanilija preliv",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA MEDENA(marelica ,med,orasi)",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA KRALJICA ČOKOLADE(tri vrste čokolade,amareto keks)",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA BAJADERA (bajadera,lješnjak)",
+        "desc": "Bajadera knedla",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA ŠUMSKA JAGODA",
+        "desc": "Šumska jagoda",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA PREMIUM BADEM SA PRELIVOM OD VANILIJE(badem krema,vanilija preliv)",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA ČOKO BUENO",
+        "price": 3.8
+      },
+      {
+        "name": "MARASKINO KNEDLA(višnja ,bijela čokolada,liker višnja)",
+        "desc": "višnja,,bijela čokolada,liker višnja",
+        "price": 3.8
+      },
+      {
+        "name": "Zimska čarolija knedla",
+        "desc": "Kandirana višnja, bijela čokolada",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA NUGAT",
+        "desc": "Nougat knedle",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA SNJEŽNA KRALJICA(bijela čokolada,voćni preliv)",
+        "price": 3.8
+      },
+      {
+        "name": "KNEDLA KAFA,ČOKOLADA,CIMET",
+        "price": 3.8
+      }
+    ],
+    "Burgeri": [
+      {
+        "name": "Cheeseburger sa pomfritom + slatka palačinka Nutella Plazma gratis!",
+        "desc": "Juneći burger, Cheddar sir, zelena salata, paradajz, kiseli krastavci, crveni luk, pomfrit, slatka palačinka Nutella Plazma gratis!",
+        "price": 14.9
+      },
+      {
+        "name": "Farmer burger sa pomfritom + slatka palačinka Nutella Plazma gratis!",
+        "desc": "Juneći burger, gril slanina, zelena salata, paradajz, gljive, pomfrit, slatka palačinka Nutella Plazma gratis!",
+        "price": 14.9
+      },
+      {
+        "name": "Fullhouse burger + slatka palačinka Nutella Plazma gratis!",
+        "desc": "Juneći burger, gril slanina, kiseli krastavac, zelena salata, dimljeni sir, crveni luk, pomfrit, slatka palačinka Nutella Plazma gratis!",
+        "price": 14.9
+      }
+    ],
+    "Jela od piletine i ribe": [
+      {
+        "name": "Piletina sa žara sa krompirom + jedna slatka palačinka gratis!",
+        "desc": "Pileći file 220 gr, krompir, slatka palačinka",
+        "price": 16.0
+      },
+      {
+        "name": "Chicken nuggets + jedna slatka palačinka gratis!",
+        "desc": "Chicken nuggets 240 gr, pomfrit, slatka palačinka",
+        "price": 16.0
+      },
+      {
+        "name": "Galski uštipci + pomfrit + jedna slatka palačinka gratis!",
+        "desc": "Rolovana piletina u hrskavoj slanini 240 gr, pomfrit, tartar sos, slatka palačinka",
+        "price": 16.0
+      },
+      {
+        "name": "Pohovani pileći file  + jedna slatka palačinka gratis!",
+        "desc": "Pohovana piletina 200 gr, pomfrit, tartar sos, slatka palačinka",
+        "price": 16.0
+      },
+      {
+        "name": "Piletina u šampinjon sosu + pomfrit + jedna slatka palačinka gratis!",
+        "desc": "Piletina 200 gr, pomfrit, sos, slatka palačinka",
+        "price": 16.0
+      },
+      {
+        "name": "Piletina u curry + jedna slatka palačinka gratis!",
+        "desc": "Pileći file 200 gr, prilog riža ili pekarski krompir, slatka palačinka",
+        "price": 16.0
+      },
+      {
+        "name": "Pileći batak otkošteni + pomfrit + tartar sos",
+        "desc": "400 gr pilećeg mesa, porija pomfrita, tartar sos, pecivo",
+        "price": 16.0
+      },
+      {
+        "name": "Pileći file sa žara + njoke u prezlama",
+        "desc": "Pileći file sa žara, njoke u prezlama",
+        "price": 16.0
+      },
+      {
+        "name": "Pileća krilca u BBQ sosu s pomfritom + jedna slatka palačinka gratis!",
+        "desc": "Piletina, BBQ sos, pomfrit, slatka palačinka",
+        "price": 12.5
+      },
+      {
+        "name": "Fish & Chips",
+        "desc": "Panirani riblji fileti, pomfrit, tartar sos",
+        "price": 9.5
+      }
+    ],
+    "Tjestenine": [
+      {
+        "name": "Lasagne + slatka palačinka Nutella Plazma gratis!",
+        "desc": "Lasagne, slatka palačinka Nutella Plazma gratis!",
+        "price": 15.5
+      },
+      {
+        "name": "Tjestenina sa piletinom u bechamelu + slatka palačinka gratis!",
+        "desc": "Piletina, bechamel, slatka palačinka Nutella Plazma gratis!",
+        "price": 14.0
+      }
+    ],
+    "Sendviči": [
+      {
+        "name": "Index sendvič",
+        "desc": "Pečena šunka, topljeni sir,  šampinjoni, lepinja",
+        "price": 7.9
+      },
+      {
+        "name": "Sendvič sa šunkom",
+        "desc": "Pecivo, šunka, sir",
+        "price": 7.9
+      },
+      {
+        "name": "Sendvič sa kulenom",
+        "desc": "Pecivo, kulen, sir",
+        "price": 7.9
+      },
+      {
+        "name": "Sendvič sa pilećom šunkom",
+        "desc": "Pecivo, pileća šunka, sir",
+        "price": 7.9
+      }
+    ],
+    "Tortilje": [
+      {
+        "name": "Tortilja sa piletinom klasi + slatka palačinka Nutella Plazma gratis!",
+        "desc": "Pileći pohovani fingersi 160 gr, zelena salata, grilovano povrće, kukuruz šećerac, šampinjoni, tortilja sos, palačinka Nutella Plazma",
+        "price": 14.9
+      },
+      {
+        "name": "Tortilja diavolo ljuta + slatka palačinka Nutella Plazma gratis!",
+        "desc": "Ljuti pohovani pileći fingersi 160 gr, svježa ljuta paprika, BBQ sos, palačinka Nutella Plazma",
+        "price": 14.9
+      },
+      {
+        "name": "Tortilja desperados + slatka palačinka Nutella Plazma gratis!",
+        "desc": "Pohovani pileći fingersi, zelena salata, cheddar sir, kiseli krastavci, burger sos, palačinka Nutella Plazma",
+        "price": 14.9
+      }
+    ],
+    "Tost club sendviči": [
+      {
+        "name": "Tost club sendvič šunka i pomfrit",
+        "desc": "Tost, šunka, sir, zelena salata",
+        "price": 8.5
+      },
+      {
+        "name": "Tost sendvič sa pilećom šunkom i pomfrit",
+        "desc": "Tost, pileća šunka, sir, zelena salata",
+        "price": 8.5
+      }
+    ],
+    "Salata kao glavno jelo": [
+      {
+        "name": "Gigina obrok salata",
+        "desc": "Piletina, povrće, sir, zelena salata, tortilja",
+        "price": 16.0
+      }
+    ],
+    "Slana posna jela": [
+      {
+        "name": "Posna pizza Vegeteriana 33 cm",
+        "desc": "Pelat, biljni sir, šampinjoni, masline, paprika, paradajz, crveni luk, rukola",
+        "price": 14.5
+      },
+      {
+        "name": "Pizza posna tunjevina",
+        "desc": "Pelat, tunjevina, šampinjoni, masline",
+        "price": 14.5
+      }
+    ],
+    "Slatka posna jela": [
+      {
+        "name": "Baklava",
+        "price": 6.0
+      },
+      {
+        "name": "Kraljica čokolade knedla - posno",
+        "desc": "3 vrste čokolade,  od domaćeg krompira, vrijeme pripreme cca 25 minuta.",
+        "price": 3.7
+      },
+      {
+        "name": "Knedle šljiva",
+        "price": 3.7
+      },
+      {
+        "name": "Višnja knedla - posno",
+        "desc": "1 knedla,  od domaćeg krompira, vrijeme pripreme cca 25 minuta.",
+        "price": 3.7
+      },
+      {
+        "name": "Knedla marelica",
+        "desc": "1 knedla,  od domaćeg krompira, vrijeme pripreme cca 25 minuta.",
+        "price": 3.7
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Šopska salata",
+        "desc": "Povrće, sir",
+        "price": 5.0
+      },
+      {
+        "name": "Svježa mješana",
+        "desc": "Povrće",
+        "price": 4.0
+      },
+      {
+        "name": "Kupus salata",
+        "desc": "Kupus",
+        "price": 3.5
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Uštipci",
+        "desc": "7 kom",
+        "price": 5.5
+      },
+      {
+        "name": "Pekarski krompir 200gr",
+        "desc": "200gr",
+        "price": 3.5
+      },
+      {
+        "name": "Šampinjoni sa grila",
+        "desc": "Šampinjoni",
+        "price": 3.5
+      },
+      {
+        "name": "Pomfrit 200gr",
+        "desc": "200gr",
+        "price": 3.5
+      },
+      {
+        "name": "Masline",
+        "desc": "Masline",
+        "price": 2.5
+      },
+      {
+        "name": "Kajmak kugla",
+        "desc": "Kugla",
+        "price": 2.5
+      },
+      {
+        "name": "Tartar sos",
+        "desc": "Tartar sos",
+        "price": 2.0
+      },
+      {
+        "name": "Aajvar kugla",
+        "desc": "Kugla",
+        "price": 1.5
+      },
+      {
+        "name": "Pecivo",
+        "desc": "Pecivo",
+        "price": 1.5
+      }
+    ],
+    "Desert": [
+      {
+        "name": "Baklava",
+        "price": 6.0
+      },
+      {
+        "name": "Hurmašice",
+        "price": 5.0
+      },
+      {
+        "name": "Tufahije",
+        "desc": "1 komad",
+        "price": 5.0
+      }
+    ]
+  }
+}

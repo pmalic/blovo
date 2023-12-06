@@ -1,0 +1,258 @@
+{
+  "name": "Dolce Vita",
+  "rating": 0.62,
+  "count": 10,
+  "service_fee": 1.9,
+  "menu": {
+    "Promocije": [
+      {
+        "name": "Nocciola",
+        "promo": "-10%",
+        "desc": "Kakao kora, mus od prženog lješnjaka, glazura od čokolade sa komadićima lješnjaka",
+        "price": 8.0,
+        "promo_price": 7.2
+      },
+      {
+        "name": "Coco Lemone",
+        "promo": "-10%",
+        "desc": "Mus od kokosa, biskvit kora, komadići čokolade, glazura od limuna, kokos listići",
+        "price": 7.5,
+        "promo_price": 6.75
+      },
+      {
+        "name": "Blueberry",
+        "promo": "-10%",
+        "desc": "Mus od borovnice i bijele čokolade, punjenje džem od borovnice, kora od kokosa",
+        "price": 7.5,
+        "promo_price": 6.75
+      }
+    ],
+    "Najprodavanije": [
+      {
+        "name": "Fragolini",
+        "desc": "Mus od bijele čokolade i šumske jagode, punjenje od šumske jagode, red velvet kora, glazura bijela čokolada",
+        "price": 8.9
+      },
+      {
+        "name": "Cherry Ruben",
+        "desc": "Mus od višnje, mus od crne čokolade, kakao kora sa čipsom od čokolade, glazura od višnje",
+        "price": 8.5
+      },
+      {
+        "name": "Pistachio",
+        "desc": "Mus pistacija i bijela čokolada, džem od maline, glazura pistacija, prhko tijesto od bademovog brašna",
+        "price": 8.5
+      }
+    ],
+    "Kolači": [
+      {
+        "name": "Fragolini",
+        "desc": "Mus od bijele čokolade i šumske jagode, punjenje od šumske jagode, red velvet kora, glazura bijela čokolada",
+        "price": 8.9
+      },
+      {
+        "name": "Cherry Ruben",
+        "desc": "Mus od višnje, mus od crne čokolade, kakao kora sa čipsom od čokolade, glazura od višnje",
+        "price": 8.5
+      },
+      {
+        "name": "Pistachio",
+        "desc": "Mus pistacija i bijela čokolada, džem od maline, glazura pistacija, prhko tijesto od bademovog brašna",
+        "price": 8.5
+      },
+      {
+        "name": "Nocciola",
+        "promo": "-10%",
+        "desc": "Kakao kora, mus od prženog lješnjaka, glazura od čokolade sa komadićima lješnjaka",
+        "price": 8.0,
+        "promo_price": 7.2
+      },
+      {
+        "name": "Lampone",
+        "desc": "Mus od maline i bijele čokolade, punjenje vanilija, glazura malina, biskvit",
+        "price": 7.6
+      },
+      {
+        "name": "Coco Lemone",
+        "promo": "-10%",
+        "desc": "Mus od kokosa, biskvit kora, komadići čokolade, glazura od limuna, kokos listići",
+        "price": 7.5,
+        "promo_price": 6.75
+      },
+      {
+        "name": "Toffee",
+        "desc": "Mus od karamele, mus od čokolade, punjenje od karamele i sjeckanog kikirikija, glazura od mliječne čokolade, preliv od karamele, kikiriki",
+        "price": 7.5
+      },
+      {
+        "name": "Blueberry",
+        "promo": "-10%",
+        "desc": "Mus od borovnice i bijele čokolade, punjenje džem od borovnice, kora od kokosa",
+        "price": 7.5,
+        "promo_price": 6.75
+      },
+      {
+        "name": "Panda",
+        "promo": "-10%",
+        "desc": "Mus od granlatte kreme i mliječne čokolade, punjenje kinder krem vanilija čokolada, čoko biskvit, mliječna glazura ( ili rozi mirror )",
+        "price": 7.5,
+        "promo_price": 6.75
+      },
+      {
+        "name": "Granlatte",
+        "desc": "Granlatte mus, biskvit kora sa komadićima crne čokolade, punjenje bijela čokolada sa komadićima keksa, glazura od granlatte kreme",
+        "price": 7.2
+      },
+      {
+        "name": "Leone",
+        "desc": "Mus od čokolade, punjenje džem od narandže, čoko biskvit, glazura čoko-narandža",
+        "price": 7.0
+      },
+      {
+        "name": "Arancia",
+        "desc": "Mus od crne čokolade, punjenje domaći džem od narandže, kakao kora, komadići čokolade, glazura od bijele čokolade",
+        "price": 6.6
+      },
+      {
+        "name": "Nocce di cocco",
+        "desc": "Mus od kokosa, punjenje od mliječne čokolade, glazura od mliječne čokolade, listići suhog kokosa",
+        "price": 6.5
+      },
+      {
+        "name": "Profiterole",
+        "desc": "Biskvit, krema od vanilije, bijela čokolada, crna čokolada, lješnjak",
+        "price": 6.4
+      },
+      {
+        "name": "Cookies white",
+        "desc": "Cookies white",
+        "price": 3.5
+      },
+      {
+        "name": "Cookies brown",
+        "desc": "Cookies brown",
+        "price": 3.5
+      }
+    ],
+    "Posni meni": [
+      {
+        "name": "Voćni tart",
+        "desc": "Voćni tart- POSNO\nPrhko tijesto, krema od vanilije, sezonsko voće",
+        "price": 6.4
+      }
+    ],
+    "Kafe topli napici": [
+      {
+        "name": "Coffee Dolce Vita",
+        "desc": "Espresso, vanilija, mlijeko",
+        "price": 6.0
+      },
+      {
+        "name": "Topla čokolada",
+        "price": 4.0
+      },
+      {
+        "name": "Nes soya",
+        "price": 3.5
+      },
+      {
+        "name": "Ice coffee",
+        "price": 3.5
+      },
+      {
+        "name": "Nes vanilija",
+        "price": 3.5
+      },
+      {
+        "name": "Latte",
+        "price": 3.5
+      },
+      {
+        "name": "Nes irish",
+        "price": 3.5
+      },
+      {
+        "name": "Nes čokolada",
+        "price": 3.5
+      },
+      {
+        "name": "Nescafe",
+        "price": 3.0
+      },
+      {
+        "name": "Cappuccino",
+        "price": 3.0
+      },
+      {
+        "name": "Espresso Soya",
+        "price": 3.0
+      },
+      {
+        "name": "Espresso Julis Poesia",
+        "price": 2.5
+      }
+    ],
+    "Prirodni sokovi": [
+      {
+        "name": "Energy mix",
+        "desc": "Limun, narandža, grejpfrut, jabuka",
+        "price": 8.9
+      },
+      {
+        "name": "Source of vitamins Mix 6",
+        "desc": "Mrkva, đumbir, jabuka, limun, narandža",
+        "price": 8.9
+      },
+      {
+        "name": "Mix 1",
+        "desc": "Kruška, narandža, grejpfrut",
+        "price": 7.6
+      },
+      {
+        "name": "Mix 2",
+        "desc": "Jabuka, narandža, grejpfrut",
+        "price": 7.6
+      },
+      {
+        "name": "Mix 3",
+        "desc": "Jabuka, kruška, grejpfrut",
+        "price": 7.6
+      },
+      {
+        "name": "Mix 4",
+        "desc": "Limun, narandža, grejpfrut",
+        "price": 7.6
+      },
+      {
+        "name": "Mix 5",
+        "desc": "Limun, narandža, kruška",
+        "price": 7.6
+      },
+      {
+        "name": "Grejpfrut",
+        "desc": "*Slika je simbolična",
+        "price": 6.3
+      },
+      {
+        "name": "Narandža",
+        "desc": "*Slika je simbolična",
+        "price": 6.3
+      },
+      {
+        "name": "Kruška",
+        "desc": "*Slika je simbolična",
+        "price": 6.3
+      },
+      {
+        "name": "Jabuka",
+        "desc": "*Slika je simbolična",
+        "price": 5.7
+      },
+      {
+        "name": "Limunada",
+        "desc": "*Slika je simbolična",
+        "price": 5.0
+      }
+    ]
+  }
+}

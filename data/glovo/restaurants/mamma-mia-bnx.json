@@ -1,0 +1,346 @@
+{
+  "name": "Mamma mia",
+  "rating": 0.98,
+  "count": 214,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Pileća Bečka šnicla",
+        "desc": "Pileća šnicla od 250g filea, prilog pomfrit ili rižoto, tartar sos i pecivo",
+        "price": 7.5
+      },
+      {
+        "name": "Mamma mia special",
+        "desc": "Pomfrit 200 gr, chicken nuggets 200 gr, prilog, pecivo",
+        "price": 8.0
+      },
+      {
+        "name": "Polo Quattro",
+        "desc": "Pileći file sa roštilja, pasta, umak od četiri vrste sira, pecivo",
+        "price": 9.0
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Jaja i kobaja",
+        "desc": "3 jaja na oko, kranjska kobasica, senf, kupus, pecivo",
+        "price": 7.0
+      },
+      {
+        "name": "Tortilja omlet",
+        "desc": "Omlet od 2 jaja u tortilji sa dimljenim vratom, gljivama i sirom, prilog zelena salata i pavlak",
+        "price": 7.0
+      },
+      {
+        "name": "Omlet - Smućkaj sam",
+        "desc": "3 jaja, povrće, šunka, sir, pecivo, jedan prilog",
+        "price": 6.0
+      },
+      {
+        "name": "Omlet slanina",
+        "desc": "3 jaja, slanina, Feta sir, pecivo\nSlika je simbolična*",
+        "price": 6.0
+      },
+      {
+        "name": "Omlet quattro",
+        "desc": "Omlet od 3 jaja i 3 vrste sira, prilog pavlaka i pecivo",
+        "price": 6.0
+      },
+      {
+        "name": "Mamin doručak",
+        "desc": "3 jaja na oko, integralni tost, jedan prilog",
+        "price": 5.0
+      },
+      {
+        "name": "Omlet Classic",
+        "desc": "3 jaja, pecivo, jedan prilog\nSlika je simbolična*",
+        "price": 5.0
+      }
+    ],
+    "Sendviči": [
+      {
+        "name": "Pileći grill",
+        "desc": "Pileći sendvič, dodatak gljive ili kikiriki, salata",
+        "price": 6.0
+      },
+      {
+        "name": "Gurmanski sendvič",
+        "desc": "Feta sir, pavlaka, 2 pečena jajeta, suvi svinjski vrat, zelena salata",
+        "price": 6.0
+      },
+      {
+        "name": "Magy tuna",
+        "desc": "Tunjevina, zelena salata, kukuruz",
+        "price": 5.0
+      }
+    ],
+    "Palačinke": [
+      {
+        "name": "Pohovani palačinci šunka i sir",
+        "desc": "2 pohovana palačinka sa šunkom i sirom",
+        "price": 5.0
+      },
+      {
+        "name": "Palačinak dimljeni vrat i sir",
+        "desc": "Palačinak dimljeni vrat i sir",
+        "price": 3.0
+      },
+      {
+        "name": "Slatki palačinak ekstra",
+        "desc": "1 komad, Nutella i čokoladica po izboru",
+        "price": 3.0
+      },
+      {
+        "name": "Slatki palačinci",
+        "desc": "1 komad",
+        "price": 1.5
+      }
+    ],
+    "Pasta": [
+      {
+        "name": "Pasta Genovese",
+        "desc": "400 gr, penne sa pestom i piletonom\nSlika je simbolična*",
+        "price": 7.0
+      },
+      {
+        "name": "Pasta Verde",
+        "desc": "400 gr, gljive, piletina, sir i susam",
+        "price": 7.0
+      },
+      {
+        "name": "Pasta Bolognese",
+        "desc": "400 gr, špagete sa faširanim mesom i slaninom u paradaiz sosu sa parmezanom\nSlika je simbolična*",
+        "price": 7.0
+      },
+      {
+        "name": "Pasta Carbonara",
+        "desc": "350 gr, penne sa slaninom, sirom i parmezanom",
+        "price": 6.0
+      },
+      {
+        "name": "Pasta Funghi",
+        "desc": "350 gr, penne sa sirom i gljivama",
+        "price": 6.0
+      },
+      {
+        "name": "Pasta Formaggi",
+        "desc": "350 gr, pasta, Edamer, Gauda, Parmezan i Mozzarella\nSlika je simbolična*",
+        "price": 6.0
+      },
+      {
+        "name": "Pasta Arabijata",
+        "desc": "350 gr, pasta u pikantnom paradajz sosu",
+        "price": 6.0
+      }
+    ],
+    "Rižoto": [
+      {
+        "name": "Rižoto sa piletinom, gljivama i Parmezanom",
+        "desc": "400 gr",
+        "price": 6.5
+      },
+      {
+        "name": "Rižoto sa tikvicama i piletinom",
+        "desc": "400 gr",
+        "price": 6.5
+      },
+      {
+        "name": "Rižoto sa piletinom u curry sosu",
+        "desc": "400 gr",
+        "price": 6.0
+      },
+      {
+        "name": "Rižoto sa grilovanim povrćem",
+        "desc": "400 gr",
+        "price": 5.0
+      }
+    ],
+    "Piletina": [
+      {
+        "name": "Fitnes mix 2",
+        "desc": "Grilovana piletina, 2 jaja na oko i rižoto",
+        "price": 10.0
+      },
+      {
+        "name": "Mediterano",
+        "desc": "Pileći file sa roštilja, svježe grilovano povrće u ljutom sosu, pecivo",
+        "price": 9.0
+      },
+      {
+        "name": "Pollo rustico",
+        "desc": "Pileće bijelo sa roštilja, bechamel, Parmezan, pomfrit, pecivo",
+        "price": 9.0
+      },
+      {
+        "name": "Polo Quattro",
+        "desc": "Pileći file sa roštilja, pasta, umak od četiri vrste sira, pecivo",
+        "price": 9.0
+      },
+      {
+        "name": "Pileći batak",
+        "desc": "Otkoštani pileći batak sa roštilja, prilog pomfrit, riža ili grilovano povrće, tartar sos i pecivo",
+        "price": 9.0
+      },
+      {
+        "name": "Mamma mia special",
+        "desc": "Pomfrit 200 gr, chicken nuggets 200 gr, prilog, pecivo",
+        "price": 8.0
+      },
+      {
+        "name": "Mamma mia pikant",
+        "desc": "200 gr nuggets-a, pasta arabiata, jedan prilog, pecivo",
+        "price": 8.0
+      },
+      {
+        "name": "Piletina i rižoto",
+        "desc": "Pileći file sa roštilja, rižoto sa povrćem, pecivo",
+        "price": 8.0
+      },
+      {
+        "name": "Combo",
+        "desc": "Pileća bečka šnicla 120g, 80g rižota, 100g pomfrita, tartar sos i pecivo",
+        "price": 8.0
+      },
+      {
+        "name": "Pileća Bečka šnicla",
+        "desc": "Pileća šnicla od 250g filea, prilog pomfrit ili rižoto, tartar sos i pecivo",
+        "price": 7.5
+      },
+      {
+        "name": "Chicken nuggets alla mamma",
+        "desc": "200 gr pohovanog pilećeg filea, prilog, pecivo",
+        "price": 5.5
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Pizza Di Mamma",
+        "desc": "Paradajz sos, šunka, sir, kulen, dimljeni svinjski vrat, kukuruz, gljive, masline, jaje",
+        "price": 7.0
+      },
+      {
+        "name": "Pizza Di Papa",
+        "desc": "Ljuto. Paradajz sos, šunka, sir, quta paprika, jaje",
+        "price": 7.0
+      },
+      {
+        "name": "Pizza Tony peperoni",
+        "desc": "Paradaiz sos, kobasice i mozzarela",
+        "price": 7.0
+      },
+      {
+        "name": "Pizza Di Lana",
+        "desc": "Pesto, mozzarela",
+        "price": 7.0
+      },
+      {
+        "name": "Pizza Mamma mia",
+        "desc": "Paradajz sos, šunka, sir, gljive, masline, slanina, luk",
+        "price": 6.5
+      },
+      {
+        "name": "Pizza Bianca",
+        "desc": "Pavlaka, sir, dimljeni svinjski vrat, jaje\nSlika je simbolična*",
+        "price": 6.5
+      },
+      {
+        "name": "Pizza Quattro Formaggio",
+        "desc": "Edamer, Gauda, Parmezan, Mozzarella\nSlika je simbolična*",
+        "price": 6.5
+      },
+      {
+        "name": "Pizza Al Tonno",
+        "desc": "31 cm, paradajz sos, biljni sir, paprika, kukuruz, tuna\nSlika je simbolična*",
+        "price": 6.5
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Paradajz sos, šunka, sir, masline, gljive",
+        "price": 5.0
+      },
+      {
+        "name": "Pizza Margherita",
+        "desc": "Paradajz sos, sir, masline\nSlika je simbolična*",
+        "price": 5.0
+      },
+      {
+        "name": "Pizza Funghi",
+        "desc": "Paradajz sos, sir, gljive\nSlika je simbolična*",
+        "price": 5.0
+      },
+      {
+        "name": "Pizza Vegetariana",
+        "desc": "Paradajz sos, biljni sir, povrće, bosiljak",
+        "price": 5.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Rižoto sa povrćem",
+        "desc": "250 gr\nSlika je simbolična*",
+        "price": 4.0
+      },
+      {
+        "name": "Grilovano povrće",
+        "desc": "250 gr",
+        "price": 4.0
+      },
+      {
+        "name": "Pomfrit",
+        "desc": "200 gr",
+        "price": 2.5
+      },
+      {
+        "name": "Tartar sos",
+        "desc": "Tartar sos",
+        "price": 1.0
+      },
+      {
+        "name": "Pavlaka",
+        "desc": "Pavlaka",
+        "price": 1.0
+      },
+      {
+        "name": "Chilli umak",
+        "desc": "Chilly umak",
+        "price": 1.0
+      },
+      {
+        "name": "Ketchup blagi",
+        "desc": "Ketchup blagi",
+        "price": 1.0
+      },
+      {
+        "name": "Ketchup ljuti",
+        "desc": "Ketchup ljuti",
+        "price": 1.0
+      },
+      {
+        "name": "Senf",
+        "desc": "Senf",
+        "price": 1.0
+      },
+      {
+        "name": "Curry sos",
+        "desc": "Curry sos",
+        "price": 1.0
+      },
+      {
+        "name": "Parmezan",
+        "desc": "Parmezan\nSlika je simbolična*",
+        "price": 1.0
+      },
+      {
+        "name": "Masline",
+        "desc": "Masline\nSlika je simbolična*",
+        "price": 1.0
+      },
+      {
+        "name": "Pecivo",
+        "desc": "1 komad\nSlika je simbolična*",
+        "price": 0.5
+      }
+    ]
+  }
+}

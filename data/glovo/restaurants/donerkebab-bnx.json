@@ -1,0 +1,114 @@
+{
+  "name": "German DonerKebab",
+  "rating": 0.91,
+  "count": 500,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Pileći kebab 130g",
+        "desc": "Pecivo, pileće meso, prilozi po želji",
+        "price": 7.0
+      },
+      {
+        "name": "Pileći durum 130g",
+        "desc": "Tortilja, pileće meso, prilozi po želji",
+        "price": 7.0
+      },
+      {
+        "name": "Iskender kebab",
+        "desc": "Pecivo, pileće meso, specijalni sos i jogurt sos",
+        "price": 10.0
+      }
+    ],
+    "Hrana": [
+      {
+        "name": "Maxi teleći kebab",
+        "desc": "Maxi teleći kebab",
+        "price": 10.5
+      },
+      {
+        "name": "Kebab tanjir",
+        "desc": "Pileće meso, po izboru pecivo ili pomfrit i salata po izboru, sosevi",
+        "price": 10.0
+      },
+      {
+        "name": "Iskender kebab",
+        "desc": "Pecivo, pileće meso, specijalni sos i jogurt sos",
+        "price": 10.0
+      },
+      {
+        "name": "Maxi kebab special 180g",
+        "desc": "Pecivo, pileće meso, prilozi po želji i feta / pepperoni",
+        "price": 9.5
+      },
+      {
+        "name": "Maxi pileći kebab 180g",
+        "desc": "Pecivo, pileće meso, prilozi po želji",
+        "price": 8.5
+      },
+      {
+        "name": "Maxi pileći durum 180g",
+        "desc": "Tortilja, pileće meso, prilozi po želji",
+        "price": 8.5
+      },
+      {
+        "name": "Kebab Box",
+        "desc": "Pileće meso, pomfrit, salata, sosevi",
+        "price": 8.5
+      },
+      {
+        "name": "Teleći kebab",
+        "desc": "Teleći kebab",
+        "price": 8.5
+      },
+      {
+        "name": "Pileći kebab special 130g",
+        "desc": "Pecivo, pileće meso, prilozi po želji i feta / pepperoni",
+        "price": 8.0
+      },
+      {
+        "name": "Kebab salata",
+        "desc": "Pileće meso, salata, sosevi i feta / pepperoni",
+        "price": 7.5
+      },
+      {
+        "name": "Pileći kebab 130g",
+        "desc": "Pecivo, pileće meso, prilozi po želji",
+        "price": 7.0
+      },
+      {
+        "name": "Pileći durum 130g",
+        "desc": "Tortilja, pileće meso, prilozi po želji",
+        "price": 7.0
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Coca-Cola",
+        "desc": "Coca-Cola",
+        "price": 2.5
+      },
+      {
+        "name": "Coca Cola light",
+        "desc": "Coca Cola light",
+        "price": 2.5
+      },
+      {
+        "name": "Fanta",
+        "desc": "Fanta",
+        "price": 2.5
+      },
+      {
+        "name": "Sprite",
+        "desc": "Sprite",
+        "price": 2.5
+      },
+      {
+        "name": "Kisela voda",
+        "desc": "Kisela voda",
+        "price": 1.8
+      }
+    ]
+  }
+}

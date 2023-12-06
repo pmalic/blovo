@@ -1,0 +1,338 @@
+{
+  "name": "The Master Craft Brewery",
+  "rating": 0.97,
+  "count": 399,
+  "service_fee": 2.3,
+  "menu": {
+    "Promocije": [
+      {
+        "name": "MCB Banjalučki kraft platiš 10l, dobiješ 2l gratis",
+        "promo": "-15%",
+        "desc": "MCB Banjalučki kraft",
+        "price": 76.5,
+        "promo_price": 65.03
+      },
+      {
+        "name": "MCB Pilsner  platiš 10l, dobiješ 2l gratis",
+        "promo": "-15%",
+        "desc": "MCB Pilsner",
+        "price": 76.5,
+        "promo_price": 65.03
+      },
+      {
+        "name": "MCB Pale ale platiš 10l, dobiješ 2l gratis",
+        "promo": "-15%",
+        "desc": "MCB Pale ale",
+        "price": 88.2,
+        "promo_price": 74.97
+      }
+    ],
+    "Najprodavanije": [
+      {
+        "name": "Burger Master Smith",
+        "desc": "Burger od čistog junećeg vrata, pomfrit, Cheddar sir, paradajz, zelena salata, sos sa majonezom",
+        "price": 13.5
+      },
+      {
+        "name": "Pileća krilca u slatko-ljutom sosu",
+        "desc": "Pileća krilca, slatko-ljuti tajlandski sos",
+        "price": 12.0
+      },
+      {
+        "name": "Hrskavi pileći štapići",
+        "desc": "Pileći file pohovan susamom, pomfrit, tartar sos",
+        "price": 10.5
+      }
+    ],
+    "AKCIJA Platiš 10 l a dobiješ 12 l": [
+      {
+        "name": "MCB Pale ale platiš 10l, dobiješ 2l gratis",
+        "promo": "-15%",
+        "desc": "MCB Pale ale",
+        "price": 88.2,
+        "promo_price": 74.97
+      },
+      {
+        "name": "MCB Banjalučki kraft platiš 10l, dobiješ 2l gratis",
+        "promo": "-15%",
+        "desc": "MCB Banjalučki kraft",
+        "price": 76.5,
+        "promo_price": 65.03
+      },
+      {
+        "name": "MCB Pilsner  platiš 10l, dobiješ 2l gratis",
+        "promo": "-15%",
+        "desc": "MCB Pilsner",
+        "price": 76.5,
+        "promo_price": 65.03
+      }
+    ],
+    "Akcija MCB piva u flašici  4/1": [
+      {
+        "name": "MCB mix promo paket 4x330 ml",
+        "desc": "Banjalučki kraft, pale ale, ipa, stout",
+        "price": 12.5
+      },
+      {
+        "name": "MCB Banjalučki kraft 4x330 ml",
+        "desc": "4x330 ml",
+        "price": 11.5
+      },
+      {
+        "name": "MCB Pilsner 4x330 ml",
+        "desc": "4x330 ml",
+        "price": 11.5
+      },
+      {
+        "name": "MCB poklon vrećica sa podmetačem za pivo 4/1",
+        "desc": "MCB poklon",
+        "price": 2.0
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Master doručak",
+        "desc": "Jaja na oko, domaća kobasica sa sirom, prilog pavlaka, pecivo",
+        "price": 9.0
+      },
+      {
+        "name": "Omlet sa piletinom i sirom",
+        "desc": "Jaja, grilovani pileći file, Cheddar sir, pavlaka, pecivo",
+        "price": 8.0
+      },
+      {
+        "name": "Omlet sa šunkom i Cheddar sirom",
+        "desc": "Jaja, šunka, Cheddar sir, prilog pavlaka, pecivo",
+        "price": 7.5
+      },
+      {
+        "name": "Omlet sa piletinom",
+        "desc": "Jaja, grilovani pileći file, Cheddar sir, prilog pavlaka, pecivo",
+        "price": 7.0
+      },
+      {
+        "name": "Omlet sa Cheddar sirom",
+        "desc": "Jaja, Cheddar sir, prilog pavlaka, pecivo",
+        "price": 6.5
+      },
+      {
+        "name": "Omlet sa šunkom",
+        "desc": "Jaja, šunka,  prilog pavlaka, pecivo",
+        "price": 6.5
+      }
+    ],
+    "Burgeri": [
+      {
+        "name": "Burger Master Smith",
+        "desc": "Burger od čistog junećeg vrata, pomfrit, Cheddar sir, paradajz, zelena salata, sos sa majonezom",
+        "price": 13.5
+      },
+      {
+        "name": "Burger otkoštena dimljena koljenica",
+        "desc": "Burger od otkoštene dimljene koljenice, krema od hrena, z.salata, cheddar sir, pomfrit.",
+        "price": 13.5
+      },
+      {
+        "name": "Burger smoked rooster",
+        "desc": "Dimljeni upajcani pileći batak, tartar sos, paradajz, zelena salata, pomfrit",
+        "price": 13.0
+      },
+      {
+        "name": "MCB burger sa BBQ BEEF sosom",
+        "desc": "Burger od čistog junećeg vrata, BBQ BEEF sos, domaći potkozarski med, Cheddar sir, tartar sos, pomfrit",
+        "price": 13.0
+      },
+      {
+        "name": "Burger Domaćinski sa kraft sosom",
+        "desc": "Burger od čistog junećeg vrata, kraft sos, cheddar sir, ploške prženog luka, pomfrit.",
+        "price": 13.0
+      },
+      {
+        "name": "Burger s junećim mesom",
+        "desc": "Burger od čistog junećeg vrata, paradajz, zelena salata, sos sa lukom",
+        "price": 11.5
+      }
+    ],
+    "Jela sa roštilja": [
+      {
+        "name": "Rebarca sa sosom od kamenica",
+        "desc": "Svinjska rebra, pekarski krompir, sos od kamenica, soya sos, domaći potkozarski med",
+        "price": 19.5
+      },
+      {
+        "name": "Zapečena koljenica sa kremom od hrena",
+        "desc": "Zapečena svinjska dimljena koljenica, krema od hrena i pavlake, prilog pomfrit",
+        "price": 17.0
+      },
+      {
+        "name": "Pivske kobasice sa sirom urolane u slaninu",
+        "desc": "Berner Wurstel, pomfrit",
+        "price": 16.5
+      },
+      {
+        "name": "Domaće kobasice sa sirom i marmeladom od luka",
+        "desc": "Domaća kobasica punjena sa dvije vrste sira, pomfrit, marmelada od luka",
+        "price": 13.0
+      },
+      {
+        "name": "Pikantne kobasice sa sosom gorušice",
+        "desc": "Domaća ljuta kobasica, pomfrit, sos sa pavlakom i zrnom gorušice",
+        "price": 13.0
+      },
+      {
+        "name": "Pileći file s njokama u pikant sosu",
+        "desc": "Grilovani pileći file, njoke, pikant sos",
+        "price": 13.0
+      },
+      {
+        "name": "Pileća krilca u slatko-ljutom sosu",
+        "desc": "Pileća krilca, slatko-ljuti tajlandski sos",
+        "price": 12.0
+      },
+      {
+        "name": "Pileći dimljeni batak",
+        "desc": "Dimljeni upajcani pileći batak, curry sos, pomfrit",
+        "price": 12.0
+      },
+      {
+        "name": "Hrskavi pileći štapići",
+        "desc": "Pileći file pohovan susamom, pomfrit, tartar sos",
+        "price": 10.5
+      }
+    ],
+    "Plate": [
+      {
+        "name": "Master plata za 4 osobe",
+        "desc": "Rebarca u sosu od kamenica sa potkozarskim medom, krilca u slatko-ljutom tajlandskom sosu, kobasice sa dvije vrste sira i marmeladom od luka, prilog pomfrit",
+        "price": 42.0
+      },
+      {
+        "name": "MCB plata 3 kobasice",
+        "desc": "Kobasice sa dvije vrste sira i marmeladom od luka, pivske kobasice sa sirom urolane u slaninu i pikantne kobasice sa sosom od gorušice, prilog pomfrit",
+        "price": 40.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pekarski krompir",
+        "desc": "Pekarski krompir",
+        "price": 6.0
+      },
+      {
+        "name": "Pomfrit",
+        "desc": "Pomfrit",
+        "price": 5.0
+      }
+    ],
+    "Čaj": [
+      {
+        "name": "Čaj Milford",
+        "desc": "Kamilica, menta, voćni",
+        "price": 2.0
+      }
+    ],
+    "Pića": [
+      {
+        "name": "Limunada",
+        "desc": "Limunada",
+        "price": 3.5
+      },
+      {
+        "name": "Cedevita narandža",
+        "desc": "Cedevita narandža",
+        "price": 3.5
+      },
+      {
+        "name": "Vitaminka  sokovi",
+        "desc": "Borovnica, jabuka, juice",
+        "price": 3.5
+      },
+      {
+        "name": "Cockta",
+        "desc": "Cockta",
+        "price": 3.5
+      }
+    ],
+    "MCB točeno pivo za ponijeti": [
+      {
+        "name": "MCB Pale ale 2 l",
+        "desc": "Cijena piva je 7,00 KM/L, a u pakovanju su 2L. Pale ale koji će Vas oduševljavati svakim gutljajem sastavaljen kombinacijom pažljivo biranih njemačkih sladova i američkih sorti hmelja, koje daju arome mandaraine i grejpa sa tragovima  borovine",
+        "price": 15.0
+      },
+      {
+        "name": "MCB Banjalučki kraft 2 l",
+        "desc": "Cijena piva je 5.50 KM/L, a u pakovanju su 2L. Lagano i pitko, zanatski rađeno pivo. Naš poklon Banjaluci, session u koji smo ugradili mnogo ljubavi i pažnje, sa 4,5% alkohola, idealno je pivo sa nježnim cvjetnim i citrusnim notama za hidrataciju",
+        "price": 13.0
+      },
+      {
+        "name": "MCB Pilsner 2 l",
+        "desc": "Cijena piva je 5,50 KM/L, a u pakovanju su 2L. Zlatno žute boje sa bogatom bijelom pjenom, ovo pivo je naš odgovor na industrijski lager. Bogate cvijetno bivskvitne note, sa malo zaostale slatkoće koja dolazi od plemenitom njemačkog hmelja",
+        "price": 13.0
+      },
+      {
+        "name": "MCB poklon vrećica sa podmetačem za pivo 2L",
+        "desc": "MCB poklon",
+        "price": 2.0
+      }
+    ],
+    "Topla pića": [
+      {
+        "name": "Nesscafe",
+        "desc": "Nesscafe",
+        "price": 2.5
+      },
+      {
+        "name": "Cappucinno",
+        "desc": "Cappucinno",
+        "price": 2.0
+      },
+      {
+        "name": "Espresso kratki",
+        "desc": "Espresso kratki",
+        "price": 2.0
+      },
+      {
+        "name": "Espresso dugi",
+        "desc": "Espresso dugi",
+        "price": 2.0
+      },
+      {
+        "name": "Espresso sa mlijekom",
+        "desc": "Espresso sa mlijekom",
+        "price": 2.0
+      },
+      {
+        "name": "Espresso sa šlagom",
+        "desc": "Espresso sa šlagom",
+        "price": 2.0
+      }
+    ],
+    "MCB - KRAFT PIVA 0.33L": [
+      {
+        "name": "IPA  0,33 l",
+        "desc": "0,33 l",
+        "price": 6.5
+      },
+      {
+        "name": "MCB Pale Ale  0,33 l",
+        "desc": "0,33 l",
+        "price": 6.0
+      },
+      {
+        "name": "MCB Stout  0,33 l",
+        "desc": "0,33 l",
+        "price": 6.0
+      },
+      {
+        "name": "MCB Banjalučki kraft 0,33 l",
+        "desc": "0,33 l",
+        "price": 5.0
+      },
+      {
+        "name": "MCB Pilsner 0,33 l",
+        "desc": "0,33 l",
+        "price": 5.0
+      }
+    ]
+  }
+}

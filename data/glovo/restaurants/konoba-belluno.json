@@ -1,0 +1,421 @@
+{
+  "name": "Konoba Belluno",
+  "rating": 0.93,
+  "count": 253,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Pohovana pileća šnicla sa prilogom",
+        "desc": "250 gr ili 125 gr pileći file, 200 gr pomfrit, tartar sos",
+        "price": 8.5
+      },
+      {
+        "name": "Pileći file u umaku od šampinjona",
+        "desc": "250 gr pileći file, šampinjoni",
+        "price": 13.0
+      },
+      {
+        "name": "Karađorđeva šnicla prilogom",
+        "desc": "300 gr ili 150 gr šnicla, 30 gr šunka, 30 gr sir Edamer, 200 gr pomfrit, tartar sos",
+        "price": 13.0
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Uštipci sa kajmakom",
+        "desc": "10 kom uštipaka, 90 gr kajmaka",
+        "price": 9.0
+      },
+      {
+        "name": "Cicvara",
+        "desc": "200 gr palente, kajmak, pavlaka",
+        "price": 8.0
+      },
+      {
+        "name": "Pohovani sir",
+        "desc": "200 gr sir Edamer",
+        "price": 8.0
+      },
+      {
+        "name": "Jaja na oko sa roštiljskom kobasicom",
+        "desc": "3 jaja, 100 gr roštiljske kobasice, ajvar",
+        "price": 7.5
+      },
+      {
+        "name": "Kranjska kobasica i senf",
+        "desc": "100 gr kobasica, 50 gr senf",
+        "price": 7.0
+      },
+      {
+        "name": "Jaja na oko sa kajmakom",
+        "desc": "3 jaja, 50 gr kajmaka",
+        "price": 7.0
+      },
+      {
+        "name": "Omlet sa slaninom",
+        "desc": "3 jaja, 50 gr slanine",
+        "price": 6.5
+      },
+      {
+        "name": "Omlet sa šunkom i sirom",
+        "desc": "3 jaja, 50 gr šunke, 20 gr sir Edamer",
+        "price": 6.5
+      },
+      {
+        "name": "Omlet sa povrćem",
+        "desc": "3 jaja, gljive, tikvice, luk, paradajz",
+        "price": 6.5
+      },
+      {
+        "name": "Jaja na oko sa slaninom",
+        "desc": "3 jaja, 50 gr slanine",
+        "price": 6.5
+      }
+    ],
+    "Gotova jela": [
+      {
+        "name": "Gulaš",
+        "desc": "150  gr meso, luk, mrkva, tjestenina, riža ili krompir pire",
+        "price": 9.0
+      },
+      {
+        "name": "Pasulj sa koljenicom",
+        "desc": "100 gr dimljene koljenice",
+        "price": 8.0
+      },
+      {
+        "name": "Belluno čorba",
+        "desc": "100 gr meso, luk, mrkva, grašak, krompir",
+        "price": 7.0
+      },
+      {
+        "name": "Mađarska čorba",
+        "desc": "100 gr meso, luk, mrkva, grašak, krompir, ljuta paprika",
+        "price": 7.0
+      },
+      {
+        "name": "Pasulj sa slaninom",
+        "desc": "100 gr slanina",
+        "price": 7.0
+      },
+      {
+        "name": "Pasulj sa kobasicom",
+        "desc": "50 gr kobasica",
+        "price": 7.0
+      }
+    ],
+    "Jela po narudžbi": [
+      {
+        "name": "Biftek u gorgonzola sosu",
+        "desc": "200 gr meso, 200 gr pomfrit",
+        "price": 25.0
+      },
+      {
+        "name": "Lovačka šnicla",
+        "desc": "250 gr šnicla, 50 gr slanina, gljive, 200 gr pomfrit",
+        "price": 13.0
+      },
+      {
+        "name": "Karađorđeva šnicla prilogom",
+        "desc": "300 gr ili 150 gr šnicla, 30 gr šunka, 30 gr sir Edamer, 200 gr pomfrit, tartar sos",
+        "price": 13.0
+      },
+      {
+        "name": "Pileći file u umaku od šampinjona",
+        "desc": "250 gr pileći file, šampinjoni",
+        "price": 13.0
+      },
+      {
+        "name": "Natur šnicla u bell sosu",
+        "desc": "250 gr šnicla, kajmak, senf",
+        "price": 13.0
+      },
+      {
+        "name": "Pohovana teleća šnicla sa prilogom",
+        "desc": "250 gr ili 125 gr šnicla, 200 gr pomfrit, tartar sos",
+        "price": 11.0
+      },
+      {
+        "name": "Pohovana svinjska šnicla sa prilogom",
+        "desc": "250 gr ili 125 gr šnicla, 200 gr pomfrit, tartar sos",
+        "price": 8.5
+      },
+      {
+        "name": "Pohovana pileća šnicla sa prilogom",
+        "desc": "250 gr ili 125 gr pileći file, 200 gr pomfrit, tartar sos",
+        "price": 8.5
+      }
+    ],
+    "Posna jela": [
+      {
+        "name": "Lignje",
+        "desc": "200 lignje, riža, carsko povrće",
+        "price": 14.0
+      },
+      {
+        "name": "Pastrmka na žaru i prilog",
+        "desc": "250 gr pastrmka, 200 gr pomfrit",
+        "price": 12.0
+      },
+      {
+        "name": "File oslića sa prilogom",
+        "desc": "200 gr file oslić, 200 gr pomfrit",
+        "price": 8.5
+      },
+      {
+        "name": "Oslić sa prilogom",
+        "desc": "250 gr oslić Hoki, 200 gr pomfrit",
+        "price": 8.0
+      },
+      {
+        "name": "Panirane lignje",
+        "desc": "200 gr panirane lignje",
+        "price": 8.0
+      },
+      {
+        "name": "Grilovano povrće",
+        "desc": "Luk, paprika, gljive, tikvice, paradajz, riža",
+        "price": 8.0
+      },
+      {
+        "name": "Panirani riblji štapići sa prilogom",
+        "desc": "240 gr panirani riblji štapići, 200 gr pomfrit",
+        "price": 7.0
+      },
+      {
+        "name": "Gljive porcija",
+        "desc": "200 gr šampinjoni, 100 gr riža",
+        "price": 7.0
+      },
+      {
+        "name": "Girice",
+        "desc": "200 gr girice",
+        "price": 5.0
+      },
+      {
+        "name": "Posni pasulj",
+        "desc": "100 gr pasulj",
+        "price": 5.0
+      }
+    ],
+    "Roštilj": [
+      {
+        "name": "Biftek u gorgonzola sosu",
+        "desc": "200 gr meso, 200 gr pomfrit",
+        "price": 25.0
+      },
+      {
+        "name": "Ramstek na žaru",
+        "desc": "200 gr meso, 200 gr pomfrit",
+        "price": 15.0
+      },
+      {
+        "name": "Svinjski vrat",
+        "desc": "250 gr meso, lepinja, luk",
+        "price": 11.0
+      },
+      {
+        "name": "Svinjska krmenadla",
+        "desc": "250 gr meso, lepinja, luk",
+        "price": 10.0
+      },
+      {
+        "name": "Belluno pljeskavica",
+        "desc": "150 gr mesa, 30 gr sir Edamer, 20 gr slanina, 20 gr šunka",
+        "price": 9.5
+      },
+      {
+        "name": "Kombinacija šiš - ćevap",
+        "desc": "200 gr mesa, lepinja, luk",
+        "price": 9.0
+      },
+      {
+        "name": "Vješalica",
+        "desc": "200 gr ili 100 gr meso, lepinja, luk, 200 gr pomfrit",
+        "price": 9.0
+      },
+      {
+        "name": "Svinjski ražnjići",
+        "desc": "300 gr ili 150 gr mesa, lepinja, luk, 200 gr pomfrit",
+        "price": 8.0
+      },
+      {
+        "name": "Pileći ražnjići",
+        "desc": "200 gr ili 100 gr pileći file, lepinja, luk, 200 gr pomfrit",
+        "price": 8.0
+      },
+      {
+        "name": "Pileće krpice",
+        "desc": "200 gr ili 100 gr pileći file, lepinja, luk, 200 gr pomfrit",
+        "price": 8.0
+      },
+      {
+        "name": "Svinjske krpice",
+        "desc": "200 gr ili 100 gr mesa, lepinja, luk, 200 gr pomfrita",
+        "price": 8.0
+      },
+      {
+        "name": "Šiš - ćevap",
+        "desc": "200 gr ili 100 gr mesa, lepinja,luk",
+        "price": 7.0
+      },
+      {
+        "name": "Carsko meso",
+        "desc": "250 gr slanina, lepinja, luk",
+        "price": 7.0
+      },
+      {
+        "name": "Ćevapi",
+        "desc": "200 gr ili 100 gr mesa, lepinja, luk",
+        "price": 6.0
+      },
+      {
+        "name": "Pljeskavica",
+        "desc": "200 gr ili 100 gr mesa, lepinja, luk",
+        "price": 6.0
+      },
+      {
+        "name": "Roštiljska kobasica",
+        "desc": "200 gr ili 100 gr roštiljska kobasica, lepinja, luk",
+        "price": 6.0
+      }
+    ],
+    "Plate": [
+      {
+        "name": "Plata Belluno za 6 osoba 2550 gr",
+        "desc": "6 komada lepinja, ćevap, šiš, slanina, ražnjić, kobasica, krmenadla, pomfrit",
+        "price": 56.0
+      },
+      {
+        "name": "Plata Belluno za 4 osobe 1700 gr",
+        "desc": "4 komada lepinja, ćevap, šiš, slanina, ražnjić, kobasica, krmenadla, pomfrit",
+        "price": 42.0
+      },
+      {
+        "name": "Plata Belluno za 2 osobe 850 gr",
+        "desc": "2 komada lepinja, ćevap, šiš, slanina, ražnjić, kobasica, krmenadla, pomfrit",
+        "price": 25.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Šampinjoni 150 gr",
+        "desc": "150 gr",
+        "price": 4.5
+      },
+      {
+        "name": "Pomfrit 300 gr",
+        "desc": "300 gr",
+        "price": 3.5
+      },
+      {
+        "name": "Kajmak 50 gr",
+        "desc": "50 gr",
+        "price": 3.5
+      },
+      {
+        "name": "Bareno povrće",
+        "desc": "0.3300 gr carsko povrće",
+        "price": 3.5
+      },
+      {
+        "name": "Ajvar 50 gr",
+        "desc": "50 gr",
+        "price": 2.0
+      },
+      {
+        "name": "Riža 150 gr",
+        "desc": "150 gr",
+        "price": 1.5
+      },
+      {
+        "name": "Tjestenina 150 gr",
+        "desc": "150 gr",
+        "price": 1.5
+      },
+      {
+        "name": "Senf 50 gr",
+        "desc": "50 gr",
+        "price": 1.0
+      },
+      {
+        "name": "Majoneza 50 gr",
+        "desc": "50 gr",
+        "price": 1.0
+      },
+      {
+        "name": "Kečap 50 gr",
+        "desc": "50 gr",
+        "price": 1.0
+      },
+      {
+        "name": "Lepinja",
+        "price": 1.0
+      },
+      {
+        "name": "Tartar sos 50 gr",
+        "desc": "50 gr",
+        "price": 1.0
+      },
+      {
+        "name": "Hljeb",
+        "price": 1.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Šopska 200 gr",
+        "desc": "Paradajz, paprika, krastavac, feta sir",
+        "price": 4.5
+      },
+      {
+        "name": "Pečena paprika 200 gr",
+        "desc": "200 gr",
+        "price": 4.5
+      },
+      {
+        "name": "Svježa mješana 200 gr",
+        "desc": "Kupus, paradajz,krastavac",
+        "price": 3.5
+      },
+      {
+        "name": "Paradajz 200 gr",
+        "desc": "200 gr",
+        "price": 3.5
+      },
+      {
+        "name": "Kupus 200 gr",
+        "desc": "200 gr",
+        "price": 3.5
+      },
+      {
+        "name": "Srpska 200 gr",
+        "desc": "Paradajz, paprika, krastavac, feferonka",
+        "price": 3.5
+      },
+      {
+        "name": "Kiseli krastavac 200 gr",
+        "desc": "200 gr",
+        "price": 3.5
+      },
+      {
+        "name": "Kisela paprika 200 gr",
+        "desc": "200 gr",
+        "price": 3.5
+      }
+    ],
+    "Desert": [
+      {
+        "name": "Palačinke sa eurokremom i plazmom",
+        "desc": "50 gr eurokrem, 50 gr plazma",
+        "price": 4.5
+      },
+      {
+        "name": "Palačinke sa marmeladom",
+        "desc": "50 gr marmelada",
+        "price": 4.5
+      }
+    ]
+  }
+}

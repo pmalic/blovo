@@ -1,0 +1,750 @@
+{
+  "name": "Limun žut",
+  "rating": 0.96,
+  "count": 262,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Karađorđeva pileća",
+        "desc": "Domaći hljeb, pomfrit, Tartar",
+        "price": 13.0
+      },
+      {
+        "name": "Gulaš goveđi 350gr",
+        "desc": "Pire ili riža, domaći hljeb",
+        "price": 10.5
+      },
+      {
+        "name": "Miješano meso",
+        "desc": "Šiš ćevap, kobasica, leskovački ćevap, punjena pljeskavica, lepinja, leskovački uštipak, batak, ražnjići, pomfrit",
+        "price": 19.0
+      }
+    ],
+    "Combo ponuda": [
+      {
+        "name": "Plata Tamo daleko i miješana salata",
+        "desc": "Plata Tamo daleko, miješana salata",
+        "price": 42.0
+      },
+      {
+        "name": "Obrok za 2 osobe",
+        "desc": "Čorba 500 ml, 2 x Karađorđeva šnicla od 300 gr, pomfrit, Tartar sos i 2 x porcija hljeba",
+        "price": 29.5
+      },
+      {
+        "name": "Mala plata",
+        "desc": "Miješano meso 1, veliki ćevapi sa kajmakom",
+        "price": 27.0
+      },
+      {
+        "name": "Mješano meso za 1 osobu i kupus salata",
+        "desc": "Mješano meso za 1 osobu i kupus salata",
+        "price": 20.0
+      },
+      {
+        "name": "Pasulj sa kobasicom 500 ml i kupus salata",
+        "desc": "Pasulj sa kobasicom 500 ml i kupus salata",
+        "price": 10.0
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Doručak Limun žut",
+        "desc": "2 jaja, uštipci, kobasica, slanina, sir, ajvar",
+        "price": 13.5
+      },
+      {
+        "name": "Cicvara",
+        "desc": "Kajmak, pavlaka, ribani sir",
+        "price": 13.0
+      },
+      {
+        "name": "Bekendeks",
+        "desc": "3 jaja sa slaninom, domaći hljeb, ajvar",
+        "price": 10.0
+      },
+      {
+        "name": "Jaja sa kobasicom",
+        "desc": "3 jaja, 2 kobasice, domaći hljeb, ajvar, senf",
+        "price": 10.0
+      },
+      {
+        "name": "Hemendeks",
+        "desc": "3 jaja sa šunkom, domaći hljeb, ajvar",
+        "price": 9.5
+      },
+      {
+        "name": "Omlet sir, šunka",
+        "desc": "3 jaja, hljeb, ajvar",
+        "price": 9.0
+      },
+      {
+        "name": "Omlet sir",
+        "desc": "3 jaja, hljeb, ajvar",
+        "price": 9.0
+      },
+      {
+        "name": "Omlet sir, šunka, šampinjoni",
+        "desc": "3 jaja, hljeb, ajvar",
+        "price": 9.0
+      },
+      {
+        "name": "Palenta",
+        "desc": "Pavlaka\nSlika je simbolična*",
+        "price": 8.0
+      },
+      {
+        "name": "Prženice",
+        "desc": "Prženice",
+        "price": 8.0
+      },
+      {
+        "name": "Omlet",
+        "desc": "Domaći hljeb, ajvar",
+        "price": 7.0
+      }
+    ],
+    "Topla predjela": [
+      {
+        "name": "Limun žut uštipci",
+        "desc": "10 kom, 2 vrste sira, kobasica, pljeskavica",
+        "price": 13.0
+      },
+      {
+        "name": "Uštipci sa slaninom i kajmakom",
+        "desc": "Uštipci, slanina, kajmak",
+        "price": 11.0
+      },
+      {
+        "name": "Pohovani sir",
+        "desc": "Tartar sos",
+        "price": 10.0
+      },
+      {
+        "name": "Uštipci sa sirom i slaninom",
+        "desc": "Sir, slanina, 10 komada",
+        "price": 9.5
+      },
+      {
+        "name": "Uštipci sa kajmakom i sirom",
+        "desc": "Kajmak, sir, 10 komada",
+        "price": 9.5
+      },
+      {
+        "name": "Grilovani šampinjoni sa lepinjom",
+        "desc": "300 gr",
+        "price": 8.5
+      },
+      {
+        "name": "Uštipci sa marmeladom",
+        "desc": "Uštipci, marmelada",
+        "price": 8.5
+      },
+      {
+        "name": "Pohovani šampinjoni",
+        "desc": "Tartar sos",
+        "price": 8.5
+      },
+      {
+        "name": "Uštipci",
+        "desc": "Porcija",
+        "price": 5.5
+      }
+    ],
+    "Jela s roštilja": [
+      {
+        "name": "Miješano meso",
+        "desc": "Šiš ćevap, kobasica, leskovački ćevap, punjena pljeskavica, lepinja, leskovački uštipak, batak, ražnjići, pomfrit",
+        "price": 19.0
+      },
+      {
+        "name": "Rolovani svinjski medaljoni",
+        "desc": "Rolovani svinjski medaljoni",
+        "price": 11.0
+      }
+    ],
+    "Čorbe": [
+      {
+        "name": "Riblja čorba",
+        "desc": "Riblja čorba",
+        "price": 9.0
+      },
+      {
+        "name": "Teleća čorba",
+        "desc": "Teleća čorba",
+        "price": 7.5
+      },
+      {
+        "name": "Mađarska čorba",
+        "desc": "Mađarska čorba",
+        "price": 7.5
+      }
+    ],
+    "Jela po narudžbi": [
+      {
+        "name": "Velika karađorđeva šnicla",
+        "desc": "Domaći hljeb, pomfrit, Tartar",
+        "price": 22.5
+      },
+      {
+        "name": "Veliki cordon bleu",
+        "desc": "Piletina, domaći hljeb, pomfrit, Tartar",
+        "price": 22.5
+      },
+      {
+        "name": "Natur šnicla 150gr",
+        "desc": "Domaći hljeb, pire ili riža",
+        "price": 14.0
+      },
+      {
+        "name": "Bečka svinjska velika",
+        "desc": "Domaći hljeb pomfrit , Tartar",
+        "price": 13.0
+      },
+      {
+        "name": "Karađorđeva pileća",
+        "desc": "Domaći hljeb, pomfrit, Tartar",
+        "price": 13.0
+      },
+      {
+        "name": "Bečka pileća velika",
+        "desc": "Pomfrit , Tartar sos",
+        "price": 13.0
+      },
+      {
+        "name": "Karađorđeva svinjska",
+        "desc": "Domaći hljeb, pomfrit, Tartar",
+        "price": 13.0
+      },
+      {
+        "name": "Cordon bleu",
+        "desc": "Piletina, domaći hljeb, pomfrit, Tartar",
+        "price": 13.0
+      },
+      {
+        "name": "Pariska šnicla 150gr",
+        "desc": "Domaći hljeb, pomfrit",
+        "price": 13.0
+      },
+      {
+        "name": "Bečka pileća",
+        "desc": "Pomfrit, Tartar sos",
+        "price": 9.5
+      },
+      {
+        "name": "Bečka svinjska",
+        "desc": "Domaći hljeb, pomfrit, Tartar",
+        "price": 9.5
+      }
+    ],
+    "Gotova jela": [
+      {
+        "name": "Lešo junetina 350gr",
+        "desc": "Pire ili riža, domaći hljeb",
+        "price": 13.0
+      },
+      {
+        "name": "Gulaš goveđi 350gr",
+        "desc": "Pire ili riža, domaći hljeb",
+        "price": 10.5
+      },
+      {
+        "name": "Sarma",
+        "desc": "Sarma",
+        "price": 9.5
+      },
+      {
+        "name": "Pasulj sa kobasicom 600ml",
+        "desc": "Domaći hljeb",
+        "price": 9.0
+      }
+    ],
+    "Pečenje i sač": [
+      {
+        "name": "Teletina sa pekarskim krompirom",
+        "desc": "Teletina, pekarski krompir",
+        "price": 26.0
+      }
+    ],
+    "Riba": [
+      {
+        "name": "Pržene lignje",
+        "desc": "Domaći hljeb, dalmatinski prilog špinat, krompir, bijeli luk, peršun, maslinovo ulje",
+        "price": 27.0
+      },
+      {
+        "name": "Lignje sa roštilja",
+        "desc": "Domaći hljeb, dalmatinski prilog špinat, krompir, bijeli luk, peršun, maslinovo ulje",
+        "price": 27.0
+      },
+      {
+        "name": "Pohovane lignje",
+        "desc": "Domaći hljeb, dalmatinski prilog špinat, krompir, bijeli luk, peršun, maslinovo ulje\nSlika je simbolična*",
+        "price": 27.0
+      },
+      {
+        "name": "Pastrmka sa dalmatinskim prilogom",
+        "desc": "Riba, restovani krompir, blitva, bijeli luk",
+        "price": 12.5
+      },
+      {
+        "name": "Pangasius file 300gr",
+        "desc": "Domaći hljeb, dalmatinski prilog špinat, krompir, bijeli luk, peršun, maslinovo ulje",
+        "price": 11.0
+      },
+      {
+        "name": "Oslić porcija 300gr",
+        "desc": "Domaći hljeb, dalmatinski prilog špinat, krompir, bijeli luk, peršun, maslinovo ulje",
+        "price": 11.0
+      },
+      {
+        "name": "Girice 350gr",
+        "desc": "Hljeb, luk i limun",
+        "price": 6.0
+      }
+    ],
+    "Plate": [
+      {
+        "name": "Limun žut plata 3",
+        "desc": "Limun žut plata 3",
+        "price": 63.0
+      },
+      {
+        "name": "Limun žut plata 2",
+        "desc": "Limun žut plata 2",
+        "price": 42.0
+      },
+      {
+        "name": "Tamo daleko plata za dvije osobe",
+        "desc": "2x teleći ražnjići, 2x Banjalučki ćevapi, 2x dimljena vješalica, 2x Cordon blue, 2x vješalica, 2x pileći file, pomfrit 200 gr, kajmak, Tartar sos,Urnebes salata, 4 uštipka, 2x lepinja",
+        "price": 41.0
+      }
+    ],
+    "Ćevapi": [
+      {
+        "name": "Rolovani punjeni ćevap veliki",
+        "desc": "Punjen Edamer sirom, rolovan slaninom, lepinja 3 komada",
+        "price": 15.0
+      },
+      {
+        "name": "Punjeni ćevap veliki",
+        "desc": "Punjne sirom , lepinja, 3 komada",
+        "price": 14.0
+      },
+      {
+        "name": "Rolovani ćevap veliki",
+        "desc": "Rolovan slaninom, lepinja, 3 komada",
+        "price": 14.0
+      },
+      {
+        "name": "Leskovački čevapi veliki",
+        "desc": "Porcija 10 komada",
+        "price": 12.5
+      },
+      {
+        "name": "Banjalučki ćevap sa kajmakom veliki",
+        "desc": "Banjalučki ćevap sa kajmakom veliki\nSlika je simbolična*",
+        "price": 12.0
+      },
+      {
+        "name": "Rolovani punjeni ćevapi",
+        "desc": "Punjen Edamer sirom, rolovan slaninom, lepinja,mala porcija 2 komada",
+        "price": 12.0
+      },
+      {
+        "name": "Punjeni ćevapi",
+        "desc": "Punjen sirom, lepinja, mala porcija 2 komada",
+        "price": 11.0
+      },
+      {
+        "name": "Rolovani ćevapi",
+        "desc": "Rolovan slaninom, lepinja, mala porcija 2 komada",
+        "price": 11.0
+      },
+      {
+        "name": "Banjaučki ćevap sa kajmakom srednji",
+        "desc": "Banjaučki ćevap sa kajmakom srednji\nSlika je simbolična*",
+        "price": 10.5
+      },
+      {
+        "name": "Banjalučki ćevap veliki",
+        "desc": "4 pločice",
+        "price": 10.0
+      },
+      {
+        "name": "Banjalučki ćevap sa kajmakom",
+        "desc": "Banjalučki ćevap sa kajmakom\nSlika je simbolična*",
+        "price": 9.0
+      },
+      {
+        "name": "Leskovački ćevapi",
+        "desc": "Mala porcija 5 kom, pomfrit, lepinja, velika porcija 10 kom",
+        "price": 9.0
+      },
+      {
+        "name": "Šiš ćevap sa lepinjom",
+        "desc": "Mala porcija 2 kom, velika porcija 3 kom",
+        "price": 9.0
+      },
+      {
+        "name": "Banjalučki ćevap srednji",
+        "desc": "3 pločice",
+        "price": 8.5
+      },
+      {
+        "name": "Banjalučki ćevapi sa lukom i lepinjom",
+        "desc": "Mala porcija 2 pločice.",
+        "price": 7.0
+      }
+    ],
+    "Pljeskavice": [
+      {
+        "name": "Pljeskavica Limun žut velika",
+        "desc": "Kajmak, sir, panceta lepinja, velika porcija 250 gr",
+        "price": 14.5
+      },
+      {
+        "name": "Punjena pljeskavica sa kajmakom velika",
+        "desc": "Velika porcija 250 gr",
+        "price": 13.5
+      },
+      {
+        "name": "Punjena pljeskavica sir šunka velika",
+        "desc": "Velika porcija 250 gr",
+        "price": 11.0
+      },
+      {
+        "name": "Limun žut punjena pljeskavica",
+        "desc": "Kajmak, sir, panceta, lepinja, mala porcija 200 gr ili velika porcija 250 gr",
+        "price": 10.5
+      },
+      {
+        "name": "Pljeskavica punjena kajmakom",
+        "desc": "Lepinja, mala porcija 200 gr ili velika porcija 250 gr",
+        "price": 9.5
+      },
+      {
+        "name": "Leskovački uštipak",
+        "desc": "Leskovački uštipakŽ\nSlika je simbolična*",
+        "price": 9.0
+      },
+      {
+        "name": "Pljeskavica punjena sirom i šunkom",
+        "desc": "Lepinja, mala porcija 200 gr ili velika porcija 250 gr",
+        "price": 8.5
+      },
+      {
+        "name": "Gurmanska pljeskavica",
+        "desc": "Sir, šunka, lepinja,mala porcija 200 gr ili velika porcija 250 gr",
+        "price": 8.5
+      },
+      {
+        "name": "Pljeskavica ljuta",
+        "desc": "Mala porcija 150 gr, velika porcija 200 gr",
+        "price": 7.2
+      },
+      {
+        "name": "Blaga pljeskavica",
+        "desc": "Lepinja, mala porcija 150 gr, velika porcija 200 gr",
+        "price": 7.2
+      },
+      {
+        "name": "Pljeskavica blaga",
+        "desc": "Mala ili velika porcija",
+        "price": 7.2
+      },
+      {
+        "name": "Leskovačka pljeskavica",
+        "desc": "Luk, mala porcija 150 gr, velika porcija 200 gr\nSlika je simbolična*",
+        "price": 7.2
+      }
+    ],
+    "Kobasice": [
+      {
+        "name": "Roštiljska kobasica velika",
+        "desc": "Velika porcija 200 gr",
+        "price": 14.5
+      },
+      {
+        "name": "Pivarske kobasice",
+        "desc": "Restovani ili bareni krompir",
+        "price": 14.5
+      },
+      {
+        "name": "Banjalučka šiš kombinacija velika",
+        "desc": "Banjalučka šiš kombinacija velika",
+        "price": 13.0
+      },
+      {
+        "name": "Banjalučka kombinacija",
+        "desc": "Ćevapi 2 komada, kobasice 2 komada, lepinja",
+        "price": 11.0
+      },
+      {
+        "name": "Roštiljska kobasica",
+        "desc": "Lepinj, mala  porcija 100 gr",
+        "price": 11.0
+      },
+      {
+        "name": "Leskovački kombinacija",
+        "desc": "Leskovački uštipci, 2 roštiljske kobasice, lepinja",
+        "price": 10.5
+      },
+      {
+        "name": "Banjalučka šiš kombinacija",
+        "desc": "Banjalučka šiš kombinacija",
+        "price": 9.5
+      }
+    ],
+    "Vješalice": [
+      {
+        "name": "Dimljena vješalica sa kajmakom",
+        "desc": "Pomfrit, lepinja",
+        "price": 14.5
+      },
+      {
+        "name": "Dimljena vješalica",
+        "desc": "Pomfrit, lepinja",
+        "price": 12.5
+      },
+      {
+        "name": "Punjena vješalica",
+        "desc": "Pomfrit, lepinja",
+        "price": 12.5
+      },
+      {
+        "name": "Bijela vješalica",
+        "desc": "Pomfrit, lepinja",
+        "price": 10.0
+      },
+      {
+        "name": "Svinjski vrat",
+        "desc": "Pomfrit, lepinja",
+        "price": 10.0
+      }
+    ],
+    "Piletina": [
+      {
+        "name": "Pileći medaljoni u kajmaku veliki",
+        "desc": "Pomfrit lepinja",
+        "price": 19.0
+      },
+      {
+        "name": "Pileći medaljoni u kajmaku",
+        "desc": "Pomfrit, lepinja",
+        "price": 13.0
+      },
+      {
+        "name": "Pileći file veliki",
+        "desc": "Pomfrit , lepinja\nSlika je simbolična*",
+        "price": 12.0
+      },
+      {
+        "name": "Batak veliki",
+        "desc": "Pomfrit , lepinja",
+        "price": 11.0
+      },
+      {
+        "name": "Pileći file",
+        "desc": "Pomfrit, lepinja\nSlika je simbolična*",
+        "price": 9.0
+      },
+      {
+        "name": "Batak",
+        "desc": "Pomfrit, lepinja",
+        "price": 8.0
+      }
+    ],
+    "Ražnjići": [
+      {
+        "name": "Teleći ražnjić veliki 260 gr",
+        "desc": "Pomfrit 150 gr , lepinja",
+        "price": 21.0
+      },
+      {
+        "name": "Teleći ražnjić mali 180 gr",
+        "desc": "Pomfrit 150 gr, lepinja",
+        "price": 16.0
+      },
+      {
+        "name": "Ražnjići pileći rolovani veliki",
+        "desc": "Pomfrit , lepinja, 3 žice ražnjića",
+        "price": 14.5
+      },
+      {
+        "name": "Rolovani pileći ražnjić",
+        "desc": "Pomfrit, lepinja, mala porcija 2 žice ražnjića, velika porcija 3 žice ražnjića\nSlika je simbolična*",
+        "price": 11.0
+      },
+      {
+        "name": "Ražnjići svinjski",
+        "desc": "Pomfrit, lepinja, ražnjići. Mala ili velika porcija",
+        "price": 10.5
+      },
+      {
+        "name": "Svinjski ražnjić",
+        "desc": "Pomfrit, lepinja, mala porcija 2 žice ražnjića, velika porcija 3 žice ražnjića",
+        "price": 10.5
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Šopska salata",
+        "desc": "Paradajz, krastavac, paprika, sir",
+        "price": 5.0
+      },
+      {
+        "name": "Srpska salata",
+        "desc": "Paradajz, krastavac, paprika, luk, feferona",
+        "price": 4.5
+      },
+      {
+        "name": "Urnebes salata",
+        "desc": "200 gr",
+        "price": 4.5
+      },
+      {
+        "name": "Engleska salata",
+        "desc": "Mrkva, kupus, majonez, pavlaka\nSlika je simbolična*",
+        "price": 4.5
+      },
+      {
+        "name": "Kupus salata",
+        "desc": "Kupus salata\nSlika je simbolična*",
+        "price": 4.0
+      },
+      {
+        "name": "Sezonska salata",
+        "desc": "Zelena salata, krastavac, paradajz",
+        "price": 4.0
+      },
+      {
+        "name": "Krompir salata",
+        "desc": "Krompir salata\nSlika je simbolična*",
+        "price": 4.0
+      }
+    ],
+    "Slane palačinke": [
+      {
+        "name": "Palačinke sa sirom i šunkom uz Tartar sos",
+        "desc": "2 komada",
+        "price": 9.5
+      },
+      {
+        "name": "Palačinke sa piletinom i gljivama uz tartar sos",
+        "desc": "2 komada",
+        "price": 9.5
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pančeta",
+        "desc": "100 gr",
+        "price": 7.0
+      },
+      {
+        "name": "Grilovano povrće",
+        "desc": "Grilovano povrće\nSlika je simbolična*",
+        "price": 7.0
+      },
+      {
+        "name": "Grilovani šampinjoni",
+        "desc": "Grilovani šampinjoni",
+        "price": 7.0
+      },
+      {
+        "name": "Sir za uštipke",
+        "desc": "200gr",
+        "price": 7.0
+      },
+      {
+        "name": "Kajmak",
+        "desc": "Kajmak\nSlika je simbolična*",
+        "price": 7.0
+      },
+      {
+        "name": "Riža sa povrćem",
+        "desc": "Riža sa povrćem\nSlika je simbolična*",
+        "price": 6.0
+      },
+      {
+        "name": "Dalmatinac",
+        "desc": "Krompir, špinat, bijeli luk, peršun, maslinovo ulje",
+        "price": 4.5
+      },
+      {
+        "name": "Tartar sos",
+        "desc": "200 gr",
+        "price": 4.5
+      },
+      {
+        "name": "Ajvar",
+        "desc": "200 gr\nSlika je simbolična*",
+        "price": 4.5
+      },
+      {
+        "name": "Pekarski krompir",
+        "desc": "Pekarski krompir\nSlika je simbolična*",
+        "price": 4.0
+      },
+      {
+        "name": "Restovani krompir",
+        "desc": "Restovani krompir\nSlika je simbolična*",
+        "price": 4.0
+      },
+      {
+        "name": "Feferoni",
+        "desc": "Feferoni\nSlika je simbolična*",
+        "price": 4.0
+      },
+      {
+        "name": "Pire krompir",
+        "desc": "Pire krompir\nSlika je simbolična*",
+        "price": 3.5
+      },
+      {
+        "name": "Pomfrit",
+        "desc": "Pomfrit\nSlika je simbolična*",
+        "price": 3.5
+      },
+      {
+        "name": "Bareni krompir",
+        "desc": "Bareni krompir",
+        "price": 3.5
+      },
+      {
+        "name": "Masline",
+        "desc": "Masline\nSlika je simbolična*",
+        "price": 3.0
+      },
+      {
+        "name": "Domaći hljeb",
+        "desc": "Domaći hljeb\nSlika je simbolična*",
+        "price": 2.0
+      },
+      {
+        "name": "Lepinja",
+        "desc": "Lepinja",
+        "price": 1.2
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Palačinka sa eurokremom i Plazmom",
+        "desc": "Komad\nSlika je simbolična*",
+        "price": 7.0
+      },
+      {
+        "name": "Palačinka sa marmelada",
+        "desc": "Šipak ili miješana marmelada, komad\nSlika je simbolična*",
+        "price": 6.0
+      },
+      {
+        "name": "Palačinka sa pekmezom od šljiva",
+        "desc": "Komad\nSlika je simbolična*",
+        "price": 6.0
+      }
+    ]
+  }
+}

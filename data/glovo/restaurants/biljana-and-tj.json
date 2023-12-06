@@ -1,0 +1,272 @@
+{
+  "name": "Biljana & TJ",
+  "rating": 0.93,
+  "count": 201,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Plata za 2-3 osobe",
+        "desc": "3 lepinje, 2 ćevapa, 2 šiš ćevapa, 2 kobasice, porcija pomfrita, salata",
+        "price": 19.0
+      },
+      {
+        "name": "Plata za 3-4 osobe",
+        "desc": "4 lepinje, 3 ćevapa, 3 pileća batka, 300 gr pilećeg bijelog mesa, 3 kobasice, salata",
+        "price": 39.0
+      },
+      {
+        "name": "Pljeskavica punjena gurmanska sa pomfritom 200 gr",
+        "desc": "Pljeskavica, pomfrit",
+        "price": 15.0
+      }
+    ],
+    "Jela sa roštilja": [
+      {
+        "name": "Pljeskavica punjena gurmanska sa pomfritom 200 gr",
+        "desc": "Pljeskavica, pomfrit",
+        "price": 15.0
+      },
+      {
+        "name": "Pileće bijelo meso punjeno s pomfritom 200 gr",
+        "desc": "Sir, pršuta, salata",
+        "price": 15.0
+      },
+      {
+        "name": "Punjeni batak 250 gr",
+        "desc": "Pomfrit, salata",
+        "price": 15.0
+      },
+      {
+        "name": "Punjeni batak komad",
+        "desc": "Komad",
+        "price": 12.5
+      },
+      {
+        "name": "Punjena pljeskavica komad",
+        "desc": "Komad",
+        "price": 12.5
+      },
+      {
+        "name": "Punjeno pileće bijelo meso komad",
+        "desc": "Komad",
+        "price": 12.5
+      },
+      {
+        "name": "Dimljena vješalica",
+        "desc": "Srednja ili velika porcija",
+        "price": 7.5
+      },
+      {
+        "name": "Bubrežnjak od teletine",
+        "desc": "Bubrežnjak od teletine",
+        "price": 7.0
+      },
+      {
+        "name": "Krpice od teletine",
+        "desc": "Krpice od teletine",
+        "price": 6.5
+      },
+      {
+        "name": "Kombinacija ćevap šiš",
+        "desc": "Mala,  srednja ili velika porcija",
+        "price": 5.1
+      },
+      {
+        "name": "Punjeni ražnjići",
+        "desc": "Šampinjoni, špek, teletina",
+        "price": 5.0
+      },
+      {
+        "name": "Pileći batak",
+        "desc": "Pileći batak",
+        "price": 5.0
+      },
+      {
+        "name": "Dimljena kobasica",
+        "desc": "Mala,  srednja ili velika porcija",
+        "price": 4.7
+      },
+      {
+        "name": "Ražnjići",
+        "desc": "Ražnjići",
+        "price": 4.5
+      },
+      {
+        "name": "Pileće bijelo meso",
+        "desc": "Mala, srednja ili velika porcija",
+        "price": 4.3
+      },
+      {
+        "name": "Pileća jetrica",
+        "desc": "Mala, srednja ili velika porcija",
+        "price": 4.3
+      },
+      {
+        "name": "Ćevapi",
+        "desc": "Mala,  srednja ili velika porcija",
+        "price": 4.0
+      },
+      {
+        "name": "Pljeskavica",
+        "desc": "Pljeskavica",
+        "price": 4.0
+      },
+      {
+        "name": "Kremenadla",
+        "desc": "Kremenadla",
+        "price": 3.9
+      },
+      {
+        "name": "Šiš ćevapi",
+        "desc": "Mala,  srednja ili velika porcija",
+        "price": 3.3
+      },
+      {
+        "name": "Ražnjići od teletine",
+        "desc": "Ražnjići od teletine",
+        "price": 3.0
+      },
+      {
+        "name": "Ražnjići od svinjetine",
+        "desc": "Mala, srednja ili velika porcija",
+        "price": 3.0
+      }
+    ],
+    "Plate": [
+      {
+        "name": "Plata za 5-6 osoba",
+        "desc": "5 lepinja, 5 ćevapa, 5 šiš ćevapa, 2 pileća batka, 5 pilećih ražnjića, 300 gr pilećeg bijelog mesa, 3 porcije pomfrita, salata",
+        "price": 75.0
+      },
+      {
+        "name": "Plata za 3-4 osobe",
+        "desc": "4 lepinje, 3 ćevapa, 3 pileća batka, 300 gr pilećeg bijelog mesa, 3 kobasice, salata",
+        "price": 39.0
+      },
+      {
+        "name": "Plata za 2-3 osobe",
+        "desc": "3 lepinje, 2 ćevapa, 2 šiš ćevapa, 2 kobasice, porcija pomfrita, salata",
+        "price": 19.0
+      },
+      {
+        "name": "Biljana kombinacija",
+        "desc": "Ploča, kobasica i batak, pomfrit, salata",
+        "price": 14.0
+      }
+    ],
+    "Riba": [
+      {
+        "name": "Dimljeni šaran s pomfritom",
+        "desc": "Velika porcija",
+        "price": 15.0
+      },
+      {
+        "name": "Pastrmka s pomfritom",
+        "desc": "Velika porcija",
+        "price": 14.0
+      },
+      {
+        "name": "Pastrmka komad",
+        "desc": "Komad",
+        "price": 11.5
+      },
+      {
+        "name": "Oslić s pomfritom",
+        "desc": "Srednja ili velika porcija",
+        "price": 6.3
+      },
+      {
+        "name": "Šaran komad",
+        "desc": "Komad",
+        "price": 5.75
+      },
+      {
+        "name": "Oslić komad",
+        "desc": "Komad",
+        "price": 3.25
+      }
+    ],
+    "Salata": [
+      {
+        "name": "Salata",
+        "desc": "Sezonsko povrće",
+        "price": 3.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Šampinjoni na žaru 200 gr",
+        "desc": "200 gr",
+        "price": 5.0
+      },
+      {
+        "name": "Pomfrit",
+        "desc": "Pomfrit",
+        "price": 2.5
+      },
+      {
+        "name": "Kajmak",
+        "desc": "Kajmak",
+        "price": 2.5
+      },
+      {
+        "name": "Lepinja",
+        "desc": "Kom",
+        "price": 1.0
+      }
+    ],
+    "Pića": [
+      {
+        "name": "Jogurt 1 l",
+        "desc": "1 l",
+        "price": 6.0
+      },
+      {
+        "name": "Vitaminka sokovi u flašici 0,20 l",
+        "desc": "Jagoda, jabuka, narandža, ribizla, multi",
+        "price": 2.5
+      },
+      {
+        "name": "Fanta 0,33 l",
+        "desc": "0,33 l",
+        "price": 2.5
+      },
+      {
+        "name": "Coca-Cola 0,33 l",
+        "desc": "0,33 l",
+        "price": 2.5
+      },
+      {
+        "name": "Ledeni čaj 0,33 l",
+        "desc": "0,33 l",
+        "price": 2.5
+      },
+      {
+        "name": "Cappy Multivitamin sok 0,20 l",
+        "desc": "0,20 l",
+        "price": 2.5
+      },
+      {
+        "name": "Cockta 0,25 l",
+        "desc": "0,25 l",
+        "price": 2.5
+      },
+      {
+        "name": "Orangina",
+        "desc": "0,25 l",
+        "price": 2.5
+      },
+      {
+        "name": "Voda sa okusom 0,33 l",
+        "desc": "0,33 l",
+        "price": 2.0
+      },
+      {
+        "name": "Mineralna voda 0,33 l",
+        "desc": "0,33 l",
+        "price": 1.5
+      }
+    ]
+  }
+}

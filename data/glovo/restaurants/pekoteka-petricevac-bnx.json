@@ -1,0 +1,190 @@
+{
+  "name": "Pekoteka Petrićevac",
+  "rating": 0.67,
+  "count": 13,
+  "service_fee": 2.8,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Čamac sa piletinom",
+        "desc": "Čamac sa piletinom",
+        "price": 4.9
+      },
+      {
+        "name": "Pita sa sirom",
+        "desc": "Motana",
+        "price": 4.1
+      },
+      {
+        "name": "Pita sa višnjama, 1 komad posno",
+        "desc": "1 Komad 100 gr, posno",
+        "price": 1.2
+      }
+    ],
+    "Obrok": [
+      {
+        "name": "Obrok jaja, šunka, slanina",
+        "desc": "Obrok",
+        "price": 4.8
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Pizza komad",
+        "desc": "Pizza Capricciosa komad",
+        "price": 3.0
+      }
+    ],
+    "Piroška": [
+      {
+        "name": "Piroška",
+        "desc": "Piroška",
+        "price": 3.0
+      },
+      {
+        "name": "Posna piroška",
+        "desc": "Posna piroška",
+        "price": 3.0
+      }
+    ],
+    "Sendviči": [
+      {
+        "name": "Sendvič šunka sir",
+        "desc": "Sendvič šunka sir",
+        "price": 3.6
+      },
+      {
+        "name": "Sendvič kulen",
+        "desc": "Sendvič kulen",
+        "price": 3.3
+      }
+    ],
+    "Piletina": [
+      {
+        "name": "Čamac sa piletinom",
+        "desc": "Čamac sa piletinom",
+        "price": 4.9
+      }
+    ],
+    "Pita": [
+      {
+        "name": "Pita sa piletinom",
+        "desc": "Motana",
+        "price": 4.9
+      },
+      {
+        "name": "Pita sa mesom",
+        "desc": "Motana",
+        "price": 4.5
+      },
+      {
+        "name": "Pita sa sirom",
+        "desc": "Motana",
+        "price": 4.1
+      },
+      {
+        "name": "Pita sa gljivama",
+        "desc": "Motana, posno",
+        "price": 4.0
+      },
+      {
+        "name": "Pita sa tikvicama",
+        "desc": "Motana, posno",
+        "price": 4.0
+      },
+      {
+        "name": "Pita sa krompirom posno",
+        "desc": "Motana, posno",
+        "price": 3.6
+      },
+      {
+        "name": "Kukuruza komad",
+        "desc": "Komad",
+        "price": 1.4
+      },
+      {
+        "name": "Pita sa jabukama 1 komad",
+        "desc": "1 Komad 100 gr",
+        "price": 1.2
+      },
+      {
+        "name": "Pita sa višnjama, 1 komad posno",
+        "desc": "1 Komad 100 gr, posno",
+        "price": 1.2
+      },
+      {
+        "name": "Panini 300 gr",
+        "desc": "300 gr",
+        "price": 1.2
+      }
+    ],
+    "Kifle": [
+      {
+        "name": "Integralna kifla 80 gr",
+        "desc": "80 gr",
+        "price": 0.7
+      },
+      {
+        "name": "Kifla slatko  slana 80 gr",
+        "desc": "80 gr",
+        "price": 0.6
+      },
+      {
+        "name": "Posna kiflica sa višnjom ili marelicom",
+        "desc": "Višnja ili marelica",
+        "price": 0.6
+      }
+    ],
+    "Kroasan": [
+      {
+        "name": "Kroasan viršla",
+        "desc": "Kroasan viršla",
+        "price": 2.0
+      },
+      {
+        "name": "Kroasan čokolada",
+        "desc": "Kroasan čokolada",
+        "price": 1.8
+      }
+    ],
+    "Desert": [
+      {
+        "name": "Čupavci pakovanje 350 gr posno",
+        "desc": "350 gr, posno",
+        "price": 4.8
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Vitalia jogurt 0,50 l",
+        "desc": "0,50 l",
+        "price": 1.9
+      },
+      {
+        "name": "Coca-Cola",
+        "desc": "Coca-Cola",
+        "price": 1.7
+      },
+      {
+        "name": "Fanta 0,50 l",
+        "desc": "0,50 l",
+        "price": 1.7
+      },
+      {
+        "name": "Schweppes 0,50 l",
+        "desc": "0,50 l",
+        "price": 1.7
+      },
+      {
+        "name": "Vitalia jogurt 0,20 I",
+        "desc": "0,20 l",
+        "price": 1.0
+      },
+      {
+        "name": "Moja Kravica 0,20 l",
+        "desc": "0,20 l",
+        "price": 1.0
+      }
+    ]
+  }
+}

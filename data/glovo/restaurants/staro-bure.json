@@ -1,0 +1,315 @@
+{
+  "name": "Staro Bure",
+  "rating": 0.95,
+  "count": 279,
+  "service_fee": 1.9,
+  "menu": {
+    "Doručak": [
+      {
+        "name": "Staro Bure doručak",
+        "desc": "3 jajeta, 6 uštipaka, 2 kugle kajmaka, 50 gr slanine pržene i 50 gr suhe peke",
+        "price": 10.0
+      },
+      {
+        "name": "Jaja sa kranjskom kobasicom",
+        "desc": "300g, kranjska kobasica, jaja, senf i uštipci",
+        "price": 9.5
+      },
+      {
+        "name": "Jaja sa kobasicom",
+        "desc": "3 jajeta, 150 gr kobasice, 5 uštipaka i senf",
+        "price": 9.0
+      },
+      {
+        "name": "Palenta sa slaninom i sirom",
+        "desc": "250 gr palente, 50 gr pržene slanine, 50 gr Travničkog sira i kugla pavlake",
+        "price": 8.0
+      },
+      {
+        "name": "Riblja čorba",
+        "desc": "Riblja čorba 500ml",
+        "price": 8.0
+      },
+      {
+        "name": "Riblja pašteta",
+        "desc": "Bijela riblja pašteta od orade 120gr",
+        "price": 8.0
+      },
+      {
+        "name": "Omlet sa šunkom i sirom",
+        "desc": "Jaja, šunka, sir",
+        "price": 7.0
+      },
+      {
+        "name": "Omlet sa povrćem",
+        "desc": "Jaja, povrće",
+        "price": 7.0
+      },
+      {
+        "name": "Omlet sa kobasicom",
+        "desc": "Jaja, kobasice",
+        "price": 7.0
+      }
+    ],
+    "Supe i čorbe": [
+      {
+        "name": "Teleća čorba",
+        "desc": "500 ml",
+        "price": 7.0
+      },
+      {
+        "name": "Mađarska čorba",
+        "desc": "500 ml",
+        "price": 7.0
+      },
+      {
+        "name": "Pileća supa",
+        "desc": "500 ml",
+        "price": 5.5
+      }
+    ],
+    "Plate": [
+      {
+        "name": "Plata za četiri osobe",
+        "desc": "300 gr ćevapa, 400 gr mesni uštipci, svinjski kotlet 1 komad, svinjski vrat 1 komad, bijelo meso 200gr, kobasice 150 gr, 500 gr pomfrita, 5 malih lepinja, 2 kugle urnebes",
+        "price": 60.0
+      },
+      {
+        "name": "Plata za dvije osobe",
+        "desc": "150gr ćevapa, 200 gr mesni uštipci, svinjski kotlet 1 komad, svinjski vrat 1 komad, kobasice 100 gr, pomfrita 300 gr, 2 velike lepinje, kugla urnebesa",
+        "price": 35.0
+      }
+    ],
+    "Roštilj": [
+      {
+        "name": "Karađorđeva",
+        "desc": "500 gr teleće šnicle, 200 gr pekarskog krompira, Tartar sos\ni hljeb",
+        "price": 25.0
+      },
+      {
+        "name": "Filovani batak",
+        "desc": "400 gr bataka, 200 gr pekarskog krompira, lepinja i kugla urnebesa",
+        "price": 21.0
+      },
+      {
+        "name": "Filovana vješalica",
+        "desc": "400 gr vješalica, 200 gr pekarskog krompira, lepinja i kugla urnebesa",
+        "price": 20.0
+      },
+      {
+        "name": "Ćevapi sa kajmakom",
+        "desc": "300 gr mesa, 200 gr pomfrita i lepinja",
+        "price": 18.5
+      },
+      {
+        "name": "Gurmanska pljeskavica",
+        "desc": "300 gr mesa, 200 gr pomfrita, 50 gr slanine, 50 gr sira, lepinja",
+        "price": 17.0
+      },
+      {
+        "name": "Punjena pljeskavica sa kajmakom",
+        "desc": "300 gr mesa, 70 gr kajmaka, 200 gr pomfrita i lepinja",
+        "price": 17.0
+      },
+      {
+        "name": "Mesni uštipak",
+        "desc": "400 gr mesa, 200 gr pomfrita i lepinja",
+        "price": 15.0
+      },
+      {
+        "name": "Ćevapi",
+        "desc": "300 gr mesa, 200 gr pomfrita i lepinja",
+        "price": 15.0
+      },
+      {
+        "name": "Bijela vješalica",
+        "desc": "270 gr mesa, 200 gr pomfrita i lepinja",
+        "price": 15.0
+      },
+      {
+        "name": "Ražnjići sa slaninom",
+        "desc": "3 komada, 200 gr pomfrita i lepinja",
+        "price": 14.0
+      },
+      {
+        "name": "Svinjska krmenadla",
+        "desc": "300 gr mesa, 200 gr pomfrita i lepinja",
+        "price": 14.0
+      },
+      {
+        "name": "Bijelo meso",
+        "desc": "250 gr piletine, 200 gr pomfrita i lepinja",
+        "price": 13.5
+      },
+      {
+        "name": "Svinjski vrat",
+        "desc": "250 gr vrata, 200 gr pomfrita i lepinja",
+        "price": 13.0
+      },
+      {
+        "name": "Kobasice",
+        "desc": "250 gr kobasica, 200 gr pomfrita i lepinja",
+        "price": 10.0
+      }
+    ],
+    "Glavna jela": [
+      {
+        "name": "Cordon bleu",
+        "desc": "350g, pomfrit 100g",
+        "price": 19.0
+      },
+      {
+        "name": "Piletina u sosu od Mozzarele sa njokama",
+        "desc": "400g, piletina, Mozzarella, rukola i njoke",
+        "price": 19.0
+      },
+      {
+        "name": "Piletina u sosu od lješnika",
+        "desc": "400g, piletina, sos od lješnika, pekarski krompir i rukola",
+        "price": 19.0
+      }
+    ],
+    "Gotova jela": [
+      {
+        "name": "Gulaš sa njokama i kupus salata",
+        "desc": "Gulaš, njoke, kupus salata",
+        "price": 14.0
+      },
+      {
+        "name": "Musaka sa kupus salatom",
+        "desc": "Musaka, krompir salata",
+        "price": 13.0
+      },
+      {
+        "name": "Punjene paprike sa pireom i kupus salatom",
+        "desc": "Paprike, pire, kupus salata",
+        "price": 13.0
+      }
+    ],
+    "Koljenica i rebarca": [
+      {
+        "name": "Zapečena koljenica u sosu",
+        "desc": "400 gr otkoštene koljenice, 200 gr pekarskog, kajmak 150 gr i hljeb",
+        "price": 23.0
+      }
+    ],
+    "Paste": [
+      {
+        "name": "Pasta Staro Bure",
+        "desc": "300g, biftek i sos od tartufa sa tjestaninom kazarece",
+        "price": 19.0
+      },
+      {
+        "name": "Tagliatelle sa piletinom",
+        "desc": "300g, piletina, tikvica i peka",
+        "price": 16.0
+      }
+    ],
+    "Salata": [
+      {
+        "name": "Pečene paprike salata",
+        "desc": "Salata od pečenih paprika",
+        "price": 8.5
+      },
+      {
+        "name": "Šopska salata",
+        "desc": "Povrće, Feta sir",
+        "price": 6.0
+      },
+      {
+        "name": "Srpska salata",
+        "desc": "Srpska salata",
+        "price": 6.0
+      },
+      {
+        "name": "Zelena salata",
+        "desc": "Zelena salata",
+        "price": 6.0
+      },
+      {
+        "name": "Paradajz salata",
+        "desc": "Paradajz",
+        "price": 6.0
+      },
+      {
+        "name": "Krastavac salata",
+        "desc": "Krastavac",
+        "price": 6.0
+      },
+      {
+        "name": "Mix salata",
+        "desc": "Mix salata",
+        "price": 6.0
+      },
+      {
+        "name": "Kupus salata",
+        "desc": "Kupus",
+        "price": 5.0
+      },
+      {
+        "name": "Urnebes salata",
+        "desc": "Urnebes salata",
+        "price": 2.0
+      },
+      {
+        "name": "Feferoni salata",
+        "desc": "Feferoni",
+        "price": 1.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Grilovani povrće 250 gr",
+        "desc": "250 gr",
+        "price": 7.0
+      },
+      {
+        "name": "Bareno povrće 250 gr",
+        "desc": "250 gr",
+        "price": 7.0
+      },
+      {
+        "name": "Pomfrit",
+        "desc": "Pomfrit",
+        "price": 4.0
+      },
+      {
+        "name": "Kajmak",
+        "desc": "Kugla",
+        "price": 3.5
+      },
+      {
+        "name": "Domaći hljeb",
+        "desc": "Domaći hljeb",
+        "price": 2.0
+      },
+      {
+        "name": "Urnebes",
+        "desc": "Kugla",
+        "price": 2.0
+      },
+      {
+        "name": "Ajvar",
+        "desc": "Kugla",
+        "price": 2.0
+      },
+      {
+        "name": "Tartar",
+        "desc": "Tartar",
+        "price": 1.0
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Slatka palačinka",
+        "desc": "Tijesto za palačinke, namaz po izboru",
+        "price": 10.0
+      },
+      {
+        "name": "Tres leches",
+        "desc": "Tres leches",
+        "price": 7.0
+      }
+    ]
+  }
+}

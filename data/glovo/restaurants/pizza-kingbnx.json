@@ -1,0 +1,206 @@
+{
+  "name": "PIZZA KING",
+  "rating": 0.93,
+  "count": 92,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Grill Pizza",
+        "desc": "Domaći paradajz sos, Mozzarella, svježa kobasica i BBQ sos",
+        "price": 11.5
+      },
+      {
+        "name": "Pizza King",
+        "desc": "Domaći paradajz sos, Italijanska kobasica, svježa roštiljska kobasica, Mozzarella, sjeckana panceta",
+        "price": 11.5
+      },
+      {
+        "name": "Kremasta Italijanska Pizza L 28 cm",
+        "desc": "Kremasti tajni sos, piletina u Gorgonzola sosu i Mozzarella",
+        "price": 11.5
+      }
+    ],
+    "Pizze": [
+      {
+        "name": "Kremasta Margherita XL 33 cm",
+        "desc": "Mozzarella i kremasti Garlic sos, Pizza Bianca",
+        "price": 14.9
+      },
+      {
+        "name": "Kremasta Italijanska Pizza XL 33 cm",
+        "desc": "Kremasti tajni sos, piletina u Gorgonzola sosu i Mozzarella",
+        "price": 14.9
+      },
+      {
+        "name": "New York Pizza XL 33 cm",
+        "desc": "Domaći paradajz sos, puno Italijanske kobasice i Mozzarella",
+        "price": 14.9
+      },
+      {
+        "name": "Grill Pizza",
+        "desc": "Domaći paradajz sos, Mozzarella, svježa kobasica i BBQ sos",
+        "price": 11.5
+      },
+      {
+        "name": "Capricciosa PIZZA KING",
+        "desc": "Domaći paradajz sos, kuhana šunka, dinstani šampinjoni i Mozzarella",
+        "price": 11.5
+      },
+      {
+        "name": "Kremasta Pizza sa Šampinjonima",
+        "desc": "Kremasti tajni sos, dinstani šampinjoni i Mozzarella",
+        "price": 11.5
+      },
+      {
+        "name": "Šunka i Tri Sira",
+        "desc": "Domaći paradajz sos, kuhana šunka, Mozzarella, Maasdam i Grana Padano",
+        "price": 11.5
+      },
+      {
+        "name": "Pizza sa Piletinom i Slaninom",
+        "desc": "Kremasti tajni sos, domaći paradajz sos, Mozzarella, piletina u Gorgonzola sosu i sjeckana slanina",
+        "price": 11.5
+      },
+      {
+        "name": "Kremasta Garlic Capricciosa",
+        "desc": "Kremasti tajni sos, kuhana šunka, šampinjoni i Mozzarella",
+        "price": 11.5
+      },
+      {
+        "name": "Kremasta Margherita L 28 cm",
+        "desc": "Mozzarella i kremasti Garlic sos, Pizza Bianca",
+        "price": 11.5
+      },
+      {
+        "name": "18 Plus",
+        "desc": "Domaći paradajz sos, svježa pikantna kobasica, ljuti sos, ljute paprike i feferoni. Jako ljuta!",
+        "price": 11.5
+      },
+      {
+        "name": "Dominator",
+        "desc": "Domaći paradajz sos, puno svježe kobasice i Mozzarella",
+        "price": 11.5
+      },
+      {
+        "name": "Bambola",
+        "desc": "Sa kulenom, dinstanim šampinjonima, zelenom paprikom i domaćim paradajz sosom",
+        "price": 11.5
+      },
+      {
+        "name": "Banjalučka",
+        "desc": "Domaći paradajz sos, Mozzarella, dinstani šampinjoni, kulen, Sremska i sjeckana panceta",
+        "price": 11.5
+      },
+      {
+        "name": "Kremasta Grill Pizza",
+        "desc": "Svježa roštiljska kobasica, Mozzarella i tajni sos",
+        "price": 11.5
+      },
+      {
+        "name": "Kremasta Italijanska Pizza L 28 cm",
+        "desc": "Kremasti tajni sos, piletina u Gorgonzola sosu i Mozzarella",
+        "price": 11.5
+      },
+      {
+        "name": "New York Pizza L 28 cm",
+        "desc": "Domaći paradajz sos, puno Italijanske kobasice i Mozzarella",
+        "price": 11.5
+      },
+      {
+        "name": "Pizza King",
+        "desc": "Domaći paradajz sos, Italijanska kobasica, svježa roštiljska kobasica, Mozzarella, sjeckana panceta",
+        "price": 11.5
+      },
+      {
+        "name": "Pizza Gringo",
+        "desc": "Domaći paradajz sos, BBQ sos, Mozzarella, piletina u Gorgonzola sosu i luk",
+        "price": 11.5
+      },
+      {
+        "name": "Pizza sa 3 Vrste Mesa",
+        "desc": "Domaći paradajz sos, Mozzarella, kulen, sjeckana panceta i svježa roštiljska kobasica",
+        "price": 11.5
+      },
+      {
+        "name": "Pizza Ljuti Sremac",
+        "desc": "Domaći paradajz sos, Sremska kobasica i feferoni",
+        "price": 11.5
+      },
+      {
+        "name": "Povrtna Pizza",
+        "desc": "Domaći paradajz sos, dinstani šampinjoni, pržena paprika, crne masline, malo luka i Mozzarella",
+        "price": 11.5
+      },
+      {
+        "name": "Super Pizza sa Pet Vrsta Mesa",
+        "desc": "Domaći paradajz sos, Mozzarella, kuhana šunka, kulen, svježa kobasica, Sremska kobasica i sjeckana panceta",
+        "price": 11.5
+      },
+      {
+        "name": "Pizza Pesto Amore",
+        "desc": "Domaći paradajz sos, Pesto Genovese, Kozji sir, Mozzarella, pečena paprika i luk",
+        "price": 11.5
+      },
+      {
+        "name": "Pikantna Pizza sa Piletinom",
+        "desc": "Domaći paradajz sos, Mozzarella, piletina u Gorgonzola sosu, luk, ljuta paprika i BBQ sos",
+        "price": 11.5
+      },
+      {
+        "name": "Povrtna sa Kozjim Sirom",
+        "desc": "Piletina u Gorgonzola sosu, kremasti tajni sos i Mozzarella",
+        "price": 11.5
+      },
+      {
+        "name": "Superiorna Mesna Pizza",
+        "desc": "Domaći paradajz sos, Mozzarella, kuhana šunka, kulen, zimska i sjeckana panceta",
+        "price": 11.5
+      },
+      {
+        "name": "Zimska Pizza",
+        "desc": "Domaći paradajz sos, zimska kobasica i Mozzarella",
+        "price": 11.5
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pomfrit POSEBNO",
+        "desc": "Pomfrit",
+        "price": 3.0
+      },
+      {
+        "name": "Pomfrit preko pizze",
+        "desc": "Pomfrit preko pizze",
+        "price": 2.5
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Coca-Cola",
+        "desc": "Coca-Cola",
+        "price": 2.5
+      },
+      {
+        "name": "Coca-Cola zero",
+        "desc": "Coca-Cola zero",
+        "price": 2.5
+      },
+      {
+        "name": "Fanta",
+        "desc": "Fanta",
+        "price": 2.5
+      },
+      {
+        "name": "Sprite",
+        "desc": "Sprite",
+        "price": 2.5
+      },
+      {
+        "name": "Fuze tea",
+        "desc": "Fuze tea",
+        "price": 2.5
+      }
+    ]
+  }
+}

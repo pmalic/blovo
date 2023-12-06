@@ -1,0 +1,313 @@
+{
+  "name": "Pizzeria Ciao amore kod Tonija",
+  "rating": 0.9,
+  "count": 58,
+  "service_fee": 1.9,
+  "menu": {
+    "Male debele Pizze 23 cm od 7 KM": [
+      {
+        "name": "Parma",
+        "desc": "Pelat prsut paradijs rukola mozzarella",
+        "price": 9.0
+      },
+      {
+        "name": "Due formaggi",
+        "desc": "Pelat Gorgonzola mascarpone",
+        "price": 8.0
+      },
+      {
+        "name": "Vulcano",
+        "desc": "Pelat šunka glive sir",
+        "price": 7.5
+      },
+      {
+        "name": "Grassa",
+        "desc": "Pelat mozzarella slanina jaja biber extra dievičansko maslino ulije",
+        "price": 7.0
+      },
+      {
+        "name": "Marinara",
+        "desc": "Pelat extra dievičansko maslino ulije bieli luk",
+        "price": 7.0
+      }
+    ],
+    "Nova pizza": [
+      {
+        "name": "Pizza Alcapone",
+        "desc": "Paradjz sos mozzarella slanina Kobacica Pršut  mascarpone Extra dievičansko maslino ulije",
+        "price": 30.0
+      }
+    ],
+    "Pizza Classica    34 cm": [
+      {
+        "name": "Alcapone",
+        "desc": "Paradjz sos mozzarella slanina Kobacica prsut mascarpone",
+        "price": 30.0
+      },
+      {
+        "name": "Pizza Quattro Staggioni 34 cm",
+        "desc": "Paradajz sos, Mozzarella, gljive, šunka, pancetta, kobasica, kapari",
+        "price": 18.5
+      },
+      {
+        "name": "Pizza Carbonara 34 cm",
+        "desc": "Paradajz sos, Mozzarella, šunka, italijanska kobasica, pancetta",
+        "price": 17.5
+      },
+      {
+        "name": "Pizza Quattro Formaggi 34 cm",
+        "desc": "Paradajz sos, Mozzarella, Gorgonzola, tvrdi sir, Parmezan",
+        "price": 17.5
+      },
+      {
+        "name": "Pizza Calzone 34 cm",
+        "desc": "Paradajz sos, Mozzarella, šunka, italijanska kobasica, pileći file",
+        "price": 17.0
+      },
+      {
+        "name": "Pizza Trattoria 34 cm",
+        "desc": "Paradajz sos, Mozzarella, milanska kobasica, paradajz, rukola",
+        "price": 16.5
+      },
+      {
+        "name": "Pizza Paesana 34 cm",
+        "desc": "Paradajz sos, Mozzarella, šunka, kobasica, luk, paprika",
+        "price": 16.0
+      },
+      {
+        "name": "Pizza Posna 34 cm",
+        "desc": "Paradajz sos, šampinjoni, kukuruz, paprika, paradajz, masline, crveni luk",
+        "price": 15.0
+      },
+      {
+        "name": "Pizza Capricciosa 34 cm",
+        "desc": "Paradajz sos, Mozzarella, šampinjoni, šunka, masline",
+        "price": 14.0
+      },
+      {
+        "name": "Pizza Peperone 34 cm",
+        "desc": "Paradajz sos, Mozzarella, šampinjoni, paprika, luk, chilli, kukuruz",
+        "price": 14.0
+      },
+      {
+        "name": "Pizza Prosciutto 34 cm",
+        "desc": "Paradajz sos,Mozzarella, šunka",
+        "price": 13.5
+      },
+      {
+        "name": "Pizza Funghi 34 cm",
+        "desc": "Paradajz sos, Mozzarella, gljive",
+        "price": 13.0
+      },
+      {
+        "name": "Pizza Margherita 34 cm",
+        "desc": "Paradajz sos, Mozzarella",
+        "price": 12.5
+      }
+    ],
+    "Pizza Speciale   34 cm": [
+      {
+        "name": "Pizza Ciao Amore 34 cm",
+        "desc": "Paradajz sos, Mozzarella, milanska kobasica, Mascarpone, cherry paradajz, rukola, Parmezan",
+        "price": 20.0
+      },
+      {
+        "name": "Pizza Capricciosa Speciale 34 cm",
+        "desc": "Paradajz sos, Mozzarella, šampinjoni, šunka, italijanska kobasica, gljive, paprika, masline",
+        "price": 18.5
+      },
+      {
+        "name": "Pizza Dello Shef 34 cm",
+        "desc": "Paradajz sos, Mozzarella, slanina, gljive, jaje, kukuruz",
+        "price": 18.5
+      },
+      {
+        "name": "Pizza Campidanese 34 cm",
+        "desc": "Paradajz sos, Mozzarella, Gorgonzola, kobasica, paradajz",
+        "price": 18.0
+      },
+      {
+        "name": "Pizza Caprese 34 cm",
+        "desc": "Paradajz sos, buffalo Mozzarella, chery paradajz, bosiljak",
+        "price": 18.0
+      },
+      {
+        "name": "Pizza Bianca 34 cm",
+        "desc": "Mozzarella, pršut, milanska kobasica, cherry, rukola",
+        "price": 18.0
+      },
+      {
+        "name": "Pizza Crudo e ruccola 34 cm",
+        "desc": "Paradajz sos, Mozzarella, pršut, cherry, rukola",
+        "price": 17.5
+      },
+      {
+        "name": "Pizza Canadese 34 cm",
+        "desc": "Paradajz sos, Mozzarella, slanina, šunka, luk, cherry, jaje",
+        "price": 17.5
+      },
+      {
+        "name": "Pizza Pollo 34 cm",
+        "desc": "Paradajz sos, Mozzarella, pileći file, cherry paradajz, Gorgonzola, biber, kukuruz",
+        "price": 17.5
+      },
+      {
+        "name": "Pizza Barbariccina 34 cm",
+        "desc": "Paradajz sos, Mozzarella, Gorgonzola sir, masline, italijanska kobasica",
+        "price": 17.5
+      },
+      {
+        "name": "Pizza Posna special 34 cm",
+        "desc": "Paradajz sos, šampinjoni, kukuruz, paprika, paradajz, masline, crveni luk, bukovača, cherry, masline, senf",
+        "price": 17.0
+      },
+      {
+        "name": "Pizza Baccio di Sole 34 cm",
+        "desc": "Paradajz sos, buffala Mozzarella, cherry paradajz, tvrdi sir, luk, kukuruz",
+        "price": 17.0
+      }
+    ],
+    "Focaccia Romana": [
+      {
+        "name": "Focaccia  Amatriciana",
+        "desc": "Mozzarella, pelat, cherry paradajz, slanina i Parmezan",
+        "price": 13.0
+      },
+      {
+        "name": "Focaccia Bogata",
+        "desc": "Pelat, Mozzarella, kobasica, slanina, Gorgonzola sir",
+        "price": 13.0
+      }
+    ],
+    "Sendviči": [
+      {
+        "name": "Puccia Parma ( domaća  Italijanska lepinja )",
+        "desc": "Domaća lepinja, , pršut, paradijs parmezan, rukola, biber maslino ulije extra dievičansko, mozzarella",
+        "price": 10.0
+      },
+      {
+        "name": "Puccia Legera",
+        "desc": "Domaća lepinja za šunka , mascarpone, rukola",
+        "price": 8.0
+      }
+    ],
+    "Novitet": [
+      {
+        "name": "Pizza Alcapone",
+        "desc": "Paradjz sos mozzarella slanina Kobacica Pršut  mascarpone Extra dievičansko maslino ulije",
+        "price": 30.0
+      },
+      {
+        "name": "Pizza Tricolore 34 cm",
+        "desc": "Pelat, bufala mozzarella, rukola, paradijs, maslino ulije extra dijeviciansko , biber, parmezan",
+        "price": 19.0
+      },
+      {
+        "name": "Pizza Bismarck 34 cm",
+        "desc": "Pelat sos mozzarella šunka,  2x jaja , slanina, maslino ulije extra dievičansko",
+        "price": 17.0
+      },
+      {
+        "name": "Puccia ( domaća  Italijanska lepinja )",
+        "desc": "Domaća lepinja, , pršut, paradijs parmezan, rukola, biber maslino ulije extra dievičansko, mozzarella",
+        "price": 10.0
+      }
+    ],
+    "Pivo": [
+      {
+        "name": "Tuborg  330 ml",
+        "desc": "330 ml",
+        "price": 4.0
+      },
+      {
+        "name": "Nektar  330 ml",
+        "desc": "330 ml",
+        "price": 2.5
+      }
+    ],
+    "Vino": [
+      {
+        "name": "Crno vino 0,75 l",
+        "desc": "Chianti",
+        "price": 28.0
+      },
+      {
+        "name": "Bijelo vino 0,70 l",
+        "desc": "0,70 l",
+        "price": 24.0
+      },
+      {
+        "name": "Rose 0,75 l",
+        "desc": "Tikveš Rose Classic",
+        "price": 24.0
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Cockta 275 ml",
+        "desc": "275 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Sok negazirani brskva 200 ml",
+        "desc": "200 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Sok negazirani jabuka 200 ml",
+        "desc": "200 ml",
+        "price": 3.0
+      },
+      {
+        "name": "San Pallegrino limun 200 ml",
+        "desc": "200 ml",
+        "price": 3.0
+      },
+      {
+        "name": "San Pallegrino narandža 200 ml",
+        "desc": "200 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Sok negazirani crna ribizla",
+        "desc": "200ml",
+        "price": 3.0
+      },
+      {
+        "name": "San Pallegrino Tonic  200 ml",
+        "desc": "200 ml",
+        "price": 3.0
+      },
+      {
+        "name": "San Pallegrino crvena narandža 200 ml",
+        "desc": "200 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Sok negazirani jagoda  200 ml",
+        "desc": "200 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Sok negazirani narandža 200 ml",
+        "desc": "200 ml",
+        "price": 3.0
+      },
+      {
+        "name": "Coca cola",
+        "desc": "33 cl",
+        "price": 3.0
+      },
+      {
+        "name": "Voda 200 ml",
+        "desc": "200 ml",
+        "price": 2.0
+      },
+      {
+        "name": "Voda gazirana 200 ml",
+        "desc": "200 ml",
+        "price": 2.0
+      }
+    ]
+  }
+}

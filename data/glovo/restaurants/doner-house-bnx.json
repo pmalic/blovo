@@ -1,0 +1,62 @@
+{
+  "name": "Haus Kebab & Doner",
+  "rating": 0.8,
+  "count": 149,
+  "service_fee": 2.3,
+  "menu": {
+    "Teleći kebab": [
+      {
+        "name": "XXL teleći kebab u lepinji 180 gr",
+        "desc": "Teletina, lepinja, prilozi po želji",
+        "price": 13.5
+      },
+      {
+        "name": "Teleći max kebab u lepinji 150 gr",
+        "desc": "Teletina, lepinja, prilozi po želji",
+        "price": 11.5
+      },
+      {
+        "name": "Teleći max kebab u tortilji 150 gr",
+        "desc": "Teletina, tortilja, prilozi po želji",
+        "price": 11.5
+      },
+      {
+        "name": "Teleći kebab u lepinji 130 gr",
+        "desc": "Teletina, lepinja, prilozi po želji",
+        "price": 9.5
+      },
+      {
+        "name": "Teleći kebab u tortilji 130 gr",
+        "desc": "Teletina, tortilja, prilozi po želji",
+        "price": 9.5
+      }
+    ],
+    "Pileći kebab": [
+      {
+        "name": "XXL pileći kebab u lepinji 180 gr",
+        "desc": "Piletina, tortilja, prilozi po želji",
+        "price": 12.5
+      },
+      {
+        "name": "Pileći max kebab u lepinji 150 gr",
+        "desc": "Piletina, lepinja, prilozi po želji",
+        "price": 10.5
+      },
+      {
+        "name": "Pileći max kebab u tortilji 150 gr",
+        "desc": "Piletina, tortilja, prilozi po želji",
+        "price": 10.5
+      },
+      {
+        "name": "Pileći kebab u lepinji 130 gr",
+        "desc": "Piletina, lepinja, prilozi po želji",
+        "price": 8.5
+      },
+      {
+        "name": "Pileći kebab u tortilji 130 gr",
+        "desc": "Piletina, tortilja, prilozi po želji",
+        "price": 8.5
+      }
+    ]
+  }
+}

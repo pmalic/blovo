@@ -1,0 +1,303 @@
+{
+  "name": "Pekoteka Malta",
+  "rating": 0.81,
+  "count": 88,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Pizza Capricciosa  32 cm",
+        "price": 7.9
+      },
+      {
+        "name": "Trileće",
+        "desc": "Trileće",
+        "price": 4.9
+      },
+      {
+        "name": "Palačinka sa Nutellom i plazmom",
+        "desc": "Tijesto, Nutella, plazma",
+        "price": 7.9
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Pizza sa pršutom i rukolom",
+        "desc": "Pizza sa pršutom i rukolom",
+        "price": 12.9
+      },
+      {
+        "name": "Pizza Malta",
+        "desc": "Pizza Malta 32 cm",
+        "price": 10.9
+      },
+      {
+        "name": "Pizza Vulkan",
+        "desc": "Pizza Vulkan  32 cm",
+        "price": 10.9
+      },
+      {
+        "name": "Pizza Pikant",
+        "desc": "Pizza Pikant   32 cm",
+        "price": 10.5
+      },
+      {
+        "name": "Pizza Vegetariana",
+        "desc": "Sos od paradajza, sir, povrće   32 cm",
+        "price": 9.5
+      },
+      {
+        "name": "Pizza Margherita",
+        "desc": "Pizza Margherita",
+        "price": 9.4
+      },
+      {
+        "name": "Pizza Margherita",
+        "desc": "Pizza Margherita 32 cm",
+        "price": 9.4
+      },
+      {
+        "name": "Pizza sa pilećom šunkom",
+        "desc": "Pizza sa pilećom šunkom  32 cm",
+        "price": 8.9
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Pizza Capricciosa  32 cm",
+        "price": 7.9
+      },
+      {
+        "name": "Posna Pizza",
+        "desc": "Posna Pizza 32 cm",
+        "price": 7.9
+      },
+      {
+        "name": "Piroška",
+        "desc": "Piroška",
+        "price": 7.9
+      },
+      {
+        "name": "Mini Capricciosa",
+        "desc": "Mini",
+        "price": 5.4
+      }
+    ],
+    "Jela od mesa": [
+      {
+        "name": "Pileći štapići sa pomfritom",
+        "desc": "Pileći štapići sa pomfritom",
+        "price": 11.9
+      },
+      {
+        "name": "Piletina Tzatziki",
+        "desc": "Piletina Tzatziki",
+        "price": 11.9
+      }
+    ],
+    "Pite": [
+      {
+        "name": "Pita piletina sa prelivom",
+        "desc": "Pita piletina sa prelivom",
+        "price": 4.8
+      },
+      {
+        "name": "Pita piletina",
+        "desc": "Pita piletina",
+        "price": 4.0
+      },
+      {
+        "name": "Pita Sirnica",
+        "desc": "Pita Sirnica",
+        "price": 3.9
+      },
+      {
+        "name": "Pita Krompiruša",
+        "desc": "Komad",
+        "price": 3.9
+      },
+      {
+        "name": "Burek",
+        "desc": "Burek",
+        "price": 3.9
+      },
+      {
+        "name": "Pita Zeljanica",
+        "desc": "Pita Zeljanica",
+        "price": 3.8
+      },
+      {
+        "name": "Lenja pita sa višnjama",
+        "desc": "Lenja pita sa višnjama",
+        "price": 3.8
+      }
+    ],
+    "Sendviči": [
+      {
+        "name": "Bavarski sendvič",
+        "desc": "Bavarski sendvič",
+        "price": 5.5
+      },
+      {
+        "name": "Kroasan sendvič sa piletinom",
+        "desc": "Kroasan sendvič sa piletinom",
+        "price": 5.5
+      },
+      {
+        "name": "Classic sendvič",
+        "desc": "Classic sendvič",
+        "price": 4.8
+      },
+      {
+        "name": "Sendvič sa kulenom",
+        "desc": "Sendvič sa kulenom",
+        "price": 4.8
+      },
+      {
+        "name": "Sendvič sa pekom",
+        "desc": "Sendvič sa pekom",
+        "price": 4.8
+      }
+    ],
+    "Pohovane palačinke": [
+      {
+        "name": "Velika pohovana palačinka Malta",
+        "desc": "2 komada",
+        "price": 9.0
+      },
+      {
+        "name": "Mala pohovana palačinka Malta",
+        "desc": "1 komad",
+        "price": 4.5
+      }
+    ],
+    "Salata": [
+      {
+        "name": "Salata sa piletinom",
+        "desc": "Salata sa piletinom",
+        "price": 8.9
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Palačinka sa Nutellom i plazmom",
+        "desc": "Tijesto, Nutella, plazma",
+        "price": 7.9
+      },
+      {
+        "name": "Palačinke sa eurokremom i plazmom",
+        "desc": "Palačinke sa eurokremom i plazmom",
+        "price": 6.9
+      },
+      {
+        "name": "Ledeni vjetar",
+        "desc": "Ledeni vjetar",
+        "price": 4.9
+      },
+      {
+        "name": "Trileće",
+        "desc": "Trileće",
+        "price": 4.9
+      },
+      {
+        "name": "Snickers kolač",
+        "desc": "Snickers",
+        "price": 4.8
+      },
+      {
+        "name": "Baklava",
+        "desc": "Baklava",
+        "price": 4.4
+      },
+      {
+        "name": "Burek sa eurokremom i plazmom",
+        "desc": "Burek sa eurokremom i plazmom",
+        "price": 3.8
+      },
+      {
+        "name": "Pita sa jabukama",
+        "desc": "Pita sa jabukama",
+        "price": 3.8
+      },
+      {
+        "name": "Krofna sa pelivom",
+        "desc": "Krofna sa pelivom",
+        "price": 3.0
+      },
+      {
+        "name": "Čoko krofna",
+        "desc": "Čoko krofna",
+        "price": 2.7
+      },
+      {
+        "name": "Snickers krofna",
+        "desc": "Snickers krofna",
+        "price": 2.5
+      },
+      {
+        "name": "Krofna čoko vanilija",
+        "desc": "Krofna čoko vanilija",
+        "price": 2.5
+      },
+      {
+        "name": "Krofna sa vanilijom",
+        "desc": "Krofna sa vanilijom",
+        "price": 2.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pomfrit",
+        "desc": "Pomfrit",
+        "price": 4.0
+      }
+    ],
+    "Pića": [
+      {
+        "name": "Fanta",
+        "desc": "Fanta",
+        "price": 2.5
+      },
+      {
+        "name": "Coca Cola",
+        "desc": "Coca Cola",
+        "price": 2.5
+      },
+      {
+        "name": "Cappy",
+        "desc": "Cappy",
+        "price": 2.5
+      },
+      {
+        "name": "Cappuccino",
+        "desc": "Cappuccino",
+        "price": 2.5
+      },
+      {
+        "name": "Ness Caffe",
+        "desc": "Ness Caffe",
+        "price": 2.5
+      },
+      {
+        "name": "Negazirana voda",
+        "desc": "Negazirana voda",
+        "price": 2.0
+      },
+      {
+        "name": "Kafa",
+        "desc": "Kafa",
+        "price": 2.0
+      },
+      {
+        "name": "Jogurt 250 ml",
+        "desc": "250 ml",
+        "price": 1.9
+      },
+      {
+        "name": "Jogurt 180 ml",
+        "desc": "180 ml",
+        "price": 1.3
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "name": "Restoran Provence",
+  "rating": 0.85,
+  "count": 46,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Teletina ispod sača",
+        "desc": "Teleći flam ispod sača sa mladim krompirom i kajmakom",
+        "price": 22.0
+      },
+      {
+        "name": "Piletina susam",
+        "desc": "Pohovana piletina sa susamom na gratiniranom krompiru i sosom od parmezana",
+        "price": 17.0
+      },
+      {
+        "name": "Karađorđeve kuglice",
+        "desc": "Karađorđeva šnicla na način kuće",
+        "price": 21.0
+      }
+    ],
+    "Predjela": [
+      {
+        "name": "Hladna plata Provansa",
+        "desc": "Sir u ulju, kajmak, kulen, pršut, svinjska peka, uštipci",
+        "price": 30.0
+      },
+      {
+        "name": "Carpaccio od hobotnice",
+        "desc": "Carpaccio od hobotnice",
+        "price": 18.0
+      },
+      {
+        "name": "4 vrste sira",
+        "desc": "Livanjski, vlašićki, gorgonzola i feta sir u začinskom maslinovom ulju po receptu kuće",
+        "price": 10.5
+      }
+    ],
+    "Supe i čorbe": [
+      {
+        "name": "Mađarska čorba",
+        "desc": "Mađarska čorba",
+        "price": 7.0
+      },
+      {
+        "name": "Potaž dana",
+        "desc": "Potaž dana",
+        "price": 6.0
+      },
+      {
+        "name": "Goveđa supa",
+        "desc": "Goveđa supa",
+        "price": 5.0
+      }
+    ],
+    "Jela od piletine": [
+      {
+        "name": "Piletina parmigiana",
+        "desc": "Panirani pileći file sa parmezanom, mozzarellom, domaćim mariniranim sosom, pasta ili rižoto",
+        "price": 18.6
+      },
+      {
+        "name": "Pileći paketići",
+        "desc": "Pileći file bardiran slaninom na grilovanim bukovačama sa sosom gorgonzola",
+        "price": 18.0
+      },
+      {
+        "name": "Piletina susam",
+        "desc": "Pohovana piletina sa susamom na gratiniranom krompiru i sosom od parmezana",
+        "price": 17.0
+      }
+    ],
+    "Jela od ćuretine": [
+      {
+        "name": "Ćuretina Caprese",
+        "desc": "Zapečeni medaljoni sa mozzarellom i paradajzom sa pesta sosom",
+        "price": 19.5
+      },
+      {
+        "name": "Ćuretina sa mlincima",
+        "desc": "Domaći mlinci, ćuretina, mileram, mozzarella, gorgonzola",
+        "price": 19.5
+      }
+    ],
+    "Glavna jela": [
+      {
+        "name": "Provansa mix plata za dvije osobe",
+        "desc": "Mix karađorđeve kuglice, ćuretina caprese, teletina ispod sača, chicken parmigiana, kobasica i prilog",
+        "price": 52.0
+      },
+      {
+        "name": "Gurmanska teletina u kajmaku",
+        "desc": "Kuhani teleći mišići u sosu od kajmaka na podlozi kuhanog krompira, cherry paradajza i rukole",
+        "price": 23.0
+      },
+      {
+        "name": "Teletina ispod sača",
+        "desc": "Teleći flam ispod sača sa mladim krompirom i kajmakom",
+        "price": 22.0
+      },
+      {
+        "name": "Karađorđeve kuglice",
+        "desc": "Karađorđeva šnicla na način kuće",
+        "price": 21.0
+      },
+      {
+        "name": "Burrito Provansa",
+        "desc": "Tortilja punjena faširanim junećim mesom i mozzarellom uz zelenu salatu i cherry paradajz",
+        "price": 14.0
+      }
+    ],
+    "Rižota i paste": [
+      {
+        "name": "Rižoto sa biftekom",
+        "desc": "Sotirano meso bifteka, arborio riža, cherry paradajz, bukovače, sos gorgonzola",
+        "price": 19.0
+      },
+      {
+        "name": "Rižoto sa ćuretinom i pršutom",
+        "desc": "Arborio riža, ćuretina, pršut, Grana Padano sir",
+        "price": 18.0
+      },
+      {
+        "name": "Pasta sa ćuretinom",
+        "desc": "Ćuretina, sušeni paradajz, mozzarella, origano, bukovača, blago pikantno",
+        "price": 18.0
+      },
+      {
+        "name": "Rižoto sa piletinom",
+        "desc": "Pileći file, tikvica, cherry paradajz, genovese sos, arborio riža, Grana Padano sir",
+        "price": 16.5
+      },
+      {
+        "name": "Pasta kurkuma",
+        "desc": "Piletina, pršut, kurkuma, bijelo vino, chips od parmezana",
+        "price": 16.5
+      },
+      {
+        "name": "Pasta Arrabiata",
+        "desc": "Pene pasta u pikantnom crvenom sosu",
+        "price": 10.0
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "Salata od hobotnice",
+        "desc": "Zelena salata, kuhana hobotnica, crveni luk, bijeli luk, cherry paradajz, limunov sok, masline",
+        "price": 21.0
+      },
+      {
+        "name": "Salata sa biftekom",
+        "desc": "Meso bifteka, kiseli krastavac, zelena salata, cherry paradajz, svježi krastavac, Cheddar sir dressing",
+        "price": 19.5
+      },
+      {
+        "name": "Salata sa tunom",
+        "desc": "Prženi komadi tune, mrkva, cherry paradajz, zelena salata, kukuruz, bijeli luk, limunov sok",
+        "price": 19.0
+      },
+      {
+        "name": "Salata sa ćuretinom",
+        "desc": "Rukola, pohovana ćuretina, “ala” kajmak, cherry paradajz",
+        "price": 18.0
+      },
+      {
+        "name": "Cezar salata",
+        "desc": "Iceberg salata, piletina, cherry paradajz, krutoni, dressing, hrskava slanina",
+        "price": 16.0
+      }
+    ],
+    "Jela od ribe": [
+      {
+        "name": "Losos",
+        "desc": "Prilog kuhani krompir i blitva",
+        "price": 30.0
+      },
+      {
+        "name": "Tuna",
+        "desc": "Prilog kuhani krompir i blitva",
+        "price": 30.0
+      },
+      {
+        "name": "Orada",
+        "desc": "Prilog kuhani krompir i blitva",
+        "price": 20.0
+      },
+      {
+        "name": "Punjenje lignje",
+        "desc": "Lignje punjenje pršutom i sirom, prilog šafran rižoto",
+        "price": 19.5
+      },
+      {
+        "name": "Lignje na žaru",
+        "desc": "Prilog kuhani krompir i blitva",
+        "price": 17.5
+      },
+      {
+        "name": "Pastrmka",
+        "desc": "Prilog kuhani krompir i blitva",
+        "price": 17.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Šopska salata",
+        "desc": "Šopska salata",
+        "price": 6.0
+      },
+      {
+        "name": "Srpska salata",
+        "desc": "Srpska salata",
+        "price": 6.0
+      },
+      {
+        "name": "Miješana salata",
+        "desc": "Miješana salata",
+        "price": 5.0
+      },
+      {
+        "name": "Paradajz salata",
+        "desc": "Paradajz salata",
+        "price": 5.0
+      },
+      {
+        "name": "Kupus salata",
+        "desc": "Kupus salata",
+        "price": 4.0
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Crepes Provansa",
+        "desc": "Palačinke i banane kuhane u našem tajnom sosu sa dodatkom sladoleda",
+        "price": 6.6
+      },
+      {
+        "name": "Palačinke po izboru",
+        "desc": "Nutella, sladoled, mljeveni plazma keks",
+        "price": 6.6
+      },
+      {
+        "name": "Tri leće",
+        "desc": "Tri leće",
+        "price": 5.0
+      }
+    ]
+  }
+}

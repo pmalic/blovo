@@ -1,0 +1,248 @@
+{
+  "name": "Kodiak burger & steak",
+  "rating": 0.93,
+  "count": 363,
+  "service_fee": 1.9,
+  "menu": {
+    "Predjelo": [
+      {
+        "name": "Kodiak premium sir plata za 6-8 osoba",
+        "desc": "Cca 1000 gr sira,  odležani ovčiji, koziji, kravlji sir, sir iz mijeha, Gorgonzola, Brie, Kamember, orašasti plodovi, med, domaći kruh",
+        "price": 60.0
+      },
+      {
+        "name": "Tartar biftek",
+        "desc": "Za dvije osobe",
+        "price": 29.0
+      },
+      {
+        "name": "Brusketi sa dimljenom pastrmkom",
+        "desc": "5 kom",
+        "price": 13.5
+      },
+      {
+        "name": "Brusketi sa pršutom",
+        "desc": "5 kom",
+        "price": 11.5
+      },
+      {
+        "name": "Brusketi sa vege namazima",
+        "desc": "Baba ganuš, hummus, muhamara, 6 kom",
+        "price": 10.5
+      },
+      {
+        "name": "Mala sir plata 125 gr",
+        "desc": "Po izboru sirevi: odležani ovčiji, koziji, kravlji sir, sir iz mijeha, Gorgonzola, Brie, Kamember, kruh, masline",
+        "price": 10.0
+      }
+    ],
+    "Burgeri": [
+      {
+        "name": "Kad jaganjci utihnu burger",
+        "desc": "200 gr 100% jagnjeći burger, domaće burger pecivo, Cheddar, baba ganuš namaz, sir iz mijeha, Tabbouleh salata",
+        "price": 15.0
+      },
+      {
+        "name": "Dugo čekani burger",
+        "desc": "200 gr 100% dry age junetina, domaće burger pecivo, Cheddar sir, zelena salata, paradajz, karamelizovani luk, Mek sos, BBQ sos",
+        "price": 15.0
+      },
+      {
+        "name": "Afrodizijak burger",
+        "desc": "200 gr 100% juneći burger, domaće burger pecivo, Mozzarella sir,  zelena salata, paradajz, bijeli sos sa tartufima, bukovače",
+        "price": 13.5
+      },
+      {
+        "name": "Halapljivac burger",
+        "desc": "200 gr 100% juneći burger, domaće burger pecivo,  Mozzarella, rukola, sweet jalapeno sos, majoneza od kikirikija",
+        "price": 13.0
+      },
+      {
+        "name": "Crispy bacon burger",
+        "desc": "200 gr 100% juneći burger, domaće burger pecivo, Cheddar sir, hrskava panceta, američka salata, karamelizovani luk, kiseli krastavci, BBQ sos",
+        "price": 13.0
+      },
+      {
+        "name": "Dečko koji obećava burger *posno *vege",
+        "desc": "Vege burger od lažnog mesa, domaće burger pecivo, Edamer ili biljni sir, tabbouleh salata, hummus",
+        "price": 13.0
+      },
+      {
+        "name": "Cheesburger",
+        "desc": "200 gr 100% juneći burger, domaće burger pecivo, Cheddar sos, Edamer, Mozzarella, Gorgonzola, paradajz, zelena salata, kiseli krastavci",
+        "price": 13.0
+      },
+      {
+        "name": "Kodiak specijal burger",
+        "desc": "200 gr 100% juneći burger, domaće burger pecivo, dimljena pastrmka, rukola, Mozzarella sir, Pesto genovese, hren sos",
+        "price": 13.0
+      },
+      {
+        "name": "Pepa prase burger",
+        "desc": "100% trgana dimljena svinjetina, domaće burger pecivo, Cheddar sos, zelena salata, BBQ sos, paradajz, kiseli krastavci",
+        "price": 12.0
+      },
+      {
+        "name": "Nuggets burger",
+        "desc": "100% pileći burger, domaće burger pecivo, Cheddar sir, zelena salata, Feta krema, paradajz",
+        "price": 12.0
+      },
+      {
+        "name": "Classic burger",
+        "desc": "200 gr 100% juneći burger, domaće burger pecivo, Cheddar sir, zelena salata, paradajz, Mek sos",
+        "price": 10.0
+      }
+    ],
+    "Steakovi": [
+      {
+        "name": "Dry aged rib eye boneless",
+        "desc": "Minimalno 45 dana suho zrijeno, bez kosti, 500 gr",
+        "price": 60.0
+      },
+      {
+        "name": "Tagliata tenderloin u maslinovom ulju",
+        "desc": "Biftek od 300 gr, Aceto balsamico",
+        "price": 37.0
+      },
+      {
+        "name": "Pfeffer tenderloin",
+        "desc": "Biftek od 300 gr, biber sos",
+        "price": 36.0
+      },
+      {
+        "name": "Tenderloin natur sa smeđim puterom",
+        "desc": "Biftek od 300 gr",
+        "price": 34.0
+      },
+      {
+        "name": "Tagliata New York strip u maslinovom ulju",
+        "desc": "Ramsteak od 300 gr, Aceto balsamico",
+        "price": 25.0
+      },
+      {
+        "name": "Pfeffer New York strip",
+        "desc": "Ramsteak od 300 gr, biber sos",
+        "price": 24.0
+      },
+      {
+        "name": "New York strip natur sa smeđim puterom",
+        "desc": "Ramsteak od 300 gr",
+        "price": 22.0
+      }
+    ],
+    "Paste": [
+      {
+        "name": "Pasta Amatricana",
+        "desc": "Pelat, domaća panceta, Parmezan",
+        "price": 14.0
+      },
+      {
+        "name": "Krem pasta sa piletinom i tikvicama",
+        "desc": "Piletina, tikvice",
+        "price": 14.0
+      },
+      {
+        "name": "Pasta Genovese *vege",
+        "desc": "Pesto sa bosiljkom, Parmezan",
+        "price": 12.0
+      }
+    ],
+    "Rižoto": [
+      {
+        "name": "Rižoto sa biftekom, bukovačama i tartufima",
+        "desc": "Arborio riža, maslac, Parmezan",
+        "price": 18.0
+      },
+      {
+        "name": "Rižoto sa šparogama i pestom od medvjeđeg luka *vege",
+        "desc": "Arborio riža, maslac, Parmezan",
+        "price": 16.0
+      }
+    ],
+    "Dječiji meni": [
+      {
+        "name": "Chicken nuggets",
+        "desc": "Medaljoni od pilećeg mesa, rešetkasti začinjeni krompir, ketchup",
+        "price": 12.0
+      },
+      {
+        "name": "Vege nuggets",
+        "desc": "Vege medaljoni od lažnog mesa, rešetkasti začinjeni krompir, ketchup",
+        "price": 12.0
+      },
+      {
+        "name": "Mini burger",
+        "desc": "100 gr 100 % juneći burger, domaće burger pecivo, Cheddar sir, zelena salata, paradajz, Mek sos, rešetkasti začinjeni krompir",
+        "price": 8.0
+      },
+      {
+        "name": "Mac & Cheese",
+        "desc": "Makaroni sa sirom",
+        "price": 8.0
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "Cezar salata",
+        "desc": "Cezar salata",
+        "price": 14.0
+      },
+      {
+        "name": "Salata sa dimljenom pastrmkom *posno",
+        "desc": "Salata sa dimljenom pastrmkom",
+        "price": 14.0
+      },
+      {
+        "name": "Caprese salata sa baby Mozzarellom i cherry paradajzom *vege",
+        "desc": "Mozzarella, cherry paradajz",
+        "price": 14.0
+      },
+      {
+        "name": "Tabbouleh salata *posno *vege",
+        "desc": "Menta, peršin, bulgur, paradajz, maslinovo ulje",
+        "price": 12.0
+      }
+    ],
+    "Prilog salate": [
+      {
+        "name": "Rukola-cherry salata sa balsamico prelivom",
+        "desc": "Rukola-cherry salata sa balsamico prelivom",
+        "price": 8.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Porcija domaćeg kruha",
+        "desc": "Porcija domaćeg kruha",
+        "price": 3.0
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Lava kolač",
+        "desc": "Mliječna i crna Belgijska čokolada, tartufi, sladoled od vanilije",
+        "price": 8.5
+      },
+      {
+        "name": "New York style Cheesecake",
+        "desc": "Tri vrste sira, bijela Belgijska čokolada i preliv od šumskog voća",
+        "price": 7.5
+      },
+      {
+        "name": "Tres leches",
+        "desc": "Lagani biskvit, tri vrste mliječne kreme, karamel",
+        "price": 6.5
+      },
+      {
+        "name": "Sladoled od vanilije sa voćnim prelivom",
+        "desc": "3 kugle",
+        "price": 4.5
+      },
+      {
+        "name": "Sladoled od vanilije sa karamela prelivom",
+        "desc": "3 kugle",
+        "price": 4.5
+      }
+    ]
+  }
+}

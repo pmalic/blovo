@@ -1,0 +1,155 @@
+{
+  "name": "Don Carlos",
+  "rating": 0.98,
+  "count": 155,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Palačinka sa piletinom",
+        "desc": "Sir za pizzu, bešamel sos, piletina, bosiljak, peršun",
+        "price": 5.0
+      },
+      {
+        "name": "Sendvič \"Don Carlos\"",
+        "desc": "Čabata, pelat, maslinovo ulje, aleva paprika, suho meso, ljuta paprika, biber u zrnu, sir Edamer, Gorgonzola u tragovima, dimljeni sir, kulen, pržena slanina, ljuta kobasica, šampinjoni",
+        "price": 7.0
+      },
+      {
+        "name": "Verdi sendvič",
+        "desc": "Tri pogačice punjene šunkom, sirom i pršutom, zapečene",
+        "price": 7.0
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Pizza Aida",
+        "desc": "Pelat, susam, lan, mak, kukuruz šećerac, bundeva, bamija, kapar, sir Edamer, Mozzarella, suha govedina, šampinjoni",
+        "price": 14.0
+      },
+      {
+        "name": "Pizza Don Karlos",
+        "desc": "Pelat, maslinovo ulje, aleva paprika, suho meso, ljuta paprika, biber u zrnu, sir Edamer, Gorgonzola u tragovima, dimljeni sir, kulen, pržena slanina, ljuta kobasica, šampinjoni",
+        "price": 14.0
+      },
+      {
+        "name": "Pizza Giuseppina Strepponi",
+        "desc": "Pelat, maslinovo ulje, susam, sjemenke bundeve, Mozzarella, gljive, pršut, šunka, jaje na oko po želji",
+        "price": 14.0
+      },
+      {
+        "name": "Pizza al Pollo",
+        "desc": "Pelat, sir, piletina grilovana sa paprikom",
+        "price": 14.0
+      },
+      {
+        "name": "Pizza Trubadur",
+        "desc": "Pelat, suho meso, sjemenke bundeve, kukuruz šećerac, sir Edamer, šunka, šampinjoni",
+        "price": 13.0
+      },
+      {
+        "name": "Pizza Nabuko vegeterijana",
+        "desc": "Pelat, ljuta papričica, sjemenke bundeve, sušeni paradajz, sir Edamer, biljni sir po želji, svježa paprika, paradajz, crveni luk, bijeli luk, feferoni, sezonsko povrće, šampinjoni",
+        "price": 13.0
+      },
+      {
+        "name": "Pizza Traviata",
+        "desc": "Pelat, svježi peršun, suha ljuta paprika, sjemenke bundeve, sir Edamer, Mozzarella, tuna, crveni luk, bijeli luk, šampinjoni",
+        "price": 13.0
+      },
+      {
+        "name": "Pizza Margarita Berezzi",
+        "desc": "Pelat, susam, mak, lan, sjemenke bundeve, sušeni paradajz, kukuruz šećerac, bamija, Edamer, Mozzarella, dimljeni sir, Gorgonzola",
+        "price": 13.0
+      }
+    ],
+    "Sendviči": [
+      {
+        "name": "Fili cheese steak biftek",
+        "desc": "Tri pogačice punjene grilovanim povrćem, biftekom i Mozzarelom, zapečene",
+        "price": 14.0
+      },
+      {
+        "name": "Fili cheese steak piletina",
+        "desc": "Tri pogačice punjene grilovanim povrćem, piletinom i Mozzarellom, zapečene",
+        "price": 10.0
+      },
+      {
+        "name": "Verdi sendvič",
+        "desc": "Tri pogačice punjene šunkom, sirom i pršutom, zapečene",
+        "price": 7.0
+      },
+      {
+        "name": "Sendvič Al Pollo",
+        "desc": "Pelat, sir, piletina grilovana sa paprikom",
+        "price": 7.0
+      },
+      {
+        "name": "Sendvič Bolognese",
+        "desc": "Čabata, Bolognese nadjev, paprika i sir",
+        "price": 7.0
+      },
+      {
+        "name": "Sendvič \"Don Carlos\"",
+        "desc": "Čabata, pelat, maslinovo ulje, aleva paprika, suho meso, ljuta paprika, biber u zrnu, sir Edamer, Gorgonzola u tragovima, dimljeni sir, kulen, pržena slanina, ljuta kobasica, šampinjoni",
+        "price": 7.0
+      },
+      {
+        "name": "Sendvič Giuseppina",
+        "desc": "Čabata, pelat, maslinovo ulje, susam, sjemenke bundeve, Mozzarella, gljive, pršut, šunka",
+        "price": 7.0
+      },
+      {
+        "name": "Sendvič Aida",
+        "desc": "Čabata, pelat, susam, lan, mak, kukuruz šećerac, bundeva, bamija, kapar, sir Edamer, Mozzarella, suha govedina, šampinjoni",
+        "price": 7.0
+      },
+      {
+        "name": "Sendvič Traviata",
+        "desc": "Čabata, pelat, svježi peršun, suha ljuta paprika, sjemenke bundeve, sir Edamer, Mozzarella, tuna, crveni luk, bijeli luk, šampinjoni",
+        "price": 6.0
+      },
+      {
+        "name": "Sendvič doručak",
+        "desc": "Čabata, tri jaja, pržena slanina, sir",
+        "price": 6.0
+      },
+      {
+        "name": "Sendvič sa kobasicom i sirom",
+        "desc": "Kobasica, sir",
+        "price": 6.0
+      },
+      {
+        "name": "Sendvič Trubadur",
+        "desc": "Čabata, pelat, suho meso, sir Edamer, šunka, šampinjoni",
+        "price": 6.0
+      },
+      {
+        "name": "Sendvič Nabucco",
+        "desc": "Čabata, pelat, ljuta papričica, sjemenke bundeve, sušeni paradajz, sir Edamer, biljni sir po želji, svježa paprika, paradajz, crveni luk, bijeli luk, feferoni, sezonsko povrće, šampinjoni",
+        "price": 6.0
+      },
+      {
+        "name": "Sendvič Margarita",
+        "desc": "Čabata, pelat, susam, mak, lan, sjemenke bundeve, sušeni paradajz, kukuruz šećerac, bamija, Edamer, Mozzarella, dimljeni sir, Gorgonzola",
+        "price": 6.0
+      }
+    ],
+    "Palačinke": [
+      {
+        "name": "Palačinka sa piletinom",
+        "desc": "Sir za pizzu, bešamel sos, piletina, bosiljak, peršun",
+        "price": 5.0
+      },
+      {
+        "name": "Palačinka sa sirom i šunkom",
+        "desc": "Sir za pizzu, šunka, pršut, mladi sir, zapečene i prelivene sosom",
+        "price": 5.0
+      },
+      {
+        "name": "Palačinka sa Nutellom i Plazmom",
+        "price": 3.5
+      }
+    ]
+  }
+}

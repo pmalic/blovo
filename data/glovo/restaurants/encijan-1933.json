@@ -1,0 +1,126 @@
+{
+  "name": "Encijan 1933",
+  "rating": null,
+  "count": null,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Banjalučki ćevapi",
+        "desc": "Mala, srednja ili velika porcija",
+        "price": 5.0
+      }
+    ],
+    "Jela s roštilja": [
+      {
+        "name": "Miješano meso",
+        "desc": "Veliki ćevap, srednji šiš ćevap, srednji rolovani ražnjići, krpice, mala pljeskavica, mala dimljena kobasica, pomfrit",
+        "price": 39.7
+      },
+      {
+        "name": "Svježa vješalica 200 gr",
+        "desc": "200 gr",
+        "price": 8.7
+      },
+      {
+        "name": "Galski ražnjići",
+        "desc": "Mala ili velika porcija",
+        "price": 7.7
+      },
+      {
+        "name": "Pileći batak 250 gr",
+        "desc": "250 gr",
+        "price": 5.9
+      },
+      {
+        "name": "Kobasica dimljena",
+        "desc": "Mala, srednja ili velika porcija",
+        "price": 5.2
+      },
+      {
+        "name": "Banjalučki ćevapi",
+        "desc": "Mala, srednja ili velika porcija",
+        "price": 5.0
+      },
+      {
+        "name": "Pljeskavica",
+        "desc": "Mala, srednja ili velika",
+        "price": 5.0
+      },
+      {
+        "name": "Teleći ražnjići",
+        "desc": "Mala, srednja ili velika porcija",
+        "price": 5.0
+      },
+      {
+        "name": "Pileće krpice",
+        "desc": "Mala, srednja ili velika porcija",
+        "price": 5.0
+      },
+      {
+        "name": "Šiš ćevapi",
+        "desc": "Mala, srednja ili velika porcija",
+        "price": 3.9
+      },
+      {
+        "name": "Rolovani ražnjići",
+        "desc": "Mala, srednja ili velika porcija",
+        "price": 3.9
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Kajmak janjski 50 gr",
+        "desc": "50 gr *Slika je simbolična",
+        "price": 2.5
+      },
+      {
+        "name": "Lepinja",
+        "desc": "Lepinja *Slika je simbolična",
+        "price": 1.0
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Cappy breskva 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Cappy crna ribizla 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Cappy jabuka 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Cappy juice 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Cockta 0.275 l",
+        "desc": "0.275 l",
+        "price": 3.0
+      },
+      {
+        "name": "Ledeni čaj brusnica 0.25 l",
+        "desc": "0.25 l",
+        "price": 2.5
+      },
+      {
+        "name": "Ledeni čaj breskva 0.25 l",
+        "desc": "0.25 l",
+        "price": 2.5
+      },
+      {
+        "name": "Olimpija 0.33 l",
+        "desc": "0.33 l",
+        "price": 1.5
+      }
+    ]
+  }
+}

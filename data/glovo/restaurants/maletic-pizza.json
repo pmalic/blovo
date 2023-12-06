@@ -1,0 +1,227 @@
+{
+  "name": "Maletić pizza",
+  "rating": 0.97,
+  "count": 303,
+  "service_fee": 2.3,
+  "menu": {
+    "Meni ponuda i smrznute pite": [
+      {
+        "name": "Specijalitet meni",
+        "desc": "Specijalitet 24 cm, knedla višnja-cherry, Coca-Cola 0.25 l",
+        "price": 14.0
+      },
+      {
+        "name": "Burek smrznuti 900g",
+        "desc": "Brine te da li će tvoja hrana stići vruća? \nPoruči smrznuti burek i za samo 25 minuta spremi najukusniju pitu u vlastitoj rerni!",
+        "price": 11.5
+      },
+      {
+        "name": "Capricciosa meni",
+        "desc": "Capricciosa 24 cm, knedla Nutella, Coca-Cola 0.25 l",
+        "price": 10.5
+      },
+      {
+        "name": "Sirnica smrznuta 900g",
+        "desc": "Brine te da li će tvoja hrana stići vruća? \nPoruči smrznutu sirnicu i za samo 25 minuta spremi najukusniju pitu u vlastitoj rerni!",
+        "price": 9.8
+      },
+      {
+        "name": "Gurmanski meni",
+        "desc": "Gurmanska pita, krofna sa eurokremom, jogurt 0.5 l",
+        "price": 8.0
+      }
+    ],
+    "Pizza iz krušne peći": [
+      {
+        "name": "Specijalitet kuće",
+        "desc": "Sir, šunka, pršut, kulen, pavlaka, gljive, pelat, masline, feferoni, origano",
+        "price": 9.5
+      },
+      {
+        "name": "Prosciutto e rucola",
+        "desc": "Pelat, sir, pršut, rukola, cherry paradajz, parmezan",
+        "price": 8.5
+      },
+      {
+        "name": "Quattro Stagioni",
+        "desc": "Sir, pelat, kulen, šunka, gljive, origano",
+        "price": 7.5
+      },
+      {
+        "name": "Quattro Formaggi",
+        "desc": "Pelat, pizza sir, mozzarella, gorgonzona, parmezan, origano",
+        "price": 7.5
+      },
+      {
+        "name": "Pizza Carbonara",
+        "desc": "Pelat, slanina, feta sir, kukuruz, gljive, origano",
+        "price": 7.5
+      },
+      {
+        "name": "Posna sa tunjevinom",
+        "desc": "Posni sir, pelat, gljive, tunjevina, origano",
+        "price": 7.0
+      },
+      {
+        "name": "Kulen",
+        "desc": "Sir, pelat, kulen, origano",
+        "price": 7.0
+      },
+      {
+        "name": "Capricciosa",
+        "desc": "Sir, šunka, gljive, pelat, origano",
+        "price": 6.0
+      },
+      {
+        "name": "Pizza Vesuvio",
+        "desc": "Sir, šunka, pelat, origano",
+        "price": 6.0
+      },
+      {
+        "name": "Vegetariana",
+        "desc": "Sir, pelat, kukuruz, paprika, gljive, origano",
+        "price": 6.0
+      },
+      {
+        "name": "Margherita",
+        "desc": "Sir, pelat, origano",
+        "price": 5.5
+      },
+      {
+        "name": "Posna bez tunjevine",
+        "desc": "Posni sir, pelat, gljive, origano",
+        "price": 5.5
+      },
+      {
+        "name": "Calzone",
+        "desc": "Sos, sir, šunka, preklopljena pizza",
+        "price": 5.5
+      }
+    ],
+    "Pita": [
+      {
+        "name": "Sirnica vagana",
+        "desc": "Sirnica vagana",
+        "price": 7.4
+      },
+      {
+        "name": "Gurmanska pita 300 gr",
+        "desc": "300  gr",
+        "price": 4.7
+      },
+      {
+        "name": "Burek domaći 300 gr",
+        "desc": "300  gr",
+        "price": 4.1
+      },
+      {
+        "name": "Krompiruša domaća 300 gr",
+        "desc": "300  gr",
+        "price": 3.7
+      },
+      {
+        "name": "Sirnica domaća 300 gr",
+        "desc": "300  gr",
+        "price": 3.7
+      }
+    ],
+    "Knedle": [
+      {
+        "name": "Knedla višnja-cherry",
+        "desc": "Višnja-cherry",
+        "price": 2.9
+      },
+      {
+        "name": "Knedla Raffaello",
+        "desc": "Krompirovo tijesto, Raffaello",
+        "price": 2.9
+      },
+      {
+        "name": "Knedla sa šumskim voćem",
+        "desc": "Krompirovo tijesto punjeno šumskim voćem",
+        "price": 2.9
+      },
+      {
+        "name": "Knedla Nutella",
+        "desc": "Krompirovo tijesto, čokoladni krem Nutella",
+        "price": 2.9
+      },
+      {
+        "name": "Knedla sa šljivama",
+        "desc": "Krompirovo tijesto punjeno šljivama",
+        "price": 2.3
+      }
+    ],
+    "Desert": [
+      {
+        "name": "Orah šnita 125 gr",
+        "desc": "125 gr",
+        "price": 3.6
+      },
+      {
+        "name": "Šampita 170 gr",
+        "desc": "170 gr",
+        "price": 2.7
+      },
+      {
+        "name": "Američka krofna trostruka čokolada",
+        "desc": "Prelivena i punjena trostrukom čokoladom",
+        "price": 2.2
+      },
+      {
+        "name": "Američka krofna preliv čokolada",
+        "desc": "Preliv od čokolade",
+        "price": 1.6
+      },
+      {
+        "name": "Krofna sa eurokremom",
+        "desc": "Punjenje eurokremom",
+        "price": 1.6
+      },
+      {
+        "name": "Krofna sa marmeladom",
+        "desc": "Punjenje marmeladom",
+        "price": 1.6
+      },
+      {
+        "name": "Slatka pita sa višnjama",
+        "desc": "Slatka pita sa višnjama",
+        "price": 1.32
+      }
+    ],
+    "Pića": [
+      {
+        "name": "Coca-Cola 0.25 l",
+        "desc": "0.25 l",
+        "price": 2.0
+      },
+      {
+        "name": "Fanta 0.25 l",
+        "desc": "0.25 l",
+        "price": 2.0
+      },
+      {
+        "name": "Cappy narandža 100% 0.33 l",
+        "desc": "0.33 l",
+        "price": 2.0
+      },
+      {
+        "name": "Voda gazirana Olimpija  0.5 l",
+        "desc": "0.5 l",
+        "price": 1.5
+      }
+    ],
+    "Jogurt": [
+      {
+        "name": "Jogurt 3.2% mm 0.5 l",
+        "desc": "0.5 l",
+        "price": 1.5
+      },
+      {
+        "name": "Jogurt 3.2% mm 0.2 l",
+        "desc": "0.2 l",
+        "price": 0.8
+      }
+    ]
+  }
+}

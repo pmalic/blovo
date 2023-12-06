@@ -1,0 +1,538 @@
+{
+  "name": "San Remo",
+  "rating": 0.96,
+  "count": 52,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Sos, mozzarella, šunka, gljive, crne i zelene masline",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza San Remo",
+        "desc": "Sos, mozzarella, šunka, pršut gljive, masline",
+        "price": 12.1
+      },
+      {
+        "name": "Spaghetti Bolognese",
+        "desc": "Spaghetti Bolognese",
+        "price": 17.6
+      }
+    ],
+    "Posna jela": [
+      {
+        "name": "Tjestenina sa morskim plodovima",
+        "desc": "Tjestenina sa morskim plodovima u Napoletana sosu",
+        "price": 17.6
+      },
+      {
+        "name": "Salata sa tunjevinom",
+        "desc": "Pecivo, tunjevina, povrće",
+        "price": 17.6
+      },
+      {
+        "name": "Rižoto sa morskim plodovima",
+        "desc": "Rižoto sa morskim plodovima",
+        "price": 17.6
+      },
+      {
+        "name": "Rižoto sa gljivama",
+        "desc": "Rižoto sa gljivama",
+        "price": 15.4
+      },
+      {
+        "name": "Sendvič sa tunjevinom",
+        "desc": "Pecivo, tunjevina, povrće",
+        "price": 13.2
+      },
+      {
+        "name": "Palačinke sa džemom i orasima",
+        "desc": "Džem i orasi",
+        "price": 9.9
+      },
+      {
+        "name": "Palačinke sa čokoladom i orasima",
+        "desc": "Posna čokolada, orasi, banana",
+        "price": 9.9
+      },
+      {
+        "name": "Posni kolač",
+        "desc": "Posni kolač",
+        "price": 6.6
+      }
+    ],
+    "Posna pizza": [
+      {
+        "name": "Pizza sa tunjevinom i biljnim sirom",
+        "desc": "Tijesto, sos, biljni sir, tunjevina",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza sa dimljenim lososom",
+        "desc": "Tijesto, sos, posni sir, losos",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza sa povrćem",
+        "desc": "Tijesto, sos, posni sir, povrće",
+        "price": 8.8
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Topli sendvič",
+        "desc": "Pecivo, sir, suhi vrat, pršut, pavlaka",
+        "price": 13.2
+      },
+      {
+        "name": "San Remo doručak",
+        "desc": "San Remo doručak",
+        "price": 13.2
+      },
+      {
+        "name": "Topli sendvič sa piletinom",
+        "desc": "Topli sendvič sa piletinom",
+        "price": 13.2
+      },
+      {
+        "name": "Omlet sa pršutom i suhim vratom",
+        "desc": "Jaja, pršut, suhi vrat, pecivo, pavlaka",
+        "price": 12.0
+      },
+      {
+        "name": "Doručak Bekendex",
+        "desc": "Jaja, pecivo, slanina, pavlaka",
+        "price": 11.0
+      },
+      {
+        "name": "Omlet sa povrćem",
+        "desc": "Povrće",
+        "price": 11.0
+      },
+      {
+        "name": "Omlet sa sirom i šunkom",
+        "desc": "Sir, šunka",
+        "price": 11.0
+      },
+      {
+        "name": "Palenta",
+        "desc": "Janjski kajmak",
+        "price": 8.8
+      },
+      {
+        "name": "Tost sendvič",
+        "desc": "Tost sendvič",
+        "price": 6.05
+      }
+    ],
+    "Čorbe": [
+      {
+        "name": "Mađarska čorba",
+        "desc": "Mađarska čorba",
+        "price": 8.8
+      },
+      {
+        "name": "Teleća čorba",
+        "desc": "Teleća čorba",
+        "price": 8.8
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Porodična pizza",
+        "desc": "Sastav po izboru",
+        "price": 33.0
+      },
+      {
+        "name": "Pizza Elsaser flammkuchen",
+        "desc": "Heljdino brašno, panceta, crveni luk i pavlaka",
+        "price": 13.2
+      },
+      {
+        "name": "Pizza San Remo",
+        "desc": "Sos, mozzarella, šunka, pršut gljive, masline",
+        "price": 12.1
+      },
+      {
+        "name": "Pizza Mare",
+        "desc": "Sos, mozzarella, dagnje, lignje, hobotnica",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Quattro Formaggi",
+        "desc": "Sos, mozzarella, gorgonzola, Grana Padano, parmezan, masline",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Napolitana",
+        "desc": "Tršćanski umak, sir, fileti inćuna, vlasac",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Sos, mozzarella, šunka, gljive, crne i zelene masline",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Vegeteriana",
+        "desc": "Sos, mozzarella, povrće, masline",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Rimska",
+        "desc": "Sos, mozzarella, pršut, bosiljak, vrhnje",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Bianca",
+        "desc": "Mozzarella, šunka, gljive",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Piccante",
+        "desc": "Mozzarella, šunka, kulen, gljive, feferoni, chili",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Arrotolata",
+        "desc": "Piroška sa sirom, šunkom i vrhnje",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Calzone",
+        "desc": "Sos, mozzarella, pršut kuhano jaje",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Quattro Stagione",
+        "desc": "Sos, mozzarella, pršut, gljive, povrće, riba, masline",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza sa piletinom",
+        "desc": "Piletina",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Margherita",
+        "desc": "Sos, mozzarella",
+        "price": 8.8
+      }
+    ],
+    "Glavna jela": [
+      {
+        "name": "Grilovana piletina u gorgonzola sosu",
+        "desc": "Piletina u gorgonzola sosu",
+        "price": 22.0
+      },
+      {
+        "name": "Polo verde",
+        "desc": "Riža, piletina, špinat",
+        "price": 22.0
+      },
+      {
+        "name": "Grilovana piletina",
+        "desc": "Piletina, pomfrit",
+        "price": 18.7
+      },
+      {
+        "name": "Hrskava piletina sa susamom",
+        "desc": "Tartar, pomfrit",
+        "price": 18.7
+      },
+      {
+        "name": "Heljda uštipci sa kajmakom i pršutom",
+        "desc": "Kajmak i pršuta",
+        "price": 12.1
+      },
+      {
+        "name": "Uštipci sa kajmakom i pršutom",
+        "desc": "Kajmakom i pršutom",
+        "price": 11.0
+      },
+      {
+        "name": "Slano pecivo",
+        "desc": "Brašno, so, kvasac",
+        "price": 3.3
+      }
+    ],
+    "Pasta": [
+      {
+        "name": "Pasta tris  San Remo",
+        "desc": "Pasta tris  San Remo",
+        "price": 22.0
+      },
+      {
+        "name": "Lasagne Al Forno",
+        "desc": "Lasagne Al Forno",
+        "price": 19.8
+      },
+      {
+        "name": "Pasta Quattro Formaggi",
+        "desc": "Pasta, 4 vrste sira",
+        "price": 17.6
+      },
+      {
+        "name": "Spaghetti Bolognese",
+        "desc": "Spaghetti Bolognese",
+        "price": 17.6
+      },
+      {
+        "name": "Pasta sa piletinom, gljivama i slaninom",
+        "desc": "Pasta, piletina, gljive, i slanina",
+        "price": 17.6
+      },
+      {
+        "name": "Pasta Carbonara",
+        "desc": "Pasta Carbonara",
+        "price": 17.6
+      },
+      {
+        "name": "Pasta sa piletinom i povrćem",
+        "desc": "Soja sos",
+        "price": 17.6
+      },
+      {
+        "name": "Pasta sa morskim plodovima u bešamel sosu",
+        "desc": "Pasta, morski plodovi, bešamel sos",
+        "price": 17.6
+      },
+      {
+        "name": "Spaghetti Napoletana",
+        "desc": "Paradajz, bosiljak, parmezan",
+        "price": 15.4
+      }
+    ],
+    "Rižoto": [
+      {
+        "name": "Rižoto sa morskim plodovima",
+        "desc": "Morski plodovi, riža, paradajz sos",
+        "price": 17.6
+      },
+      {
+        "name": "Rižoto sa gljivama",
+        "desc": "Riža, gljive, paradajz sos",
+        "price": 13.2
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "San Remo salata",
+        "desc": "Povrće, tunjevina, masline, orasi, dressing",
+        "price": 19.8
+      },
+      {
+        "name": "Cezar salata",
+        "desc": "Zelena salata, piletina, slanina, dressing",
+        "price": 17.6
+      },
+      {
+        "name": "Caprese salata",
+        "desc": "Mozzarella, paradajz, bosiljak, aceto balsamico, masline",
+        "price": 17.6
+      },
+      {
+        "name": "Šopska salata",
+        "desc": "Šopska salata",
+        "price": 8.8
+      },
+      {
+        "name": "Sezonska salata",
+        "desc": "Sezonsko povrće",
+        "price": 6.6
+      }
+    ],
+    "Slane palačinke": [
+      {
+        "name": "Pohovane palačinke sa piletinom u gorgonzola sosu",
+        "desc": "Piletina, gorgonzola sos, gljive",
+        "price": 16.5
+      },
+      {
+        "name": "Zapečene palačinke sa sirom i suhim vratom",
+        "desc": "Sir, suhi vrat, vrhnje",
+        "price": 15.4
+      },
+      {
+        "name": "Pohovane palačinke sa piletinom",
+        "desc": "Piletina, vrhnje, tartar sos",
+        "price": 15.4
+      },
+      {
+        "name": "Pohovane palačinke sa sirom i šunkom",
+        "desc": "Sir, šunka, tartar",
+        "price": 13.2
+      }
+    ],
+    "Sendviči": [
+      {
+        "name": "San remo sendvič",
+        "desc": "Piletina, povrće, dressing",
+        "price": 13.2
+      }
+    ],
+    "Slatke palačinke": [
+      {
+        "name": "Slatka pasta San remo",
+        "desc": "Krema od smokve, krema od bijele čokolade sa lješnjakom (Gran Latte e Nocciola), krema od kafe, šlag, sladoled od vanilije, plazma",
+        "price": 11.0
+      },
+      {
+        "name": "Palačinke sa Nutellom i plazmom",
+        "desc": "Nutella, plazma",
+        "price": 9.9
+      },
+      {
+        "name": "Palačinke sa pistacijama",
+        "desc": "Krema od pistacije sa vaflom (Crunch pistacchio) Gran Latte e Nocciola, bijele mrvice, Amarenata (višnja), sladoled od vanille",
+        "price": 9.9
+      },
+      {
+        "name": "Voćne palačinke",
+        "desc": "Gran Latte e Nocciola, bijele mrvice, voće, šlag, sladoled",
+        "price": 9.9
+      },
+      {
+        "name": "Palačinke sa čokoladom i orasima",
+        "desc": "Čokolada, orasi",
+        "price": 9.9
+      },
+      {
+        "name": "Posni palačinci čokolada i orasi",
+        "desc": "Posna čokolada, orasi, banana",
+        "price": 9.9
+      },
+      {
+        "name": "Palačinke sa vrućim višnjama i sladoledom",
+        "desc": "Višnja, sladoled",
+        "price": 9.9
+      },
+      {
+        "name": "Palačinke sa Nutellom",
+        "desc": "Nutella, sladoled",
+        "price": 9.9
+      },
+      {
+        "name": "Palačinke sa višnjama i sladoledom",
+        "desc": "Višnje, sladoled",
+        "price": 9.9
+      },
+      {
+        "name": "San remo palačinke crespelle",
+        "desc": "Po izboru",
+        "price": 9.9
+      },
+      {
+        "name": "Posni palačinci džemi orasi",
+        "desc": "Džem, orasi",
+        "price": 9.9
+      },
+      {
+        "name": "Posni kolač",
+        "desc": "Posni kolač",
+        "price": 6.6
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Voćni Kup",
+        "desc": "Voće, sladoled, šlag",
+        "price": 11.0
+      },
+      {
+        "name": "Dnevni san remo kolač",
+        "desc": "San remo kolač",
+        "price": 8.8
+      },
+      {
+        "name": "Chessecake",
+        "desc": "Chessecake",
+        "price": 8.8
+      },
+      {
+        "name": "Dolce souffle",
+        "desc": "Dolce souffle",
+        "price": 8.8
+      },
+      {
+        "name": "Banana Split",
+        "desc": "Banana Split",
+        "price": 8.8
+      },
+      {
+        "name": "Sladoled sa vrućim prelivom od višnje",
+        "desc": "Sladoled, višnja",
+        "price": 8.8
+      },
+      {
+        "name": "Voćna Salata",
+        "desc": "Voće, šlag",
+        "price": 8.8
+      },
+      {
+        "name": "Posni San Remo kolač",
+        "desc": "Posni San Remo kolač",
+        "price": 6.6
+      },
+      {
+        "name": "Sladoled porcija 3 kugle",
+        "desc": "3 Kugle",
+        "price": 6.0
+      },
+      {
+        "name": "Knedla",
+        "desc": "1 komad",
+        "price": 2.5
+      },
+      {
+        "name": "Sladoled kugla",
+        "desc": "Kugla",
+        "price": 2.2
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pršut",
+        "desc": "100 gr",
+        "price": 8.8
+      },
+      {
+        "name": "Pomfrit",
+        "desc": "Krompir",
+        "price": 5.5
+      },
+      {
+        "name": "Kajmak",
+        "desc": "Porcija",
+        "price": 3.85
+      },
+      {
+        "name": "Pavlaka",
+        "desc": "Porcija",
+        "price": 3.3
+      },
+      {
+        "name": "Maslina",
+        "desc": "Porcija",
+        "price": 3.3
+      },
+      {
+        "name": "Feferona",
+        "desc": "Porcija",
+        "price": 3.3
+      },
+      {
+        "name": "Tartar sos",
+        "desc": "Porcija",
+        "price": 3.3
+      },
+      {
+        "name": "Nutella",
+        "desc": "Porcija",
+        "price": 3.3
+      }
+    ]
+  }
+}

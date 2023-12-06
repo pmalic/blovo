@@ -1,0 +1,560 @@
+{
+  "name": "Čova Buraz",
+  "rating": 0.98,
+  "count": 179,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Pileći štapići 200 gr",
+        "desc": "Prilog pomfrit, tartar, slatko ljuti sos",
+        "price": 11.2
+      },
+      {
+        "name": "Pileći file u sosu po izboru",
+        "desc": "Šampinjon sos ili Gorgonzola sos, prilog pomfrit",
+        "price": 12.5
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Paradajz sos, sir Edamer, sir Gauda, pileća pizza šunka, šampinjoni, maslina",
+        "price": 11.5
+      }
+    ],
+    "Doručak  od 09 do 12:30 h": [
+      {
+        "name": "Kantinin doručak za dvije osobe",
+        "desc": "Kajgana 3 jaja, roštiljska kobasica 2 kom, šunka, Feta sir, panceta, pomfrit, senf, tzatziki sos, domaći uštipci 10 kom, marmelada, sezonska salata. Dostupno od 09 do 12:30 h",
+        "price": 14.8
+      },
+      {
+        "name": "Sasvim obični doručak",
+        "desc": "3 jaja, 100 gr pilećeg filea, tzatziki sos, sezonska salata, hljeb. Dostupno od 09 do 12:30 h",
+        "price": 9.1
+      },
+      {
+        "name": "Naš doručak",
+        "desc": "3 jaja, 2 roštilj kobasice, senf, sezonska salata, hljeb. Dostupno od 09 do 12:30 h",
+        "price": 7.8
+      },
+      {
+        "name": "Pohovana palačinka",
+        "desc": "Prilog pomfrit, tartar sos. Dostupno od 09 do 12:30 h",
+        "price": 7.8
+      },
+      {
+        "name": "Omlet sa sirom i šunkom",
+        "desc": "Prilog hljeb, sezonska salata, 3 jaja, pizza šunka, sir Edamer, sir Gauda. Dostupno od 09 do 12:30 h",
+        "price": 7.8
+      }
+    ],
+    "Predjela": [
+      {
+        "name": "Hladna plata za dvije osobe",
+        "desc": "Sir, kajmak, kulen, pršut, masline, uštipci 10 kom",
+        "price": 19.3
+      },
+      {
+        "name": "Domaći uštipci preliveni kajmakom",
+        "desc": "10 kom",
+        "price": 7.3
+      },
+      {
+        "name": "Domaći uštipci preliveni sirom",
+        "desc": "10 kom",
+        "price": 6.3
+      }
+    ],
+    "Čorbe": [
+      {
+        "name": "Mađarska čorba ljuta",
+        "desc": "Prilog hljeb, sezonska salata",
+        "price": 9.1
+      },
+      {
+        "name": "Riblja čorba",
+        "desc": "Prilog hljeb, sezonska salata",
+        "price": 7.8
+      },
+      {
+        "name": "Teleća ragu čorba",
+        "desc": "Prilog hljeb, sezonska salata",
+        "price": 7.6
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Domaćinska pizza",
+        "desc": "Paradajz sos, sir Edamer, sir Gauda, pileća pizza šunka, panceta, pršut, Grana Padano, rukola, maslina",
+        "price": 23.7
+      },
+      {
+        "name": "Gurmanska pizza",
+        "desc": "Paradajz sos, sir Edamer, sir Gauda, mileram, piletina, panceta, šampinjoni, maslina",
+        "price": 21.1
+      },
+      {
+        "name": "Pizza Picante",
+        "desc": "Paradajz sos, sir Edamer, sir Gauda, kulen, chilli, ljuta papričica",
+        "price": 16.4
+      },
+      {
+        "name": "Pizza sa kobasicom",
+        "desc": "Paradajz sos, sir Edamer, sir Gauda, Feta sir, kobasice, jaje",
+        "price": 15.1
+      },
+      {
+        "name": "Pizza Al Tonno",
+        "desc": "Paradajz sos, biljni sir, tunjevina, kukuruz, crveni luk, maslina",
+        "price": 15.1
+      },
+      {
+        "name": "Pizza sa grilovanim povrćem",
+        "desc": "Paradajz sos, biljni sir, tikvice, paprika, šampinjoni, crveni luk, kukuruz, maslina",
+        "price": 12.5
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Paradajz sos, sir Edamer, sir Gauda, pileća pizza šunka, šampinjoni, maslina",
+        "price": 11.5
+      },
+      {
+        "name": "Pizza Margherita",
+        "desc": "Paradajz sos, sir Edamer, sir Gauda, maslina",
+        "price": 9.9
+      }
+    ],
+    "Specijal": [
+      {
+        "name": "Hrskava piletina u kikiriki i cornflakes sosu",
+        "desc": "Prilog pomfrit",
+        "price": 16.7
+      },
+      {
+        "name": "Tost sendvič sa lososom",
+        "desc": "Prilog pomfrit, slatko ljuti sos. Dostupno od 09 do 12:30 h",
+        "price": 14.3
+      },
+      {
+        "name": "BBQ krilca 10 kom",
+        "desc": "Prilog krompirići",
+        "price": 12.5
+      },
+      {
+        "name": "Pileći file u sosu po izboru",
+        "desc": "Šampinjon sos ili Gorgonzola sos, prilog pomfrit",
+        "price": 12.5
+      },
+      {
+        "name": "Pohovani batak sa Gorgonzola sosom",
+        "desc": "Prilog pomfrit",
+        "price": 12.4
+      },
+      {
+        "name": "Pileći štapići 200 gr",
+        "desc": "Prilog pomfrit, tartar, slatko ljuti sos",
+        "price": 11.2
+      },
+      {
+        "name": "Tost sendvič sa pršutom",
+        "desc": "Prilog pomfrit, slatko ljuti sos. Dostupno od 09 do 12:30 h",
+        "price": 10.4
+      },
+      {
+        "name": "Pileća bečka 150 gr",
+        "desc": "Prilog pomfrit, tartar sos",
+        "price": 9.1
+      }
+    ],
+    "Roštilj": [
+      {
+        "name": "Roštilj plata za 4 osobe",
+        "desc": "Lepinja 4 kom, pomfrit, roštiljske kobasice 4 kom, bijela vješalica 100 gr, punjena bijela vješalica 100 gr, pileći file 180 gr, banjalučki ćevap 4 kom, svinjski vrat 200 gr, punjeni batak 1 kom, pileća krilca 4 kom, mesni uštipci 4 kom ...",
+        "price": 60.9
+      },
+      {
+        "name": "Roštilj plata za 2 osobe",
+        "desc": "Lepinja 2 kom, pomfrit, roštiljske kobasice 2 kom, bijela vješalica 100 gr, pileći file 180 gr, banjalučki ćevap 2 kom, svinjski vrat 100 gr, batak 1 kom, pileća krilca 2 kom, mesni uštipci 2 kom, ljute papričice, luk, tartar, urnebes",
+        "price": 38.8
+      },
+      {
+        "name": "Punjena pljeskavica sa kajmakom u lepinji",
+        "desc": "250 gr",
+        "price": 13.7
+      },
+      {
+        "name": "Punjeni batak u lepinji",
+        "desc": "Punjeni batak u lepinji",
+        "price": 11.1
+      },
+      {
+        "name": "Gurmanska pljeskavica u lepinji",
+        "desc": "230 gr",
+        "price": 10.2
+      },
+      {
+        "name": "Punjena bijela vješalica u lepinji",
+        "desc": "200 gr",
+        "price": 9.5
+      },
+      {
+        "name": "Ćevapi banjalučki u lepinji 200 gr",
+        "desc": "Ćevapi banjalučki, prilog luk",
+        "price": 8.9
+      },
+      {
+        "name": "Roštiljske kobasice 4 kom u lepinji",
+        "desc": "Prilog senf",
+        "price": 8.9
+      },
+      {
+        "name": "Batak na žaru u lepinji",
+        "desc": "Batak na žaru u lepinji",
+        "price": 8.5
+      },
+      {
+        "name": "Svinjski vrat u lepinji",
+        "desc": "200 gr",
+        "price": 7.6
+      },
+      {
+        "name": "Pljeskavica u lepinji",
+        "desc": "Mala ili velika porcija pljeskavice u lepinji, pomfrit",
+        "price": 6.3
+      }
+    ],
+    "Pasta i rižota": [
+      {
+        "name": "Rižoto sa piletinom i pestom od špinata",
+        "desc": "Rižoto, piletina, špinat",
+        "price": 15.6
+      },
+      {
+        "name": "Mlinci sa 4 vrste sira",
+        "desc": "Mlinci sa 4 vrste sira",
+        "price": 14.3
+      },
+      {
+        "name": "Rižoto sa tunjevinom",
+        "desc": "Rižoto, tunjevina",
+        "price": 14.3
+      },
+      {
+        "name": "Njoke Polo sa piletinom",
+        "desc": "Njoke Polo, piletina",
+        "price": 13.0
+      },
+      {
+        "name": "Zapečeni mlinci sa piletinom",
+        "desc": "Zapečeni mlinci sa piletinom",
+        "price": 13.0
+      },
+      {
+        "name": "Rižoto sa povrćem",
+        "desc": "Rižoto, povrće",
+        "price": 11.7
+      },
+      {
+        "name": "Njoke sa slaninom",
+        "desc": "Njoke, slanina",
+        "price": 11.1
+      }
+    ],
+    "Ribe": [
+      {
+        "name": "Lignje na žaru",
+        "desc": "Dalmatinski prilog špinat i krompir",
+        "price": 20.0
+      },
+      {
+        "name": "Pastrmka na žaru",
+        "desc": "Dalmatinski prilog špinat i krompir",
+        "price": 18.7
+      },
+      {
+        "name": "Riblja pljeskavica 2 kom",
+        "desc": "Prilog pomfrit i slatko ljuti sos",
+        "price": 9.6
+      }
+    ],
+    "Obrok salate": [
+      {
+        "name": "Cezar salata",
+        "desc": "Zelena salata, pileći file, panceta, Grana Padano, paradajz, kupus, preliv, krutoni",
+        "price": 12.4
+      },
+      {
+        "name": "Fitness salata",
+        "desc": "Zelena salata, pileći file, svježi sir, paradajz",
+        "price": 11.1
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pekarski krompir",
+        "desc": "200 gr",
+        "price": 5.2
+      },
+      {
+        "name": "Pileći file 100 gr",
+        "desc": "100 gr",
+        "price": 5.2
+      },
+      {
+        "name": "Šampinjoni 150 gr",
+        "desc": "150 gr",
+        "price": 5.2
+      },
+      {
+        "name": "Riža",
+        "desc": "Kuhana",
+        "price": 3.3
+      },
+      {
+        "name": "Ćevap 50 gr",
+        "desc": "50 gr",
+        "price": 2.9
+      },
+      {
+        "name": "Pomfrit",
+        "desc": "Mala ili velika porcija",
+        "price": 2.6
+      },
+      {
+        "name": "Roštiljska kobasica 1 kom",
+        "desc": "1 kom",
+        "price": 2.5
+      },
+      {
+        "name": "Hljeb porcija",
+        "desc": "Hljeb porcija",
+        "price": 2.4
+      },
+      {
+        "name": "Engleska salata",
+        "desc": "Engleska salata",
+        "price": 2.0
+      },
+      {
+        "name": "Ljute papričice",
+        "desc": "Ljute papričice",
+        "price": 2.0
+      },
+      {
+        "name": "Jaje 1 kom",
+        "desc": "1 kom",
+        "price": 1.3
+      },
+      {
+        "name": "Lepinja",
+        "desc": "Komad",
+        "price": 1.3
+      },
+      {
+        "name": "Hljeb šnita",
+        "desc": "Hljeb šnita",
+        "price": 0.4
+      }
+    ],
+    "Sosevi": [
+      {
+        "name": "Slatko ljuti sos",
+        "desc": "Slatko ljuti sos",
+        "price": 2.0
+      },
+      {
+        "name": "Urnebes sos",
+        "desc": "Urnebes sos",
+        "price": 2.0
+      },
+      {
+        "name": "Tzatziki sos",
+        "desc": "Tzatziki sos",
+        "price": 2.0
+      },
+      {
+        "name": "Tartar sos",
+        "desc": "Tartar sos",
+        "price": 2.0
+      },
+      {
+        "name": "Kajmak",
+        "desc": "Kajmak",
+        "price": 2.0
+      },
+      {
+        "name": "Pavlaka",
+        "desc": "Pavlaka",
+        "price": 1.3
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Šopska - Srpska salata",
+        "desc": "Šopska - Srpska salata",
+        "price": 5.2
+      },
+      {
+        "name": "Miješana salata",
+        "desc": "Miješana salata",
+        "price": 5.2
+      },
+      {
+        "name": "Paradajz salata",
+        "desc": "Paradajz salata",
+        "price": 3.3
+      },
+      {
+        "name": "Krastavac salata",
+        "desc": "Krastavac salata",
+        "price": 3.3
+      },
+      {
+        "name": "Kupus salata",
+        "desc": "Kupus salata",
+        "price": 2.6
+      }
+    ],
+    "Desert": [
+      {
+        "name": "Palačinka Nutella",
+        "desc": "Tijesto, Nutella",
+        "price": 6.3
+      },
+      {
+        "name": "Palačinka Ferrero",
+        "desc": "Palačinka Ferrero",
+        "price": 6.3
+      },
+      {
+        "name": "Palačinka Bounty",
+        "desc": "Palačinka Bounty",
+        "price": 6.3
+      },
+      {
+        "name": "Palačinka Kinder bueno",
+        "desc": "Palačinka Kinder bueno",
+        "price": 6.3
+      }
+    ],
+    "Pića": [
+      {
+        "name": "Red Bull",
+        "desc": "Red Bull",
+        "price": 5.0
+      },
+      {
+        "name": "Orangina 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.5
+      },
+      {
+        "name": "Cockta 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.5
+      },
+      {
+        "name": "Coca-Cola 0.33 l",
+        "desc": "0.33 l",
+        "price": 3.5
+      },
+      {
+        "name": "Spezi Cola Orange 0.33 l",
+        "desc": "0.33 l",
+        "price": 3.5
+      },
+      {
+        "name": "ReMix narandža 0.33 l",
+        "desc": "0.33 l",
+        "price": 3.5
+      },
+      {
+        "name": "Ledeni čaj 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.5
+      },
+      {
+        "name": "Vitaminka jabuka 0.2 l",
+        "desc": "0.2 l",
+        "price": 3.5
+      },
+      {
+        "name": "Vitaminka narandža 0.2 l",
+        "desc": "0.2 l",
+        "price": 3.5
+      },
+      {
+        "name": "Vitaminka jagoda 0.2 l",
+        "desc": "0.2 l",
+        "price": 3.5
+      },
+      {
+        "name": "Vitaminka višnja 0.2 l",
+        "desc": "0.2 l",
+        "price": 3.5
+      },
+      {
+        "name": "Vitaminka borovnica 0.2 l",
+        "desc": "0.2 l",
+        "price": 3.5
+      },
+      {
+        "name": "Negazirana voda 0.25 l",
+        "desc": "0.25 l",
+        "price": 2.0
+      }
+    ],
+    "Pivo": [
+      {
+        "name": "Estrella 0.66 l",
+        "desc": "0.66 l",
+        "price": 5.0
+      },
+      {
+        "name": "Heineken 0 % 0.33 l",
+        "desc": "0.33 l",
+        "price": 4.0
+      },
+      {
+        "name": "Somersby 0.33 l",
+        "desc": "0.33 l",
+        "price": 4.0
+      },
+      {
+        "name": "Heineken 0.33 l",
+        "desc": "0.33 l",
+        "price": 3.5
+      },
+      {
+        "name": "Nektar Fresh 0.33 l",
+        "desc": "0.33 l",
+        "price": 3.0
+      },
+      {
+        "name": "Tuborg Green 0.33 l",
+        "desc": "0.33 l",
+        "price": 3.0
+      },
+      {
+        "name": "Estrella 0.33 l",
+        "desc": "0.33 l",
+        "price": 3.0
+      },
+      {
+        "name": "Estrella 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Banjalučko pivo 0.33 l",
+        "desc": "0.33 l",
+        "price": 2.5
+      },
+      {
+        "name": "Lav pivo 0.33 l",
+        "desc": "0.33 l",
+        "price": 2.5
+      }
+    ]
+  }
+}

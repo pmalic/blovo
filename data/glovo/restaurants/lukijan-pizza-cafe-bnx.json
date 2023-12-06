@@ -1,0 +1,267 @@
+{
+  "name": "Lukijan Pizza Cafe",
+  "rating": 0.96,
+  "count": 241,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Pizza Lukijan",
+        "desc": "Rub punjen sirom i šunkom, dimljeni sir iz naše proizvodnje sir, pršut, kulen, budimska, suhi vrat, šunka, slanina, paradajz sos, gljive",
+        "price": 13.5
+      },
+      {
+        "name": "Pizza Margherita",
+        "desc": "Sir, paradajz sos",
+        "price": 10.5
+      },
+      {
+        "name": "Pizza Tuna",
+        "desc": "Sir, tuna, crveni luk, paradajz sos",
+        "price": 11.5
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Pizza Šefova",
+        "desc": "Mozzarela suhomesnati mix, paradajz bijeli luk",
+        "price": 15.5
+      },
+      {
+        "name": "Pizza dimljeni losos",
+        "desc": "Sir, paradajz sos, kapari, gljive",
+        "price": 14.0
+      },
+      {
+        "name": "Pizza Lukijan Due",
+        "desc": "Sir, piletina, pršut, slanina, paradajz sos, pavlaka, paradajz",
+        "price": 13.5
+      },
+      {
+        "name": "Pizza Lukijan",
+        "desc": "Rub punjen sirom i šunkom, dimljeni sir iz naše proizvodnje sir, pršut, kulen, budimska, suhi vrat, šunka, slanina, paradajz sos, gljive",
+        "price": 13.5
+      },
+      {
+        "name": "Pizza Trieste",
+        "desc": "Sir, pršut, rukola, cherry, četiri vrste sira",
+        "price": 13.5
+      },
+      {
+        "name": "Pizza Lukijan Fantasy",
+        "desc": "Sir, piletina, povrće, jogurt sos",
+        "price": 13.0
+      },
+      {
+        "name": "Pizza Patre",
+        "desc": "Rub punjen sirom sir, pršut, kulen, budimska, suhi vrat, šunka, povrće, paradajz sos",
+        "price": 13.0
+      },
+      {
+        "name": "Pizza sa mini paprikama",
+        "desc": "Sir, paradajz sos, paprike punjene sirom",
+        "price": 13.0
+      },
+      {
+        "name": "Lukijan Piroška",
+        "desc": "Sir, piletina, pršut, slanina, paradajz, pavlaka",
+        "price": 13.0
+      },
+      {
+        "name": "Pizza sa kobasicom",
+        "desc": "Sir, kobasica, gljive, sos",
+        "price": 12.5
+      },
+      {
+        "name": "Pizza Quatro Stagione",
+        "desc": "Sir, slanina, kulen, budimska, povrće, paradajz sos",
+        "price": 12.5
+      },
+      {
+        "name": "Pizza Mexicana",
+        "desc": "Sir, tuna mexico, gljive, paradajz sos",
+        "price": 12.5
+      },
+      {
+        "name": "Calcona Fantasy",
+        "desc": "Sir, piletina, povrće, jogurt sos",
+        "price": 12.5
+      },
+      {
+        "name": "Pizza Chicken",
+        "desc": "Sir, piletina, paradajz sos, gljive",
+        "price": 12.5
+      },
+      {
+        "name": "Pizza sa morskim plodovima",
+        "desc": "Sir, morski plodovi, gljive, paradajz sos",
+        "price": 12.5
+      },
+      {
+        "name": "Pizza sa slaninom",
+        "desc": "Sir, slanina, paradajz sos, gljive",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza sa suhim vratom",
+        "desc": "Sir, suhi vrat, paradajz sos, gljive",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza sa pršutom",
+        "desc": "Sir, pršut, gljive, paradajz sos",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza sa kulenom",
+        "desc": "Sir, kulen, gljive, paradajz sos",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza sa junećom kobasicom",
+        "desc": "Sir, juneća kobasica, gljive, paradajz sos",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza sa junećom kobasicom sos bijeli luk",
+        "desc": "Sir, juneća kobasica, gljive, sos bijeli luk",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza ljuta",
+        "desc": "Sir, kulen, feferoni, chilli sos, gljive",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Italiana",
+        "desc": "Mozzarella, svježi paradajz, sos",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Quatro Formagi",
+        "desc": "Sir edamer, gorgonzola, mozzarella, dimljeni, paradajz sos",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Piroška",
+        "desc": "Sir, šunka, paradajz sos, pavlaka, gljive",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Mortadela",
+        "desc": "Sir, paradajz sos, masline",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Pečenica",
+        "desc": "Sir, paradajz sos, gljive",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Capriciosa sa Mozzarellom",
+        "desc": "Mozzarella, šunka, gljive, paradajz sos",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Capriciosa sa dimljenim sirom",
+        "desc": "Dimljeni sir, šunka, gljive, paradajz sos",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Capriciosa sa gorgonzolom",
+        "desc": "Gorgonzola, šunka, gljive, paradajz sos",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Capriciosa susam",
+        "desc": "Sir, šunka, gljive, paradajz sos, susam",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Capriciosa sa parmezanom",
+        "desc": "Parmezan, šunka, gljive, paradajz sos",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Capriciosa sa pavlakom",
+        "desc": "Sir, pavlaka, šunka, gljive",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Capriciosa tartar sos",
+        "desc": "Sir, šunka, gljive, tartar sos",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Capriciosa jogurt sos",
+        "desc": "Sir, šunka, gljive, jogurt sos",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Capriciosa retro",
+        "desc": "Sir, šunka, gljive, dimljeni  sir",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Capriciosa bijeli luk sos",
+        "desc": "Sir, šunka, gljive, sos bijeli luk",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Capriciosa sriracha",
+        "desc": "Sir, šunka, gljive, sriracha sos",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Capriciosa BBQ",
+        "desc": "Sie, šunka, gljive, bbq sos",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Capriciosa honey mustard sos",
+        "desc": "Sir, šunka, gljive, honey mustard sos",
+        "price": 12.0
+      },
+      {
+        "name": "Pizza Calcona",
+        "desc": "Sir, gljive, šunka, slanina, paradajz sos",
+        "price": 11.5
+      },
+      {
+        "name": "Pizza Vegetariana",
+        "desc": "Sir, povrće, paradajz sos",
+        "price": 11.5
+      },
+      {
+        "name": "Pizza Tuna",
+        "desc": "Sir, tuna, crveni luk, paradajz sos",
+        "price": 11.5
+      },
+      {
+        "name": "Classic Pizza Capriciosa",
+        "desc": "Sir, šunka, gljive, paradajz sos",
+        "price": 11.5
+      },
+      {
+        "name": "Pizza špinat",
+        "desc": "Sir, špinat, sos bijeli luk",
+        "price": 11.0
+      },
+      {
+        "name": "Pizza Margherita",
+        "desc": "Sir, paradajz sos",
+        "price": 10.5
+      },
+      {
+        "name": "Pizza Funghi",
+        "desc": "Sir, sos, gljive",
+        "price": 10.5
+      },
+      {
+        "name": "Pizza Vesuvio",
+        "desc": "Sir, tuna, crveni luk, paradajz sos",
+        "price": 10.5
+      }
+    ]
+  }
+}

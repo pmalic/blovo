@@ -1,0 +1,318 @@
+{
+  "name": "Leskovački roštilj 016",
+  "rating": 0.98,
+  "count": 500,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Leskovačka mućkalica (400gr)",
+        "price": 10.8
+      },
+      {
+        "name": "Punjena mala (200gr)",
+        "desc": "Junetina, punjena sirom trapistom, salata, lepinja",
+        "price": 8.4
+      },
+      {
+        "name": "Dimljena vješalica velika porcija (400gr)",
+        "desc": "Domaća dimljena svinjska vješalica",
+        "price": 20.4
+      }
+    ],
+    "Burgeri": [
+      {
+        "name": "Hamburger (85gr)",
+        "desc": "Junetina",
+        "price": 4.2
+      },
+      {
+        "name": "Pileći hamburger (85gr)",
+        "desc": "Mljeveni pileći file",
+        "price": 4.2
+      }
+    ],
+    "Jela sa roštilja": [
+      {
+        "name": "Bijela vješalica velika porcija (400gr)",
+        "desc": "Bijela vješalica velika porcija",
+        "price": 20.4
+      },
+      {
+        "name": "Dimljena vješalica velika porcija (400gr)",
+        "desc": "Domaća dimljena svinjska vješalica",
+        "price": 20.4
+      },
+      {
+        "name": "Punjeni file (400gr)",
+        "desc": "Pileći  file, sir, dimljeni svinjski vrat u svinjskoj maramici",
+        "price": 15.6
+      },
+      {
+        "name": "Punjena vješalica (400gr)",
+        "desc": "Svinjsko meso, sir, dimljeni svinjski vrat u svinjskoj maramici",
+        "price": 15.6
+      },
+      {
+        "name": "Punjeni batak (450gr)",
+        "desc": "Pileći batak, sir, dimljeni svinjski vrat u svinjskoj maramici",
+        "price": 15.6
+      },
+      {
+        "name": "Dimljeni file velika porcija (200gr)",
+        "desc": "Dimljeni pileći file",
+        "price": 13.2
+      },
+      {
+        "name": "Ražnjići velika porcija (300gr)",
+        "desc": "Svinjsko meso",
+        "price": 13.2
+      },
+      {
+        "name": "Kobasice velika porcija (300gr)",
+        "desc": "Domaća prodimljena kobasica, svinjentina i junetina",
+        "price": 12.0
+      },
+      {
+        "name": "Uštipci velika porcija (300gr)",
+        "desc": "Junetina, sir, slanina i suvo svinjsko meso",
+        "price": 10.8
+      },
+      {
+        "name": "Uštipci pileći velika porcija (300gr)",
+        "desc": "Mljeveni pileći file, sir, slanina i suvo svinjsko meso",
+        "price": 10.8
+      },
+      {
+        "name": "Leskovačka velika (250gr)",
+        "desc": "Juneće meso, lepinja, salata",
+        "price": 10.8
+      },
+      {
+        "name": "Punjena velika (300gr)",
+        "desc": "Junetina, punjena sirom trapistom, salate, lepinja",
+        "price": 10.8
+      },
+      {
+        "name": "Punjena pileća velika porcija (300gr)",
+        "desc": "Pileće mljevno meso(file), punjeno sirom trapistom, salate, lepinja",
+        "price": 10.8
+      },
+      {
+        "name": "Gurmanska velika porcija (300gr)",
+        "desc": "Junetina, izmješana sa kockicama suvog mesa, slanine i sira trapista, salate, lepinja",
+        "price": 10.8
+      },
+      {
+        "name": "Gurmanska pileća velika porcija (300gr)",
+        "desc": "Pileće mljeveno meso(file), izmješano sa kockicama suvog mesa, slanine i sira trapista, salate, lepinja",
+        "price": 10.8
+      },
+      {
+        "name": "Punjeni ćevap velika porcija (300gr)",
+        "desc": "Punjeni ćevap velika porcija",
+        "price": 10.8
+      },
+      {
+        "name": "Punjeni pileći ćevap velika porcija (300gr)",
+        "desc": "Punjeni pileći ćevap velika porcija",
+        "price": 10.8
+      },
+      {
+        "name": "Ćevapi velika porcija (250gr)",
+        "desc": "Ćevapi velika porcija",
+        "price": 10.8
+      },
+      {
+        "name": "Ćevapi pileći velika porcija (250gr)",
+        "desc": "Ćevapi pileći velika porcija",
+        "price": 10.8
+      },
+      {
+        "name": "Pileći file velika porcija (200gr)",
+        "desc": "Pileće bijelo meso",
+        "price": 10.8
+      },
+      {
+        "name": "Leskovačka mućkalica (400gr)",
+        "price": 10.8
+      },
+      {
+        "name": "Bijela vješalica mala porcija (200gr)",
+        "desc": "Bijela vješalica mala porcija",
+        "price": 10.2
+      },
+      {
+        "name": "Dimljena vješalica mala porcija (200gr)",
+        "desc": "Domaća dimljena svinjska vješalica",
+        "price": 10.2
+      },
+      {
+        "name": "Pileća pljeskavica velika porcija (210gr)",
+        "desc": "Pileće mljeveno meso(file), salata, lepinja",
+        "price": 9.6
+      },
+      {
+        "name": "Batak (200gr)",
+        "desc": "Pileći batak",
+        "price": 9.6
+      },
+      {
+        "name": "Uštipci pileći mala porcija (200gr)",
+        "desc": "Mljeveni pileći file, sir, slanina i suvo svinjsko meso",
+        "price": 8.4
+      },
+      {
+        "name": "Uštipci mala porcija (200gr)",
+        "desc": "Junetina, sir, slanina i suvo svinjsko meso",
+        "price": 8.4
+      },
+      {
+        "name": "Punjena mala (200gr)",
+        "desc": "Junetina, punjena sirom trapistom, salata, lepinja",
+        "price": 8.4
+      },
+      {
+        "name": "Punjena pileća mala (200gr)",
+        "desc": "Pileće mljevno meso(file), punjena sirom trapistom, salate, lepinja",
+        "price": 8.4
+      },
+      {
+        "name": "Gurmanska mala porcija (200gr)",
+        "desc": "Junetina, izmjesana sa kockicama suvog mesa, slanine i sira trapista, salate, lepinja",
+        "price": 8.4
+      },
+      {
+        "name": "Gurmanska pileća mala porcija (200gr)",
+        "desc": "Pileće mljeveno meso(file), izmješano sa kockicama suvog mesa, slanine i sira trapista, salate, lepinja",
+        "price": 8.4
+      },
+      {
+        "name": "Punjeni ćevap mala porcija (200gr)",
+        "desc": "Punjeni ćevap mala porcija",
+        "price": 8.4
+      },
+      {
+        "name": "Punjeni pileći ćevap mala porcija (200gr)",
+        "desc": "Punjeni pileći ćevap mala porcija",
+        "price": 8.4
+      },
+      {
+        "name": "Ćevapi srednja porcija (165gr)",
+        "desc": "Ćevapi srednja porcija",
+        "price": 8.4
+      },
+      {
+        "name": "Ćevapi pileći srednja porcija (165gr)",
+        "desc": "Ćevapi pileći srednja porcija",
+        "price": 8.4
+      },
+      {
+        "name": "Leskovačka mala pljeskavica (150gr)",
+        "desc": "Juneće meso, salata, lepinja",
+        "price": 7.2
+      },
+      {
+        "name": "Dimljeni file mala porcija (100gr)",
+        "desc": "Dimljeni pileći file",
+        "price": 6.6
+      },
+      {
+        "name": "Ražnjići mala porcija (150gr)",
+        "desc": "Svinjsko meso",
+        "price": 6.6
+      },
+      {
+        "name": "Pileća pljeskavica mala porcija (125gr)",
+        "desc": "Pileće mljeveno meso (file), salata, lepinja",
+        "price": 6.0
+      },
+      {
+        "name": "Ćevapi mala porcija (125gr)",
+        "desc": "Ćevapi mala porcija",
+        "price": 6.0
+      },
+      {
+        "name": "Ćevapi pileći mala porcija (125gr)",
+        "desc": "Ćevapi pileći mala porcija",
+        "price": 6.0
+      },
+      {
+        "name": "Kobasice mala porcija (150gr)",
+        "desc": "Domaća prodimljena kobasica, junetina i svinjetina",
+        "price": 6.0
+      },
+      {
+        "name": "Pileći file mala porcija (100gr)",
+        "desc": "Pileće bijelo meso",
+        "price": 5.4
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Salata sa sirom",
+        "desc": "Urnebes, sir sa paprikom i sir sa lukom",
+        "price": 4.2
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pomfrit (200gr)",
+        "desc": "Pomfrit",
+        "price": 4.2
+      },
+      {
+        "name": "Prilog salata",
+        "desc": "Prilog salata",
+        "price": 2.4
+      }
+    ],
+    "PLATE": [
+      {
+        "name": "Plata za 10 osoba",
+        "desc": "Veliki uštipci *2,velike kobasice,veliki ćevapi*2,veliki ražnjići,veliki pileći file,mala punjena pileća pljeskavica,veliki punjeni ćevap,mala dimljena vješalica,pileći batak,mala gurmanska pljeskavica*2,pomfrit*3,(moča,lepinje i salate su besplatne)",
+        "price": 147.6
+      },
+      {
+        "name": "Plata za 9 osoba",
+        "desc": "Veliki uštipci,velike kobasice,veliki ćevapi,veliki ražnjići,veliki pil. file,mali dimljeni pil. file, mala punjena pil. pljesk.,mali punjeni ćevap,mala dimljena vješalica,pil.batak,mala gurmanska pljes,pomfrit*4,(moča,lepinje i salate su besplatne)",
+        "price": 126.0
+      },
+      {
+        "name": "Plata za 8 osoba",
+        "desc": "Veliki uštipci,velike kobasice, veliki ćevapi, veliki ražnjići, veliki pileći file,mala punjena pileća pljeskavica, mali punjeni ćevap,mala dimljena vješalica ,pileći batak,mala gurmanska pljeskavica, pomfrit*3, (moča, lepinje i salate su besplatne)",
+        "price": 115.2
+      },
+      {
+        "name": "plata za 7 osoba",
+        "desc": "Veliki uštipci, velike kobasice, veliki ćevapi, veliki ražnjići, veliki pileći file, mali dimljeni pileći file, mala punjena pileća pljeskavica, veliki punjeni ćevap, mala dimljena vješalica , pomfrit*2, (moča, lepinje i salate su besplatne)",
+        "price": 102.0
+      },
+      {
+        "name": "plata za 6 osoba",
+        "desc": "Veliki uštipci, velike kobasice, srednji ćevapi, veliki ražnjići, mali dimljeni pileći file, mala punjena pileća pljeskavica, mali punjeni ćevap, mala dimljena vješalica , pomfrit*2, (moča, lepinje i salate su besplatne)",
+        "price": 86.4
+      },
+      {
+        "name": "Plata za 5 osoba",
+        "desc": "Veliki uštipci, male kobasice, srednji ćevapi, mali file, mali ražnjići, mala punjena pileća pljeskavica, mali punjeni ćevap, mala dimljena vjesalica , pomfrit*2, (moča, lepinje i salate su besplatne)",
+        "price": 72.6
+      },
+      {
+        "name": "Plata za 4 osobe",
+        "desc": "Mali uštipci, male kobasice, mali ćevapi, mali file, mali ražnjići, mala punjena pileća pljeskavica, mali punjeni ćevap, mala dimljena vjesalica , pomfrit, (moča, lepinje i salate su besplatne)",
+        "price": 63.6
+      },
+      {
+        "name": "Plata za 3 osobe",
+        "desc": "Mali uštipci,male kobasice,mali ćevapi,mali file,mali ražnjići,mala punjena pileća, pomfrit, (moča, lepinje i salate su besplatne)",
+        "price": 45.0
+      },
+      {
+        "name": "Plata za 2 osobe",
+        "desc": "Mali uštipci,male kobasice,mali ćevapi,mali file,mali ražnjići, pomfrit, (moča, lepinje i salate su besplatne)",
+        "price": 31.2
+      }
+    ]
+  }
+}

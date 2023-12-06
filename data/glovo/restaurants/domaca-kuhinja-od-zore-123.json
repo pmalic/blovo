@@ -1,0 +1,81 @@
+{
+  "name": "Domaća kuhinja od Zore",
+  "rating": 0.99,
+  "count": 52,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Cicvara",
+        "desc": "Kuruzno brašno, mast, kajmak",
+        "price": 4.5
+      },
+      {
+        "name": "Gulaš sa prilozima",
+        "desc": "Junetina, pire, riža, makaroni",
+        "price": 6.0
+      },
+      {
+        "name": "Pasulj",
+        "desc": "Kobasica rebra, slanina",
+        "price": 5.0
+      }
+    ],
+    "Gotova jela": [
+      {
+        "name": "Koljenica 1 kg",
+        "desc": "Restovani krompir, povrće",
+        "price": 13.0
+      },
+      {
+        "name": "Lešo kuhana Junetina",
+        "desc": "Lešo kuhana Junetina",
+        "price": 7.5
+      },
+      {
+        "name": "Gulaš sa prilozima",
+        "desc": "Junetina, pire, riža, makaroni",
+        "price": 6.0
+      },
+      {
+        "name": "Teleća čorba",
+        "desc": "Teletina, povrće",
+        "price": 5.5
+      },
+      {
+        "name": "Sarma",
+        "desc": "Sarma",
+        "price": 5.5
+      },
+      {
+        "name": "Pasulj",
+        "desc": "Kobasica rebra, slanina",
+        "price": 5.0
+      }
+    ],
+    "Jela po narudžbi": [
+      {
+        "name": "Pohovana pileća šnicla",
+        "desc": "Prilog: pire, riža, pomfrit, makaroni",
+        "price": 6.5
+      },
+      {
+        "name": "Cicvara",
+        "desc": "Kuruzno brašno, mast, kajmak",
+        "price": 4.5
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Miješana salata",
+        "desc": "Paradajz, krastavac, kupus",
+        "price": 2.0
+      },
+      {
+        "name": "Kupus salata",
+        "desc": "Kupus",
+        "price": 1.5
+      }
+    ]
+  }
+}

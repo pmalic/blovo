@@ -1,0 +1,452 @@
+{
+  "name": "Alas",
+  "rating": 0.97,
+  "count": 18,
+  "service_fee": 2.3,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Lignje na žaru 250 gr",
+        "desc": "Lignje, maslinovo ulje, bijeli luk, peršun, limun, prilog dalmatinska garnitura ili po izboru",
+        "price": 20.0
+      },
+      {
+        "name": "Pasta sa plodovima mora 250 gr",
+        "desc": "Pasta, plodovi mora, parmezan, morska so, bijelo vino",
+        "price": 15.0
+      },
+      {
+        "name": "Potočna pastrmka 400 gr",
+        "desc": "Potočna pastrmka, začini, maslinovo ulje, bijeli luk, peršun, prilog po izboru",
+        "price": 22.0
+      }
+    ],
+    "Hladna predjela": [
+      {
+        "name": "Selekcija sireva i pršut 400 gr",
+        "desc": "Gorgonzola, livanjski, trapist, travnički, pršut, masline",
+        "price": 30.0
+      },
+      {
+        "name": "Karpačo od tune 100 gr",
+        "desc": "Tuna, maslinovo ulje, balzamiko",
+        "price": 16.0
+      },
+      {
+        "name": "Salata plodovi mora 250 gr",
+        "desc": "Plodovi mora, limunov sok, paprika, mrkva, masline, maslinovo ulje",
+        "price": 15.0
+      }
+    ],
+    "Supe i čorbe": [
+      {
+        "name": "Riblji paprikaš",
+        "desc": "Riblji paprikaš",
+        "price": 10.0
+      },
+      {
+        "name": "Morska supa porcija",
+        "desc": "Kuhana riba, gambori, kozice, dagnje, povrće, maslinovo ulje, origano",
+        "price": 8.0
+      },
+      {
+        "name": "Teleća ragu čorba porcija",
+        "desc": "Teleće meso, krompir, mrkva, grašak, peršun",
+        "price": 8.0
+      },
+      {
+        "name": "Potaž od povrća porcija",
+        "desc": "Mrkva, peršun, blitva, maslinovo ulje, slatka pavlaka",
+        "price": 7.0
+      }
+    ],
+    "Topla predjela": [
+      {
+        "name": "Crni rižoto od sipe 300 gr",
+        "desc": "Sipa, riža, bijelo vino, majčina dušica, parmezan, maslinovo ulje",
+        "price": 16.0
+      },
+      {
+        "name": "Pasta sa plodovima mora 250 gr",
+        "desc": "Pasta, plodovi mora, parmezan, morska so, bijelo vino",
+        "price": 15.0
+      },
+      {
+        "name": "Rižoto sa ćuretinom i povrćem 300 gr",
+        "desc": "Ćuretina, riža, povrće, začini",
+        "price": 15.0
+      },
+      {
+        "name": "Rižoto sa suhim vrganjima 300 gr",
+        "desc": "Riža, suhi vrganji, bijelo vino, parmezan",
+        "price": 14.0
+      },
+      {
+        "name": "Tagliatele sa 4 vrste sira porcija",
+        "desc": "Tagliatele, gorgonzola, livanjski, trapist, travnički sir, začini",
+        "price": 14.0
+      }
+    ],
+    "Riječna riba": [
+      {
+        "name": "Riblja plata “ALAS” 800 gr",
+        "desc": "Som, smuđ, šaran, pastrmka, maslinovo ulje, bijeli luk, peršun, prilog po izboru",
+        "price": 58.0
+      },
+      {
+        "name": "Fileti smuđa u kajmaku 250 gr",
+        "desc": "Filet smuđa, kajmak, začini, prilog po izboru",
+        "price": 30.0
+      },
+      {
+        "name": "Filet smuđa 250 gr",
+        "desc": "Filet smuđa, začini, maslinovo ulje, bijeli luk, peršun, prilog po izboru",
+        "price": 28.0
+      },
+      {
+        "name": "Šaran na žaru 400 gr",
+        "desc": "Kotlet šarana, maslinovo ulje, bijeli luk, peršun, prilog po izboru",
+        "price": 23.0
+      },
+      {
+        "name": "Potočna pastrmka 400 gr",
+        "desc": "Potočna pastrmka, začini, maslinovo ulje, bijeli luk, peršun, prilog po izboru",
+        "price": 22.0
+      },
+      {
+        "name": "Kalifornijska pastrmka 400 gr",
+        "desc": "Kalifornijska pastrmka, začini, maslinovo ulje, bijeli luk, peršun, prIlog po izboru",
+        "price": 17.0
+      }
+    ],
+    "Morksa riba": [
+      {
+        "name": "Svježa divlja orada 1 kg",
+        "desc": "Orada, maslinovo ulje, bijeli luk, peršun, prilog dalmatinska garnitura ili po izboru",
+        "price": 120.0
+      },
+      {
+        "name": "Svježa orada iz uzgoja 1 kg",
+        "desc": "Brancin, maslinovo ulje, bijeli luk, peršun, prilog dalmatinska garnitura ili po izboru",
+        "price": 65.0
+      },
+      {
+        "name": "Svježi brancin iz uzgoja 1 kg",
+        "desc": "Brancin, maslinovo ulje, bijeli luk, peršun, prilog dalmatinska garnitura ili po izboru",
+        "price": 65.0
+      },
+      {
+        "name": "Morska plata 800 gr",
+        "desc": "Brancin, orada, škarpina, punjenje lignje, gambori, maslinovo ulje, bijeli luk, peršun, prilog dalmatinska garnitura ili po izboru",
+        "price": 65.0
+      },
+      {
+        "name": "Fileti lososa na žaru 250 gr",
+        "desc": "Filet lososa, maslinovo ulje, bijeli luk, peršun, prilog dalmatinska garnitura ili po izboru",
+        "price": 55.0
+      },
+      {
+        "name": "Tuna odrezak 250 gr",
+        "desc": "Tuna, maslinovo ulje, bijeli luk, peršun, prilog dalmatinska garnitura ili po izboru",
+        "price": 45.0
+      },
+      {
+        "name": "Gambori na žaru ili na buzaru 300 gr",
+        "desc": "Buzara paradajz sos, bijelo vino, crveni i bijeli luk, limun",
+        "price": 30.0
+      },
+      {
+        "name": "Punjenje lignje 300 gr",
+        "desc": "Lignje, dagnje, riža, metvica, maslinovo ulje, bijeli luk, peršun, limun, prilog dalmatinska garnitura ili po izboru",
+        "price": 24.0
+      },
+      {
+        "name": "Frigane lignje 250 gr",
+        "desc": "Lignje pohovane “brašno,ulje” limun, prilog dalmatinska garnitura ili po izboru",
+        "price": 20.0
+      },
+      {
+        "name": "Pohovane lignje 250 gr",
+        "desc": "Ulje, brašno, jaja, tartar sos, limun, prilog dalmatinska garnitura ili po izboru",
+        "price": 20.0
+      },
+      {
+        "name": "Lignje na žaru 250 gr",
+        "desc": "Lignje, maslinovo ulje, bijeli luk, peršun, limun, prilog dalmatinska garnitura ili po izboru",
+        "price": 20.0
+      },
+      {
+        "name": "Girice 200 gr",
+        "desc": "Maslinovo ulje, bijeli luk, peršun, limun",
+        "price": 9.0
+      }
+    ],
+    "Jela po narudžbi": [
+      {
+        "name": "Mesna plata 1 kg",
+        "desc": "Ćureći medaljoni, karađorđeve šnicle, teleći ražnjici, punjena piletina, roštiljske kobasice, bijela vješalica, grilovano povrće i pomfrit",
+        "price": 50.0
+      },
+      {
+        "name": "Peper steak 250 gr",
+        "desc": "Juneći file, sos od više vrsta bibera, konjak, prilog pomfrit ili po izboru",
+        "price": 42.0
+      },
+      {
+        "name": "Biftek na žaru 250 gr",
+        "desc": "Juneći file, ulje, so, biber, prilog pomfrit ili po izboru",
+        "price": 42.0
+      },
+      {
+        "name": "Biftek u gogonzola sosu 300 gr",
+        "desc": "Juneći file, gorgonzola sos, ulje, so, biber, prilog pomfrit ili po izboru",
+        "price": 42.0
+      },
+      {
+        "name": "Teletina ispod sača 300 gr",
+        "desc": "Prilog pekarski krompir",
+        "price": 25.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Grčka salata",
+        "desc": "Paprika, paradajz, krastavac, luk, origano, masline, feta sir",
+        "price": 8.0
+      },
+      {
+        "name": "Vitaminska salata",
+        "desc": "Rukola, šeri paradajz, mrkva, krastavac, luk, paprika, zelena salata",
+        "price": 7.0
+      },
+      {
+        "name": "Šopska salata",
+        "desc": "Paprika, paradajz, luk, krastavac, rendani sir",
+        "price": 7.0
+      },
+      {
+        "name": "Srpska salata",
+        "desc": "Paprika, paradajz, luk, krastavac, ljuta papričica",
+        "price": 6.0
+      },
+      {
+        "name": "Miješana salata",
+        "desc": "Sezonsko povrće",
+        "price": 5.0
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Grilovano povrće 150 gr",
+        "desc": "150 gr *Slika je simbolična",
+        "price": 6.0
+      },
+      {
+        "name": "Blitva u maslinovom ulju 150 gr",
+        "desc": "150 gr",
+        "price": 6.0
+      },
+      {
+        "name": "Pomfrit 150 gr",
+        "desc": "150 gr *Slika je simbolična",
+        "price": 5.0
+      },
+      {
+        "name": "Blitva i krompir na dalmatinski način 150 gr",
+        "desc": "150 gr",
+        "price": 5.0
+      },
+      {
+        "name": "Pekarski krompir 150 gr",
+        "desc": "150 gr *Slika je simbolična",
+        "price": 5.0
+      },
+      {
+        "name": "Bareno povrće 150 gr",
+        "desc": "150 gr",
+        "price": 5.0
+      },
+      {
+        "name": "Krompir salata 150 gr",
+        "desc": "150 gr",
+        "price": 5.0
+      }
+    ],
+    "Peciva": [
+      {
+        "name": "Domaći hljeb",
+        "desc": "Domaći hljeb *Slika je simbolična",
+        "price": 1.0
+      }
+    ],
+    "Deserti": [
+      {
+        "name": "Palačinke",
+        "desc": "Nutella, marmelada, plazma",
+        "price": 7.0
+      },
+      {
+        "name": "Voćna salata",
+        "desc": "Sezonsko voće, šlag po želji",
+        "price": 6.0
+      },
+      {
+        "name": "Žito",
+        "desc": "Pšenica kuhana, suhe grožđice, orasi, šlag po želji",
+        "price": 6.0
+      }
+    ],
+    "Sokovi": [
+      {
+        "name": "Orangina 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.5
+      },
+      {
+        "name": "Cockta 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Cedevita 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Ledeni čaj  0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Sok vitaminka 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.0
+      }
+    ],
+    "Pivo": [
+      {
+        "name": "Somersby 0.33 l",
+        "desc": "0.33 l",
+        "price": 4.0
+      },
+      {
+        "name": "Heineken 0.25 l",
+        "desc": "0.25 l",
+        "price": 4.0
+      },
+      {
+        "name": "Bavaria 0.25 l",
+        "desc": "0.25 l",
+        "price": 3.5
+      },
+      {
+        "name": "Tuborg 0.33 l",
+        "desc": "0.33 l",
+        "price": 3.5
+      }
+    ],
+    "Bijelo vino": [
+      {
+        "name": "Chardonay selection Radovanović 0.75 l",
+        "desc": "0.75 l",
+        "price": 70.0
+      },
+      {
+        "name": "Harizma Aleksandrović 0.75 l",
+        "desc": "0.75 l",
+        "price": 70.0
+      },
+      {
+        "name": "Malvazija Kozlović 0.75 l",
+        "desc": "0.75 l",
+        "price": 65.0
+      },
+      {
+        "name": "Vukoje Žilavka 0.75 l",
+        "desc": "0.75 l",
+        "price": 65.0
+      },
+      {
+        "name": "Kovačević Chardonay 0.75 l",
+        "desc": "0.75 l",
+        "price": 65.0
+      },
+      {
+        "name": "Trijumf selection Aleksandrović 0.75 l",
+        "desc": "0.75 l",
+        "price": 65.0
+      },
+      {
+        "name": "Oplen Aleksandrović 0.75 l",
+        "desc": "0.75 l",
+        "price": 60.0
+      },
+      {
+        "name": "Balatin Jungić  0.75 l",
+        "desc": "0.75 l",
+        "price": 35.0
+      },
+      {
+        "name": "Graševina Kutjevo 0.75 l",
+        "desc": "0.75 l",
+        "price": 30.0
+      },
+      {
+        "name": "Graševina Kutjevo 0.187 l",
+        "desc": "0.187 l",
+        "price": 6.0
+      }
+    ],
+    "Rose vino": [
+      {
+        "name": "Varijanta Aleksandrović 0.75 l",
+        "desc": "0.75 l",
+        "price": 55.0
+      }
+    ],
+    "Crveno vino": [
+      {
+        "name": "Aurelius Kovačević 0.75 l",
+        "desc": "0.75 l",
+        "price": 70.0
+      },
+      {
+        "name": "Regent Aleksandrović 0.75 l",
+        "desc": "0.75 l",
+        "price": 65.0
+      },
+      {
+        "name": "Vukoje Vranac 0.75 l",
+        "desc": "0.75 l",
+        "price": 65.0
+      },
+      {
+        "name": "Cabernet sauvignon Radanović 0.75 l",
+        "desc": "0.75 l",
+        "price": 60.0
+      },
+      {
+        "name": "Vizija Aleksandrović 0.75 l",
+        "desc": "0.75 l",
+        "price": 55.0
+      },
+      {
+        "name": "Vranac Pro Corde 13 juli 0.75 l",
+        "desc": "0.75 l",
+        "price": 35.0
+      },
+      {
+        "name": "Vranac Pro Corde 13 juli 0.187 l",
+        "desc": "0.187 l",
+        "price": 6.0
+      }
+    ],
+    "Šampanjci i pjenušava vina": [
+      {
+        "name": "Henkel sparkling wine 0.75 l",
+        "desc": "0.75 l",
+        "price": 30.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "name": "Rock cafe",
+  "rating": 0.95,
+  "count": 265,
+  "service_fee": 1.9,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Classic Triple",
+        "desc": "Triple 300 gr, krastavac, luk, ketchup, senf, Cheddar",
+        "price": 11.0
+      },
+      {
+        "name": "Original Triple",
+        "desc": "Iceberg, luk, krastavac, burger sos, Cheddar",
+        "price": 11.0
+      },
+      {
+        "name": "Original Double-Double",
+        "desc": "Iceberg, luk, krastavac, burger sos, Cheddar",
+        "price": 14.0
+      }
+    ],
+    "Smash burgers": [
+      {
+        "name": "Classic Triple Triple",
+        "desc": "Triple Tripe 525 gr, krastavac, luk, ketchup, senf, Cheddar",
+        "price": 18.0
+      },
+      {
+        "name": "Original Triple-Triple",
+        "desc": "Iceberg, luk, krastavac, burger sos, Cheddar",
+        "price": 18.0
+      },
+      {
+        "name": "RHC pappers Triple-Triple",
+        "desc": "Chilli, luk, paprika, BBQ sos, Cheddar",
+        "price": 18.0
+      },
+      {
+        "name": "Classic Double Triple",
+        "desc": "Double Triple 450 gr, krastavac, luk, ketchup, senf, Cheddar",
+        "price": 16.0
+      },
+      {
+        "name": "Original Double-Triple",
+        "desc": "Iceberg, luk, krastavac, burger sos, Cheddar",
+        "price": 16.0
+      },
+      {
+        "name": "RHC peppers Double-Triple",
+        "desc": "Chilli, luk, paprika, BBQ sos, Cheddar",
+        "price": 16.0
+      },
+      {
+        "name": "Classic Double Double",
+        "desc": "Double Double  375 gr, krastavac, luk, ketchup, senf, Cheddar",
+        "price": 14.0
+      },
+      {
+        "name": "Original Double-Double",
+        "desc": "Iceberg, luk, krastavac, burger sos, Cheddar",
+        "price": 14.0
+      },
+      {
+        "name": "RHC peppers Double-Double",
+        "desc": "Chilli, luk, paprika, BBQ sos, Cheddar",
+        "price": 14.0
+      },
+      {
+        "name": "Classic Triple",
+        "desc": "Triple 300 gr, krastavac, luk, ketchup, senf, Cheddar",
+        "price": 11.0
+      },
+      {
+        "name": "Original Triple",
+        "desc": "Iceberg, luk, krastavac, burger sos, Cheddar",
+        "price": 11.0
+      },
+      {
+        "name": "RHC peppers Triple",
+        "desc": "Chilli, luk, paprika, BBQ sos, Cheddar",
+        "price": 11.0
+      },
+      {
+        "name": "Classic Double",
+        "desc": "Double  225 gr, krastavac, luk, ketchup, senf, Cheddar",
+        "price": 8.5
+      },
+      {
+        "name": "Original Double",
+        "desc": "Iceberg, luk, krastavac, burger sos, Cheddar",
+        "price": 8.5
+      },
+      {
+        "name": "RHC peppers Double",
+        "desc": "Chilli, luk, paprika, BBQ sos, Cheddar",
+        "price": 8.5
+      },
+      {
+        "name": "Classic",
+        "desc": "Single 150 gr, krastavac, luk, ketchup, senf, Cheddar",
+        "price": 6.0
+      },
+      {
+        "name": "Original",
+        "desc": "Single 150 gr, iceberg, luk, krastavac, burger sos, Cheddar",
+        "price": 6.0
+      },
+      {
+        "name": "RHC peppers",
+        "desc": "Single 150 gr, chilli, luk, paprika, BBQ sos, Cheddar",
+        "price": 6.0
+      }
+    ],
+    "Hot dog": [
+      {
+        "name": "Hot dog",
+        "desc": "Hot dog",
+        "price": 4.0
+      }
+    ]
+  }
+}

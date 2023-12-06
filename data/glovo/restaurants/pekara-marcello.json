@@ -1,0 +1,216 @@
+{
+  "name": "Pekara Marcello",
+  "rating": 0.96,
+  "count": 62,
+  "service_fee": 2.3,
+  "menu": {
+    "PIZZE": [
+      {
+        "name": "Pizza okrugla kaprićoza",
+        "desc": "Šunka, sir",
+        "price": 4.8
+      },
+      {
+        "name": "Nadjeveno tijesto sa kulenom",
+        "desc": "Nadjeveno tijesto sa kulenom",
+        "price": 3.9
+      },
+      {
+        "name": "Nadjeveno tijesto sa šunkom",
+        "desc": "Nadjeveno tijesto sa šunkom",
+        "price": 3.6
+      }
+    ],
+    "PITE": [
+      {
+        "name": "Gurmanska pita",
+        "desc": "Pečena piletina, mileram, sir, sos sa gljivama, začini",
+        "price": 4.8
+      },
+      {
+        "name": "Marcello pita",
+        "desc": "Šunka, sir, slanina, začini",
+        "price": 4.5
+      },
+      {
+        "name": "Sirnica",
+        "desc": "Sir, mileram, jaja, začini",
+        "price": 4.2
+      },
+      {
+        "name": "Burek",
+        "desc": "Juneće meso, začini",
+        "price": 4.2
+      },
+      {
+        "name": "Pita sa krompirom",
+        "desc": "Krompir, začini",
+        "price": 4.2
+      }
+    ],
+    "TORTILJE": [
+      {
+        "name": "Tortilja šunka",
+        "desc": "Tortilja šunka",
+        "price": 5.3
+      },
+      {
+        "name": "Tortilja piletina",
+        "desc": "Tortilja, piletina, sir, pavlaka",
+        "price": 5.3
+      },
+      {
+        "name": "Tortilja sa pršutom i kulenom",
+        "desc": "Tortilja, pršut, kulen",
+        "price": 4.7
+      }
+    ],
+    "GOTOVA JELA": [
+      {
+        "name": "Pileći štapići u susamu",
+        "desc": "Pohovana piletina, pomfrit",
+        "price": 8.0
+      },
+      {
+        "name": "Rolovano tijesto sa piletinom",
+        "desc": "Palačinka, piletina, sir, gljive",
+        "price": 5.0
+      }
+    ],
+    "HLJEB I PECIVO": [
+      {
+        "name": "Porodični hljeb",
+        "desc": "1",
+        "price": 2.7
+      },
+      {
+        "name": "Rustiko sa sjemenkama",
+        "desc": "1",
+        "price": 2.5
+      },
+      {
+        "name": "Integralni hljeb",
+        "desc": "1",
+        "price": 2.3
+      },
+      {
+        "name": "Domaći francuz",
+        "desc": "1",
+        "price": 1.5
+      },
+      {
+        "name": "Bijela kifla",
+        "desc": "1",
+        "price": 0.6
+      }
+    ],
+    "SENDVIČI": [
+      {
+        "name": "Sendvič pohovana piletina",
+        "desc": "Pecivo, pohovana piletina, sir",
+        "price": 5.1
+      },
+      {
+        "name": "Sendvič bečka u kukuruznom pecivu",
+        "desc": "Bečka šnicla, pecivo",
+        "price": 4.8
+      },
+      {
+        "name": "Sendvič Marcello",
+        "desc": "Pecivo, sirni namaz,pršut, kulen, sir",
+        "price": 4.3
+      },
+      {
+        "name": "Sendvič šunka sir",
+        "desc": "Sendvič šunka sir",
+        "price": 3.0
+      }
+    ],
+    "SALATE": [
+      {
+        "name": "Salata piletina grilovana",
+        "desc": "Grilovana piletina, paradajz, kupus, mrkva, paprike, krastavci, kukuruz šećerac, majoneza",
+        "price": 4.8
+      },
+      {
+        "name": "Salata kus-kus",
+        "desc": "Kus-kus, pohovana piletina, kupus, mrkva, zelena salata, sos sa gljivama",
+        "price": 4.8
+      },
+      {
+        "name": "Salata piletina pohovana",
+        "desc": "Pohovana piletina, paradajz, kupus, mrkva, zelena salata, krastavci, kukuruz šećerac, majoneza",
+        "price": 3.9
+      },
+      {
+        "name": "Salata tjestenina",
+        "desc": "Tjestenina, piletina, sir, paprika, kiseli krastavci, majoneza, pavlaka",
+        "price": 3.9
+      }
+    ],
+    "KOLAČI": [
+      {
+        "name": "Moskva torta",
+        "desc": "Moskva torta",
+        "price": 4.4
+      },
+      {
+        "name": "Medena torta",
+        "desc": "Med, pavlaka",
+        "price": 4.2
+      },
+      {
+        "name": "Grčka torta",
+        "desc": "Plazma, orasi, čokolada",
+        "price": 4.2
+      },
+      {
+        "name": "Kinder torta",
+        "desc": "Plazma, orasi, čokolada, eurokrem",
+        "price": 4.2
+      },
+      {
+        "name": "Karamel torta",
+        "desc": "Mliječna čokolada, lješnjaci, karamel",
+        "price": 3.8
+      },
+      {
+        "name": "Marcello fantazija",
+        "desc": "Mliječna čokolada, lješnjaci",
+        "price": 3.6
+      },
+      {
+        "name": "Francuska krempita",
+        "desc": "Lisnato tijesto, vanilija krema, višnje",
+        "price": 3.0
+      }
+    ],
+    "PIĆE": [
+      {
+        "name": "Fanta",
+        "desc": "Fanta",
+        "price": 2.1
+      },
+      {
+        "name": "Multivita",
+        "desc": "Multivita",
+        "price": 2.1
+      },
+      {
+        "name": "Coca Cola",
+        "desc": "Coca Cola",
+        "price": 2.1
+      },
+      {
+        "name": "Kisela voda",
+        "desc": "Kisela voda",
+        "price": 1.5
+      },
+      {
+        "name": "Jogurt čaša 180 ml",
+        "desc": "180 ml",
+        "price": 1.0
+      }
+    ]
+  }
+}

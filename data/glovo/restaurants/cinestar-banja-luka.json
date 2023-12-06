@@ -1,0 +1,183 @@
+{
+  "name": "CineStar Banja Luka",
+  "rating": 1.0,
+  "count": 18,
+  "service_fee": 2.8,
+  "menu": {
+    "Bezalkoholno piće": [
+      {
+        "name": "Jana prirodna voda",
+        "desc": "0,5 l pet",
+        "price": 2.5
+      },
+      {
+        "name": "Sarajevski Kiseljak",
+        "desc": "0,5 l pet",
+        "price": 2.5
+      },
+      {
+        "name": "Schweppes Bitter Lemon",
+        "desc": "0,5 l pet",
+        "price": 3.5
+      },
+      {
+        "name": "Schweppes Tangerina",
+        "desc": "0,5 l pet",
+        "price": 3.5
+      },
+      {
+        "name": "Schweppes Tonic Water",
+        "desc": "0,5  l pet",
+        "price": 3.5
+      },
+      {
+        "name": "FuzeTea Breskva",
+        "desc": "0,5  l pet",
+        "price": 3.5
+      },
+      {
+        "name": "FuzeTea Šumsko voće",
+        "desc": "0,5  l pet",
+        "price": 3.5
+      },
+      {
+        "name": "FuzeTea Limun",
+        "desc": "0,5  l pet",
+        "price": 3.5
+      },
+      {
+        "name": "FuzeTea Zero Maracuja",
+        "desc": "0,5 l pet",
+        "price": 3.5
+      },
+      {
+        "name": "Cappy naranča 100%",
+        "desc": "0,33 l pet",
+        "price": 3.5
+      },
+      {
+        "name": "Cappy jabuka 100%",
+        "desc": "0,33 l pet",
+        "price": 3.5
+      },
+      {
+        "name": "Jamnica Sensation Limeta - Kiwano",
+        "desc": "0,5 l pet",
+        "price": 3.5
+      },
+      {
+        "name": "Jana Vitamin Lim Immuno",
+        "desc": "0,5 l pet",
+        "price": 3.5
+      },
+      {
+        "name": "Red Bull Energy Drink 0,25 l",
+        "desc": "Limenka",
+        "price": 5.0
+      },
+      {
+        "name": "Red Bull sugar free 0,25 l",
+        "desc": "Limenka",
+        "price": 5.0
+      }
+    ],
+    "Slatkiši": [
+      {
+        "name": "Raffaello",
+        "desc": "40 gr",
+        "price": 3.5
+      },
+      {
+        "name": "Hanuta",
+        "desc": "44 gr",
+        "price": 2.5
+      },
+      {
+        "name": "Lasta krem štapići",
+        "desc": "Lasta krem štapići",
+        "price": 1.5
+      },
+      {
+        "name": "Lasta štrudla smokva",
+        "desc": "Lasta štrudla smokva",
+        "price": 1.5
+      },
+      {
+        "name": "Tic Tac Orange",
+        "desc": "18 gr",
+        "price": 1.5
+      },
+      {
+        "name": "Kinder Bueno",
+        "desc": "43 gr",
+        "price": 2.5
+      },
+      {
+        "name": "Kinder Bueno White",
+        "desc": "43 gr",
+        "price": 2.5
+      },
+      {
+        "name": "Kinder čokolada",
+        "desc": "100 gr",
+        "price": 2.5
+      },
+      {
+        "name": "Kinder Joy",
+        "desc": "20 gr",
+        "price": 3.3
+      },
+      {
+        "name": "Kinder Cards",
+        "desc": "128 gr",
+        "price": 2.0
+      }
+    ],
+    "MEGA Nachos": [
+      {
+        "name": "Mega Nachos Classic 2GO sa 3 umaka",
+        "desc": "Hrskavi kukuruzni tortilja čips sa 3 umaka! U praktičnom 2GO pakiranju, 200 gr nachosa + 3x 90 gr umaka",
+        "price": 11.0
+      },
+      {
+        "name": "Mega Nachos Paprika 2GO sa 3 umaka",
+        "desc": "Hrskavi kukuruzni tortilja čips okusa paprika sa 3 umaka! U praktičnom 2GO pakiranju, 200 gr nachosa + 3x 90 gr umaka",
+        "price": 11.0
+      },
+      {
+        "name": "Mega Nachos Barbicue 2GO sa 3 umaka",
+        "desc": "Hrskavi kukuruzni tortilja čips okusa Barbecue sa 3 umaka! U praktičnom 2GO pakiranju, 200 gr nachosa + 3x 90 gr umaka",
+        "price": 11.0
+      }
+    ],
+    "Kokice": [
+      {
+        "name": "Slane kokice 2GO",
+        "desc": "Dnevno svježe pečene, najbolje kokice u gradu! U praktičnom 2GO pakiranju, 220 gr",
+        "price": 7.0
+      },
+      {
+        "name": "Karamel kokice 2GO",
+        "desc": "Dnevno svježe pečene, neodoljivo slatke! U praktičnom 2GO pakiranju, 220 gr",
+        "price": 7.5
+      }
+    ],
+    "Combo meni": [
+      {
+        "name": "Family & Friends 2 GO meni",
+        "desc": "Combo ponuda exkluzivno za korisnike Glova! Slane kokice 2GO + Mega nachos 2GO sa 3 umaka + 2 pića 0,5L",
+        "price": 20.0
+      },
+      {
+        "name": "Popcorn 2GO meni",
+        "desc": "Combo ponuda exkluzivno za korisnike Glova! Meni 1 x Slane kokice 2GO, 1 x piće 0,5 l ili 0,33 l i 1 x čokoladica.",
+        "price": 11.0
+      },
+      {
+        "name": "Mega nachos 2GO meni",
+        "desc": "Combo ponuda exkluzivno za korisnike Glova! Meni sa Mega nachosom 2GO po Vašem izboru (classic, paprika ili barbecue), 1 x pićem i 1 x čokoladicom",
+        "price": 15.0
+      }
+    ]
+  }
+}
