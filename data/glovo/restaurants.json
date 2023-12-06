@@ -1,0 +1,567 @@
+{
+  "afc-bnx-123": {
+    "name": "AFC",
+    "rating": 0.85,
+    "count": 500
+  },
+  "aj-zdravo": {
+    "name": "Aj Zdravo",
+    "rating": 0.97,
+    "count": 230
+  },
+  "alas1": {
+    "name": "Alas",
+    "rating": 0.97,
+    "count": 19
+  },
+  "aljosa-i-sasa-rostiljnica": {
+    "name": "Aljoša i Saša roštiljnica",
+    "rating": 0.97,
+    "count": 75
+  },
+  "angel-bnx": {
+    "name": "Angelo",
+    "rating": 0.92,
+    "count": 102
+  },
+  "banjalucanka-plus-bnx": {
+    "name": "Banjalučanka Plus",
+    "rating": 0.98,
+    "count": 90
+  },
+  "berliner-kebab": {
+    "name": "Berliner Kebab",
+    "rating": 0.95,
+    "count": 500
+  },
+  "biljana-and-tj": {
+    "name": "Biljana & TJ",
+    "rating": 0.92,
+    "count": 200
+  },
+  "buregdzinica-zvrk": {
+    "name": "Buregdžinica ZVRK",
+    "rating": 0.95,
+    "count": 29
+  },
+  "caffe-restaurant-trezor": {
+    "name": "Caffe Restaurant Trezor",
+    "rating": null,
+    "count": null
+  },
+  "caffeventurato": {
+    "name": "Caffe Venturato",
+    "rating": 1.0,
+    "count": 38
+  },
+  "cevabdzinica-kod-muje-123": {
+    "name": "Ćevabdžinica Kod Muje",
+    "rating": 0.97,
+    "count": 188
+  },
+  "cevapterija": {
+    "name": "Ćevapterija",
+    "rating": 0.94,
+    "count": 283
+  },
+  "chickenco-bnx": {
+    "name": "ChickenCo",
+    "rating": 0.94,
+    "count": 122
+  },
+  "chiquita": {
+    "name": "Chiquita",
+    "rating": 0.96,
+    "count": 255
+  },
+  "cinestar-banja-luka": {
+    "name": "CineStar Banja Luka",
+    "rating": 1.0,
+    "count": 18
+  },
+  "citadela": {
+    "name": "Citadela",
+    "rating": 0.9,
+    "count": 77
+  },
+  "corso-pizzeria-bar-bnx": {
+    "name": "CORSO pizzeria & bar",
+    "rating": 0.94,
+    "count": 416
+  },
+  "cova-buraz2": {
+    "name": "Čova Buraz",
+    "rating": 0.97,
+    "count": 181
+  },
+  "debela-berta": {
+    "name": "Debela Berta",
+    "rating": 0.9,
+    "count": 10
+  },
+  "definicija-bnx": {
+    "name": "Definicija",
+    "rating": 0.91,
+    "count": 62
+  },
+  "dolce-vita-banja-luka": {
+    "name": "Dolce Vita",
+    "rating": 0.62,
+    "count": 10
+  },
+  "domaca-kuhinja-od-zore-123": {
+    "name": "Domaća kuhinja od Zore",
+    "rating": 0.99,
+    "count": 52
+  },
+  "don-carlos-banja-luka": {
+    "name": "Don Carlos",
+    "rating": 0.98,
+    "count": 156
+  },
+  "doner-house-bnx": {
+    "name": "Haus Kebab & Doner",
+    "rating": 0.8,
+    "count": 149
+  },
+  "donerkebab-bnx": {
+    "name": "German DonerKebab",
+    "rating": 0.91,
+    "count": 500
+  },
+  "donuto": {
+    "name": "Donuto",
+    "rating": 0.92,
+    "count": 49
+  },
+  "dvoriste-knedle-pizza-palacinke": {
+    "name": "Dvorište: knedle - pizza - palačinke",
+    "rating": 0.86,
+    "count": 298
+  },
+  "ekspresrestoranvidovic": {
+    "name": "Ekspres restoran Vidović",
+    "rating": null,
+    "count": null
+  },
+  "encijan-1933": {
+    "name": "Encijan 1933",
+    "rating": null,
+    "count": null
+  },
+  "fast-food-slavuj": {
+    "name": "Fast food Slavuj",
+    "rating": 0.97,
+    "count": 215
+  },
+  "gatsby-bnx": {
+    "name": "Gatsby",
+    "rating": null,
+    "count": null
+  },
+  "gatto-trattoria-bnx": {
+    "name": "Gatto Trattoria",
+    "rating": 0.89,
+    "count": 17
+  },
+  "girica-bnx": {
+    "name": "Girica",
+    "rating": 0.95,
+    "count": 79
+  },
+  "giros-solunac": {
+    "name": "Giros SOLUNAC",
+    "rating": 0.97,
+    "count": 500
+  },
+  "gotiva-knedle-1": {
+    "name": "Gotiva knedle",
+    "rating": 0.97,
+    "count": 303
+  },
+  "health-zone-bnx": {
+    "name": "Health Zone",
+    "rating": 0.92,
+    "count": 40
+  },
+  "healthy-123": {
+    "name": "Healthy",
+    "rating": 0.98,
+    "count": 498
+  },
+  "hello-sweetheart-bnx": {
+    "name": "Pizzeria Ciao amore kod Tonija",
+    "rating": 0.89,
+    "count": 59
+  },
+  "impero-romano": {
+    "name": "Impero Romano",
+    "rating": 0.9,
+    "count": 87
+  },
+  "in-restoran-bnx": {
+    "name": "IN restoran",
+    "rating": null,
+    "count": null
+  },
+  "indeks-sendvic-bar-123": {
+    "name": "Indeks sendvič bar",
+    "rating": 0.97,
+    "count": 500
+  },
+  "integra-bar-restoran-bnx": {
+    "name": "Integra bar restoran",
+    "rating": 0.84,
+    "count": 20
+  },
+  "kafe-i-cocktail-bar-la-strada-bnx": {
+    "name": "Pizza bar La Strada",
+    "rating": 0.92,
+    "count": 24
+  },
+  "kafeterija-5": {
+    "name": "Kafeterija 5",
+    "rating": 0.91,
+    "count": 109
+  },
+  "kaldrma-1929-banja-luka": {
+    "name": "Kaldrma 1929",
+    "rating": 0.97,
+    "count": 28
+  },
+  "kaskom": {
+    "name": "Kaš'kom",
+    "rating": 0.95,
+    "count": 53
+  },
+  "kloopizza-bnx": {
+    "name": "Kloopizza",
+    "rating": 0.97,
+    "count": 500
+  },
+  "kod-mame-bnx": {
+    "name": "Kod Mame",
+    "rating": 0.91,
+    "count": 106
+  },
+  "kodiak-burger-steak": {
+    "name": "Kodiak burger & steak",
+    "rating": 0.93,
+    "count": 359
+  },
+  "kofein-123": {
+    "name": "Kofein",
+    "rating": null,
+    "count": null
+  },
+  "konoba-belluno": {
+    "name": "Konoba Belluno",
+    "rating": 0.93,
+    "count": 257
+  },
+  "konoba-kava-tava": {
+    "name": "Konoba Kava-Tava",
+    "rating": 0.99,
+    "count": 24
+  },
+  "konoba-kod-kuma": {
+    "name": "Konoba kod kuma",
+    "rating": null,
+    "count": null
+  },
+  "konoba-nica-123": {
+    "name": "Konoba Nica",
+    "rating": 0.94,
+    "count": 74
+  },
+  "la-nostrabnx": {
+    "name": "La Nostra",
+    "rating": null,
+    "count": null
+  },
+  "le-coq-centar": {
+    "name": "Le Coq",
+    "rating": 0.98,
+    "count": 500
+  },
+  "leskovacki-rostilj-016": {
+    "name": "Leskovački roštilj 016",
+    "rating": 0.97,
+    "count": 500
+  },
+  "limun-zut": {
+    "name": "Limun žut",
+    "rating": 0.96,
+    "count": 262
+  },
+  "lukijan-asian-food": {
+    "name": "Lukijan Asian Food",
+    "rating": 0.95,
+    "count": 432
+  },
+  "lukijan-pizza-cafe-bnx": {
+    "name": "Lukijan Pizza Cafe",
+    "rating": 0.96,
+    "count": 234
+  },
+  "maletic-pizza": {
+    "name": "Maletić pizza",
+    "rating": 0.97,
+    "count": 310
+  },
+  "malta-bnx": {
+    "name": "Pekoteka Malta",
+    "rating": 0.8,
+    "count": 86
+  },
+  "mamma-mia-bnx": {
+    "name": "Mamma mia",
+    "rating": 0.98,
+    "count": 217
+  },
+  "manja-ba": {
+    "name": "Manja",
+    "rating": 0.97,
+    "count": 113
+  },
+  "marco-polo1": {
+    "name": "Marco Polo",
+    "rating": 0.98,
+    "count": 260
+  },
+  "mattino": {
+    "name": "Mattino",
+    "rating": 0.97,
+    "count": 40
+  },
+  "maxbet-cafe-bnx": {
+    "name": "Maxbet Cafe",
+    "rating": null,
+    "count": null
+  },
+  "maxim-dell-cafe-bnx": {
+    "name": "Maxim Dell cafe",
+    "rating": 1.0,
+    "count": 10
+  },
+  "mek-rostilj": {
+    "name": "Mek roštilj",
+    "rating": 0.95,
+    "count": 50
+  },
+  "milky-banja-luka": {
+    "name": "Milky",
+    "rating": 0.92,
+    "count": 224
+  },
+  "mixer-fabrika-ukusa": {
+    "name": "Mixer fabrika ukusa",
+    "rating": 0.91,
+    "count": 13
+  },
+  "monza-bnx": {
+    "name": "Monza",
+    "rating": 0.97,
+    "count": 425
+  },
+  "mumbai-indian-flavours-bnx": {
+    "name": "Mumbai Indian Flavours",
+    "rating": 0.96,
+    "count": 28
+  },
+  "none-bnx": {
+    "name": "Cap - Cap",
+    "rating": 0.97,
+    "count": 345
+  },
+  "papafetagiros": {
+    "name": "Papa Feta Giros",
+    "rating": 0.91,
+    "count": 11
+  },
+  "pastirska-kuca": {
+    "name": "Pastirska kuća",
+    "rating": 0.96,
+    "count": 293
+  },
+  "pekara-marcello": {
+    "name": "Pekara Marcello",
+    "rating": 0.95,
+    "count": 60
+  },
+  "pekoteka": {
+    "name": "Pekoteka Paprikovac",
+    "rating": null,
+    "count": null
+  },
+  "pekoteka-merci-bnx": {
+    "name": "Pekoteka Merci",
+    "rating": 0.83,
+    "count": 10
+  },
+  "pekoteka-petricevac-bnx": {
+    "name": "Pekoteka Petrićevac",
+    "rating": 0.68,
+    "count": 14
+  },
+  "pizza-by-fabrika-bnx": {
+    "name": "Pizza by Fabrika",
+    "rating": 0.98,
+    "count": 118
+  },
+  "pizza-house-restoran-brze-hrane": {
+    "name": "PIZZA HOUSE - restoran brze hrane",
+    "rating": 0.97,
+    "count": 500
+  },
+  "pizza-kingbnx": {
+    "name": "PIZZA KING",
+    "rating": 0.93,
+    "count": 93
+  },
+  "pizzaland-bnx": {
+    "name": "Pizzaland",
+    "rating": 0.94,
+    "count": 175
+  },
+  "pizzeria-amazon": {
+    "name": "Pizzeria Amazon",
+    "rating": 0.95,
+    "count": 378
+  },
+  "pizzeria-italy1": {
+    "name": "Pizzeria Italy",
+    "rating": 0.98,
+    "count": 500
+  },
+  "pizzeria-v-s-pizzeria-italy-bnx": {
+    "name": "Pizzeria V&S - Pizza Italiana",
+    "rating": 1.0,
+    "count": 17
+  },
+  "pizzeria-verdi-bl": {
+    "name": "Pizzeria Verdi",
+    "rating": 0.96,
+    "count": 127
+  },
+  "pizzeriavenecija": {
+    "name": "Venecia",
+    "rating": 0.99,
+    "count": 89
+  },
+  "plasma-bnx": {
+    "name": "Plazma",
+    "rating": 0.94,
+    "count": 124
+  },
+  "pops-tc-delta-123": {
+    "name": "Pop's TC DELTA",
+    "rating": 0.86,
+    "count": 500
+  },
+  "pub-six-bnx": {
+    "name": "PUB Šestica",
+    "rating": 0.92,
+    "count": 70
+  },
+  "restaurant-and-lounge-bar-integra": {
+    "name": "Restaurant & Lounge bar Integra",
+    "rating": 0.97,
+    "count": 93
+  },
+  "restoran-gros-2": {
+    "name": "Restoran Groš",
+    "rating": null,
+    "count": null
+  },
+  "restoran-hedonist": {
+    "name": "Restoran Hedonist",
+    "rating": 0.98,
+    "count": 28
+  },
+  "restoran-marcello-123": {
+    "name": "Restoran Marcello",
+    "rating": 0.9,
+    "count": 132
+  },
+  "restoran-obala-bnx": {
+    "name": "Restoran Obala",
+    "rating": 1.0,
+    "count": 10
+  },
+  "restoran-provence": {
+    "name": "Restoran Provence",
+    "rating": 0.85,
+    "count": 47
+  },
+  "restoran-stari-most-bnx": {
+    "name": "Restoran Stari Most",
+    "rating": 0.61,
+    "count": 10
+  },
+  "rock-cafe": {
+    "name": "Rock cafe",
+    "rating": 0.95,
+    "count": 261
+  },
+  "rostiljnica-aandd": {
+    "name": "Roštiljnica A&D",
+    "rating": 0.98,
+    "count": 500
+  },
+  "rotkvica-123": {
+    "name": "Rotkvica",
+    "rating": 0.93,
+    "count": 128
+  },
+  "sachuan-bnx": {
+    "name": "Sečuan",
+    "rating": 0.97,
+    "count": 91
+  },
+  "sah-mat-burger-2": {
+    "name": "Šah Mat Burger",
+    "rating": 0.94,
+    "count": 500
+  },
+  "san-remo1": {
+    "name": "San Remo",
+    "rating": 0.96,
+    "count": 53
+  },
+  "stara-banjaluka": {
+    "name": "Stara Banjaluka",
+    "rating": 0.95,
+    "count": 10
+  },
+  "staro-bure": {
+    "name": "Staro Bure",
+    "rating": 0.95,
+    "count": 281
+  },
+  "the-lunch-bar-ara-123": {
+    "name": "The lunch bar Ara",
+    "rating": 0.96,
+    "count": 31
+  },
+  "the-master-craft-brewery": {
+    "name": "The Master Craft Brewery",
+    "rating": 0.97,
+    "count": 397
+  },
+  "third-gastro-bar-bnx": {
+    "name": "Gastro Bar Terzo",
+    "rating": 0.96,
+    "count": 146
+  },
+  "urban-food-bordo-plus": {
+    "name": "Urban Food Bordo Plus",
+    "rating": 0.97,
+    "count": 148
+  },
+  "xlive-sport-pub-bnx": {
+    "name": "Xlive Sport Pub",
+    "rating": 1.0,
+    "count": 10
+  }
+}

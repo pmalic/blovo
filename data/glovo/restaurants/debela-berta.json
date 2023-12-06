@@ -1,0 +1,289 @@
+{
+  "name": "Debela Berta",
+  "rating": 0.9,
+  "count": 10,
+  "service_fee": 1.9,
+  "menu": {
+    "Deserti": [
+      {
+        "name": "Američke palačinke sa šumskim voćem",
+        "desc": "Američke palačinke sa šumskim voćem",
+        "price": 8.5
+      },
+      {
+        "name": "Američke palačinke classic",
+        "desc": "Američke palačinke classic",
+        "price": 6.5
+      },
+      {
+        "name": "Krofnice",
+        "desc": "Krofnice",
+        "price": 6.0
+      }
+    ],
+    "Salate": [
+      {
+        "name": "Tzatziki salata",
+        "desc": "Mix zelenih salata, svježa paprika, pileće panirano meso, caciki sos, Parmezan",
+        "price": 14.0
+      },
+      {
+        "name": "Tuna salata",
+        "desc": "Mix zelenih salata, svježa paprika, paradajz, kukuruz šećerac, tuna",
+        "price": 11.5
+      },
+      {
+        "name": "Caprese salata",
+        "desc": "Mix zelenih salata, paradajz, Mozzarella, pesto sos",
+        "price": 10.0
+      }
+    ],
+    "Sendviči i hot dog": [
+      {
+        "name": "Hot dog Debela Berta",
+        "desc": "Viršle, domaće pecivo, sos, krompirići, topljeni Cheddar sir, slanina",
+        "price": 10.0
+      },
+      {
+        "name": "Hot dog sa sirom",
+        "desc": "Viršle, domaće pecivo, sos, krompirići, topljeni Cheddar sir",
+        "price": 9.5
+      },
+      {
+        "name": "Hot dog classic",
+        "desc": "Viršle, domaće pecivo, sos, krompirići",
+        "price": 9.0
+      }
+    ],
+    "Bertine daske": [
+      {
+        "name": "Gurmanska daska",
+        "desc": "Dimljeni vrat, dimljena vješalica, dimljeni batak, dimljena roštiljska kobasica, dižon sos, ajvar, krompirići, chili sos, grilovano povrće, lepinje",
+        "price": 63.0
+      },
+      {
+        "name": "Mezetluk daska",
+        "desc": "Pršut, peka, kulen, slanina, kajmak, Gorgonzola, Travnički sir, Livanjski sir, ajvar, turšija, masline, kornišoni, uštipci",
+        "price": 52.0
+      }
+    ],
+    "Kobasice": [
+      {
+        "name": "Ćureća kobasica",
+        "desc": "Ćureće kobasice, krompirići, mix salata",
+        "price": 14.0
+      },
+      {
+        "name": "Berlinska kobasica",
+        "desc": "Berlinska kobasica u omotu od pančete, krompirići, salata",
+        "price": 14.0
+      }
+    ],
+    "Burito": [
+      {
+        "name": "Neodoljivi burito",
+        "desc": "Crispy piletina, svježa salata, sir, sos",
+        "price": 13.0
+      },
+      {
+        "name": "Burito sa gorgonzolom",
+        "desc": "Gorgonzola, piletina, mix salata, sos, krompirići",
+        "price": 13.0
+      },
+      {
+        "name": "Mexico burito",
+        "desc": "Piletina, pikantno povrće, sir, sos, krompirići",
+        "price": 13.0
+      },
+      {
+        "name": "Tuna burito",
+        "desc": "Tuna, chili sos, mix salata, krompirići",
+        "price": 11.5
+      }
+    ],
+    "Burgeri": [
+      {
+        "name": "Bertin burger",
+        "desc": "Dva juneća burgera, peka, slanina, Cheddar sir, paradajz, krompirići",
+        "price": 15.5
+      },
+      {
+        "name": "Burger tri sira",
+        "desc": "Junetina, Cheddar sir, Gorgonzola, Edamer sir, krompirići",
+        "price": 15.5
+      },
+      {
+        "name": "Classic burger",
+        "desc": "Junetina, Cheddar sir, luk, kiseli krastavci, paradajz, krompirići",
+        "price": 12.5
+      },
+      {
+        "name": "Riblji burger",
+        "desc": "Riblji burger, kiseli krastavci, paradajz",
+        "price": 11.5
+      }
+    ],
+    "Pizze": [
+      {
+        "name": "Pizza losos",
+        "desc": "Biljni sir, losos, rukola, šampinjoni",
+        "price": 16.0
+      },
+      {
+        "name": "Pizza sa pršutom",
+        "desc": "Pizza sos, pršut, sir",
+        "price": 16.0
+      },
+      {
+        "name": "Pizza Debela Berta",
+        "desc": "Dimljena slanina, piletina, sir, pizza sos",
+        "price": 14.0
+      },
+      {
+        "name": "Pizza domaćinska",
+        "desc": "Suha peka, dimljena slanina, sir, crveni luk, pizza sos",
+        "price": 14.0
+      },
+      {
+        "name": "Pizza tuna",
+        "desc": "Biljni sir, tuna, šampinjoni, kukuruz šećerac",
+        "price": 14.0
+      },
+      {
+        "name": "Pizza Diavolo",
+        "desc": "Kulen, ljuta paprika, sir, luk, pizza sos",
+        "price": 12.5
+      },
+      {
+        "name": "Pizza Capricciosa",
+        "desc": "Šunka, sir, šampinjoni, pizza sos",
+        "price": 12.5
+      },
+      {
+        "name": "Pizza Margherita",
+        "desc": "Pizza sos, Mozzarella sir, rukola",
+        "price": 11.5
+      }
+    ],
+    "Šnicle": [
+      {
+        "name": "Lovačka šnicla",
+        "desc": "Svinjsko meso, slanina, luk, šampinjoni, suhe šljive, aromatični krompir pire",
+        "price": 19.5
+      },
+      {
+        "name": "Šnicla sa šampinjonima",
+        "desc": "Meso, svinjetina ili piletina, šampinjoni, aromatični krompir pire",
+        "price": 17.0
+      },
+      {
+        "name": "Stroganov",
+        "desc": "Meso, svinjetina ili piletina, šunka, luk, senf, šampinjoni, kiseli krastavci",
+        "price": 16.0
+      },
+      {
+        "name": "Šnicla sa gorgonzolom",
+        "desc": "Meso, svinjetina ili piletina, Gorgonzola, aromatični krompir pire",
+        "price": 16.0
+      },
+      {
+        "name": "Banjalučka šnicla",
+        "desc": "Meso, svinjetina ili piletina, šunka, Edamer sir, aromatični pire od krompira, mix salata",
+        "price": 16.0
+      },
+      {
+        "name": "Lukovača",
+        "desc": "Meso, svinjetina ili piletina, crveni luk, aromatični krompir pire",
+        "price": 15.0
+      },
+      {
+        "name": "Bečka šnicla",
+        "desc": "Pohovano meso, svinjetina ili piletina, tartar sos, krompirići",
+        "price": 14.0
+      },
+      {
+        "name": "CornFlex šnicla",
+        "desc": "Meso, svinjetina ili piletina, kukuruzne pahuljice, prezle, krompirići, mix salata, piletina",
+        "price": 14.0
+      },
+      {
+        "name": "Pariška šnicla",
+        "desc": "Meso, svinjetina ili piletina, krompirići, pavlaka, mix salata",
+        "price": 14.0
+      }
+    ],
+    "Bertini klasici": [
+      {
+        "name": "Pile iz bajke",
+        "desc": "Pržena piletina u chili umaku i luku, krompirići, mix salata",
+        "price": 14.5
+      },
+      {
+        "name": "Fingersi",
+        "desc": "Panirani pileći file, chili sos, krompirići, mix salata",
+        "price": 13.0
+      },
+      {
+        "name": "Patatas sa piletinom",
+        "desc": "Piletina, krompir, Gorgonzola",
+        "price": 10.5
+      },
+      {
+        "name": "Corn dogs",
+        "desc": "Viršle, krompirići, sos",
+        "price": 10.5
+      },
+      {
+        "name": "Krompirići",
+        "desc": "Prženi krompirići, sos",
+        "price": 4.5
+      }
+    ],
+    "Meso sa dima": [
+      {
+        "name": "Dimljeni vrat",
+        "desc": "Svinjski dimljeni vrat, lepinja, krompirići, luk, mix salata",
+        "price": 17.0
+      },
+      {
+        "name": "Vješalica sa ljutim kajmakom",
+        "desc": "Vješalica, kajmak, lepinja, krompirići, mix salata",
+        "price": 17.0
+      },
+      {
+        "name": "Roštiljska kobasica",
+        "desc": "Roštiljske kobasice, lepinja, krompirići, mix salata",
+        "price": 15.0
+      },
+      {
+        "name": "Dimljeni batak",
+        "desc": "Dimljeni batak, krompirići, mix salata, luk, lepinja",
+        "price": 15.0
+      }
+    ],
+    "Čorbe": [
+      {
+        "name": "Krajiška čorba",
+        "desc": "Junetina, grašak, pavlaka, korjenasto povrće, Travnički sir, mrkva, gevrić, ljuta paprika",
+        "price": 8.5
+      },
+      {
+        "name": "Mađarska čorba",
+        "desc": "Junetina, grašak, tabasco sos, korjenasto povrće, mrkva, gevrić, sudžuk paprika",
+        "price": 7.5
+      },
+      {
+        "name": "Ragu čorba",
+        "desc": "Junetina, grašak, korjenasto povrće, mrkva, gevrić, njoke",
+        "price": 7.5
+      }
+    ],
+    "Doručak": [
+      {
+        "name": "Uštipci",
+        "desc": "Uštipci, kajmak, Travnički sir",
+        "price": 8.0
+      }
+    ]
+  }
+}

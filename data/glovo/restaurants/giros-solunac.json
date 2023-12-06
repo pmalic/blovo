@@ -1,0 +1,214 @@
+{
+  "name": "Giros SOLUNAC",
+  "rating": 0.97,
+  "count": 500,
+  "service_fee": 1.23,
+  "menu": {
+    "Najprodavanije": [
+      {
+        "name": "Giros MIX SREDNJI",
+        "desc": "Srednja porcija 120 gr",
+        "price": 8.5
+      },
+      {
+        "name": "Giros PILEĆI MALI",
+        "desc": "Mala porcija 90 gr",
+        "price": 6.5
+      },
+      {
+        "name": "Giros PILEĆI SREDNJI",
+        "desc": "Srednja porcija 120 gr",
+        "price": 8.5
+      }
+    ],
+    "Tunjevina u tortilji - POSNO": [
+      {
+        "name": "Tunjevina u tortilji VELIKA",
+        "desc": "Velika porcija",
+        "price": 9.5
+      },
+      {
+        "name": "Tunjevina u tortilji SREDNJA",
+        "desc": "Srednja porcija",
+        "price": 7.5
+      },
+      {
+        "name": "Tunjevina u tortilji MALA",
+        "desc": "Mala porcija",
+        "price": 6.0
+      }
+    ],
+    "Giros pileći": [
+      {
+        "name": "Giros PILEĆI VELIKI",
+        "desc": "Velika porcija 180 gr",
+        "price": 11.5
+      },
+      {
+        "name": "Giros PILEĆI SREDNJI",
+        "desc": "Srednja porcija 120 gr",
+        "price": 8.5
+      },
+      {
+        "name": "Giros PILEĆI MALI",
+        "desc": "Mala porcija 90 gr",
+        "price": 6.5
+      }
+    ],
+    "Giros svinjski": [
+      {
+        "name": "Giros SVINJSKI VELIKI",
+        "desc": "Velika porcija 180 gr",
+        "price": 11.5
+      },
+      {
+        "name": "Giros SVINJSKI SREDNJI",
+        "desc": "Srednja porcija 120 gr",
+        "price": 8.5
+      },
+      {
+        "name": "Giros SVINJSKI MALI",
+        "desc": "Mala porcija 90 gr",
+        "price": 6.5
+      }
+    ],
+    "Giros mix": [
+      {
+        "name": "Giros MIX VELIKI",
+        "desc": "Velika porcija 180 gr",
+        "price": 11.5
+      },
+      {
+        "name": "Giros MIX SREDNJI",
+        "desc": "Srednja porcija 120 gr",
+        "price": 8.5
+      },
+      {
+        "name": "Giros MIX MALI",
+        "desc": "Mala porcija 90 gr",
+        "price": 6.5
+      }
+    ],
+    "Prilozi": [
+      {
+        "name": "Pomfrit",
+        "desc": "100 gr",
+        "price": 1.0
+      }
+    ],
+    "Piće": [
+      {
+        "name": "Red Bull Energy Drink 0,25 l",
+        "desc": "0,25 l",
+        "price": 5.0
+      },
+      {
+        "name": "Orangina 0,25 l",
+        "desc": "0,25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Orangina rouge 0,25 l",
+        "desc": "0,25 l",
+        "price": 3.0
+      },
+      {
+        "name": "Coca-Cola 0,33 l limenka",
+        "desc": "Limenka",
+        "price": 2.5
+      },
+      {
+        "name": "Coca-Cola zero 0,25 l limenka",
+        "desc": "Limenka",
+        "price": 2.5
+      },
+      {
+        "name": "Fanta 0,33 l limenka",
+        "desc": "Limenka",
+        "price": 2.5
+      },
+      {
+        "name": "Sprite 0,25 l limenka",
+        "desc": "Limenka",
+        "price": 2.5
+      },
+      {
+        "name": "Schweppes bitter 0,33 l limenka",
+        "desc": "Limenka",
+        "price": 2.5
+      },
+      {
+        "name": "Schweppes tonic 0,33 l limenka",
+        "desc": "Limenka",
+        "price": 2.5
+      },
+      {
+        "name": "Cappy 0,33 l limenka",
+        "desc": "Limenka",
+        "price": 2.5
+      },
+      {
+        "name": "Cappy jabuka 0,20 l",
+        "desc": "0,20 l",
+        "price": 2.5
+      },
+      {
+        "name": "Cappy ribizla 0,20 l",
+        "desc": "0,20 l",
+        "price": 2.5
+      },
+      {
+        "name": "Cappy breskva 0,20 l",
+        "desc": "0,20 l",
+        "price": 2.5
+      },
+      {
+        "name": "Fuzetea šumsko voće 0,25 l",
+        "desc": "0,25 l",
+        "price": 2.5
+      },
+      {
+        "name": "Fuzetea breskva 0,25 l",
+        "desc": "0,25 l",
+        "price": 2.5
+      },
+      {
+        "name": "Voda exotic limeta 0,25 l",
+        "desc": "0,25 l",
+        "price": 2.0
+      },
+      {
+        "name": "Voda exotic kruška 0,25 l",
+        "desc": "0,25 l",
+        "price": 2.0
+      },
+      {
+        "name": "Voda Olimpija 0,33 l",
+        "desc": "0,33 l",
+        "price": 1.5
+      },
+      {
+        "name": "Voda Olimpija gazirana 0,33 l",
+        "desc": "0,33 l",
+        "price": 1.5
+      }
+    ],
+    "Pivo": [
+      {
+        "name": "Pivo Estrella 0,66 l",
+        "desc": "0,66 l",
+        "price": 4.0
+      },
+      {
+        "name": "Pivo Estrella 0,33 l",
+        "desc": "0,33 l",
+        "price": 3.0
+      },
+      {
+        "name": "Tuborg 0,33 l",
+        "desc": "0,33 l",
+        "price": 3.0
+      }
+    ]
+  }
+}
